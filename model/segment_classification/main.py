@@ -29,7 +29,7 @@ class BLSTM():
         # batch_first = True causes the input/output to be of shape (batch_dim, seq_dim, feature_dim)
         self.lstm1 = nn.LSTM(input_dim, hidden_dim, layer_dim, batch_first=True, bidirectional=True)
 
-        self.fc = nn.Softmax2d() #??
+        self.fc = nn.Softmax2d() # Still need to figure out the dimension of the output
 
     
     def forward(self, x):
@@ -64,4 +64,4 @@ class BLSTM():
 
 
 if __name__ == "__main__":
-    print('Run')
+    
