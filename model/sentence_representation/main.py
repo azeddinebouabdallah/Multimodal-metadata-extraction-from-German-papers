@@ -3,6 +3,8 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 
+import numpy as np
+
 torch.manual_seed(1)
 
 class BLSTM(): 
@@ -55,12 +57,23 @@ class BLSTM():
 
 
 
-        
-
-
-
-
-
 
 if __name__ == "__main__":
-    print('Run')
+
+    file = open('test.cermtxt', 'r')
+    content = file.read()
+
+    # Pre-processing the text
+
+    # remove the periods 
+    # lowercase all text
+    content = content.replace('.', '').lower()
+
+    # In form of a list
+    words = np.array(content.split())
+
+    # I think words should be in form of a vector.
+    
+
+
+    print(words)
