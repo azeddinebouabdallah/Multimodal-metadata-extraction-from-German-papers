@@ -8,15 +8,11 @@ import numpy as np
 torch.manual_seed(1)
 
 class BLSTM(): 
-    # sentence encoding module
-    # Will consist of two bidirectional lstm layers and it's output is 
+    # This NLP part Will consist of two bidirectional lstm layers and it's output is 
     # determined by the LSTM's last hidden states or output vectors.
 
-    # This will take as an input a sequence of words and output the sentence
-    # we compute a sentence embedding vector for each sentence by concatenating 
-    # the last hidden states of 2-layer bidirectional LSTM run on the sentences’ 
-    # word embeddings. These sentence embeddings then serve as input to 
-    # another 2-layer bi-LSTM which will be implmeneted in another sub_network.
+    # This will take as an input a sequence of words and output the last hidden layer
+    # the last hidden states of 2-layer bidirectional LSTM will be the input of the last multimodel network 
 
     def __init__(self, input_dim, hidden_dim,layer_dim, output_dim):
         super(BLSTM, self).__init__()
