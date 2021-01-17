@@ -22,16 +22,27 @@ for element in root:
 
         for zone in element:
             if zone.tag == 'Zone':
+
+                previous_top = 0
+                previous_bottom = 0
+
                 for line in zone:
                     if line.tag == 'Line':
+
+                        previous_right = 0 # to calculate horizontal space from previous word. we only use the right position.
+
                         for e in line:
                             if e.tag == 'LineID': # Get the number of line.
                                 line_num = int(e.attrib['Value'])
-                            for word in e.iter('Word'):
+                            if e.tag == 'LineCorners':
+                                bottom = float(e[0].attrib['y']) # y of bottom left
+                                top = float(e[3].attrib['y']) # y of bottom right
 
-                                word_vector = []
+                            for word in e.iter('Word'):
+                                word_vector = [] # new word vector
 
                                 actual_word = '' # new word
+
                                 # Initializing features
                                 cap_letters = 0
                                 starts_cap = 0
@@ -45,30 +56,32 @@ for element in root:
                                 is_link = 0 
                                 is_year = 0
                                 is_date = 0
-
+                                horizantal_space = 0
+                                vertical_space = 0
 
                                 # Store positions
                                 # We need only one point for each side, 
                                 # left and right for horizantal therefore only x.
-                                # for the vertical we need only y for the top and bottom
                                 left = 0
                                 right = 0
-                                top = 0
-                                bottom = 0
-                                
+
+
                                 actual_word = ''
                                 font_size = 0
+
                                 for we in word: # we: Word element
                                     if we.tag == 'WordCorners': # get position
                                         # get the top and bottom position then substract
                                         # ceram position orders are: bottom left, bottom right, top right, top left
+                                       
+                                        # horizontal space = right of previous word - left of current word
                                         left = float(we[3].attrib['x']) # x of top left
                                         right = float(we[2].attrib['x']) # x of top right
-                                        bottom = float(we[0].attrib['y']) # y of bottom left
-                                        top = float(we[3].attrib['y']) # y of bottom right
 
-                                        font_size = get_word_size(bottom, top) 
+                                        horizantal_space = get_horizontal_space(previous_right, left)
+                                        font_size = get_word_size(float(we[0].attrib['y']),  float(we[3].attrib['y'])) 
 
+                                        previous_right = right
                                     if we.tag == 'Character':                                        
                                         actual_word += we[4].attrib['Value']
                 
@@ -91,7 +104,7 @@ for element in root:
                                     cap_letters, starts_cap, line_num, len_word,
                                     count_num, count_slash, count_com, 
                                     is_alt, is_email, is_link, is_year, 
-                                    is_date, font_size, left, right, bottom, top
+                                    is_date, font_size, horizantal_space
                                 ]
 
                                 document_vector.append(word_vector)
@@ -103,7 +116,7 @@ for element in root:
 
 
         df = pd.DataFrame(document_vector, columns=['Cap letters', 'Starts cap', 'Line number','Len Word', 'Count num', 'Count slash', 'Count com', 'Is Alt'
-        ,'Is email', 'Is link', 'Is Year', 'Is date', 'Font size', 'Left', 'Right', 'Bottom', 'Top'])
+        ,'Is email', 'Is link', 'Is Year', 'Is date', 'Font size', 'Horizontal space'])
         df.insert(0, 'Word', words_list, True)
         df.to_csv('./feature_vectors/document'+str(1)+'vectors.csv')
 

@@ -53,3 +53,7 @@ def isDate(word):
         return 1
     except ValueError:
         return 0
+
+def get_horizontal_space(previous_right, current_left):
+    # Int because we are not interested in the exact position.
+    return int(current_left - previous_right) 
