@@ -4,7 +4,7 @@ from dateutil.parser import parse
 import pickle
 
 def get_word_size(y1, y2):
-    return y1 - y2
+    return int(y1 - y2)
 
 def get_count_cap_letters(word):
     if len(word) == 0:

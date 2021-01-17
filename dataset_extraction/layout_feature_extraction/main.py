@@ -72,7 +72,7 @@ for element in root:
                                 is_year = isYear(actual_word)
                                 is_date = isDate(actual_word)
                                 word_vector = [
-                                    cap_letters, starts_cap, line_num,
+                                    cap_letters, starts_cap, line_num, len_word,
                                     count_num, count_slash, count_com, 
                                     is_alt, is_email, is_link, is_year, 
                                     is_date, font_size
@@ -84,5 +84,9 @@ for element in root:
         with open('feature_vectors/document'+str(1)+'.pickle', 'wb') as handle:
             pickle.dump(document_vector, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
+        df = pd.DataFrame(document_vector, columns=['Cap letters', 'Starts cap', 'Line number','Len Word', 'Count num', 'Count slash', 'Count com', 'Is Alt'
+        ,'Is email', 'Is link', 'Is Year', 'Is date', 'Font size'])
+        df.insert(0, 'Word', words_list, True)
+        df.to_csv('./feature_vectors/document'+str(1)+'vectors.csv')
 
 
