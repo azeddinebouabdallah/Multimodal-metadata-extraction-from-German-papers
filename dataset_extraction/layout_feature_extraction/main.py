@@ -13,6 +13,12 @@ class FeatureExtractor:
         self.dataset_folder = dataset_folder
 
     def get_feature_vector(self, document_location: str, document_number: int):
+
+        # This part of code just for console progress display
+        total_blocks = 40
+        percentage = (document_number * 100) / 301
+        num_blocks = int((percentage * total_blocks) / 100)
+        print('Feature extraction - Document : {0}| Percentage: {1}{2}> : {3}%'.format(document_number, "#"*num_blocks, "="*(total_blocks-num_blocks), int(percentage)))
         words_list = []
 
         file = ET.parse(document_location)
@@ -182,6 +188,6 @@ class FeatureExtractor:
 
 
 if __name__ == '__main__':
-    featureExtractor = FeatureExtractor('../../pdf_extraction_tools/cermine_tool/testpdfs')
+    featureExtractor = FeatureExtractor('../../ssoar_dataset')
 
     featureExtractor.get_dataset_features()

@@ -9,9 +9,12 @@ def get_word_size(y1: float, y2: float)-> int:
 def get_count_cap_letters(word: str)-> float:
     if len(word) == 0:
         return 0
+
     return sum(1 for c in word if c.isupper())/len(word)
 
 def starts_cap_letter(word: str)-> int:
+    if len(word) == 0:
+        return 0
     return 1 if word[0].isupper() else 0
 
 def get_word_length(word: str)-> int:
