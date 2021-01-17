@@ -55,5 +55,9 @@ def isDate(word):
         return 0
 
 def get_horizontal_space(previous_right, current_left):
-    # Int because we are not interested in the exact position.
+    # Int because we are not interested in the exact measures.
     return int(current_left - previous_right) 
+
+def get_vertical_space(previous_bottom, current_top):
+    # Int because we are not interested in the exact measures.
+    return int(current_top - previous_bottom)
