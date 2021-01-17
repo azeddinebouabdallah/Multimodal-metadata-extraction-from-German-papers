@@ -1,0 +1,3163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Document SYSTEM "Trueviz.dtd">
+<Document>
+<DocID Value=""/>
+<DocTitle Value=""/>
+<DocPubName Value=""/>
+<DocVolNum Value=""/>
+<DocIssueNum Value=""/>
+<DocMargins Value=""/>
+<DocDate Value=""/>
+<DocPages Value=""/>
+<DocImage>
+<Name Value=""/>
+<Format Value=""/>
+<Depth Value=""/>
+<Compression Value=""/>
+<Capture Value=""/>
+<Quality Value=""/>
+</DocImage>
+<Language Codeset="" Script="" Type=""/>
+<Font Size="" Spacing="" Style="" Type=""/>
+<ReadingDir Value=""/>
+<CharOrient Value=""/>
+<Classification>
+<Category Value=""/>
+<Type Value=""/>
+</Classification>
+<GT_Text Value=""/>
+<Page>
+<PageID Value="0"/>
+<PageType Value=""/>
+<PageNumber Value=""/>
+<PageColumns Value=""/>
+<PageNext Value="-1"/>
+<PageZones Value=""/>
+<Zone>
+<ZoneID Value="0"/>
+<ZoneCorners>
+<Vertex x="0.115" y="1.680"/>
+<Vertex x="13.174" y="1.680"/>
+<Vertex x="13.174" y="14.640"/>
+<Vertex x="0.115" y="14.640"/>
+</ZoneCorners>
+<ZoneNext Value="1"/>
+<ZoneInsets Bottom="" Left="" Right="" Top=""/>
+<ZoneLines Value=""/>
+<Classification>
+<Category Value="UNKNOWN"/>
+<Type Value=""/>
+</Classification>
+<Line>
+<LineID Value="0"/>
+<LineCorners>
+<Vertex x="0.115" y="1.680"/>
+<Vertex x="13.174" y="1.680"/>
+<Vertex x="13.174" y="14.640"/>
+<Vertex x="0.115" y="14.640"/>
+</LineCorners>
+<LineNext Value="1"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="0"/>
+<WordCorners>
+<Vertex x="0.115" y="1.680"/>
+<Vertex x="13.174" y="1.680"/>
+<Vertex x="13.174" y="14.640"/>
+<Vertex x="0.115" y="14.640"/>
+</WordCorners>
+<WordNext Value="1"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="0"/>
+<CharacterCorners>
+<Vertex x="0.115" y="1.680"/>
+<Vertex x="6.881" y="1.680"/>
+<Vertex x="6.881" y="14.640"/>
+<Vertex x="0.115" y="14.640"/>
+</CharacterCorners>
+<CharacterNext Value="1"/>
+<Font Size="" Spacing="" Style="" Type="Times-Bold"/>
+<GT_Text Value="2"/>
+</Character>
+<Character>
+<CharacterID Value="1"/>
+<CharacterCorners>
+<Vertex x="6.407" y="1.680"/>
+<Vertex x="13.174" y="1.680"/>
+<Vertex x="13.174" y="14.640"/>
+<Vertex x="6.407" y="14.640"/>
+</CharacterCorners>
+<CharacterNext Value="2"/>
+<Font Size="" Spacing="" Style="" Type="Times-Bold"/>
+<GT_Text Value="1"/>
+</Character>
+</Word>
+</Line>
+</Zone>
+<Zone>
+<ZoneID Value="1"/>
+<ZoneCorners>
+<Vertex x="75.456" y="44.197"/>
+<Vertex x="198.613" y="44.197"/>
+<Vertex x="198.613" y="74.074"/>
+<Vertex x="75.456" y="74.074"/>
+</ZoneCorners>
+<ZoneNext Value="2"/>
+<ZoneInsets Bottom="" Left="" Right="" Top=""/>
+<ZoneLines Value=""/>
+<Classification>
+<Category Value="TYPE"/>
+<Type Value=""/>
+</Classification>
+<Line>
+<LineID Value="1"/>
+<LineCorners>
+<Vertex x="75.456" y="44.197"/>
+<Vertex x="198.613" y="44.197"/>
+<Vertex x="198.613" y="56.977"/>
+<Vertex x="75.456" y="56.977"/>
+</LineCorners>
+<LineNext Value="2"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="1"/>
+<WordCorners>
+<Vertex x="75.456" y="44.197"/>
+<Vertex x="109.698" y="44.197"/>
+<Vertex x="109.698" y="56.977"/>
+<Vertex x="75.456" y="56.977"/>
+</WordCorners>
+<WordNext Value="2"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="2"/>
+<CharacterCorners>
+<Vertex x="75.456" y="44.197"/>
+<Vertex x="84.132" y="44.197"/>
+<Vertex x="84.132" y="56.977"/>
+<Vertex x="75.456" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="3"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="T"/>
+</Character>
+<Character>
+<CharacterID Value="3"/>
+<CharacterCorners>
+<Vertex x="84.610" y="44.197"/>
+<Vertex x="90.914" y="44.197"/>
+<Vertex x="90.914" y="56.977"/>
+<Vertex x="84.610" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="4"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="4"/>
+<CharacterCorners>
+<Vertex x="91.391" y="44.197"/>
+<Vertex x="98.491" y="44.197"/>
+<Vertex x="98.491" y="56.977"/>
+<Vertex x="91.391" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="5"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="x"/>
+</Character>
+<Character>
+<CharacterID Value="5"/>
+<CharacterCorners>
+<Vertex x="98.969" y="44.197"/>
+<Vertex x="102.916" y="44.197"/>
+<Vertex x="102.916" y="56.977"/>
+<Vertex x="98.969" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="6"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="t"/>
+</Character>
+<Character>
+<CharacterID Value="6"/>
+<CharacterCorners>
+<Vertex x="103.393" y="44.197"/>
+<Vertex x="109.698" y="44.197"/>
+<Vertex x="109.698" y="56.977"/>
+<Vertex x="103.393" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="7"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+</Word>
+<Word>
+<WordID Value="2"/>
+<WordCorners>
+<Vertex x="114.023" y="44.197"/>
+<Vertex x="133.213" y="44.197"/>
+<Vertex x="133.213" y="56.977"/>
+<Vertex x="114.023" y="56.977"/>
+</WordCorners>
+<WordNext Value="3"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="7"/>
+<CharacterCorners>
+<Vertex x="114.023" y="44.197"/>
+<Vertex x="120.328" y="44.197"/>
+<Vertex x="120.328" y="56.977"/>
+<Vertex x="114.023" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="8"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="z"/>
+</Character>
+<Character>
+<CharacterID Value="8"/>
+<CharacterCorners>
+<Vertex x="120.856" y="44.197"/>
+<Vertex x="127.956" y="44.197"/>
+<Vertex x="127.956" y="56.977"/>
+<Vertex x="120.856" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="9"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="u"/>
+</Character>
+<Character>
+<CharacterID Value="9"/>
+<CharacterCorners>
+<Vertex x="128.485" y="44.197"/>
+<Vertex x="133.213" y="44.197"/>
+<Vertex x="133.213" y="56.977"/>
+<Vertex x="128.485" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="10"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="r"/>
+</Character>
+</Word>
+<Word>
+<WordID Value="3"/>
+<WordCorners>
+<Vertex x="137.482" y="44.197"/>
+<Vertex x="198.613" y="44.197"/>
+<Vertex x="198.613" y="56.977"/>
+<Vertex x="137.482" y="56.977"/>
+</WordCorners>
+<WordNext Value="4"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="10"/>
+<CharacterCorners>
+<Vertex x="137.482" y="44.197"/>
+<Vertex x="144.582" y="44.197"/>
+<Vertex x="144.582" y="56.977"/>
+<Vertex x="137.482" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="11"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="p"/>
+</Character>
+<Character>
+<CharacterID Value="11"/>
+<CharacterCorners>
+<Vertex x="144.463" y="44.197"/>
+<Vertex x="151.563" y="44.197"/>
+<Vertex x="151.563" y="56.977"/>
+<Vertex x="144.463" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="12"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="o"/>
+</Character>
+<Character>
+<CharacterID Value="12"/>
+<CharacterCorners>
+<Vertex x="151.443" y="44.197"/>
+<Vertex x="155.391" y="44.197"/>
+<Vertex x="155.391" y="56.977"/>
+<Vertex x="151.443" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="13"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="l"/>
+</Character>
+<Character>
+<CharacterID Value="13"/>
+<CharacterCorners>
+<Vertex x="155.272" y="44.197"/>
+<Vertex x="159.219" y="44.197"/>
+<Vertex x="159.219" y="56.977"/>
+<Vertex x="155.272" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="14"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="i"/>
+</Character>
+<Character>
+<CharacterID Value="14"/>
+<CharacterCorners>
+<Vertex x="159.100" y="44.197"/>
+<Vertex x="163.047" y="44.197"/>
+<Vertex x="163.047" y="56.977"/>
+<Vertex x="159.100" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="15"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="t"/>
+</Character>
+<Character>
+<CharacterID Value="15"/>
+<CharacterCorners>
+<Vertex x="162.928" y="44.197"/>
+<Vertex x="166.876" y="44.197"/>
+<Vertex x="166.876" y="56.977"/>
+<Vertex x="162.928" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="16"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="i"/>
+</Character>
+<Character>
+<CharacterID Value="16"/>
+<CharacterCorners>
+<Vertex x="166.757" y="44.197"/>
+<Vertex x="172.280" y="44.197"/>
+<Vertex x="172.280" y="56.977"/>
+<Vertex x="166.757" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="17"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="s"/>
+</Character>
+<Character>
+<CharacterID Value="17"/>
+<CharacterCorners>
+<Vertex x="172.161" y="44.197"/>
+<Vertex x="178.466" y="44.197"/>
+<Vertex x="178.466" y="56.977"/>
+<Vertex x="172.161" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="18"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="c"/>
+</Character>
+<Character>
+<CharacterID Value="18"/>
+<CharacterCorners>
+<Vertex x="178.347" y="44.197"/>
+<Vertex x="185.447" y="44.197"/>
+<Vertex x="185.447" y="56.977"/>
+<Vertex x="178.347" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="19"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="h"/>
+</Character>
+<Character>
+<CharacterID Value="19"/>
+<CharacterCorners>
+<Vertex x="185.327" y="44.197"/>
+<Vertex x="191.632" y="44.197"/>
+<Vertex x="191.632" y="56.977"/>
+<Vertex x="185.327" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="20"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="20"/>
+<CharacterCorners>
+<Vertex x="191.513" y="44.197"/>
+<Vertex x="198.613" y="44.197"/>
+<Vertex x="198.613" y="56.977"/>
+<Vertex x="191.513" y="56.977"/>
+</CharacterCorners>
+<CharacterNext Value="21"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="n"/>
+</Character>
+</Word>
+</Line>
+<Line>
+<LineID Value="2"/>
+<LineCorners>
+<Vertex x="75.698" y="61.294"/>
+<Vertex x="187.501" y="61.294"/>
+<Vertex x="187.501" y="74.074"/>
+<Vertex x="75.698" y="74.074"/>
+</LineCorners>
+<LineNext Value="3"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="4"/>
+<WordCorners>
+<Vertex x="75.698" y="61.294"/>
+<Vertex x="122.220" y="61.294"/>
+<Vertex x="122.220" y="74.074"/>
+<Vertex x="75.698" y="74.074"/>
+</WordCorners>
+<WordNext Value="5"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="21"/>
+<CharacterCorners>
+<Vertex x="75.698" y="61.294"/>
+<Vertex x="84.374" y="61.294"/>
+<Vertex x="84.374" y="74.074"/>
+<Vertex x="75.698" y="74.074"/>
+</CharacterCorners>
+<CharacterNext Value="22"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="T"/>
+</Character>
+<Character>
+<CharacterID Value="22"/>
+<CharacterCorners>
+<Vertex x="84.767" y="61.294"/>
+<Vertex x="91.867" y="61.294"/>
+<Vertex x="91.867" y="74.074"/>
+<Vertex x="84.767" y="74.074"/>
+</CharacterCorners>
+<CharacterNext Value="23"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="h"/>
+</Character>
+<Character>
+<CharacterID Value="23"/>
+<CharacterCorners>
+<Vertex x="92.260" y="61.294"/>
+<Vertex x="98.565" y="61.294"/>
+<Vertex x="98.565" y="74.074"/>
+<Vertex x="92.260" y="74.074"/>
+</CharacterCorners>
+<CharacterNext Value="24"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="24"/>
+<CharacterCorners>
+<Vertex x="98.959" y="61.294"/>
+<Vertex x="106.059" y="61.294"/>
+<Vertex x="106.059" y="74.074"/>
+<Vertex x="98.959" y="74.074"/>
+</CharacterCorners>
+<CharacterNext Value="25"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="o"/>
+</Character>
+<Character>
+<CharacterID Value="25"/>
+<CharacterCorners>
+<Vertex x="106.452" y="61.294"/>
+<Vertex x="111.181" y="61.294"/>
+<Vertex x="111.181" y="74.074"/>
+<Vertex x="106.452" y="74.074"/>
+</CharacterCorners>
+<CharacterNext Value="26"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="r"/>
+</Character>
+<Character>
+<CharacterID Value="26"/>
+<CharacterCorners>
+<Vertex x="111.574" y="61.294"/>
+<Vertex x="115.521" y="61.294"/>
+<Vertex x="115.521" y="74.074"/>
+<Vertex x="111.574" y="74.074"/>
+</CharacterCorners>
+<CharacterNext Value="27"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="i"/>
+</Character>
+<Character>
+<CharacterID Value="27"/>
+<CharacterCorners>
+<Vertex x="115.915" y="61.294"/>
+<Vertex x="122.220" y="61.294"/>
+<Vertex x="122.220" y="74.074"/>
+<Vertex x="115.915" y="74.074"/>
+</CharacterCorners>
+<CharacterNext Value="28"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+</Word>
+<Word>
+<WordID Value="5"/>
+<WordCorners>
+<Vertex x="126.392" y="61.294"/>
+<Vertex x="148.794" y="61.294"/>
+<Vertex x="148.794" y="74.074"/>
+<Vertex x="126.392" y="74.074"/>
+</WordCorners>
+<WordNext Value="6"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="28"/>
+<CharacterCorners>
+<Vertex x="126.392" y="61.294"/>
+<Vertex x="133.492" y="61.294"/>
+<Vertex x="133.492" y="74.074"/>
+<Vertex x="126.392" y="74.074"/>
+</CharacterCorners>
+<CharacterNext Value="29"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="u"/>
+</Character>
+<Character>
+<CharacterID Value="29"/>
+<CharacterCorners>
+<Vertex x="134.043" y="61.294"/>
+<Vertex x="141.143" y="61.294"/>
+<Vertex x="141.143" y="74.074"/>
+<Vertex x="134.043" y="74.074"/>
+</CharacterCorners>
+<CharacterNext Value="30"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="n"/>
+</Character>
+<Character>
+<CharacterID Value="30"/>
+<CharacterCorners>
+<Vertex x="141.694" y="61.294"/>
+<Vertex x="148.794" y="61.294"/>
+<Vertex x="148.794" y="74.074"/>
+<Vertex x="141.694" y="74.074"/>
+</CharacterCorners>
+<CharacterNext Value="31"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="d"/>
+</Character>
+</Word>
+<Word>
+<WordID Value="6"/>
+<WordCorners>
+<Vertex x="153.059" y="61.294"/>
+<Vertex x="187.501" y="61.294"/>
+<Vertex x="187.501" y="74.074"/>
+<Vertex x="153.059" y="74.074"/>
+</WordCorners>
+<WordNext Value="7"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="31"/>
+<CharacterCorners>
+<Vertex x="153.059" y="61.294"/>
+<Vertex x="160.954" y="61.294"/>
+<Vertex x="160.954" y="74.074"/>
+<Vertex x="153.059" y="74.074"/>
+</CharacterCorners>
+<CharacterNext Value="32"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="P"/>
+</Character>
+<Character>
+<CharacterID Value="32"/>
+<CharacterCorners>
+<Vertex x="160.743" y="61.294"/>
+<Vertex x="165.471" y="61.294"/>
+<Vertex x="165.471" y="74.074"/>
+<Vertex x="160.743" y="74.074"/>
+</CharacterCorners>
+<CharacterNext Value="33"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="r"/>
+</Character>
+<Character>
+<CharacterID Value="33"/>
+<CharacterCorners>
+<Vertex x="165.260" y="61.294"/>
+<Vertex x="171.565" y="61.294"/>
+<Vertex x="171.565" y="74.074"/>
+<Vertex x="165.260" y="74.074"/>
+</CharacterCorners>
+<CharacterNext Value="34"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="a"/>
+</Character>
+<Character>
+<CharacterID Value="34"/>
+<CharacterCorners>
+<Vertex x="171.353" y="61.294"/>
+<Vertex x="178.453" y="61.294"/>
+<Vertex x="178.453" y="74.074"/>
+<Vertex x="171.353" y="74.074"/>
+</CharacterCorners>
+<CharacterNext Value="35"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="x"/>
+</Character>
+<Character>
+<CharacterID Value="35"/>
+<CharacterCorners>
+<Vertex x="178.241" y="61.294"/>
+<Vertex x="182.189" y="61.294"/>
+<Vertex x="182.189" y="74.074"/>
+<Vertex x="178.241" y="74.074"/>
+</CharacterCorners>
+<CharacterNext Value="36"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="i"/>
+</Character>
+<Character>
+<CharacterID Value="36"/>
+<CharacterCorners>
+<Vertex x="181.978" y="61.294"/>
+<Vertex x="187.501" y="61.294"/>
+<Vertex x="187.501" y="74.074"/>
+<Vertex x="181.978" y="74.074"/>
+</CharacterCorners>
+<CharacterNext Value="37"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="s"/>
+</Character>
+</Word>
+</Line>
+</Zone>
+<Zone>
+<ZoneID Value="2"/>
+<ZoneCorners>
+<Vertex x="76.004" y="104.733"/>
+<Vertex x="180.388" y="104.733"/>
+<Vertex x="180.388" y="115.803"/>
+<Vertex x="76.004" y="115.803"/>
+</ZoneCorners>
+<ZoneNext Value="3"/>
+<ZoneInsets Bottom="" Left="" Right="" Top=""/>
+<ZoneLines Value=""/>
+<Classification>
+<Category Value="TYPE"/>
+<Type Value=""/>
+</Classification>
+<Line>
+<LineID Value="3"/>
+<LineCorners>
+<Vertex x="76.004" y="104.733"/>
+<Vertex x="180.388" y="104.733"/>
+<Vertex x="180.388" y="115.803"/>
+<Vertex x="76.004" y="115.803"/>
+</LineCorners>
+<LineNext Value="4"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="7"/>
+<WordCorners>
+<Vertex x="76.004" y="104.733"/>
+<Vertex x="153.976" y="104.733"/>
+<Vertex x="153.976" y="115.803"/>
+<Vertex x="76.004" y="115.803"/>
+</WordCorners>
+<WordNext Value="8"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="37"/>
+<CharacterCorners>
+<Vertex x="76.004" y="104.733"/>
+<Vertex x="84.884" y="104.733"/>
+<Vertex x="84.884" y="115.803"/>
+<Vertex x="76.004" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="38"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="H"/>
+</Character>
+<Character>
+<CharacterID Value="38"/>
+<CharacterCorners>
+<Vertex x="85.064" y="104.733"/>
+<Vertex x="90.525" y="104.733"/>
+<Vertex x="90.525" y="115.803"/>
+<Vertex x="85.064" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="39"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="39"/>
+<CharacterCorners>
+<Vertex x="90.705" y="104.733"/>
+<Vertex x="94.801" y="104.733"/>
+<Vertex x="94.801" y="115.803"/>
+<Vertex x="90.705" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="40"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="r"/>
+</Character>
+<Character>
+<CharacterID Value="40"/>
+<CharacterCorners>
+<Vertex x="94.980" y="104.733"/>
+<Vertex x="100.441" y="104.733"/>
+<Vertex x="100.441" y="115.803"/>
+<Vertex x="94.980" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="41"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="a"/>
+</Character>
+<Character>
+<CharacterID Value="41"/>
+<CharacterCorners>
+<Vertex x="100.621" y="104.733"/>
+<Vertex x="106.771" y="104.733"/>
+<Vertex x="106.771" y="115.803"/>
+<Vertex x="100.621" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="42"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="u"/>
+</Character>
+<Character>
+<CharacterID Value="42"/>
+<CharacterCorners>
+<Vertex x="106.951" y="104.733"/>
+<Vertex x="111.735" y="104.733"/>
+<Vertex x="111.735" y="115.803"/>
+<Vertex x="106.951" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="43"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="s"/>
+</Character>
+<Character>
+<CharacterID Value="43"/>
+<CharacterCorners>
+<Vertex x="111.915" y="104.733"/>
+<Vertex x="118.065" y="104.733"/>
+<Vertex x="118.065" y="115.803"/>
+<Vertex x="111.915" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="44"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="g"/>
+</Character>
+<Character>
+<CharacterID Value="44"/>
+<CharacterCorners>
+<Vertex x="118.244" y="104.733"/>
+<Vertex x="123.706" y="104.733"/>
+<Vertex x="123.706" y="115.803"/>
+<Vertex x="118.244" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="45"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="45"/>
+<CharacterCorners>
+<Vertex x="123.885" y="104.733"/>
+<Vertex x="130.035" y="104.733"/>
+<Vertex x="130.035" y="115.803"/>
+<Vertex x="123.885" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="46"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="g"/>
+</Character>
+<Character>
+<CharacterID Value="46"/>
+<CharacterCorners>
+<Vertex x="130.215" y="104.733"/>
+<Vertex x="135.676" y="104.733"/>
+<Vertex x="135.676" y="115.803"/>
+<Vertex x="130.215" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="47"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="47"/>
+<CharacterCorners>
+<Vertex x="135.855" y="104.733"/>
+<Vertex x="142.005" y="104.733"/>
+<Vertex x="142.005" y="115.803"/>
+<Vertex x="135.855" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="48"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="b"/>
+</Character>
+<Character>
+<CharacterID Value="48"/>
+<CharacterCorners>
+<Vertex x="142.185" y="104.733"/>
+<Vertex x="147.646" y="104.733"/>
+<Vertex x="147.646" y="115.803"/>
+<Vertex x="142.185" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="49"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="49"/>
+<CharacterCorners>
+<Vertex x="147.826" y="104.733"/>
+<Vertex x="153.976" y="104.733"/>
+<Vertex x="153.976" y="115.803"/>
+<Vertex x="147.826" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="50"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="n"/>
+</Character>
+</Word>
+<Word>
+<WordID Value="8"/>
+<WordCorners>
+<Vertex x="157.430" y="104.733"/>
+<Vertex x="180.388" y="104.733"/>
+<Vertex x="180.388" y="115.803"/>
+<Vertex x="157.430" y="115.803"/>
+</WordCorners>
+<WordNext Value="9"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="50"/>
+<CharacterCorners>
+<Vertex x="157.430" y="104.733"/>
+<Vertex x="163.580" y="104.733"/>
+<Vertex x="163.580" y="115.803"/>
+<Vertex x="157.430" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="51"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="v"/>
+</Character>
+<Character>
+<CharacterID Value="51"/>
+<CharacterCorners>
+<Vertex x="163.943" y="104.733"/>
+<Vertex x="170.093" y="104.733"/>
+<Vertex x="170.093" y="115.803"/>
+<Vertex x="163.943" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="52"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="o"/>
+</Character>
+<Character>
+<CharacterID Value="52"/>
+<CharacterCorners>
+<Vertex x="170.455" y="104.733"/>
+<Vertex x="176.605" y="104.733"/>
+<Vertex x="176.605" y="115.803"/>
+<Vertex x="170.455" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="53"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="n"/>
+</Character>
+<Character>
+<CharacterID Value="53"/>
+<CharacterCorners>
+<Vertex x="176.968" y="104.733"/>
+<Vertex x="180.388" y="104.733"/>
+<Vertex x="180.388" y="115.803"/>
+<Vertex x="176.968" y="115.803"/>
+</CharacterCorners>
+<CharacterNext Value="54"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value=":"/>
+</Character>
+</Word>
+</Line>
+</Zone>
+<Zone>
+<ZoneID Value="3"/>
+<ZoneCorners>
+<Vertex x="76.237" y="137.487"/>
+<Vertex x="184.899" y="137.487"/>
+<Vertex x="184.899" y="223.198"/>
+<Vertex x="76.237" y="223.198"/>
+</ZoneCorners>
+<ZoneNext Value="4"/>
+<ZoneInsets Bottom="" Left="" Right="" Top=""/>
+<ZoneLines Value=""/>
+<Classification>
+<Category Value="AUTHOR"/>
+<Type Value=""/>
+</Classification>
+<Line>
+<LineID Value="4"/>
+<LineCorners>
+<Vertex x="76.237" y="137.487"/>
+<Vertex x="155.405" y="137.487"/>
+<Vertex x="155.405" y="148.557"/>
+<Vertex x="76.237" y="148.557"/>
+</LineCorners>
+<LineNext Value="5"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="9"/>
+<WordCorners>
+<Vertex x="76.237" y="137.487"/>
+<Vertex x="108.232" y="137.487"/>
+<Vertex x="108.232" y="148.557"/>
+<Vertex x="76.237" y="148.557"/>
+</WordCorners>
+<WordNext Value="10"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="54"/>
+<CharacterCorners>
+<Vertex x="76.237" y="137.487"/>
+<Vertex x="83.753" y="137.487"/>
+<Vertex x="83.753" y="148.557"/>
+<Vertex x="76.237" y="148.557"/>
+</CharacterCorners>
+<CharacterNext Value="55"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="E"/>
+</Character>
+<Character>
+<CharacterID Value="55"/>
+<CharacterCorners>
+<Vertex x="84.236" y="137.487"/>
+<Vertex x="87.655" y="137.487"/>
+<Vertex x="87.655" y="148.557"/>
+<Vertex x="84.236" y="148.557"/>
+</CharacterCorners>
+<CharacterNext Value="56"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="l"/>
+</Character>
+<Character>
+<CharacterID Value="56"/>
+<CharacterCorners>
+<Vertex x="88.139" y="137.487"/>
+<Vertex x="97.708" y="137.487"/>
+<Vertex x="97.708" y="148.557"/>
+<Vertex x="88.139" y="148.557"/>
+</CharacterCorners>
+<CharacterNext Value="57"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="m"/>
+</Character>
+<Character>
+<CharacterID Value="57"/>
+<CharacterCorners>
+<Vertex x="98.192" y="137.487"/>
+<Vertex x="103.653" y="137.487"/>
+<Vertex x="103.653" y="148.557"/>
+<Vertex x="98.192" y="148.557"/>
+</CharacterCorners>
+<CharacterNext Value="58"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="a"/>
+</Character>
+<Character>
+<CharacterID Value="58"/>
+<CharacterCorners>
+<Vertex x="104.136" y="137.487"/>
+<Vertex x="108.232" y="137.487"/>
+<Vertex x="108.232" y="148.557"/>
+<Vertex x="104.136" y="148.557"/>
+</CharacterCorners>
+<CharacterNext Value="59"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="r"/>
+</Character>
+</Word>
+<Word>
+<WordID Value="10"/>
+<WordCorners>
+<Vertex x="111.206" y="137.487"/>
+<Vertex x="155.405" y="137.487"/>
+<Vertex x="155.405" y="148.557"/>
+<Vertex x="111.206" y="148.557"/>
+</WordCorners>
+<WordNext Value="11"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="59"/>
+<CharacterCorners>
+<Vertex x="111.206" y="137.487"/>
+<Vertex x="120.087" y="137.487"/>
+<Vertex x="120.087" y="148.557"/>
+<Vertex x="111.206" y="148.557"/>
+</CharacterCorners>
+<CharacterNext Value="60"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="A"/>
+</Character>
+<Character>
+<CharacterID Value="60"/>
+<CharacterCorners>
+<Vertex x="120.643" y="137.487"/>
+<Vertex x="124.062" y="137.487"/>
+<Vertex x="124.062" y="148.557"/>
+<Vertex x="120.643" y="148.557"/>
+</CharacterCorners>
+<CharacterNext Value="61"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="l"/>
+</Character>
+<Character>
+<CharacterID Value="61"/>
+<CharacterCorners>
+<Vertex x="124.618" y="137.487"/>
+<Vertex x="128.038" y="137.487"/>
+<Vertex x="128.038" y="148.557"/>
+<Vertex x="124.618" y="148.557"/>
+</CharacterCorners>
+<CharacterNext Value="62"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="t"/>
+</Character>
+<Character>
+<CharacterID Value="62"/>
+<CharacterCorners>
+<Vertex x="128.594" y="137.487"/>
+<Vertex x="134.744" y="137.487"/>
+<Vertex x="134.744" y="148.557"/>
+<Vertex x="128.594" y="148.557"/>
+</CharacterCorners>
+<CharacterNext Value="63"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="v"/>
+</Character>
+<Character>
+<CharacterID Value="63"/>
+<CharacterCorners>
+<Vertex x="135.300" y="137.487"/>
+<Vertex x="140.761" y="137.487"/>
+<Vertex x="140.761" y="148.557"/>
+<Vertex x="135.300" y="148.557"/>
+</CharacterCorners>
+<CharacterNext Value="64"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="a"/>
+</Character>
+<Character>
+<CharacterID Value="64"/>
+<CharacterCorners>
+<Vertex x="141.317" y="137.487"/>
+<Vertex x="144.736" y="137.487"/>
+<Vertex x="144.736" y="148.557"/>
+<Vertex x="141.317" y="148.557"/>
+</CharacterCorners>
+<CharacterNext Value="65"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="t"/>
+</Character>
+<Character>
+<CharacterID Value="65"/>
+<CharacterCorners>
+<Vertex x="145.292" y="137.487"/>
+<Vertex x="150.753" y="137.487"/>
+<Vertex x="150.753" y="148.557"/>
+<Vertex x="145.292" y="148.557"/>
+</CharacterCorners>
+<CharacterNext Value="66"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="66"/>
+<CharacterCorners>
+<Vertex x="151.309" y="137.487"/>
+<Vertex x="155.405" y="137.487"/>
+<Vertex x="155.405" y="148.557"/>
+<Vertex x="151.309" y="148.557"/>
+</CharacterCorners>
+<CharacterNext Value="67"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="r"/>
+</Character>
+</Word>
+</Line>
+<Line>
+<LineID Value="5"/>
+<LineCorners>
+<Vertex x="76.250" y="152.174"/>
+<Vertex x="184.899" y="152.174"/>
+<Vertex x="184.899" y="163.244"/>
+<Vertex x="76.250" y="163.244"/>
+</LineCorners>
+<LineNext Value="6"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="11"/>
+<WordCorners>
+<Vertex x="76.250" y="152.174"/>
+<Vertex x="156.383" y="152.174"/>
+<Vertex x="156.383" y="163.244"/>
+<Vertex x="76.250" y="163.244"/>
+</WordCorners>
+<WordNext Value="12"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="67"/>
+<CharacterCorners>
+<Vertex x="76.250" y="152.174"/>
+<Vertex x="85.130" y="152.174"/>
+<Vertex x="85.130" y="163.244"/>
+<Vertex x="76.250" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="68"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="H"/>
+</Character>
+<Character>
+<CharacterID Value="68"/>
+<CharacterCorners>
+<Vertex x="85.711" y="152.174"/>
+<Vertex x="91.172" y="152.174"/>
+<Vertex x="91.172" y="163.244"/>
+<Vertex x="85.711" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="69"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="a"/>
+</Character>
+<Character>
+<CharacterID Value="69"/>
+<CharacterCorners>
+<Vertex x="91.753" y="152.174"/>
+<Vertex x="97.903" y="152.174"/>
+<Vertex x="97.903" y="163.244"/>
+<Vertex x="91.753" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="70"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="n"/>
+</Character>
+<Character>
+<CharacterID Value="70"/>
+<CharacterCorners>
+<Vertex x="98.483" y="152.174"/>
+<Vertex x="103.268" y="152.174"/>
+<Vertex x="103.268" y="163.244"/>
+<Vertex x="98.483" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="71"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="s"/>
+</Character>
+<Character>
+<CharacterID Value="71"/>
+<CharacterCorners>
+<Vertex x="103.848" y="152.174"/>
+<Vertex x="107.944" y="152.174"/>
+<Vertex x="107.944" y="163.244"/>
+<Vertex x="103.848" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="72"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="-"/>
+</Character>
+<Character>
+<CharacterID Value="72"/>
+<CharacterCorners>
+<Vertex x="108.500" y="152.174"/>
+<Vertex x="116.016" y="152.174"/>
+<Vertex x="116.016" y="163.244"/>
+<Vertex x="108.500" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="73"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="E"/>
+</Character>
+<Character>
+<CharacterID Value="73"/>
+<CharacterCorners>
+<Vertex x="116.221" y="152.174"/>
+<Vertex x="121.682" y="152.174"/>
+<Vertex x="121.682" y="163.244"/>
+<Vertex x="116.221" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="74"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="c"/>
+</Character>
+<Character>
+<CharacterID Value="74"/>
+<CharacterCorners>
+<Vertex x="121.888" y="152.174"/>
+<Vertex x="128.038" y="152.174"/>
+<Vertex x="128.038" y="163.244"/>
+<Vertex x="121.888" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="75"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="k"/>
+</Character>
+<Character>
+<CharacterID Value="75"/>
+<CharacterCorners>
+<Vertex x="128.243" y="152.174"/>
+<Vertex x="133.704" y="152.174"/>
+<Vertex x="133.704" y="163.244"/>
+<Vertex x="128.243" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="76"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="76"/>
+<CharacterCorners>
+<Vertex x="133.910" y="152.174"/>
+<Vertex x="140.060" y="152.174"/>
+<Vertex x="140.060" y="163.244"/>
+<Vertex x="133.910" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="77"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="h"/>
+</Character>
+<Character>
+<CharacterID Value="77"/>
+<CharacterCorners>
+<Vertex x="140.265" y="152.174"/>
+<Vertex x="145.726" y="152.174"/>
+<Vertex x="145.726" y="163.244"/>
+<Vertex x="140.265" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="78"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="a"/>
+</Character>
+<Character>
+<CharacterID Value="78"/>
+<CharacterCorners>
+<Vertex x="145.932" y="152.174"/>
+<Vertex x="150.028" y="152.174"/>
+<Vertex x="150.028" y="163.244"/>
+<Vertex x="145.932" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="79"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="r"/>
+</Character>
+<Character>
+<CharacterID Value="79"/>
+<CharacterCorners>
+<Vertex x="150.233" y="152.174"/>
+<Vertex x="156.383" y="152.174"/>
+<Vertex x="156.383" y="163.244"/>
+<Vertex x="150.233" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="80"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="d"/>
+</Character>
+</Word>
+<Word>
+<WordID Value="12"/>
+<WordCorners>
+<Vertex x="159.324" y="152.174"/>
+<Vertex x="184.899" y="152.174"/>
+<Vertex x="184.899" y="163.244"/>
+<Vertex x="159.324" y="163.244"/>
+</WordCorners>
+<WordNext Value="13"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="80"/>
+<CharacterCorners>
+<Vertex x="159.324" y="152.174"/>
+<Vertex x="167.528" y="152.174"/>
+<Vertex x="167.528" y="163.244"/>
+<Vertex x="159.324" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="81"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="B"/>
+</Character>
+<Character>
+<CharacterID Value="81"/>
+<CharacterCorners>
+<Vertex x="168.083" y="152.174"/>
+<Vertex x="173.544" y="152.174"/>
+<Vertex x="173.544" y="163.244"/>
+<Vertex x="168.083" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="82"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="a"/>
+</Character>
+<Character>
+<CharacterID Value="82"/>
+<CharacterCorners>
+<Vertex x="174.099" y="152.174"/>
+<Vertex x="180.249" y="152.174"/>
+<Vertex x="180.249" y="163.244"/>
+<Vertex x="174.099" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="83"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="h"/>
+</Character>
+<Character>
+<CharacterID Value="83"/>
+<CharacterCorners>
+<Vertex x="180.803" y="152.174"/>
+<Vertex x="184.899" y="152.174"/>
+<Vertex x="184.899" y="163.244"/>
+<Vertex x="180.803" y="163.244"/>
+</CharacterCorners>
+<CharacterNext Value="84"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="r"/>
+</Character>
+</Word>
+</Line>
+<Line>
+<LineID Value="6"/>
+<LineCorners>
+<Vertex x="76.262" y="167.106"/>
+<Vertex x="182.399" y="167.106"/>
+<Vertex x="182.399" y="178.176"/>
+<Vertex x="76.262" y="178.176"/>
+</LineCorners>
+<LineNext Value="7"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="13"/>
+<WordCorners>
+<Vertex x="76.262" y="167.106"/>
+<Vertex x="119.751" y="167.106"/>
+<Vertex x="119.751" y="178.176"/>
+<Vertex x="76.262" y="178.176"/>
+</WordCorners>
+<WordNext Value="14"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="84"/>
+<CharacterCorners>
+<Vertex x="76.262" y="167.106"/>
+<Vertex x="87.873" y="167.106"/>
+<Vertex x="87.873" y="178.176"/>
+<Vertex x="76.262" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="85"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="W"/>
+</Character>
+<Character>
+<CharacterID Value="85"/>
+<CharacterCorners>
+<Vertex x="88.133" y="167.106"/>
+<Vertex x="91.552" y="167.106"/>
+<Vertex x="91.552" y="178.176"/>
+<Vertex x="88.133" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="86"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="i"/>
+</Character>
+<Character>
+<CharacterID Value="86"/>
+<CharacterCorners>
+<Vertex x="91.812" y="167.106"/>
+<Vertex x="95.231" y="167.106"/>
+<Vertex x="95.231" y="178.176"/>
+<Vertex x="91.812" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="87"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="l"/>
+</Character>
+<Character>
+<CharacterID Value="87"/>
+<CharacterCorners>
+<Vertex x="95.491" y="167.106"/>
+<Vertex x="99.586" y="167.106"/>
+<Vertex x="99.586" y="178.176"/>
+<Vertex x="95.491" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="88"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="f"/>
+</Character>
+<Character>
+<CharacterID Value="88"/>
+<CharacterCorners>
+<Vertex x="99.846" y="167.106"/>
+<Vertex x="103.942" y="167.106"/>
+<Vertex x="103.942" y="178.176"/>
+<Vertex x="99.846" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="89"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="r"/>
+</Character>
+<Character>
+<CharacterID Value="89"/>
+<CharacterCorners>
+<Vertex x="104.201" y="167.106"/>
+<Vertex x="107.621" y="167.106"/>
+<Vertex x="107.621" y="178.176"/>
+<Vertex x="104.201" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="90"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="i"/>
+</Character>
+<Character>
+<CharacterID Value="90"/>
+<CharacterCorners>
+<Vertex x="107.880" y="167.106"/>
+<Vertex x="113.342" y="167.106"/>
+<Vertex x="113.342" y="178.176"/>
+<Vertex x="107.880" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="91"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="91"/>
+<CharacterCorners>
+<Vertex x="113.601" y="167.106"/>
+<Vertex x="119.751" y="167.106"/>
+<Vertex x="119.751" y="178.176"/>
+<Vertex x="113.601" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="92"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="d"/>
+</Character>
+</Word>
+<Word>
+<WordID Value="14"/>
+<WordCorners>
+<Vertex x="123.137" y="167.106"/>
+<Vertex x="182.399" y="167.106"/>
+<Vertex x="182.399" y="178.176"/>
+<Vertex x="123.137" y="178.176"/>
+</WordCorners>
+<WordNext Value="15"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="92"/>
+<CharacterCorners>
+<Vertex x="123.137" y="167.106"/>
+<Vertex x="132.018" y="167.106"/>
+<Vertex x="132.018" y="178.176"/>
+<Vertex x="123.137" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="93"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="G"/>
+</Character>
+<Character>
+<CharacterID Value="93"/>
+<CharacterCorners>
+<Vertex x="132.068" y="167.106"/>
+<Vertex x="138.218" y="167.106"/>
+<Vertex x="138.218" y="178.176"/>
+<Vertex x="132.068" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="94"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="o"/>
+</Character>
+<Character>
+<CharacterID Value="94"/>
+<CharacterCorners>
+<Vertex x="138.269" y="167.106"/>
+<Vertex x="141.688" y="167.106"/>
+<Vertex x="141.688" y="178.176"/>
+<Vertex x="138.269" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="95"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="t"/>
+</Character>
+<Character>
+<CharacterID Value="95"/>
+<CharacterCorners>
+<Vertex x="141.739" y="167.106"/>
+<Vertex x="145.158" y="167.106"/>
+<Vertex x="145.158" y="178.176"/>
+<Vertex x="141.739" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="96"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="t"/>
+</Character>
+<Character>
+<CharacterID Value="96"/>
+<CharacterCorners>
+<Vertex x="145.208" y="167.106"/>
+<Vertex x="149.993" y="167.106"/>
+<Vertex x="149.993" y="178.176"/>
+<Vertex x="145.208" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="97"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="s"/>
+</Character>
+<Character>
+<CharacterID Value="97"/>
+<CharacterCorners>
+<Vertex x="150.044" y="167.106"/>
+<Vertex x="155.505" y="167.106"/>
+<Vertex x="155.505" y="178.176"/>
+<Vertex x="150.044" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="98"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="c"/>
+</Character>
+<Character>
+<CharacterID Value="98"/>
+<CharacterCorners>
+<Vertex x="155.555" y="167.106"/>
+<Vertex x="161.705" y="167.106"/>
+<Vertex x="161.705" y="178.176"/>
+<Vertex x="155.555" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="99"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="h"/>
+</Character>
+<Character>
+<CharacterID Value="99"/>
+<CharacterCorners>
+<Vertex x="161.756" y="167.106"/>
+<Vertex x="167.217" y="167.106"/>
+<Vertex x="167.217" y="178.176"/>
+<Vertex x="161.756" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="100"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="a"/>
+</Character>
+<Character>
+<CharacterID Value="100"/>
+<CharacterCorners>
+<Vertex x="167.267" y="167.106"/>
+<Vertex x="170.687" y="167.106"/>
+<Vertex x="170.687" y="178.176"/>
+<Vertex x="167.267" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="101"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="l"/>
+</Character>
+<Character>
+<CharacterID Value="101"/>
+<CharacterCorners>
+<Vertex x="170.737" y="167.106"/>
+<Vertex x="176.198" y="167.106"/>
+<Vertex x="176.198" y="178.176"/>
+<Vertex x="170.737" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="102"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="c"/>
+</Character>
+<Character>
+<CharacterID Value="102"/>
+<CharacterCorners>
+<Vertex x="176.249" y="167.106"/>
+<Vertex x="182.399" y="167.106"/>
+<Vertex x="182.399" y="178.176"/>
+<Vertex x="176.249" y="178.176"/>
+</CharacterCorners>
+<CharacterNext Value="103"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="h"/>
+</Character>
+</Word>
+</Line>
+<Line>
+<LineID Value="7"/>
+<LineCorners>
+<Vertex x="76.496" y="181.789"/>
+<Vertex x="165.288" y="181.789"/>
+<Vertex x="165.288" y="192.862"/>
+<Vertex x="76.496" y="192.862"/>
+</LineCorners>
+<LineNext Value="8"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="15"/>
+<WordCorners>
+<Vertex x="76.496" y="181.792"/>
+<Vertex x="105.925" y="181.792"/>
+<Vertex x="105.925" y="192.862"/>
+<Vertex x="76.496" y="192.862"/>
+</WordCorners>
+<WordNext Value="16"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="103"/>
+<CharacterCorners>
+<Vertex x="76.496" y="181.792"/>
+<Vertex x="85.376" y="181.792"/>
+<Vertex x="85.376" y="192.862"/>
+<Vertex x="76.496" y="192.862"/>
+</CharacterCorners>
+<CharacterNext Value="104"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="K"/>
+</Character>
+<Character>
+<CharacterID Value="104"/>
+<CharacterCorners>
+<Vertex x="85.560" y="181.792"/>
+<Vertex x="88.979" y="181.792"/>
+<Vertex x="88.979" y="192.862"/>
+<Vertex x="85.560" y="192.862"/>
+</CharacterCorners>
+<CharacterNext Value="105"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="l"/>
+</Character>
+<Character>
+<CharacterID Value="105"/>
+<CharacterCorners>
+<Vertex x="89.162" y="181.792"/>
+<Vertex x="94.623" y="181.792"/>
+<Vertex x="94.623" y="192.862"/>
+<Vertex x="89.162" y="192.862"/>
+</CharacterCorners>
+<CharacterNext Value="106"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="a"/>
+</Character>
+<Character>
+<CharacterID Value="106"/>
+<CharacterCorners>
+<Vertex x="94.807" y="181.792"/>
+<Vertex x="100.957" y="181.792"/>
+<Vertex x="100.957" y="192.862"/>
+<Vertex x="94.807" y="192.862"/>
+</CharacterCorners>
+<CharacterNext Value="107"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="u"/>
+</Character>
+<Character>
+<CharacterID Value="107"/>
+<CharacterCorners>
+<Vertex x="101.140" y="181.792"/>
+<Vertex x="105.925" y="181.792"/>
+<Vertex x="105.925" y="192.862"/>
+<Vertex x="101.140" y="192.862"/>
+</CharacterCorners>
+<CharacterNext Value="108"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="s"/>
+</Character>
+</Word>
+<Word>
+<WordID Value="16"/>
+<WordCorners>
+<Vertex x="109.475" y="181.789"/>
+<Vertex x="165.288" y="181.789"/>
+<Vertex x="165.288" y="192.859"/>
+<Vertex x="109.475" y="192.859"/>
+</WordCorners>
+<WordNext Value="17"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="108"/>
+<CharacterCorners>
+<Vertex x="109.475" y="181.789"/>
+<Vertex x="118.398" y="181.789"/>
+<Vertex x="118.398" y="192.859"/>
+<Vertex x="109.475" y="192.859"/>
+</CharacterCorners>
+<CharacterNext Value="109"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="H"/>
+</Character>
+<Character>
+<CharacterID Value="109"/>
+<CharacterCorners>
+<Vertex x="119.016" y="181.789"/>
+<Vertex x="125.196" y="181.789"/>
+<Vertex x="125.196" y="192.859"/>
+<Vertex x="119.016" y="192.859"/>
+</CharacterCorners>
+<CharacterNext Value="110"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="o"/>
+</Character>
+<Character>
+<CharacterID Value="110"/>
+<CharacterCorners>
+<Vertex x="125.813" y="181.789"/>
+<Vertex x="129.249" y="181.789"/>
+<Vertex x="129.249" y="192.859"/>
+<Vertex x="125.813" y="192.859"/>
+</CharacterCorners>
+<CharacterNext Value="111"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="l"/>
+</Character>
+<Character>
+<CharacterID Value="111"/>
+<CharacterCorners>
+<Vertex x="129.867" y="181.789"/>
+<Vertex x="135.355" y="181.789"/>
+<Vertex x="135.355" y="192.859"/>
+<Vertex x="129.867" y="192.859"/>
+</CharacterCorners>
+<CharacterNext Value="112"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="z"/>
+</Character>
+<Character>
+<CharacterID Value="112"/>
+<CharacterCorners>
+<Vertex x="135.972" y="181.789"/>
+<Vertex x="142.152" y="181.789"/>
+<Vertex x="142.152" y="192.859"/>
+<Vertex x="135.972" y="192.859"/>
+</CharacterCorners>
+<CharacterNext Value="113"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="k"/>
+</Character>
+<Character>
+<CharacterID Value="113"/>
+<CharacterCorners>
+<Vertex x="142.770" y="181.789"/>
+<Vertex x="148.257" y="181.789"/>
+<Vertex x="148.257" y="192.859"/>
+<Vertex x="142.770" y="192.859"/>
+</CharacterCorners>
+<CharacterNext Value="114"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="a"/>
+</Character>
+<Character>
+<CharacterID Value="114"/>
+<CharacterCorners>
+<Vertex x="148.875" y="181.789"/>
+<Vertex x="158.490" y="181.789"/>
+<Vertex x="158.490" y="192.859"/>
+<Vertex x="148.875" y="192.859"/>
+</CharacterCorners>
+<CharacterNext Value="115"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="m"/>
+</Character>
+<Character>
+<CharacterID Value="115"/>
+<CharacterCorners>
+<Vertex x="159.108" y="181.789"/>
+<Vertex x="165.288" y="181.789"/>
+<Vertex x="165.288" y="192.859"/>
+<Vertex x="159.108" y="192.859"/>
+</CharacterCorners>
+<CharacterNext Value="116"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="p"/>
+</Character>
+</Word>
+</Line>
+<Line>
+<LineID Value="8"/>
+<LineCorners>
+<Vertex x="76.529" y="197.442"/>
+<Vertex x="130.550" y="197.442"/>
+<Vertex x="130.550" y="208.512"/>
+<Vertex x="76.529" y="208.512"/>
+</LineCorners>
+<LineNext Value="9"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="17"/>
+<WordCorners>
+<Vertex x="76.529" y="197.442"/>
+<Vertex x="95.375" y="197.442"/>
+<Vertex x="95.375" y="208.512"/>
+<Vertex x="76.529" y="208.512"/>
+</WordCorners>
+<WordNext Value="18"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="116"/>
+<CharacterCorners>
+<Vertex x="76.529" y="197.442"/>
+<Vertex x="85.409" y="197.442"/>
+<Vertex x="85.409" y="208.512"/>
+<Vertex x="76.529" y="208.512"/>
+</CharacterCorners>
+<CharacterNext Value="117"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="U"/>
+</Character>
+<Character>
+<CharacterID Value="117"/>
+<CharacterCorners>
+<Vertex x="85.952" y="197.442"/>
+<Vertex x="90.047" y="197.442"/>
+<Vertex x="90.047" y="208.512"/>
+<Vertex x="85.952" y="208.512"/>
+</CharacterCorners>
+<CharacterNext Value="118"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="r"/>
+</Character>
+<Character>
+<CharacterID Value="118"/>
+<CharacterCorners>
+<Vertex x="90.590" y="197.442"/>
+<Vertex x="95.375" y="197.442"/>
+<Vertex x="95.375" y="208.512"/>
+<Vertex x="90.590" y="208.512"/>
+</CharacterCorners>
+<CharacterNext Value="119"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="s"/>
+</Character>
+</Word>
+<Word>
+<WordID Value="18"/>
+<WordCorners>
+<Vertex x="98.386" y="197.442"/>
+<Vertex x="130.550" y="197.442"/>
+<Vertex x="130.550" y="208.512"/>
+<Vertex x="98.386" y="208.512"/>
+</WordCorners>
+<WordNext Value="19"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="119"/>
+<CharacterCorners>
+<Vertex x="98.386" y="197.442"/>
+<Vertex x="103.170" y="197.442"/>
+<Vertex x="103.170" y="208.512"/>
+<Vertex x="98.386" y="208.512"/>
+</CharacterCorners>
+<CharacterNext Value="120"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="J"/>
+</Character>
+<Character>
+<CharacterID Value="120"/>
+<CharacterCorners>
+<Vertex x="103.318" y="197.442"/>
+<Vertex x="108.779" y="197.442"/>
+<Vertex x="108.779" y="208.512"/>
+<Vertex x="103.318" y="208.512"/>
+</CharacterCorners>
+<CharacterNext Value="121"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="a"/>
+</Character>
+<Character>
+<CharacterID Value="121"/>
+<CharacterCorners>
+<Vertex x="108.927" y="197.442"/>
+<Vertex x="114.388" y="197.442"/>
+<Vertex x="114.388" y="208.512"/>
+<Vertex x="108.927" y="208.512"/>
+</CharacterCorners>
+<CharacterNext Value="122"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="122"/>
+<CharacterCorners>
+<Vertex x="114.536" y="197.442"/>
+<Vertex x="120.686" y="197.442"/>
+<Vertex x="120.686" y="208.512"/>
+<Vertex x="114.536" y="208.512"/>
+</CharacterCorners>
+<CharacterNext Value="123"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="g"/>
+</Character>
+<Character>
+<CharacterID Value="123"/>
+<CharacterCorners>
+<Vertex x="120.833" y="197.442"/>
+<Vertex x="126.983" y="197.442"/>
+<Vertex x="126.983" y="208.512"/>
+<Vertex x="120.833" y="208.512"/>
+</CharacterCorners>
+<CharacterNext Value="124"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="g"/>
+</Character>
+<Character>
+<CharacterID Value="124"/>
+<CharacterCorners>
+<Vertex x="127.131" y="197.442"/>
+<Vertex x="130.550" y="197.442"/>
+<Vertex x="130.550" y="208.512"/>
+<Vertex x="127.131" y="208.512"/>
+</CharacterCorners>
+<CharacterNext Value="125"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="i"/>
+</Character>
+</Word>
+</Line>
+<Line>
+<LineID Value="9"/>
+<LineCorners>
+<Vertex x="76.725" y="212.128"/>
+<Vertex x="178.815" y="212.128"/>
+<Vertex x="178.815" y="223.198"/>
+<Vertex x="76.725" y="223.198"/>
+</LineCorners>
+<LineNext Value="10"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="19"/>
+<WordCorners>
+<Vertex x="76.725" y="212.128"/>
+<Vertex x="113.619" y="212.128"/>
+<Vertex x="113.619" y="223.198"/>
+<Vertex x="76.725" y="223.198"/>
+</WordCorners>
+<WordNext Value="20"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="125"/>
+<CharacterCorners>
+<Vertex x="76.725" y="212.128"/>
+<Vertex x="84.929" y="212.128"/>
+<Vertex x="84.929" y="223.198"/>
+<Vertex x="76.725" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="126"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="R"/>
+</Character>
+<Character>
+<CharacterID Value="126"/>
+<CharacterCorners>
+<Vertex x="85.474" y="212.128"/>
+<Vertex x="91.624" y="212.128"/>
+<Vertex x="91.624" y="223.198"/>
+<Vertex x="85.474" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="127"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="u"/>
+</Character>
+<Character>
+<CharacterID Value="127"/>
+<CharacterCorners>
+<Vertex x="92.169" y="212.128"/>
+<Vertex x="98.319" y="212.128"/>
+<Vertex x="98.319" y="223.198"/>
+<Vertex x="92.169" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="128"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="d"/>
+</Character>
+<Character>
+<CharacterID Value="128"/>
+<CharacterCorners>
+<Vertex x="98.864" y="212.128"/>
+<Vertex x="105.014" y="212.128"/>
+<Vertex x="105.014" y="223.198"/>
+<Vertex x="98.864" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="129"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="o"/>
+</Character>
+<Character>
+<CharacterID Value="129"/>
+<CharacterCorners>
+<Vertex x="105.559" y="212.128"/>
+<Vertex x="108.978" y="212.128"/>
+<Vertex x="108.978" y="223.198"/>
+<Vertex x="105.559" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="130"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="l"/>
+</Character>
+<Character>
+<CharacterID Value="130"/>
+<CharacterCorners>
+<Vertex x="109.523" y="212.128"/>
+<Vertex x="113.619" y="212.128"/>
+<Vertex x="113.619" y="223.198"/>
+<Vertex x="109.523" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="131"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="f"/>
+</Character>
+</Word>
+<Word>
+<WordID Value="20"/>
+<WordCorners>
+<Vertex x="116.233" y="212.128"/>
+<Vertex x="171.541" y="212.128"/>
+<Vertex x="171.541" y="223.198"/>
+<Vertex x="116.233" y="223.198"/>
+</WordCorners>
+<WordNext Value="21"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="131"/>
+<CharacterCorners>
+<Vertex x="116.233" y="212.128"/>
+<Vertex x="127.844" y="212.128"/>
+<Vertex x="127.844" y="223.198"/>
+<Vertex x="116.233" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="132"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="W"/>
+</Character>
+<Character>
+<CharacterID Value="132"/>
+<CharacterCorners>
+<Vertex x="128.144" y="212.128"/>
+<Vertex x="131.564" y="212.128"/>
+<Vertex x="131.564" y="223.198"/>
+<Vertex x="128.144" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="133"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="i"/>
+</Character>
+<Character>
+<CharacterID Value="133"/>
+<CharacterCorners>
+<Vertex x="131.864" y="212.128"/>
+<Vertex x="137.325" y="212.128"/>
+<Vertex x="137.325" y="223.198"/>
+<Vertex x="131.864" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="134"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="134"/>
+<CharacterCorners>
+<Vertex x="137.625" y="212.128"/>
+<Vertex x="141.044" y="212.128"/>
+<Vertex x="141.044" y="223.198"/>
+<Vertex x="137.625" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="135"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="t"/>
+</Character>
+<Character>
+<CharacterID Value="135"/>
+<CharacterCorners>
+<Vertex x="141.345" y="212.128"/>
+<Vertex x="147.495" y="212.128"/>
+<Vertex x="147.495" y="223.198"/>
+<Vertex x="141.345" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="136"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="h"/>
+</Character>
+<Character>
+<CharacterID Value="136"/>
+<CharacterCorners>
+<Vertex x="147.795" y="212.128"/>
+<Vertex x="153.945" y="212.128"/>
+<Vertex x="153.945" y="223.198"/>
+<Vertex x="147.795" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="137"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="ö"/>
+</Character>
+<Character>
+<CharacterID Value="137"/>
+<CharacterCorners>
+<Vertex x="154.245" y="212.128"/>
+<Vertex x="157.664" y="212.128"/>
+<Vertex x="157.664" y="223.198"/>
+<Vertex x="154.245" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="138"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="l"/>
+</Character>
+<Character>
+<CharacterID Value="138"/>
+<CharacterCorners>
+<Vertex x="157.964" y="212.128"/>
+<Vertex x="161.384" y="212.128"/>
+<Vertex x="161.384" y="223.198"/>
+<Vertex x="157.964" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="139"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="t"/>
+</Character>
+<Character>
+<CharacterID Value="139"/>
+<CharacterCorners>
+<Vertex x="161.684" y="212.128"/>
+<Vertex x="167.145" y="212.128"/>
+<Vertex x="167.145" y="223.198"/>
+<Vertex x="161.684" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="140"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="140"/>
+<CharacterCorners>
+<Vertex x="167.445" y="212.128"/>
+<Vertex x="171.541" y="212.128"/>
+<Vertex x="171.541" y="223.198"/>
+<Vertex x="167.445" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="141"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="r"/>
+</Character>
+</Word>
+<Word>
+<WordID Value="21"/>
+<WordCorners>
+<Vertex x="175.740" y="212.128"/>
+<Vertex x="178.815" y="212.128"/>
+<Vertex x="178.815" y="223.198"/>
+<Vertex x="175.740" y="223.198"/>
+</WordCorners>
+<WordNext Value="22"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="141"/>
+<CharacterCorners>
+<Vertex x="175.740" y="212.128"/>
+<Vertex x="178.815" y="212.128"/>
+<Vertex x="178.815" y="223.198"/>
+<Vertex x="175.740" y="223.198"/>
+</CharacterCorners>
+<CharacterNext Value="142"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="."/>
+</Character>
+</Word>
+</Line>
+</Zone>
+<Zone>
+<ZoneID Value="4"/>
+<ZoneCorners>
+<Vertex x="71.522" y="245.116"/>
+<Vertex x="166.852" y="245.116"/>
+<Vertex x="166.852" y="271.119"/>
+<Vertex x="71.522" y="271.119"/>
+</ZoneCorners>
+<ZoneNext Value="5"/>
+<ZoneInsets Bottom="" Left="" Right="" Top=""/>
+<ZoneLines Value=""/>
+<Classification>
+<Category Value="AUTHOR"/>
+<Type Value=""/>
+</Classification>
+<Line>
+<LineID Value="10"/>
+<LineCorners>
+<Vertex x="76.492" y="245.116"/>
+<Vertex x="134.384" y="245.116"/>
+<Vertex x="134.384" y="256.186"/>
+<Vertex x="76.492" y="256.186"/>
+</LineCorners>
+<LineNext Value="11"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="22"/>
+<WordCorners>
+<Vertex x="76.492" y="245.116"/>
+<Vertex x="134.384" y="245.116"/>
+<Vertex x="134.384" y="256.186"/>
+<Vertex x="76.492" y="256.186"/>
+</WordCorners>
+<WordNext Value="23"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="142"/>
+<CharacterCorners>
+<Vertex x="76.492" y="245.116"/>
+<Vertex x="84.696" y="245.116"/>
+<Vertex x="84.696" y="256.186"/>
+<Vertex x="76.492" y="256.186"/>
+</CharacterCorners>
+<CharacterNext Value="143"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="R"/>
+</Character>
+<Character>
+<CharacterID Value="143"/>
+<CharacterCorners>
+<Vertex x="85.130" y="245.116"/>
+<Vertex x="90.591" y="245.116"/>
+<Vertex x="90.591" y="256.186"/>
+<Vertex x="85.130" y="256.186"/>
+</CharacterCorners>
+<CharacterNext Value="144"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="144"/>
+<CharacterCorners>
+<Vertex x="91.025" y="245.116"/>
+<Vertex x="97.175" y="245.116"/>
+<Vertex x="97.175" y="256.186"/>
+<Vertex x="91.025" y="256.186"/>
+</CharacterCorners>
+<CharacterNext Value="145"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="d"/>
+</Character>
+<Character>
+<CharacterID Value="145"/>
+<CharacterCorners>
+<Vertex x="97.609" y="245.116"/>
+<Vertex x="103.071" y="245.116"/>
+<Vertex x="103.071" y="256.186"/>
+<Vertex x="97.609" y="256.186"/>
+</CharacterCorners>
+<CharacterNext Value="146"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="a"/>
+</Character>
+<Character>
+<CharacterID Value="146"/>
+<CharacterCorners>
+<Vertex x="103.505" y="245.116"/>
+<Vertex x="109.655" y="245.116"/>
+<Vertex x="109.655" y="256.186"/>
+<Vertex x="103.505" y="256.186"/>
+</CharacterCorners>
+<CharacterNext Value="147"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="k"/>
+</Character>
+<Character>
+<CharacterID Value="147"/>
+<CharacterCorners>
+<Vertex x="110.089" y="245.116"/>
+<Vertex x="113.508" y="245.116"/>
+<Vertex x="113.508" y="256.186"/>
+<Vertex x="110.089" y="256.186"/>
+</CharacterCorners>
+<CharacterNext Value="148"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="t"/>
+</Character>
+<Character>
+<CharacterID Value="148"/>
+<CharacterCorners>
+<Vertex x="113.943" y="245.116"/>
+<Vertex x="117.362" y="245.116"/>
+<Vertex x="117.362" y="256.186"/>
+<Vertex x="113.943" y="256.186"/>
+</CharacterCorners>
+<CharacterNext Value="149"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="i"/>
+</Character>
+<Character>
+<CharacterID Value="149"/>
+<CharacterCorners>
+<Vertex x="117.796" y="245.116"/>
+<Vertex x="123.946" y="245.116"/>
+<Vertex x="123.946" y="256.186"/>
+<Vertex x="117.796" y="256.186"/>
+</CharacterCorners>
+<CharacterNext Value="150"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="o"/>
+</Character>
+<Character>
+<CharacterID Value="150"/>
+<CharacterCorners>
+<Vertex x="124.380" y="245.116"/>
+<Vertex x="130.530" y="245.116"/>
+<Vertex x="130.530" y="256.186"/>
+<Vertex x="124.380" y="256.186"/>
+</CharacterCorners>
+<CharacterNext Value="151"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="n"/>
+</Character>
+<Character>
+<CharacterID Value="151"/>
+<CharacterCorners>
+<Vertex x="130.965" y="245.116"/>
+<Vertex x="134.384" y="245.116"/>
+<Vertex x="134.384" y="256.186"/>
+<Vertex x="130.965" y="256.186"/>
+</CharacterCorners>
+<CharacterNext Value="152"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value=":"/>
+</Character>
+</Word>
+</Line>
+<Line>
+<LineID Value="11"/>
+<LineCorners>
+<Vertex x="71.522" y="260.049"/>
+<Vertex x="166.852" y="260.049"/>
+<Vertex x="166.852" y="271.119"/>
+<Vertex x="71.522" y="271.119"/>
+</LineCorners>
+<LineNext Value="12"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="23"/>
+<WordCorners>
+<Vertex x="71.522" y="260.049"/>
+<Vertex x="106.395" y="260.049"/>
+<Vertex x="106.395" y="271.119"/>
+<Vertex x="71.522" y="271.119"/>
+</WordCorners>
+<WordNext Value="24"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="152"/>
+<CharacterCorners>
+<Vertex x="71.522" y="260.049"/>
+<Vertex x="77.672" y="260.049"/>
+<Vertex x="77.672" y="271.119"/>
+<Vertex x="71.522" y="271.119"/>
+</CharacterCorners>
+<CharacterNext Value="153"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="_"/>
+</Character>
+<Character>
+<CharacterID Value="153"/>
+<CharacterCorners>
+<Vertex x="76.725" y="260.049"/>
+<Vertex x="85.606" y="260.049"/>
+<Vertex x="85.606" y="271.119"/>
+<Vertex x="76.725" y="271.119"/>
+</CharacterCorners>
+<CharacterNext Value="154"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="K"/>
+</Character>
+<Character>
+<CharacterID Value="154"/>
+<CharacterCorners>
+<Vertex x="85.849" y="260.049"/>
+<Vertex x="89.269" y="260.049"/>
+<Vertex x="89.269" y="271.119"/>
+<Vertex x="85.849" y="271.119"/>
+</CharacterCorners>
+<CharacterNext Value="155"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="l"/>
+</Character>
+<Character>
+<CharacterID Value="155"/>
+<CharacterCorners>
+<Vertex x="89.512" y="260.049"/>
+<Vertex x="94.974" y="260.049"/>
+<Vertex x="94.974" y="271.119"/>
+<Vertex x="89.512" y="271.119"/>
+</CharacterCorners>
+<CharacterNext Value="156"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="a"/>
+</Character>
+<Character>
+<CharacterID Value="156"/>
+<CharacterCorners>
+<Vertex x="95.217" y="260.049"/>
+<Vertex x="101.367" y="260.049"/>
+<Vertex x="101.367" y="271.119"/>
+<Vertex x="95.217" y="271.119"/>
+</CharacterCorners>
+<CharacterNext Value="157"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="u"/>
+</Character>
+<Character>
+<CharacterID Value="157"/>
+<CharacterCorners>
+<Vertex x="101.611" y="260.049"/>
+<Vertex x="106.395" y="260.049"/>
+<Vertex x="106.395" y="271.119"/>
+<Vertex x="101.611" y="271.119"/>
+</CharacterCorners>
+<CharacterNext Value="158"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="s"/>
+</Character>
+</Word>
+<Word>
+<WordID Value="24"/>
+<WordCorners>
+<Vertex x="108.988" y="260.049"/>
+<Vertex x="166.852" y="260.049"/>
+<Vertex x="166.852" y="271.119"/>
+<Vertex x="108.988" y="271.119"/>
+</WordCorners>
+<WordNext Value="25"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="158"/>
+<CharacterCorners>
+<Vertex x="108.988" y="260.049"/>
+<Vertex x="117.869" y="260.049"/>
+<Vertex x="117.869" y="271.119"/>
+<Vertex x="108.988" y="271.119"/>
+</CharacterCorners>
+<CharacterNext Value="159"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="K"/>
+</Character>
+<Character>
+<CharacterID Value="159"/>
+<CharacterCorners>
+<Vertex x="118.186" y="260.049"/>
+<Vertex x="123.647" y="260.049"/>
+<Vertex x="123.647" y="271.119"/>
+<Vertex x="118.186" y="271.119"/>
+</CharacterCorners>
+<CharacterNext Value="160"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="a"/>
+</Character>
+<Character>
+<CharacterID Value="160"/>
+<CharacterCorners>
+<Vertex x="123.965" y="260.049"/>
+<Vertex x="133.534" y="260.049"/>
+<Vertex x="133.534" y="271.119"/>
+<Vertex x="123.965" y="271.119"/>
+</CharacterCorners>
+<CharacterNext Value="161"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="m"/>
+</Character>
+<Character>
+<CharacterID Value="161"/>
+<CharacterCorners>
+<Vertex x="133.851" y="260.049"/>
+<Vertex x="140.001" y="260.049"/>
+<Vertex x="140.001" y="271.119"/>
+<Vertex x="133.851" y="271.119"/>
+</CharacterCorners>
+<CharacterNext Value="162"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="b"/>
+</Character>
+<Character>
+<CharacterID Value="162"/>
+<CharacterCorners>
+<Vertex x="140.319" y="260.049"/>
+<Vertex x="145.780" y="260.049"/>
+<Vertex x="145.780" y="271.119"/>
+<Vertex x="140.319" y="271.119"/>
+</CharacterCorners>
+<CharacterNext Value="163"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="163"/>
+<CharacterCorners>
+<Vertex x="146.097" y="260.049"/>
+<Vertex x="150.193" y="260.049"/>
+<Vertex x="150.193" y="271.119"/>
+<Vertex x="146.097" y="271.119"/>
+</CharacterCorners>
+<CharacterNext Value="164"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="r"/>
+</Character>
+<Character>
+<CharacterID Value="164"/>
+<CharacterCorners>
+<Vertex x="150.511" y="260.049"/>
+<Vertex x="156.661" y="260.049"/>
+<Vertex x="156.661" y="271.119"/>
+<Vertex x="150.511" y="271.119"/>
+</CharacterCorners>
+<CharacterNext Value="165"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="g"/>
+</Character>
+<Character>
+<CharacterID Value="165"/>
+<CharacterCorners>
+<Vertex x="156.978" y="260.049"/>
+<Vertex x="162.439" y="260.049"/>
+<Vertex x="162.439" y="271.119"/>
+<Vertex x="156.978" y="271.119"/>
+</CharacterCorners>
+<CharacterNext Value="166"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="166"/>
+<CharacterCorners>
+<Vertex x="162.756" y="260.049"/>
+<Vertex x="166.852" y="260.049"/>
+<Vertex x="166.852" y="271.119"/>
+<Vertex x="162.756" y="271.119"/>
+</CharacterCorners>
+<CharacterNext Value="167"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="r"/>
+</Character>
+</Word>
+</Line>
+</Zone>
+<Zone>
+<ZoneID Value="5"/>
+<ZoneCorners>
+<Vertex x="183.580" y="294.079"/>
+<Vertex x="192.901" y="294.079"/>
+<Vertex x="192.901" y="300.461"/>
+<Vertex x="183.580" y="300.461"/>
+</ZoneCorners>
+<ZoneNext Value="6"/>
+<ZoneInsets Bottom="" Left="" Right="" Top=""/>
+<ZoneLines Value=""/>
+<Classification>
+<Category Value="BODY_CONTENT"/>
+<Type Value=""/>
+</Classification>
+<Line>
+<LineID Value="12"/>
+<LineCorners>
+<Vertex x="183.580" y="294.079"/>
+<Vertex x="192.901" y="294.079"/>
+<Vertex x="192.901" y="300.461"/>
+<Vertex x="183.580" y="300.461"/>
+</LineCorners>
+<LineNext Value="13"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="25"/>
+<WordCorners>
+<Vertex x="183.580" y="295.730"/>
+<Vertex x="184.859" y="295.730"/>
+<Vertex x="184.859" y="299.985"/>
+<Vertex x="183.580" y="299.985"/>
+</WordCorners>
+<WordNext Value="26"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="167"/>
+<CharacterCorners>
+<Vertex x="183.580" y="295.730"/>
+<Vertex x="184.859" y="295.730"/>
+<Vertex x="184.859" y="299.985"/>
+<Vertex x="183.580" y="299.985"/>
+</CharacterCorners>
+<CharacterNext Value="168"/>
+<Font Size="" Spacing="" Style="" Type="Helvetica"/>
+<GT_Text Value="."/>
+</Character>
+</Word>
+<Word>
+<WordID Value="26"/>
+<WordCorners>
+<Vertex x="187.318" y="295.180"/>
+<Vertex x="188.522" y="295.180"/>
+<Vertex x="188.522" y="299.033"/>
+<Vertex x="187.318" y="299.033"/>
+</WordCorners>
+<WordNext Value="27"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="168"/>
+<CharacterCorners>
+<Vertex x="187.318" y="295.180"/>
+<Vertex x="188.522" y="295.180"/>
+<Vertex x="188.522" y="299.033"/>
+<Vertex x="187.318" y="299.033"/>
+</CharacterCorners>
+<CharacterNext Value="169"/>
+<Font Size="" Spacing="" Style="" Type="HiddenHorzOCR"/>
+<GT_Text Value="~"/>
+</Character>
+</Word>
+<Word>
+<WordID Value="27"/>
+<WordCorners>
+<Vertex x="190.982" y="294.079"/>
+<Vertex x="192.901" y="294.079"/>
+<Vertex x="192.901" y="300.461"/>
+<Vertex x="190.982" y="300.461"/>
+</WordCorners>
+<WordNext Value="28"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="169"/>
+<CharacterCorners>
+<Vertex x="190.982" y="294.079"/>
+<Vertex x="192.901" y="294.079"/>
+<Vertex x="192.901" y="300.461"/>
+<Vertex x="190.982" y="300.461"/>
+</CharacterCorners>
+<CharacterNext Value="170"/>
+<Font Size="" Spacing="" Style="" Type="Helvetica"/>
+<GT_Text Value="."/>
+</Character>
+</Word>
+</Line>
+</Zone>
+<Zone>
+<ZoneID Value="6"/>
+<ZoneCorners>
+<Vertex x="62.582" y="325.946"/>
+<Vertex x="71.765" y="325.946"/>
+<Vertex x="71.765" y="334.086"/>
+<Vertex x="62.582" y="334.086"/>
+</ZoneCorners>
+<ZoneNext Value="7"/>
+<ZoneInsets Bottom="" Left="" Right="" Top=""/>
+<ZoneLines Value=""/>
+<Classification>
+<Category Value="BODY_CONTENT"/>
+<Type Value=""/>
+</Classification>
+<Line>
+<LineID Value="13"/>
+<LineCorners>
+<Vertex x="62.582" y="325.946"/>
+<Vertex x="71.765" y="325.946"/>
+<Vertex x="71.765" y="334.086"/>
+<Vertex x="62.582" y="334.086"/>
+</LineCorners>
+<LineNext Value="14"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="28"/>
+<WordCorners>
+<Vertex x="62.582" y="325.946"/>
+<Vertex x="71.765" y="325.946"/>
+<Vertex x="71.765" y="334.086"/>
+<Vertex x="62.582" y="334.086"/>
+</WordCorners>
+<WordNext Value="29"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="170"/>
+<CharacterCorners>
+<Vertex x="62.582" y="325.946"/>
+<Vertex x="66.794" y="325.946"/>
+<Vertex x="66.794" y="334.086"/>
+<Vertex x="62.582" y="334.086"/>
+</CharacterCorners>
+<CharacterNext Value="171"/>
+<Font Size="" Spacing="" Style="" Type="Helvetica"/>
+<GT_Text Value="\"/>
+</Character>
+<Character>
+<CharacterID Value="171"/>
+<CharacterCorners>
+<Vertex x="67.552" y="325.946"/>
+<Vertex x="71.765" y="325.946"/>
+<Vertex x="71.765" y="334.086"/>
+<Vertex x="67.552" y="334.086"/>
+</CharacterCorners>
+<CharacterNext Value="172"/>
+<Font Size="" Spacing="" Style="" Type="Helvetica"/>
+<GT_Text Value="."/>
+</Character>
+</Word>
+</Line>
+</Zone>
+<Zone>
+<ZoneID Value="7"/>
+<ZoneCorners>
+<Vertex x="119.219" y="441.839"/>
+<Vertex x="182.416" y="441.839"/>
+<Vertex x="182.416" y="494.588"/>
+<Vertex x="119.219" y="494.588"/>
+</ZoneCorners>
+<ZoneNext Value="8"/>
+<ZoneInsets Bottom="" Left="" Right="" Top=""/>
+<ZoneLines Value=""/>
+<Classification>
+<Category Value="AFFILIATION"/>
+<Type Value=""/>
+</Classification>
+<Line>
+<LineID Value="14"/>
+<LineCorners>
+<Vertex x="119.219" y="441.839"/>
+<Vertex x="127.548" y="441.839"/>
+<Vertex x="127.548" y="448.962"/>
+<Vertex x="119.219" y="448.962"/>
+</LineCorners>
+<LineNext Value="15"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="29"/>
+<WordCorners>
+<Vertex x="119.219" y="441.839"/>
+<Vertex x="121.360" y="441.839"/>
+<Vertex x="121.360" y="448.962"/>
+<Vertex x="119.219" y="448.962"/>
+</WordCorners>
+<WordNext Value="30"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="172"/>
+<CharacterCorners>
+<Vertex x="119.219" y="441.839"/>
+<Vertex x="121.360" y="441.839"/>
+<Vertex x="121.360" y="448.962"/>
+<Vertex x="119.219" y="448.962"/>
+</CharacterCorners>
+<CharacterNext Value="173"/>
+<Font Size="" Spacing="" Style="" Type="Helvetica"/>
+<GT_Text Value=","/>
+</Character>
+</Word>
+<Word>
+<WordID Value="30"/>
+<WordCorners>
+<Vertex x="126.269" y="444.065"/>
+<Vertex x="127.548" y="444.065"/>
+<Vertex x="127.548" y="448.320"/>
+<Vertex x="126.269" y="448.320"/>
+</WordCorners>
+<WordNext Value="31"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="173"/>
+<CharacterCorners>
+<Vertex x="126.269" y="444.065"/>
+<Vertex x="127.548" y="444.065"/>
+<Vertex x="127.548" y="448.320"/>
+<Vertex x="126.269" y="448.320"/>
+</CharacterCorners>
+<CharacterNext Value="174"/>
+<Font Size="" Spacing="" Style="" Type="Helvetica"/>
+<GT_Text Value="."/>
+</Character>
+</Word>
+</Line>
+<Line>
+<LineID Value="15"/>
+<LineCorners>
+<Vertex x="119.833" y="453.174"/>
+<Vertex x="155.240" y="453.174"/>
+<Vertex x="155.240" y="464.244"/>
+<Vertex x="119.833" y="464.244"/>
+</LineCorners>
+<LineNext Value="16"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="31"/>
+<WordCorners>
+<Vertex x="119.833" y="453.174"/>
+<Vertex x="155.240" y="453.174"/>
+<Vertex x="155.240" y="464.244"/>
+<Vertex x="119.833" y="464.244"/>
+</WordCorners>
+<WordNext Value="32"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="174"/>
+<CharacterCorners>
+<Vertex x="119.833" y="453.174"/>
+<Vertex x="126.672" y="453.174"/>
+<Vertex x="126.672" y="464.244"/>
+<Vertex x="119.833" y="464.244"/>
+</CharacterCorners>
+<CharacterNext Value="175"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="F"/>
+</Character>
+<Character>
+<CharacterID Value="175"/>
+<CharacterCorners>
+<Vertex x="126.538" y="453.174"/>
+<Vertex x="129.958" y="453.174"/>
+<Vertex x="129.958" y="464.244"/>
+<Vertex x="126.538" y="464.244"/>
+</CharacterCorners>
+<CharacterNext Value="176"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="i"/>
+</Character>
+<Character>
+<CharacterID Value="176"/>
+<CharacterCorners>
+<Vertex x="129.823" y="453.174"/>
+<Vertex x="134.608" y="453.174"/>
+<Vertex x="134.608" y="464.244"/>
+<Vertex x="129.823" y="464.244"/>
+</CharacterCorners>
+<CharacterNext Value="177"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="s"/>
+</Character>
+<Character>
+<CharacterID Value="177"/>
+<CharacterCorners>
+<Vertex x="134.474" y="453.174"/>
+<Vertex x="139.935" y="453.174"/>
+<Vertex x="139.935" y="464.244"/>
+<Vertex x="134.474" y="464.244"/>
+</CharacterCorners>
+<CharacterNext Value="178"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="c"/>
+</Character>
+<Character>
+<CharacterID Value="178"/>
+<CharacterCorners>
+<Vertex x="139.801" y="453.174"/>
+<Vertex x="145.951" y="453.174"/>
+<Vertex x="145.951" y="464.244"/>
+<Vertex x="139.801" y="464.244"/>
+</CharacterCorners>
+<CharacterNext Value="179"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="h"/>
+</Character>
+<Character>
+<CharacterID Value="179"/>
+<CharacterCorners>
+<Vertex x="145.817" y="453.174"/>
+<Vertex x="151.278" y="453.174"/>
+<Vertex x="151.278" y="464.244"/>
+<Vertex x="145.817" y="464.244"/>
+</CharacterCorners>
+<CharacterNext Value="180"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="180"/>
+<CharacterCorners>
+<Vertex x="151.144" y="453.174"/>
+<Vertex x="155.240" y="453.174"/>
+<Vertex x="155.240" y="464.244"/>
+<Vertex x="151.144" y="464.244"/>
+</CharacterCorners>
+<CharacterNext Value="181"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="r"/>
+</Character>
+</Word>
+</Line>
+<Line>
+<LineID Value="16"/>
+<LineCorners>
+<Vertex x="119.538" y="468.106"/>
+<Vertex x="182.416" y="468.106"/>
+<Vertex x="182.416" y="479.176"/>
+<Vertex x="119.538" y="479.176"/>
+</LineCorners>
+<LineNext Value="17"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="32"/>
+<WordCorners>
+<Vertex x="119.538" y="468.106"/>
+<Vertex x="182.416" y="468.106"/>
+<Vertex x="182.416" y="479.176"/>
+<Vertex x="119.538" y="479.176"/>
+</WordCorners>
+<WordNext Value="33"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="181"/>
+<CharacterCorners>
+<Vertex x="119.538" y="468.106"/>
+<Vertex x="127.053" y="468.106"/>
+<Vertex x="127.053" y="479.176"/>
+<Vertex x="119.538" y="479.176"/>
+</CharacterCorners>
+<CharacterNext Value="182"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="T"/>
+</Character>
+<Character>
+<CharacterID Value="182"/>
+<CharacterCorners>
+<Vertex x="126.852" y="468.106"/>
+<Vertex x="132.313" y="468.106"/>
+<Vertex x="132.313" y="479.176"/>
+<Vertex x="126.852" y="479.176"/>
+</CharacterCorners>
+<CharacterNext Value="183"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="a"/>
+</Character>
+<Character>
+<CharacterID Value="183"/>
+<CharacterCorners>
+<Vertex x="132.111" y="468.106"/>
+<Vertex x="136.896" y="468.106"/>
+<Vertex x="136.896" y="479.176"/>
+<Vertex x="132.111" y="479.176"/>
+</CharacterCorners>
+<CharacterNext Value="184"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="s"/>
+</Character>
+<Character>
+<CharacterID Value="184"/>
+<CharacterCorners>
+<Vertex x="136.694" y="468.106"/>
+<Vertex x="142.155" y="468.106"/>
+<Vertex x="142.155" y="479.176"/>
+<Vertex x="136.694" y="479.176"/>
+</CharacterCorners>
+<CharacterNext Value="185"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="c"/>
+</Character>
+<Character>
+<CharacterID Value="185"/>
+<CharacterCorners>
+<Vertex x="141.954" y="468.106"/>
+<Vertex x="148.104" y="468.106"/>
+<Vertex x="148.104" y="479.176"/>
+<Vertex x="141.954" y="479.176"/>
+</CharacterCorners>
+<CharacterNext Value="186"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="h"/>
+</Character>
+<Character>
+<CharacterID Value="186"/>
+<CharacterCorners>
+<Vertex x="147.902" y="468.106"/>
+<Vertex x="153.363" y="468.106"/>
+<Vertex x="153.363" y="479.176"/>
+<Vertex x="147.902" y="479.176"/>
+</CharacterCorners>
+<CharacterNext Value="187"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="187"/>
+<CharacterCorners>
+<Vertex x="153.161" y="468.106"/>
+<Vertex x="159.311" y="468.106"/>
+<Vertex x="159.311" y="479.176"/>
+<Vertex x="153.161" y="479.176"/>
+</CharacterCorners>
+<CharacterNext Value="188"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="n"/>
+</Character>
+<Character>
+<CharacterID Value="188"/>
+<CharacterCorners>
+<Vertex x="159.110" y="468.106"/>
+<Vertex x="165.260" y="468.106"/>
+<Vertex x="165.260" y="479.176"/>
+<Vertex x="159.110" y="479.176"/>
+</CharacterCorners>
+<CharacterNext Value="189"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="b"/>
+</Character>
+<Character>
+<CharacterID Value="189"/>
+<CharacterCorners>
+<Vertex x="165.058" y="468.106"/>
+<Vertex x="171.208" y="468.106"/>
+<Vertex x="171.208" y="479.176"/>
+<Vertex x="165.058" y="479.176"/>
+</CharacterCorners>
+<CharacterNext Value="190"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="u"/>
+</Character>
+<Character>
+<CharacterID Value="190"/>
+<CharacterCorners>
+<Vertex x="171.006" y="468.106"/>
+<Vertex x="176.468" y="468.106"/>
+<Vertex x="176.468" y="479.176"/>
+<Vertex x="171.006" y="479.176"/>
+</CharacterCorners>
+<CharacterNext Value="191"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="c"/>
+</Character>
+<Character>
+<CharacterID Value="191"/>
+<CharacterCorners>
+<Vertex x="176.266" y="468.106"/>
+<Vertex x="182.416" y="468.106"/>
+<Vertex x="182.416" y="479.176"/>
+<Vertex x="176.266" y="479.176"/>
+</CharacterCorners>
+<CharacterNext Value="192"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="h"/>
+</Character>
+</Word>
+</Line>
+<Line>
+<LineID Value="17"/>
+<LineCorners>
+<Vertex x="119.858" y="483.518"/>
+<Vertex x="153.449" y="483.518"/>
+<Vertex x="153.449" y="494.588"/>
+<Vertex x="119.858" y="494.588"/>
+</LineCorners>
+<LineNext Value="18"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="33"/>
+<WordCorners>
+<Vertex x="119.858" y="483.518"/>
+<Vertex x="153.449" y="483.518"/>
+<Vertex x="153.449" y="494.588"/>
+<Vertex x="119.858" y="494.588"/>
+</WordCorners>
+<WordNext Value="34"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="192"/>
+<CharacterCorners>
+<Vertex x="119.858" y="483.518"/>
+<Vertex x="128.739" y="483.518"/>
+<Vertex x="128.739" y="494.588"/>
+<Vertex x="119.858" y="494.588"/>
+</CharacterCorners>
+<CharacterNext Value="193"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="V"/>
+</Character>
+<Character>
+<CharacterID Value="193"/>
+<CharacterCorners>
+<Vertex x="128.763" y="483.518"/>
+<Vertex x="134.224" y="483.518"/>
+<Vertex x="134.224" y="494.588"/>
+<Vertex x="128.763" y="494.588"/>
+</CharacterCorners>
+<CharacterNext Value="194"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="e"/>
+</Character>
+<Character>
+<CharacterID Value="194"/>
+<CharacterCorners>
+<Vertex x="134.249" y="483.518"/>
+<Vertex x="138.345" y="483.518"/>
+<Vertex x="138.345" y="494.588"/>
+<Vertex x="134.249" y="494.588"/>
+</CharacterCorners>
+<CharacterNext Value="195"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="r"/>
+</Character>
+<Character>
+<CharacterID Value="195"/>
+<CharacterCorners>
+<Vertex x="138.370" y="483.518"/>
+<Vertex x="141.789" y="483.518"/>
+<Vertex x="141.789" y="494.588"/>
+<Vertex x="138.370" y="494.588"/>
+</CharacterCorners>
+<CharacterNext Value="196"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="l"/>
+</Character>
+<Character>
+<CharacterID Value="196"/>
+<CharacterCorners>
+<Vertex x="141.814" y="483.518"/>
+<Vertex x="147.275" y="483.518"/>
+<Vertex x="147.275" y="494.588"/>
+<Vertex x="141.814" y="494.588"/>
+</CharacterCorners>
+<CharacterNext Value="197"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="a"/>
+</Character>
+<Character>
+<CharacterID Value="197"/>
+<CharacterCorners>
+<Vertex x="147.299" y="483.518"/>
+<Vertex x="153.449" y="483.518"/>
+<Vertex x="153.449" y="494.588"/>
+<Vertex x="147.299" y="494.588"/>
+</CharacterCorners>
+<CharacterNext Value="198"/>
+<Font Size="" Spacing="" Style="" Type="Times-Roman"/>
+<GT_Text Value="g"/>
+</Character>
+</Word>
+</Line>
+</Zone>
+<Zone>
+<ZoneID Value="8"/>
+<ZoneCorners>
+<Vertex x="270.283" y="110.634"/>
+<Vertex x="272.090" y="110.634"/>
+<Vertex x="272.090" y="116.646"/>
+<Vertex x="270.283" y="116.646"/>
+</ZoneCorners>
+<ZoneNext Value="-1"/>
+<ZoneInsets Bottom="" Left="" Right="" Top=""/>
+<ZoneLines Value=""/>
+<Classification>
+<Category Value="UNKNOWN"/>
+<Type Value=""/>
+</Classification>
+<Line>
+<LineID Value="18"/>
+<LineCorners>
+<Vertex x="270.283" y="110.634"/>
+<Vertex x="272.090" y="110.634"/>
+<Vertex x="272.090" y="116.646"/>
+<Vertex x="270.283" y="116.646"/>
+</LineCorners>
+<LineNext Value="-1"/>
+<LineNumChars Value=""/>
+<Word>
+<WordID Value="34"/>
+<WordCorners>
+<Vertex x="270.283" y="110.634"/>
+<Vertex x="272.090" y="110.634"/>
+<Vertex x="272.090" y="116.646"/>
+<Vertex x="270.283" y="116.646"/>
+</WordCorners>
+<WordNext Value="-1"/>
+<WordNumChars Value=""/>
+<Character>
+<CharacterID Value="198"/>
+<CharacterCorners>
+<Vertex x="270.283" y="110.634"/>
+<Vertex x="272.090" y="110.634"/>
+<Vertex x="272.090" y="116.646"/>
+<Vertex x="270.283" y="116.646"/>
+</CharacterCorners>
+<CharacterNext Value="-1"/>
+<Font Size="" Spacing="" Style="" Type="Helvetica-Oblique"/>
+<GT_Text Value="I"/>
+</Character>
+</Word>
+</Line>
+</Zone>
+</Page>
+</Document>

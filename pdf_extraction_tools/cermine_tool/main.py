@@ -31,5 +31,5 @@ if __name__ == "__main__":
 
     # Will only output something if there is a new, unprocessed pdf in the folder
     # Also it doesn't work if there are spaces in foldernames in the path
-    textExtractor.cermine_extract('testpdfs/',True, True)
+    textExtractor.cermine_extract('../../ssoar_dataset/',True, True)
 
