@@ -9,10 +9,10 @@ from extraction_methods.extraction_methods import *
 
 class FeatureExtractor:
 
-    def __init__(self, dataset_folder):
+    def __init__(self, dataset_folder: str):
         self.dataset_folder = dataset_folder
 
-    def get_feature_vector(self, document_location, document_number):
+    def get_feature_vector(self, document_location: str, document_number: int):
         words_list = []
 
         file = ET.parse(document_location)
@@ -160,17 +160,17 @@ class FeatureExtractor:
                                       str(1)+'vectors.csv'
                                       )
 
-    def save_feature_vector(self, vector, save_location):
+    def save_feature_vector(self, vector: list, save_location: str):
         with open(save_location, 'wb') as handle:
             pickle.dump(vector, handle, protocol=pickle.HIGHEST_PROTOCOL)
             handle.close()
 
-    def create_dataframe(self, vectors, words, columns, location):
+    def create_dataframe(self, vectors: list, words: list, columns: list, location: str):
         df = pd.DataFrame(vectors, columns=columns)
         df.insert(0, 'Word', words, True)
         self.save_dataframe_csv(df, location)
 
-    def save_dataframe_csv(self, df, location):
+    def save_dataframe_csv(self, df: pd.DataFrame, location: str):
         df.to_csv(location)
 
 
