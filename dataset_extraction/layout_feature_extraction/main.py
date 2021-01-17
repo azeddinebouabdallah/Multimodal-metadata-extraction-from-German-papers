@@ -45,14 +45,30 @@ for element in root:
                                 is_link = 0 
                                 is_year = 0
                                 is_date = 0
+
+
+                                # Store positions
+                                # We need only one point for each side, 
+                                # left and right for horizantal therefore only x.
+                                # for the vertical we need only y for the top and bottom
+                                left = 0
+                                right = 0
+                                top = 0
+                                bottom = 0
+                                
                                 actual_word = ''
                                 font_size = 0
                                 for we in word: # we: Word element
                                     if we.tag == 'WordCorners': # get position
                                         # get the top and bottom position then substract
-                                        y2 = float(we[0].attrib['y'])
-                                        y1 = float(we[2].attrib['y'])
-                                        font_size = get_word_size(y1, y2)
+                                        # ceram position orders are: bottom left, bottom right, top right, top left
+                                        left = float(we[3].attrib['x']) # x of top left
+                                        right = float(we[2].attrib['x']) # x of top right
+                                        bottom = float(we[0].attrib['y']) # y of bottom left
+                                        top = float(we[3].attrib['y']) # y of bottom right
+
+                                        font_size = get_word_size(bottom, top) 
+
                                     if we.tag == 'Character':                                        
                                         actual_word += we[4].attrib['Value']
                 
@@ -75,7 +91,7 @@ for element in root:
                                     cap_letters, starts_cap, line_num, len_word,
                                     count_num, count_slash, count_com, 
                                     is_alt, is_email, is_link, is_year, 
-                                    is_date, font_size
+                                    is_date, font_size, left, right, bottom, top
                                 ]
 
                                 document_vector.append(word_vector)
@@ -84,8 +100,10 @@ for element in root:
         with open('feature_vectors/document'+str(1)+'.pickle', 'wb') as handle:
             pickle.dump(document_vector, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
+
+
         df = pd.DataFrame(document_vector, columns=['Cap letters', 'Starts cap', 'Line number','Len Word', 'Count num', 'Count slash', 'Count com', 'Is Alt'
-        ,'Is email', 'Is link', 'Is Year', 'Is date', 'Font size'])
+        ,'Is email', 'Is link', 'Is Year', 'Is date', 'Font size', 'Left', 'Right', 'Bottom', 'Top'])
         df.insert(0, 'Word', words_list, True)
         df.to_csv('./feature_vectors/document'+str(1)+'vectors.csv')
 
