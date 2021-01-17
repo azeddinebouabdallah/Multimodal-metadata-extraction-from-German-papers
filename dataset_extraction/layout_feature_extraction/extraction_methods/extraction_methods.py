@@ -4,7 +4,7 @@ from dateutil.parser import parse
 import pickle
 
 def get_word_size(y1: float, y2: float)-> int:
-    return int(y1 - y2)
+    return abs(int(y1 - y2))
 
 def get_count_cap_letters(word: str)-> float:
     if len(word) == 0:
@@ -56,11 +56,11 @@ def isDate(word: str) -> int:
 
 def get_horizontal_space(previous_right: float, current_left: float) -> int:
     # Int because we are not interested in the exact measures.
-    return int(current_left - previous_right) 
+    return abs(int(current_left - previous_right)) 
 
 def get_vertical_space(previous_bottom: float, current_top: float) -> int:
     # Int because we are not interested in the exact measures.
-    return int(current_top - previous_bottom)
+    return abs(int(current_top - previous_bottom))
 
 
 def isItalic(font_type: str) -> int:
