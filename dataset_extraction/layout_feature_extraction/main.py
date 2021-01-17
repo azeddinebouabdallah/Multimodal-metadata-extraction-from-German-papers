@@ -66,6 +66,8 @@ for element in root:
                                 is_year = 0
                                 is_date = 0
                                 horizantal_space = 0
+                                is_italic = 0
+                                is_bold = 0
 
                                 # Store positions
                                 # We need only one point for each side, 
@@ -94,6 +96,11 @@ for element in root:
 
                                     if we.tag == 'Character':                                        
                                         actual_word += we[4].attrib['Value']
+                                        font_type = we[3].attrib['Type']
+
+                                        # italic or bold can be found in the font type
+                                        is_italic = isItalic(font_type)
+                                        is_bold = isBold(font_type)
                 
                                 # Clean the word
                                 actual_word = actual_word.replace('(', '').replace('.', '').replace('„', '').replace(')', '').replace('“', '')
@@ -114,7 +121,8 @@ for element in root:
                                     cap_letters, starts_cap, line_num, len_word,
                                     count_num, count_slash, count_com, 
                                     is_alt, is_email, is_link, is_year, 
-                                    is_date, font_size, horizantal_space, vertical_space
+                                    is_date, font_size, horizantal_space, vertical_space,
+                                    is_italic, is_bold
                                 ]
 
                                 document_vector.append(word_vector)
@@ -124,9 +132,8 @@ for element in root:
             pickle.dump(document_vector, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 
-
         df = pd.DataFrame(document_vector, columns=['Cap letters', 'Starts cap', 'Line number','Len Word', 'Count num', 'Count slash', 'Count com', 'Is Alt'
-        ,'Is email', 'Is link', 'Is Year', 'Is date', 'Font size', 'Horizontal space', 'Vertical space'])
+        ,'Is email', 'Is link', 'Is Year', 'Is date', 'Font size', 'Horizontal space', 'Vertical space', 'Is Italic', 'Is Bold'])
         df.insert(0, 'Word', words_list, True)
         df.to_csv('./feature_vectors/document'+str(1)+'vectors.csv')
 
