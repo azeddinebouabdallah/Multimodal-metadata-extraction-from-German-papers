@@ -157,7 +157,7 @@ class FeatureExtractor:
                                       ['Cap letters', 'Starts cap', 'Line number', 'Len Word', 'Count num', 'Count slash', 'Count com', 'Is Alt', 'Is email',
                                           'Is link', 'Is Year', 'Is date', 'Font size', 'Horizontal space', 'Vertical space', 'Is Italic', 'Is Bold'],
                                       './feature_vectors/document' +
-                                      str(1)+'vectors.csv'
+                                      str(document_number)+'vectors.csv'
                                       )
 
     def save_feature_vector(self, vector: list, save_location: str):
@@ -173,8 +173,15 @@ class FeatureExtractor:
     def save_dataframe_csv(self, df: pd.DataFrame, location: str):
         df.to_csv(location)
 
+    def get_dataset_features(self):
+        document_number = 0
+        for file in os.scandir(self.dataset_folder):
+            if file.path.endswith('.cermstr'):
+                self.get_feature_vector(file.path, document_number)
+                document_number += 1
+
 
 if __name__ == '__main__':
     featureExtractor = FeatureExtractor('../../pdf_extraction_tools/cermine_tool/testpdfs')
 
-    featureExtractor.get_feature_vector('./test.cermstr', 1)
+    featureExtractor.get_dataset_features()
