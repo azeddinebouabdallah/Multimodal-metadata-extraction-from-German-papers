@@ -20,8 +20,9 @@ class FeatureExtractor:
         total_blocks = 40
         percentage = (document_number * 100) / 301
         num_blocks = int((percentage * total_blocks) / 100)
+
         print('Feature extraction - Document : {0}| Percentage: {1}{2}> : {3}%'.format(
-            document_number, "#"*num_blocks, "="*(total_blocks-num_blocks), int(percentage)))
+            document_number, "#"*num_blocks, "-"*(total_blocks-num_blocks), int(percentage)), end='\r')
         words_list = []
 
         file = ET.parse(document_location)
@@ -187,7 +188,7 @@ class FeatureExtractor:
                     collnu_list.append(compiled_token)
                 
                 collnu_list = TokenList(collnu_list).serialize()
-                with open('./tokens/tokens.collnu', 'w') as file:
+                with open('./tokens/tokens{0}.collnu'.format(document_number), 'w') as file:
                     file.write(collnu_list)
                     file.close()
                 
