@@ -186,6 +186,10 @@ class FeatureExtractor:
                     compiled_token = OrderedDict({'id': token_id, 'form': token, 'lemma': lemma, 'upostag': None,
                                                 'xpostag': None, 'feats': None, 'head': None, 'deprel': None, 'deps': None, 'misc': None})
                     collnu_list.append(compiled_token)
+
+                # Save words lists as pickle files
+                self.save_feature_vector(collnu_list,
+                                         'word_lists/document'+str(document_number)+'.pickle')
                 
                 collnu_list = TokenList(collnu_list).serialize()
                 with open('./tokens/tokens{0}.collnu'.format(document_number), 'w') as file:
