@@ -10,7 +10,7 @@
 10	Alterität	Alterität	_	_	_	_	_	_	_
 11	Geburtsblindheit	Geburtsblindheit	_	_	_	_	_	_	_
 12	im	im	_	_	_	_	_	_	_
-13	Medienzeitalter'	Medienzeitalter'	_	_	_	_	_	_	_
+13	Medienzeitalter	Medienzeitalter	_	_	_	_	_	_	_
 14	Wie	Wie	_	_	_	_	_	_	_
 15	kaum	kaum	_	_	_	_	_	_	_
 16	eine	eine	_	_	_	_	_	_	_
@@ -34,7 +34,7 @@
 34	Zusammenhang	Zusammenhang	_	_	_	_	_	_	_
 35	der	der	_	_	_	_	_	_	_
 36	hohen	hohen	_	_	_	_	_	_	_
-37	Bedeutsamkeit,	Bedeutsamkeit,	_	_	_	_	_	_	_
+37	Bedeutsamkeit	Bedeutsamkeit	_	_	_	_	_	_	_
 38	die	die	_	_	_	_	_	_	_
 39	in	in	_	_	_	_	_	_	_
 40	unserem	unserem	_	_	_	_	_	_	_
@@ -42,7 +42,7 @@
 42	dem	dem	_	_	_	_	_	_	_
 43	Sehen	Sehen	_	_	_	_	_	_	_
 44	zugesprochen	zugesprochen	_	_	_	_	_	_	_
-45	wird,	wird,	_	_	_	_	_	_	_
+45	wird	wird	_	_	_	_	_	_	_
 46	bis	bis	_	_	_	_	_	_	_
 47	hin	hin	_	_	_	_	_	_	_
 48	zur	zur	_	_	_	_	_	_	_
@@ -68,7 +68,7 @@
 68	Eingang	Eingang	_	_	_	_	_	_	_
 69	in	in	_	_	_	_	_	_	_
 70	unterschiedlichste	unterschiedlichste	_	_	_	_	_	_	_
-71	Diskurse,	Diskurse,	_	_	_	_	_	_	_
+71	Diskurse	Diskurse	_	_	_	_	_	_	_
 72	wobei	wobei	_	_	_	_	_	_	_
 73	nicht	nicht	_	_	_	_	_	_	_
 74	nur	nur	_	_	_	_	_	_	_
@@ -82,11 +82,11 @@
 82	vgl	vgl	_	_	_	_	_	_	_
 83	zum	zum	_	_	_	_	_	_	_
 84	Beispiel	Beispiel	_	_	_	_	_	_	_
-85	Mayer,	Mayer,	_	_	_	_	_	_	_
-86	1997;	1997;	_	_	_	_	_	_	_
-87	Gessinger,	Gessinger,	_	_	_	_	_	_	_
-88	1994;	1994;	_	_	_	_	_	_	_
-89	Baumeister,	Baumeister,	_	_	_	_	_	_	_
+85	Mayer	Mayer	_	_	_	_	_	_	_
+86	1997	1997	_	_	_	_	_	_	_
+87	Gessinger	Gessinger	_	_	_	_	_	_	_
+88	1994	1994	_	_	_	_	_	_	_
+89	Baumeister	Baumeister	_	_	_	_	_	_	_
 90	1991	1991	_	_	_	_	_	_	_
 91	Der	Der	_	_	_	_	_	_	_
 92	Zusammenhang	Zusammenhang	_	_	_	_	_	_	_
@@ -98,7 +98,7 @@
 98	der	der	_	_	_	_	_	_	_
 99	mittlerweile	mittlerweile	_	_	_	_	_	_	_
 100	dazugehörigen	dazugehörigen	_	_	_	_	_	_	_
-101	Dekonstruktion,	Dekonstruktion,	_	_	_	_	_	_	_
+101	Dekonstruktion	Dekonstruktion	_	_	_	_	_	_	_
 102	oder	oder	_	_	_	_	_	_	_
 103	die	die	_	_	_	_	_	_	_
 104	scheinbare	scheinbare	_	_	_	_	_	_	_
@@ -115,7 +115,7 @@
 115	man	man	_	_	_	_	_	_	_
 116	mit	mit	_	_	_	_	_	_	_
 117	Derrida	Derrida	_	_	_	_	_	_	_
-118	1997,	1997,	_	_	_	_	_	_	_
+118	1997	1997	_	_	_	_	_	_	_
 119	so	so	_	_	_	_	_	_	_
 120	ist	ist	_	_	_	_	_	_	_
 121	Blindheit	Blindheit	_	_	_	_	_	_	_
@@ -134,7 +134,7 @@
 134	unserer	unserer	_	_	_	_	_	_	_
 135	heuti­	heuti­	_	_	_	_	_	_	_
 136	gen	gen	_	_	_	_	_	_	_
-137	Zeit?	Zeit?	_	_	_	_	_	_	_
+137	Zeit	Zeit	_	_	_	_	_	_	_
 138	Über	Über	_	_	_	_	_	_	_
 139	das	das	_	_	_	_	_	_	_
 140	Leben	Leben	_	_	_	_	_	_	_
@@ -143,13 +143,13 @@
 143	Selbstverständnis	Selbstverständnis	_	_	_	_	_	_	_
 144	der	der	_	_	_	_	_	_	_
 145	blinden	blinden	_	_	_	_	_	_	_
-146	Frau,	Frau,	_	_	_	_	_	_	_
+146	Frau	Frau	_	_	_	_	_	_	_
 147	des	des	_	_	_	_	_	_	_
 148	blinden	blinden	_	_	_	_	_	_	_
 149	Mannes	Mannes	_	_	_	_	_	_	_
 150	»auf	»auf	_	_	_	_	_	_	_
 151	der	der	_	_	_	_	_	_	_
-152	Straße«?	Straße«?	_	_	_	_	_	_	_
+152	Straße«	Straße«	_	_	_	_	_	_	_
 153	Die	Die	_	_	_	_	_	_	_
 154	folgenden	folgenden	_	_	_	_	_	_	_
 155	Betrachtungen	Betrachtungen	_	_	_	_	_	_	_
@@ -157,14 +157,14 @@
 157	hierzu	hierzu	_	_	_	_	_	_	_
 158	einen	einen	_	_	_	_	_	_	_
 159	Beitrag	Beitrag	_	_	_	_	_	_	_
-160	leisten:	leisten:	_	_	_	_	_	_	_
+160	leisten	leisten	_	_	_	_	_	_	_
 161	wie	wie	_	_	_	_	_	_	_
 162	gestaltet	gestaltet	_	_	_	_	_	_	_
 163	sich	sich	_	_	_	_	_	_	_
 164	das	das	_	_	_	_	_	_	_
 165	Leben	Leben	_	_	_	_	_	_	_
 166	mit	mit	_	_	_	_	_	_	_
-167	Geburts-	Geburts-	_	_	_	_	_	_	_
+167	Geburts	Geburts	_	_	_	_	_	_	_
 168	Blindheit	Blindheit	_	_	_	_	_	_	_
 169	vor	vor	_	_	_	_	_	_	_
 170	dem	dem	_	_	_	_	_	_	_
@@ -172,7 +172,7 @@
 172	ak­	ak­	_	_	_	_	_	_	_
 173	tueller	tueller	_	_	_	_	_	_	_
 174	sozialer	sozialer	_	_	_	_	_	_	_
-175	Rahmenbedingungen?	Rahmenbedingungen?	_	_	_	_	_	_	_
+175	Rahmenbedingungen	Rahmenbedingungen	_	_	_	_	_	_	_
 176	In	In	_	_	_	_	_	_	_
 177	interaktionstheoretischer	interaktionstheoretischer	_	_	_	_	_	_	_
 178	und	und	_	_	_	_	_	_	_
@@ -181,10 +181,10 @@
 181	Theorietradition	Theorietradition	_	_	_	_	_	_	_
 182	wird	wird	_	_	_	_	_	_	_
 183	davon	davon	_	_	_	_	_	_	_
-184	ausgegangen,	ausgegangen,	_	_	_	_	_	_	_
+184	ausgegangen	ausgegangen	_	_	_	_	_	_	_
 185	dass	dass	_	_	_	_	_	_	_
 186	das	das	_	_	_	_	_	_	_
-187	Selbst-Verständnis	Selbst-Verständnis	_	_	_	_	_	_	_
+187	SelbstVerständnis	SelbstVerständnis	_	_	_	_	_	_	_
 188	von	von	_	_	_	_	_	_	_
 189	Geburt	Geburt	_	_	_	_	_	_	_
 190	an	an	_	_	_	_	_	_	_
@@ -197,7 +197,7 @@
 197	Bedingungen	Bedingungen	_	_	_	_	_	_	_
 198	abhängige	abhängige	_	_	_	_	_	_	_
 199	Eigenleistung	Eigenleistung	_	_	_	_	_	_	_
-200	darstellt,	darstellt,	_	_	_	_	_	_	_
+200	darstellt	darstellt	_	_	_	_	_	_	_
 201	die	die	_	_	_	_	_	_	_
 202	soziale	soziale	_	_	_	_	_	_	_
 203	Spiegelungsprozesse	Spiegelungsprozesse	_	_	_	_	_	_	_
@@ -205,7 +205,7 @@
 205	sich	sich	_	_	_	_	_	_	_
 206	aufnimmt	aufnimmt	_	_	_	_	_	_	_
 207	vgl	vgl	_	_	_	_	_	_	_
-208	Borcsa,	Borcsa,	_	_	_	_	_	_	_
+208	Borcsa	Borcsa	_	_	_	_	_	_	_
 209	2001	2001	_	_	_	_	_	_	_
 210	Diesen	Diesen	_	_	_	_	_	_	_
 211	Spiege­	Spiege­	_	_	_	_	_	_	_
@@ -233,8 +233,8 @@
 233	wichtige	wichtige	_	_	_	_	_	_	_
 234	Spiegelungsinstanz	Spiegelungsinstanz	_	_	_	_	_	_	_
 235	vgl	vgl	_	_	_	_	_	_	_
-236	Borcsa,	Borcsa,	_	_	_	_	_	_	_
-237	1999,	1999,	_	_	_	_	_	_	_
+236	Borcsa	Borcsa	_	_	_	_	_	_	_
+237	1999	1999	_	_	_	_	_	_	_
 238	und	und	_	_	_	_	_	_	_
 239	beteiligen	beteiligen	_	_	_	_	_	_	_
 240	sich	sich	_	_	_	_	_	_	_
@@ -247,7 +247,7 @@
 247	von	von	_	_	_	_	_	_	_
 248	Alterität	Alterität	_	_	_	_	_	_	_
 249	Die	Die	_	_	_	_	_	_	_
-250	P&G	P&G	_	_	_	_	_	_	_
-251	2/01	2/01	_	_	_	_	_	_	_
+250	PG	PG	_	_	_	_	_	_	_
+251	201	201	_	_	_	_	_	_	_
 252	125	125	_	_	_	_	_	_	_
 

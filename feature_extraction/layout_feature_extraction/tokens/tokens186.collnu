@@ -15,7 +15,7 @@
 15	Psychologie	Psychologie	_	_	_	_	_	_	_
 16	Renate	Renate	_	_	_	_	_	_	_
 17	Haack	Haack	_	_	_	_	_	_	_
-18	-	-	_	_	_	_	_	_	_
+18			_	_	_	_	_	_	_
 19	Wegner	Wegner	_	_	_	_	_	_	_
 20	Zusemmenfessung	Zusemmenfessung	_	_	_	_	_	_	_
 21	1m	1m	_	_	_	_	_	_	_
@@ -27,7 +27,7 @@
 27	Stand	Stand	_	_	_	_	_	_	_
 28	der	der	_	_	_	_	_	_	_
 29	padagogischenl	padagogischenl	_	_	_	_	_	_	_
-30	Didaktik-Debatte	Didaktik-Debatte	_	_	_	_	_	_	_
+30	DidaktikDebatte	DidaktikDebatte	_	_	_	_	_	_	_
 31	kurz	kurz	_	_	_	_	_	_	_
 32	dargestellt	dargestellt	_	_	_	_	_	_	_
 33	In	In	_	_	_	_	_	_	_
@@ -40,9 +40,9 @@
 40	den	den	_	_	_	_	_	_	_
 41	gestaltpadagogi­	gestaltpadagogi­	_	_	_	_	_	_	_
 42	schen	schen	_	_	_	_	_	_	_
-43	-	-	_	_	_	_	_	_	_
+43			_	_	_	_	_	_	_
 44	personenzentrierten	personenzentrierten	_	_	_	_	_	_	_
-45	-	-	_	_	_	_	_	_	_
+45			_	_	_	_	_	_	_
 46	Ansatz	Ansatz	_	_	_	_	_	_	_
 47	In	In	_	_	_	_	_	_	_
 48	Aus­	Aus­	_	_	_	_	_	_	_
@@ -66,7 +66,7 @@
 66	Beruhrungspunkte	Beruhrungspunkte	_	_	_	_	_	_	_
 67	in	in	_	_	_	_	_	_	_
 68	der	der	_	_	_	_	_	_	_
-69	Theorie,	Theorie,	_	_	_	_	_	_	_
+69	Theorie	Theorie	_	_	_	_	_	_	_
 70	aber	aber	_	_	_	_	_	_	_
 71	auch	auch	_	_	_	_	_	_	_
 72	differente	differente	_	_	_	_	_	_	_
@@ -89,17 +89,17 @@
 89	ist	ist	_	_	_	_	_	_	_
 90	Ausdruck	Ausdruck	_	_	_	_	_	_	_
 91	eines	eines	_	_	_	_	_	_	_
-92	flexiblen,	flexiblen,	_	_	_	_	_	_	_
+92	flexiblen	flexiblen	_	_	_	_	_	_	_
 93	um	um	_	_	_	_	_	_	_
 94	einen	einen	_	_	_	_	_	_	_
 95	Begriff	Begriff	_	_	_	_	_	_	_
 96	der	der	_	_	_	_	_	_	_
 97	Selbstreflexion	Selbstreflexion	_	_	_	_	_	_	_
-98	kreisenden,	kreisenden,	_	_	_	_	_	_	_
+98	kreisenden	kreisenden	_	_	_	_	_	_	_
 99	Zugangs	Zugangs	_	_	_	_	_	_	_
 100	zur	zur	_	_	_	_	_	_	_
 101	Lehr	Lehr	_	_	_	_	_	_	_
-102	-	-	_	_	_	_	_	_	_
+102			_	_	_	_	_	_	_
 103	und	und	_	_	_	_	_	_	_
 104	Lernsituation	Lernsituation	_	_	_	_	_	_	_
 105	und	und	_	_	_	_	_	_	_
@@ -116,7 +116,7 @@
 116	werden	werden	_	_	_	_	_	_	_
 117	einige	einige	_	_	_	_	_	_	_
 118	Probleme	Probleme	_	_	_	_	_	_	_
-119	skizziert,	skizziert,	_	_	_	_	_	_	_
+119	skizziert	skizziert	_	_	_	_	_	_	_
 120	die	die	_	_	_	_	_	_	_
 121	sich	sich	_	_	_	_	_	_	_
 122	im	im	_	_	_	_	_	_	_
@@ -134,7 +134,7 @@
 134	Wahrnehmens	Wahrnehmens	_	_	_	_	_	_	_
 135	und	und	_	_	_	_	_	_	_
 136	des	des	_	_	_	_	_	_	_
-137	Verstehens,	Verstehens,	_	_	_	_	_	_	_
+137	Verstehens	Verstehens	_	_	_	_	_	_	_
 138	die	die	_	_	_	_	_	_	_
 139	ich	ich	_	_	_	_	_	_	_
 140	durch	durch	_	_	_	_	_	_	_
@@ -158,7 +158,7 @@
 158	I	I	_	_	_	_	_	_	_
 159	Gestalttherapeuti­	Gestalttherapeuti­	_	_	_	_	_	_	_
 160	schen	schen	_	_	_	_	_	_	_
-161	Padagogik,	Padagogik,	_	_	_	_	_	_	_
+161	Padagogik	Padagogik	_	_	_	_	_	_	_
 162	die	die	_	_	_	_	_	_	_
 163	ich	ich	_	_	_	_	_	_	_
 164	wahrend	wahrend	_	_	_	_	_	_	_
@@ -192,9 +192,9 @@
 192	Stelle	Stelle	_	_	_	_	_	_	_
 193	ziehen	ziehen	_	_	_	_	_	_	_
 194	Der	Der	_	_	_	_	_	_	_
-195	Suchproze~	Suchproze~	_	_	_	_	_	_	_
+195	Suchproze	Suchproze	_	_	_	_	_	_	_
 196	nach	nach	_	_	_	_	_	_	_
-197	neuen,	neuen,	_	_	_	_	_	_	_
+197	neuen	neuen	_	_	_	_	_	_	_
 198	anderen	anderen	_	_	_	_	_	_	_
 199	For­	For­	_	_	_	_	_	_	_
 200	men	men	_	_	_	_	_	_	_
@@ -202,7 +202,7 @@
 202	Lernens	Lernens	_	_	_	_	_	_	_
 203	und	und	_	_	_	_	_	_	_
 204	Lehrens	Lehrens	_	_	_	_	_	_	_
-205	la~t	la~t	_	_	_	_	_	_	_
+205	lat	lat	_	_	_	_	_	_	_
 206	sich	sich	_	_	_	_	_	_	_
 207	in	in	_	_	_	_	_	_	_
 208	der	der	_	_	_	_	_	_	_
@@ -219,13 +219,13 @@
 219	hat	hat	_	_	_	_	_	_	_
 220	er	er	_	_	_	_	_	_	_
 221	ebenfalls	ebenfalls	_	_	_	_	_	_	_
-222	begonnen,	begonnen,	_	_	_	_	_	_	_
-223	angesto~en	angesto~en	_	_	_	_	_	_	_
+222	begonnen	begonnen	_	_	_	_	_	_	_
+223	angestoen	angestoen	_	_	_	_	_	_	_
 224	durch	durch	_	_	_	_	_	_	_
 225	eine	eine	_	_	_	_	_	_	_
 226	Aufwertung	Aufwertung	_	_	_	_	_	_	_
 227	der	der	_	_	_	_	_	_	_
-228	Lehre,	Lehre,	_	_	_	_	_	_	_
+228	Lehre	Lehre	_	_	_	_	_	_	_
 229	ihrer	ihrer	_	_	_	_	_	_	_
 230	als	als	_	_	_	_	_	_	_
 231	not­	not­	_	_	_	_	_	_	_
@@ -246,7 +246,7 @@
 246	Einbeziehung	Einbeziehung	_	_	_	_	_	_	_
 247	der	der	_	_	_	_	_	_	_
 248	Erfah­	Erfah­	_	_	_	_	_	_	_
-249	rungs-	rungs-	_	_	_	_	_	_	_
+249	rungs	rungs	_	_	_	_	_	_	_
 250	und	und	_	_	_	_	_	_	_
 251	Handlungsebene	Handlungsebene	_	_	_	_	_	_	_
 252	und	und	_	_	_	_	_	_	_
@@ -258,7 +258,7 @@
 258	gung	gung	_	_	_	_	_	_	_
 259	mit	mit	_	_	_	_	_	_	_
 260	didaktischen	didaktischen	_	_	_	_	_	_	_
-261	Fragen,	Fragen,	_	_	_	_	_	_	_
+261	Fragen	Fragen	_	_	_	_	_	_	_
 262	begriffen	begriffen	_	_	_	_	_	_	_
 263	llals	llals	_	_	_	_	_	_	_
 264	wissenschaftliche	wissenschaftliche	_	_	_	_	_	_	_
@@ -267,29 +267,29 @@
 267	orga­	orga­	_	_	_	_	_	_	_
 268	nisierten	nisierten	_	_	_	_	_	_	_
 269	Lehr	Lehr	_	_	_	_	_	_	_
-270	-	-	_	_	_	_	_	_	_
+270			_	_	_	_	_	_	_
 271	und	und	_	_	_	_	_	_	_
 272	Lernprozessen«	Lernprozessen«	_	_	_	_	_	_	_
 273	D	D	_	_	_	_	_	_	_
 274	Lenzen	Lenzen	_	_	_	_	_	_	_
-275	1989,	1989,	_	_	_	_	_	_	_
+275	1989	1989	_	_	_	_	_	_	_
 276	307	307	_	_	_	_	_	_	_
 277	ALLGEMEINER	ALLGEMEINER	_	_	_	_	_	_	_
 278	UBERBLICK	UBERBLICK	_	_	_	_	_	_	_
 279	Die	Die	_	_	_	_	_	_	_
 280	allgemeine	allgemeine	_	_	_	_	_	_	_
 281	Didaktik	Didaktik	_	_	_	_	_	_	_
-282	-	-	_	_	_	_	_	_	_
+282			_	_	_	_	_	_	_
 283	ausgehend	ausgehend	_	_	_	_	_	_	_
 284	von	von	_	_	_	_	_	_	_
 285	einem	einem	_	_	_	_	_	_	_
-286	normativen,	normativen,	_	_	_	_	_	_	_
+286	normativen	normativen	_	_	_	_	_	_	_
 287	allgemeingultigen	allgemeingultigen	_	_	_	_	_	_	_
 288	und	und	_	_	_	_	_	_	_
 289	abstrakt	abstrakt	_	_	_	_	_	_	_
 290	formulierten	formulierten	_	_	_	_	_	_	_
 291	Anspruch	Anspruch	_	_	_	_	_	_	_
-292	-	-	_	_	_	_	_	_	_
+292			_	_	_	_	_	_	_
 293	brachte	brachte	_	_	_	_	_	_	_
 294	seit	seit	_	_	_	_	_	_	_
 295	1945	1945	_	_	_	_	_	_	_
@@ -300,24 +300,24 @@
 300	unterschied­	unterschied­	_	_	_	_	_	_	_
 301	lichen	lichen	_	_	_	_	_	_	_
 302	Modellen	Modellen	_	_	_	_	_	_	_
-303	hervor:	hervor:	_	_	_	_	_	_	_
+303	hervor	hervor	_	_	_	_	_	_	_
 304	die	die	_	_	_	_	_	_	_
-305	Kritisch-Kon­	Kritisch-Kon­	_	_	_	_	_	_	_
+305	KritischKon­	KritischKon­	_	_	_	_	_	_	_
 306	struktive	struktive	_	_	_	_	_	_	_
-307	Didaktik,	Didaktik,	_	_	_	_	_	_	_
+307	Didaktik	Didaktik	_	_	_	_	_	_	_
 308	die	die	_	_	_	_	_	_	_
 309	Lerntheoretische	Lerntheoretische	_	_	_	_	_	_	_
 310	Didaktik	Didaktik	_	_	_	_	_	_	_
 311	die	die	_	_	_	_	_	_	_
 312	Kybernetische	Kybernetische	_	_	_	_	_	_	_
-313	Didaktik,	Didaktik,	_	_	_	_	_	_	_
+313	Didaktik	Didaktik	_	_	_	_	_	_	_
 314	die	die	_	_	_	_	_	_	_
 315	Lernzielorientierte	Lernzielorientierte	_	_	_	_	_	_	_
 316	Didaktik	Didaktik	_	_	_	_	_	_	_
 317	und	und	_	_	_	_	_	_	_
 318	die	die	_	_	_	_	_	_	_
 319	Kri­	Kri­	_	_	_	_	_	_	_
-320	tisch-Kommunikative	tisch-Kommunikative	_	_	_	_	_	_	_
+320	tischKommunikative	tischKommunikative	_	_	_	_	_	_	_
 321	Didaktik	Didaktik	_	_	_	_	_	_	_
 322	vgl	vgl	_	_	_	_	_	_	_
 323	dazu	dazu	_	_	_	_	_	_	_
@@ -340,9 +340,9 @@
 340	Allgemeine	Allgemeine	_	_	_	_	_	_	_
 341	Didaktik	Didaktik	_	_	_	_	_	_	_
 342	gege­	gege­	_	_	_	_	_	_	_
-343	ben,	ben,	_	_	_	_	_	_	_
+343	ben	ben	_	_	_	_	_	_	_
 344	ein	ein	_	_	_	_	_	_	_
-345	Ergebnis,	Ergebnis,	_	_	_	_	_	_	_
+345	Ergebnis	Ergebnis	_	_	_	_	_	_	_
 346	das	das	_	_	_	_	_	_	_
 347	aufgrund	aufgrund	_	_	_	_	_	_	_
 348	der	der	_	_	_	_	_	_	_
@@ -358,7 +358,7 @@
 358	gegenlaufig	gegenlaufig	_	_	_	_	_	_	_
 359	zu	zu	_	_	_	_	_	_	_
 360	der	der	_	_	_	_	_	_	_
-361	heutigen,	heutigen,	_	_	_	_	_	_	_
+361	heutigen	heutigen	_	_	_	_	_	_	_
 362	gesellschaftlich	gesellschaftlich	_	_	_	_	_	_	_
 363	als	als	_	_	_	_	_	_	_
 364	sinnvoll	sinnvoll	_	_	_	_	_	_	_
@@ -376,13 +376,13 @@
 376	1996	1996	_	_	_	_	_	_	_
 377	Statt	Statt	_	_	_	_	_	_	_
 378	dessen	dessen	_	_	_	_	_	_	_
-379	la~t	la~t	_	_	_	_	_	_	_
+379	lat	lat	_	_	_	_	_	_	_
 380	sich	sich	_	_	_	_	_	_	_
 381	eine	eine	_	_	_	_	_	_	_
 382	Entwicklung	Entwicklung	_	_	_	_	_	_	_
 383	da­	da­	_	_	_	_	_	_	_
 384	hingehend	hingehend	_	_	_	_	_	_	_
-385	feststellen,	feststellen,	_	_	_	_	_	_	_
+385	feststellen	feststellen	_	_	_	_	_	_	_
 386	die	die	_	_	_	_	_	_	_
 387	llrationalistisch	llrationalistisch	_	_	_	_	_	_	_
 388	verkurzten	verkurzten	_	_	_	_	_	_	_
@@ -396,7 +396,7 @@
 396	chen	chen	_	_	_	_	_	_	_
 397	Lehrens	Lehrens	_	_	_	_	_	_	_
 398	und	und	_	_	_	_	_	_	_
-399	Lernens,	Lernens,	_	_	_	_	_	_	_
+399	Lernens	Lernens	_	_	_	_	_	_	_
 400	in	in	_	_	_	_	_	_	_
 401	denen	denen	_	_	_	_	_	_	_
 402	affek­	affek­	_	_	_	_	_	_	_
@@ -404,9 +404,9 @@
 404	und	und	_	_	_	_	_	_	_
 405	kognitive	kognitive	_	_	_	_	_	_	_
 406	Aspekte	Aspekte	_	_	_	_	_	_	_
-407	gleicherma~en	gleicherma~en	_	_	_	_	_	_	_
+407	gleichermaen	gleichermaen	_	_	_	_	_	_	_
 408	berucksichtigt	berucksichtigt	_	_	_	_	_	_	_
-409	werden«,	werden«,	_	_	_	_	_	_	_
+409	werden«	werden«	_	_	_	_	_	_	_
 410	abzulosen	abzulosen	_	_	_	_	_	_	_
 411	Dabei	Dabei	_	_	_	_	_	_	_
 412	erscheinen	erscheinen	_	_	_	_	_	_	_
@@ -426,7 +426,7 @@
 426	auf	auf	_	_	_	_	_	_	_
 427	Nuancierungen	Nuancierungen	_	_	_	_	_	_	_
 428	zusammenge­	zusammenge­	_	_	_	_	_	_	_
-429	schmolzen,	schmolzen,	_	_	_	_	_	_	_
+429	schmolzen	schmolzen	_	_	_	_	_	_	_
 430	und	und	_	_	_	_	_	_	_
 431	zeigt	zeigt	_	_	_	_	_	_	_
 432	sich	sich	_	_	_	_	_	_	_
@@ -443,7 +443,7 @@
 443	abzie­	abzie­	_	_	_	_	_	_	_
 444	lenden	lenden	_	_	_	_	_	_	_
 445	allgemeineren	allgemeineren	_	_	_	_	_	_	_
-446	Didaktik,	Didaktik,	_	_	_	_	_	_	_
+446	Didaktik	Didaktik	_	_	_	_	_	_	_
 447	zu	zu	_	_	_	_	_	_	_
 448	denen	denen	_	_	_	_	_	_	_
 449	JOURNAL	JOURNAL	_	_	_	_	_	_	_

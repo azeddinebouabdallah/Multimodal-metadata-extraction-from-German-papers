@@ -2,7 +2,7 @@
 2	Entdeckung	Entdeckung	_	_	_	_	_	_	_
 3	der	der	_	_	_	_	_	_	_
 4	frühen	frühen	_	_	_	_	_	_	_
-5	Jahre:	Jahre:	_	_	_	_	_	_	_
+5	Jahre	Jahre	_	_	_	_	_	_	_
 6	Vergangenheit	Vergangenheit	_	_	_	_	_	_	_
 7	erinnern	erinnern	_	_	_	_	_	_	_
 8	und	und	_	_	_	_	_	_	_
@@ -19,7 +19,7 @@
 19	geschieht	geschieht	_	_	_	_	_	_	_
 20	auf	auf	_	_	_	_	_	_	_
 21	zwei	zwei	_	_	_	_	_	_	_
-22	Wegen:	Wegen:	_	_	_	_	_	_	_
+22	Wegen	Wegen	_	_	_	_	_	_	_
 23	Erstens	Erstens	_	_	_	_	_	_	_
 24	als	als	_	_	_	_	_	_	_
 25	Erinnerung	Erinnerung	_	_	_	_	_	_	_
@@ -31,7 +31,7 @@
 31	tauchen	tauchen	_	_	_	_	_	_	_
 32	solche	solche	_	_	_	_	_	_	_
 33	Erinnerungen	Erinnerungen	_	_	_	_	_	_	_
-34	auf,	auf,	_	_	_	_	_	_	_
+34	auf	auf	_	_	_	_	_	_	_
 35	welche	welche	_	_	_	_	_	_	_
 36	Funktionen	Funktionen	_	_	_	_	_	_	_
 37	haben	haben	_	_	_	_	_	_	_
@@ -44,7 +44,7 @@
 44	sie	sie	_	_	_	_	_	_	_
 45	zur	zur	_	_	_	_	_	_	_
 46	erlebten	erlebten	_	_	_	_	_	_	_
-47	Wirklichkeit?	Wirklichkeit?	_	_	_	_	_	_	_
+47	Wirklichkeit	Wirklichkeit	_	_	_	_	_	_	_
 48	Zweitens	Zweitens	_	_	_	_	_	_	_
 49	als	als	_	_	_	_	_	_	_
 50	Beobachtung	Beobachtung	_	_	_	_	_	_	_
@@ -64,7 +64,7 @@
 64	der	der	_	_	_	_	_	_	_
 65	methodische	methodische	_	_	_	_	_	_	_
 66	Zugang	Zugang	_	_	_	_	_	_	_
-67	geändert?	geändert?	_	_	_	_	_	_	_
+67	geändert	geändert	_	_	_	_	_	_	_
 68	Was	Was	_	_	_	_	_	_	_
 69	zeichnet	zeichnet	_	_	_	_	_	_	_
 70	die	die	_	_	_	_	_	_	_
@@ -73,15 +73,15 @@
 73	vor	vor	_	_	_	_	_	_	_
 74	späteren	späteren	_	_	_	_	_	_	_
 75	Entwicklungsabschnitten	Entwicklungsabschnitten	_	_	_	_	_	_	_
-76	aus?	aus?	_	_	_	_	_	_	_
+76	aus	aus	_	_	_	_	_	_	_
 77	Schlagwörter	Schlagwörter	_	_	_	_	_	_	_
 78	Retrospektive	Retrospektive	_	_	_	_	_	_	_
-79	Entwicklungsdaten,	Entwicklungsdaten,	_	_	_	_	_	_	_
+79	Entwicklungsdaten	Entwicklungsdaten	_	_	_	_	_	_	_
 80	Prospektive	Prospektive	_	_	_	_	_	_	_
-81	Entwicklungsdaten,	Entwicklungsdaten,	_	_	_	_	_	_	_
-82	Spontaneität,	Spontaneität,	_	_	_	_	_	_	_
-83	Kreativität,	Kreativität,	_	_	_	_	_	_	_
-84	Tagebuchmethode,	Tagebuchmethode,	_	_	_	_	_	_	_
+81	Entwicklungsdaten	Entwicklungsdaten	_	_	_	_	_	_	_
+82	Spontaneität	Spontaneität	_	_	_	_	_	_	_
+83	Kreativität	Kreativität	_	_	_	_	_	_	_
+84	Tagebuchmethode	Tagebuchmethode	_	_	_	_	_	_	_
 85	Untersuchungsparadigma	Untersuchungsparadigma	_	_	_	_	_	_	_
 86	Summary	Summary	_	_	_	_	_	_	_
 87	The	The	_	_	_	_	_	_	_
@@ -89,7 +89,7 @@
 89	of	of	_	_	_	_	_	_	_
 90	the	the	_	_	_	_	_	_	_
 91	early	early	_	_	_	_	_	_	_
-92	years:	years:	_	_	_	_	_	_	_
+92	years	years	_	_	_	_	_	_	_
 93	Remembering	Remembering	_	_	_	_	_	_	_
 94	the	the	_	_	_	_	_	_	_
 95	past	past	_	_	_	_	_	_	_
@@ -107,7 +107,7 @@
 107	possible	possible	_	_	_	_	_	_	_
 108	via	via	_	_	_	_	_	_	_
 109	two	two	_	_	_	_	_	_	_
-110	routes:	routes:	_	_	_	_	_	_	_
+110	routes	routes	_	_	_	_	_	_	_
 111	Firstly	Firstly	_	_	_	_	_	_	_
 112	as	as	_	_	_	_	_	_	_
 113	memories	memories	_	_	_	_	_	_	_
@@ -119,7 +119,7 @@
 119	do	do	_	_	_	_	_	_	_
 120	such	such	_	_	_	_	_	_	_
 121	recollections	recollections	_	_	_	_	_	_	_
-122	occur,	occur,	_	_	_	_	_	_	_
+122	occur	occur	_	_	_	_	_	_	_
 123	which	which	_	_	_	_	_	_	_
 124	functions	functions	_	_	_	_	_	_	_
 125	do	do	_	_	_	_	_	_	_
@@ -133,7 +133,7 @@
 133	to	to	_	_	_	_	_	_	_
 134	the	the	_	_	_	_	_	_	_
 135	experienced	experienced	_	_	_	_	_	_	_
-136	reality?	reality?	_	_	_	_	_	_	_
+136	reality	reality	_	_	_	_	_	_	_
 137	Secondly	Secondly	_	_	_	_	_	_	_
 138	as	as	_	_	_	_	_	_	_
 139	observation	observation	_	_	_	_	_	_	_
@@ -159,7 +159,7 @@
 159	history	history	_	_	_	_	_	_	_
 160	of	of	_	_	_	_	_	_	_
 161	developmental	developmental	_	_	_	_	_	_	_
-162	psychology?	psychology?	_	_	_	_	_	_	_
+162	psychology	psychology	_	_	_	_	_	_	_
 163	How	How	_	_	_	_	_	_	_
 164	do	do	_	_	_	_	_	_	_
 165	the	the	_	_	_	_	_	_	_
@@ -174,7 +174,7 @@
 174	years	years	_	_	_	_	_	_	_
 175	in	in	_	_	_	_	_	_	_
 176	human	human	_	_	_	_	_	_	_
-177	life?	life?	_	_	_	_	_	_	_
+177	life	life	_	_	_	_	_	_	_
 178	1	1	_	_	_	_	_	_	_
 179	Der	Der	_	_	_	_	_	_	_
 180	vorliegende	vorliegende	_	_	_	_	_	_	_
@@ -185,11 +185,11 @@
 185	Fassung	Fassung	_	_	_	_	_	_	_
 186	des	des	_	_	_	_	_	_	_
 187	Eröffnungsvortrags	Eröffnungsvortrags	_	_	_	_	_	_	_
-188	Die	Die	_	_	_	_	_	_	_
+188	„Die	„Die	_	_	_	_	_	_	_
 189	Entdeckung	Entdeckung	_	_	_	_	_	_	_
 190	der	der	_	_	_	_	_	_	_
 191	frühen	frühen	_	_	_	_	_	_	_
-192	Jahre	Jahre	_	_	_	_	_	_	_
+192	Jahre“	Jahre“	_	_	_	_	_	_	_
 193	auf	auf	_	_	_	_	_	_	_
 194	der	der	_	_	_	_	_	_	_
 195	13	13	_	_	_	_	_	_	_
@@ -206,19 +206,19 @@
 206	Mai	Mai	_	_	_	_	_	_	_
 207	2003	2003	_	_	_	_	_	_	_
 208	in	in	_	_	_	_	_	_	_
-209	Schauenburg-Elmshagen	Schauenburg-Elmshagen	_	_	_	_	_	_	_
+209	SchauenburgElmshagen	SchauenburgElmshagen	_	_	_	_	_	_	_
 210	J	J	_	_	_	_	_	_	_
 211	f	f	_	_	_	_	_	_	_
-212	Psych,	Psych,	_	_	_	_	_	_	_
-213	12,	12,	_	_	_	_	_	_	_
+212	Psych	Psych	_	_	_	_	_	_	_
+213	12	12	_	_	_	_	_	_	_
 214	1	1	_	_	_	_	_	_	_
-215	2004,	2004,	_	_	_	_	_	_	_
-216	11–24,	11–24,	_	_	_	_	_	_	_
+215	2004	2004	_	_	_	_	_	_	_
+216	11–24	11–24	_	_	_	_	_	_	_
 217	ISSN	ISSN	_	_	_	_	_	_	_
-218	0942-2285	0942-2285	_	_	_	_	_	_	_
+218	09422285	09422285	_	_	_	_	_	_	_
 219	©	©	_	_	_	_	_	_	_
 220	Vandenhoeck	Vandenhoeck	_	_	_	_	_	_	_
-221	&	&	_	_	_	_	_	_	_
+221			_	_	_	_	_	_	_
 222	Ruprecht	Ruprecht	_	_	_	_	_	_	_
 223	2004	2004	_	_	_	_	_	_	_
 

@@ -30,14 +30,14 @@
 30	und	und	_	_	_	_	_	_	_
 31	Lernen	Lernen	_	_	_	_	_	_	_
 32	von	von	_	_	_	_	_	_	_
-33	Psychologie,	Psychologie,	_	_	_	_	_	_	_
+33	Psychologie	Psychologie	_	_	_	_	_	_	_
 34	Psychologie	Psychologie	_	_	_	_	_	_	_
 35	des	des	_	_	_	_	_	_	_
 36	Lehrens	Lehrens	_	_	_	_	_	_	_
 37	und	und	_	_	_	_	_	_	_
-38	Lernens,	Lernens,	_	_	_	_	_	_	_
+38	Lernens	Lernens	_	_	_	_	_	_	_
 39	Kommunikation	Kommunikation	_	_	_	_	_	_	_
-40	von/uber	von/uber	_	_	_	_	_	_	_
+40	vonuber	vonuber	_	_	_	_	_	_	_
 41	Psychologie«	Psychologie«	_	_	_	_	_	_	_
 42	der	der	_	_	_	_	_	_	_
 43	NGfP	NGfP	_	_	_	_	_	_	_
@@ -52,13 +52,13 @@
 52	dem	dem	_	_	_	_	_	_	_
 53	Gesichtspunkt	Gesichtspunkt	_	_	_	_	_	_	_
 54	des	des	_	_	_	_	_	_	_
-55	Theorie-Praxis-Pro­	Theorie-Praxis-Pro­	_	_	_	_	_	_	_
+55	TheoriePraxisPro­	TheoriePraxisPro­	_	_	_	_	_	_	_
 56	blems	blems	_	_	_	_	_	_	_
 57	und	und	_	_	_	_	_	_	_
 58	des	des	_	_	_	_	_	_	_
 59	Streits	Streits	_	_	_	_	_	_	_
 60	der	der	_	_	_	_	_	_	_
-61	»Bedurfnis-	»Bedurfnis-	_	_	_	_	_	_	_
+61	»Bedurfnis	»Bedurfnis	_	_	_	_	_	_	_
 62	oder	oder	_	_	_	_	_	_	_
 63	Wissenschaftsorientierung«	Wissenschaftsorientierung«	_	_	_	_	_	_	_
 64	der	der	_	_	_	_	_	_	_
@@ -81,7 +81,7 @@
 81	Vermittlung	Vermittlung	_	_	_	_	_	_	_
 82	von	von	_	_	_	_	_	_	_
 83	Psychologie	Psychologie	_	_	_	_	_	_	_
-84	-	-	_	_	_	_	_	_	_
+84			_	_	_	_	_	_	_
 85	Personlich­	Personlich­	_	_	_	_	_	_	_
 86	keitsentwicklung	keitsentwicklung	_	_	_	_	_	_	_
 87	im	im	_	_	_	_	_	_	_
@@ -90,7 +90,7 @@
 90	wissen­	wissen­	_	_	_	_	_	_	_
 91	schaftspropadeutischer	schaftspropadeutischer	_	_	_	_	_	_	_
 92	interdisziplinarerl	interdisziplinarerl	_	_	_	_	_	_	_
-93	Zielsetzung,	Zielsetzung,	_	_	_	_	_	_	_
+93	Zielsetzung	Zielsetzung	_	_	_	_	_	_	_
 94	Orientierung	Orientierung	_	_	_	_	_	_	_
 95	der	der	_	_	_	_	_	_	_
 96	Didaktik	Didaktik	_	_	_	_	_	_	_
@@ -98,17 +98,17 @@
 98	den	den	_	_	_	_	_	_	_
 99	Subjekten	Subjekten	_	_	_	_	_	_	_
 100	des	des	_	_	_	_	_	_	_
-101	Lehr-	Lehr-	_	_	_	_	_	_	_
+101	Lehr	Lehr	_	_	_	_	_	_	_
 102	und	und	_	_	_	_	_	_	_
 103	Lernprozesses	Lernprozesses	_	_	_	_	_	_	_
 104	»selbstreflexive	»selbstreflexive	_	_	_	_	_	_	_
-105	Didaktik«l,	Didaktik«l,	_	_	_	_	_	_	_
+105	Didaktik«l	Didaktik«l	_	_	_	_	_	_	_
 106	Starkung	Starkung	_	_	_	_	_	_	_
 107	der	der	_	_	_	_	_	_	_
-108	Lehr-	Lehr-	_	_	_	_	_	_	_
+108	Lehr	Lehr	_	_	_	_	_	_	_
 109	und	und	_	_	_	_	_	_	_
 110	Lernmotivation	Lernmotivation	_	_	_	_	_	_	_
-111	-	-	_	_	_	_	_	_	_
+111			_	_	_	_	_	_	_
 112	als	als	_	_	_	_	_	_	_
 113	weiter	weiter	_	_	_	_	_	_	_
 114	zu	zu	_	_	_	_	_	_	_
@@ -153,7 +153,7 @@
 153	stan­	stan­	_	_	_	_	_	_	_
 154	den	den	_	_	_	_	_	_	_
 155	engagierte	engagierte	_	_	_	_	_	_	_
-156	Kolleglnnen,	Kolleglnnen,	_	_	_	_	_	_	_
+156	Kolleglnnen	Kolleglnnen	_	_	_	_	_	_	_
 157	die	die	_	_	_	_	_	_	_
 158	schon	schon	_	_	_	_	_	_	_
 159	im	im	_	_	_	_	_	_	_
@@ -161,9 +161,9 @@
 161	fur	fur	_	_	_	_	_	_	_
 162	Psychologielehrerinnen	Psychologielehrerinnen	_	_	_	_	_	_	_
 163	und	und	_	_	_	_	_	_	_
-164	-Iehrer	-Iehrer	_	_	_	_	_	_	_
+164	Iehrer	Iehrer	_	_	_	_	_	_	_
 165	eV«	eV«	_	_	_	_	_	_	_
-166	-	-	_	_	_	_	_	_	_
+166			_	_	_	_	_	_	_
 167	hier	hier	_	_	_	_	_	_	_
 168	ist	ist	_	_	_	_	_	_	_
 169	besonders	besonders	_	_	_	_	_	_	_
@@ -172,7 +172,7 @@
 172	Paffrath	Paffrath	_	_	_	_	_	_	_
 173	zu	zu	_	_	_	_	_	_	_
 174	nennen	nennen	_	_	_	_	_	_	_
-175	-	-	_	_	_	_	_	_	_
+175			_	_	_	_	_	_	_
 176	Basisarbeit	Basisarbeit	_	_	_	_	_	_	_
 177	geleistet	geleistet	_	_	_	_	_	_	_
 178	hatten	hatten	_	_	_	_	_	_	_
@@ -188,8 +188,8 @@
 188	ua	ua	_	_	_	_	_	_	_
 189	zur	zur	_	_	_	_	_	_	_
 190	IILeib­	IILeib­	_	_	_	_	_	_	_
-191	Seele-Problematik«	Seele-Problematik«	_	_	_	_	_	_	_
-192	1991,	1991,	_	_	_	_	_	_	_
+191	SeeleProblematik«	SeeleProblematik«	_	_	_	_	_	_	_
+192	1991	1991	_	_	_	_	_	_	_
 193	zur	zur	_	_	_	_	_	_	_
 194	IITheorie	IITheorie	_	_	_	_	_	_	_
 195	und	und	_	_	_	_	_	_	_
@@ -248,8 +248,8 @@
 248	schule	schule	_	_	_	_	_	_	_
 249	war	war	_	_	_	_	_	_	_
 250	an	an	_	_	_	_	_	_	_
-251	Schulen,	Schulen,	_	_	_	_	_	_	_
-252	Fachschulen,	Fachschulen,	_	_	_	_	_	_	_
+251	Schulen	Schulen	_	_	_	_	_	_	_
+252	Fachschulen	Fachschulen	_	_	_	_	_	_	_
 253	Semi­	Semi­	_	_	_	_	_	_	_
 254	naren	naren	_	_	_	_	_	_	_
 255	und	und	_	_	_	_	_	_	_
@@ -259,12 +259,12 @@
 259	in	in	_	_	_	_	_	_	_
 260	Frage	Frage	_	_	_	_	_	_	_
 261	gestellt	gestellt	_	_	_	_	_	_	_
-262	worden,	worden,	_	_	_	_	_	_	_
+262	worden	worden	_	_	_	_	_	_	_
 263	daB	daB	_	_	_	_	_	_	_
 264	es	es	_	_	_	_	_	_	_
 265	besonderer	besonderer	_	_	_	_	_	_	_
 266	Anstrengungen	Anstrengungen	_	_	_	_	_	_	_
-267	bedurfte,	bedurfte,	_	_	_	_	_	_	_
+267	bedurfte	bedurfte	_	_	_	_	_	_	_
 268	das	das	_	_	_	_	_	_	_
 269	Fach	Fach	_	_	_	_	_	_	_
 270	Psycho­	Psycho­	_	_	_	_	_	_	_
@@ -278,12 +278,12 @@
 278	Fulle	Fulle	_	_	_	_	_	_	_
 279	an	an	_	_	_	_	_	_	_
 280	relativ	relativ	_	_	_	_	_	_	_
-281	uneinheitlichen,	uneinheitlichen,	_	_	_	_	_	_	_
+281	uneinheitlichen	uneinheitlichen	_	_	_	_	_	_	_
 282	manch­	manch­	_	_	_	_	_	_	_
 283	mal	mal	_	_	_	_	_	_	_
 284	auch	auch	_	_	_	_	_	_	_
 285	belanglosen	belanglosen	_	_	_	_	_	_	_
-286	Theorien,	Theorien,	_	_	_	_	_	_	_
+286	Theorien	Theorien	_	_	_	_	_	_	_
 287	die	die	_	_	_	_	_	_	_
 288	unter­	unter­	_	_	_	_	_	_	_
 289	schiedlichen	schiedlichen	_	_	_	_	_	_	_
@@ -308,7 +308,7 @@
 308	durchziehenden	durchziehenden	_	_	_	_	_	_	_
 309	erkenntnistheo­	erkenntnistheo­	_	_	_	_	_	_	_
 310	retischen	retischen	_	_	_	_	_	_	_
-311	Auseinandersetzungen,	Auseinandersetzungen,	_	_	_	_	_	_	_
+311	Auseinandersetzungen	Auseinandersetzungen	_	_	_	_	_	_	_
 312	die	die	_	_	_	_	_	_	_
 313	in	in	_	_	_	_	_	_	_
 314	Kontroversen	Kontroversen	_	_	_	_	_	_	_
@@ -324,7 +324,7 @@
 324	ap­	ap­	_	_	_	_	_	_	_
 325	proach«	proach«	_	_	_	_	_	_	_
 326	sich	sich	_	_	_	_	_	_	_
-327	zuspitzten,	zuspitzten,	_	_	_	_	_	_	_
+327	zuspitzten	zuspitzten	_	_	_	_	_	_	_
 328	sind	sind	_	_	_	_	_	_	_
 329	ja	ja	_	_	_	_	_	_	_
 330	nicht	nicht	_	_	_	_	_	_	_
@@ -357,7 +357,7 @@
 357	zu	zu	_	_	_	_	_	_	_
 358	unterschatzende	unterschatzende	_	_	_	_	_	_	_
 359	Schwierigkeiten	Schwierigkeiten	_	_	_	_	_	_	_
-360	sturzen,	sturzen,	_	_	_	_	_	_	_
+360	sturzen	sturzen	_	_	_	_	_	_	_
 361	welche	welche	_	_	_	_	_	_	_
 362	Metho­	Metho­	_	_	_	_	_	_	_
 363	den	den	_	_	_	_	_	_	_
@@ -387,19 +387,19 @@
 387	der	der	_	_	_	_	_	_	_
 388	kritischen	kritischen	_	_	_	_	_	_	_
 389	Theo­	Theo­	_	_	_	_	_	_	_
-390	rie,	rie,	_	_	_	_	_	_	_
+390	rie	rie	_	_	_	_	_	_	_
 391	dem	dem	_	_	_	_	_	_	_
 392	phanomenologischen	phanomenologischen	_	_	_	_	_	_	_
 393	Ansatz	Ansatz	_	_	_	_	_	_	_
 394	der	der	_	_	_	_	_	_	_
-395	Psychoanalyse,	Psychoanalyse,	_	_	_	_	_	_	_
+395	Psychoanalyse	Psychoanalyse	_	_	_	_	_	_	_
 396	verschiedenen	verschiedenen	_	_	_	_	_	_	_
 397	Deutungs­	Deutungs­	_	_	_	_	_	_	_
 398	ansatzen	ansatzen	_	_	_	_	_	_	_
 399	im	im	_	_	_	_	_	_	_
 400	symbolischen	symbolischen	_	_	_	_	_	_	_
 401	Interaktionis­	Interaktionis­	_	_	_	_	_	_	_
-402	mus,	mus,	_	_	_	_	_	_	_
+402	mus	mus	_	_	_	_	_	_	_
 403	den	den	_	_	_	_	_	_	_
 404	faktenwissenschaftlichen	faktenwissenschaftlichen	_	_	_	_	_	_	_
 405	Begrun­	Begrun­	_	_	_	_	_	_	_

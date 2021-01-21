@@ -17,7 +17,7 @@
 17	1998	1998	_	_	_	_	_	_	_
 18			_	_	_	_	_	_	_
 19	No	No	_	_	_	_	_	_	_
-20	3-4	3-4	_	_	_	_	_	_	_
+20	34	34	_	_	_	_	_	_	_
 21	Gunter	Gunter	_	_	_	_	_	_	_
 22	Narr	Narr	_	_	_	_	_	_	_
 23	Verlag	Verlag	_	_	_	_	_	_	_
@@ -43,7 +43,7 @@
 43	Charles	Charles	_	_	_	_	_	_	_
 44	Sanders	Sanders	_	_	_	_	_	_	_
 45	Peirce	Peirce	_	_	_	_	_	_	_
-46	auseinanderzusetzen,	auseinanderzusetzen,	_	_	_	_	_	_	_
+46	auseinanderzusetzen	auseinanderzusetzen	_	_	_	_	_	_	_
 47	ist	ist	_	_	_	_	_	_	_
 48	heute	heute	_	_	_	_	_	_	_
 49	immer	immer	_	_	_	_	_	_	_
@@ -55,7 +55,7 @@
 55	wegen	wegen	_	_	_	_	_	_	_
 56	der	der	_	_	_	_	_	_	_
 57	unbefriedigenden	unbefriedigenden	_	_	_	_	_	_	_
-58	Datenlage:	Datenlage:	_	_	_	_	_	_	_
+58	Datenlage	Datenlage	_	_	_	_	_	_	_
 59	Sehr	Sehr	_	_	_	_	_	_	_
 60	viele	viele	_	_	_	_	_	_	_
 61	seiner	seiner	_	_	_	_	_	_	_
@@ -64,11 +64,11 @@
 64	nur	nur	_	_	_	_	_	_	_
 65	in	in	_	_	_	_	_	_	_
 66	handschriftlicherForm	handschriftlicherForm	_	_	_	_	_	_	_
-67	vor,	vor,	_	_	_	_	_	_	_
+67	vor	vor	_	_	_	_	_	_	_
 68	vieles	vieles	_	_	_	_	_	_	_
 69	ist	ist	_	_	_	_	_	_	_
 70	noch	noch	_	_	_	_	_	_	_
-71	unveröffentlicht,	unveröffentlicht,	_	_	_	_	_	_	_
+71	unveröffentlicht	unveröffentlicht	_	_	_	_	_	_	_
 72	das	das	_	_	_	_	_	_	_
 73	meiste	meiste	_	_	_	_	_	_	_
 74	nicht	nicht	_	_	_	_	_	_	_
@@ -82,13 +82,13 @@
 82	einmal	einmal	_	_	_	_	_	_	_
 83	in	in	_	_	_	_	_	_	_
 84	weiter	weiter	_	_	_	_	_	_	_
-85	Sicht'	Sicht'	_	_	_	_	_	_	_
+85	Sicht	Sicht	_	_	_	_	_	_	_
 86	Zum	Zum	_	_	_	_	_	_	_
 87	anderen	anderen	_	_	_	_	_	_	_
 88	ist	ist	_	_	_	_	_	_	_
 89	die	die	_	_	_	_	_	_	_
 90	Auseinandersetzung	Auseinandersetzung	_	_	_	_	_	_	_
-91	riskant,	riskant,	_	_	_	_	_	_	_
+91	riskant	riskant	_	_	_	_	_	_	_
 92	weil	weil	_	_	_	_	_	_	_
 93	Peirce	Peirce	_	_	_	_	_	_	_
 94	mehrfach	mehrfach	_	_	_	_	_	_	_
@@ -104,7 +104,7 @@
 104	bis	bis	_	_	_	_	_	_	_
 105	1914	1914	_	_	_	_	_	_	_
 106	seine	seine	_	_	_	_	_	_	_
-107	Terminologie,	Terminologie,	_	_	_	_	_	_	_
+107	Terminologie	Terminologie	_	_	_	_	_	_	_
 108	aber	aber	_	_	_	_	_	_	_
 109	auch	auch	_	_	_	_	_	_	_
 110	seine	seine	_	_	_	_	_	_	_
@@ -112,7 +112,7 @@
 112	wechselte2So	wechselte2So	_	_	_	_	_	_	_
 113	faßte	faßte	_	_	_	_	_	_	_
 114	Peirce	Peirce	_	_	_	_	_	_	_
-115	-	-	_	_	_	_	_	_	_
+115			_	_	_	_	_	_	_
 116	um	um	_	_	_	_	_	_	_
 117	ein	ein	_	_	_	_	_	_	_
 118	besonders	besonders	_	_	_	_	_	_	_
@@ -120,19 +120,19 @@
 120	Beispiel	Beispiel	_	_	_	_	_	_	_
 121	zu	zu	_	_	_	_	_	_	_
 122	nennen	nennen	_	_	_	_	_	_	_
-123	-	-	_	_	_	_	_	_	_
+123			_	_	_	_	_	_	_
 124	bis	bis	_	_	_	_	_	_	_
 125	etwa	etwa	_	_	_	_	_	_	_
 126	1898unter	1898unter	_	_	_	_	_	_	_
 127	den	den	_	_	_	_	_	_	_
 128	Namen	Namen	_	_	_	_	_	_	_
-129	'Hypothese'	'Hypothese'	_	_	_	_	_	_	_
+129	Hypothese	Hypothese	_	_	_	_	_	_	_
 130	zwei	zwei	_	_	_	_	_	_	_
 131	recht	recht	_	_	_	_	_	_	_
 132	unterschiedliche	unterschiedliche	_	_	_	_	_	_	_
 133	Formen	Formen	_	_	_	_	_	_	_
 134	des	des	_	_	_	_	_	_	_
-135	Schlußfolgerns,	Schlußfolgerns,	_	_	_	_	_	_	_
+135	Schlußfolgerns	Schlußfolgerns	_	_	_	_	_	_	_
 136	ohne	ohne	_	_	_	_	_	_	_
 137	dies	dies	_	_	_	_	_	_	_
 138	jedoch	jedoch	_	_	_	_	_	_	_
@@ -146,13 +146,13 @@
 146	Gebrauch	Gebrauch	_	_	_	_	_	_	_
 147	des	des	_	_	_	_	_	_	_
 148	Namens	Namens	_	_	_	_	_	_	_
-149	'Hypothese'	'Hypothese'	_	_	_	_	_	_	_
+149	Hypothese	Hypothese	_	_	_	_	_	_	_
 150	zu	zu	_	_	_	_	_	_	_
 151	Anfang	Anfang	_	_	_	_	_	_	_
 152	der	der	_	_	_	_	_	_	_
-153	90-er	90-er	_	_	_	_	_	_	_
+153	90er	90er	_	_	_	_	_	_	_
 154	Jahre	Jahre	_	_	_	_	_	_	_
-155	auffiel,	auffiel,	_	_	_	_	_	_	_
+155	auffiel	auffiel	_	_	_	_	_	_	_
 156	arbeitete	arbeitete	_	_	_	_	_	_	_
 157	er	er	_	_	_	_	_	_	_
 158	in	in	_	_	_	_	_	_	_
@@ -178,7 +178,7 @@
 178	andere	andere	_	_	_	_	_	_	_
 179	Abduktion	Abduktion	_	_	_	_	_	_	_
 180	Das	Das	_	_	_	_	_	_	_
-181	meiste,	meiste,	_	_	_	_	_	_	_
+181	meiste	meiste	_	_	_	_	_	_	_
 182	was	was	_	_	_	_	_	_	_
 183	Peirce	Peirce	_	_	_	_	_	_	_
 184	vor	vor	_	_	_	_	_	_	_
@@ -186,14 +186,14 @@
 186	zu	zu	_	_	_	_	_	_	_
 187	dem	dem	_	_	_	_	_	_	_
 188	Thema	Thema	_	_	_	_	_	_	_
-189	'Hypothese'	'Hypothese'	_	_	_	_	_	_	_
+189	Hypothese	Hypothese	_	_	_	_	_	_	_
 190	geschrieben	geschrieben	_	_	_	_	_	_	_
-191	hatte,	hatte,	_	_	_	_	_	_	_
+191	hatte	hatte	_	_	_	_	_	_	_
 192	charakterisierte	charakterisierte	_	_	_	_	_	_	_
 193	jedoch	jedoch	_	_	_	_	_	_	_
 194	nicht	nicht	_	_	_	_	_	_	_
 195	die	die	_	_	_	_	_	_	_
-196	Abduktion,	Abduktion,	_	_	_	_	_	_	_
+196	Abduktion	Abduktion	_	_	_	_	_	_	_
 197	sondern	sondern	_	_	_	_	_	_	_
 198	die	die	_	_	_	_	_	_	_
 199	qualitative	qualitative	_	_	_	_	_	_	_
@@ -202,13 +202,13 @@
 202	neuen	neuen	_	_	_	_	_	_	_
 203	Namen	Namen	_	_	_	_	_	_	_
 204	markierten	markierten	_	_	_	_	_	_	_
-205	-	-	_	_	_	_	_	_	_
+205			_	_	_	_	_	_	_
 206	dies	dies	_	_	_	_	_	_	_
 207	ist	ist	_	_	_	_	_	_	_
 208	allerdings	allerdings	_	_	_	_	_	_	_
 209	nicht	nicht	_	_	_	_	_	_	_
 210	unstrittig	unstrittig	_	_	_	_	_	_	_
-211	-	-	_	_	_	_	_	_	_
+211			_	_	_	_	_	_	_
 212	eine	eine	_	_	_	_	_	_	_
 213	einschneidende	einschneidende	_	_	_	_	_	_	_
 214	Änderung	Änderung	_	_	_	_	_	_	_
@@ -250,7 +250,7 @@
 250	Peirce	Peirce	_	_	_	_	_	_	_
 251	auseinander	auseinander	_	_	_	_	_	_	_
 252	setzen	setzen	_	_	_	_	_	_	_
-253	will,	will,	_	_	_	_	_	_	_
+253	will	will	_	_	_	_	_	_	_
 254	muß	muß	_	_	_	_	_	_	_
 255	wegen	wegen	_	_	_	_	_	_	_
 256	der	der	_	_	_	_	_	_	_
@@ -262,7 +262,7 @@
 262	gewisse	gewisse	_	_	_	_	_	_	_
 263	Vorsicht	Vorsicht	_	_	_	_	_	_	_
 264	walten	walten	_	_	_	_	_	_	_
-265	lassen,	lassen,	_	_	_	_	_	_	_
+265	lassen	lassen	_	_	_	_	_	_	_
 266	zum	zum	_	_	_	_	_	_	_
 267	anderen	anderen	_	_	_	_	_	_	_
 268	wird	wird	_	_	_	_	_	_	_
@@ -273,7 +273,7 @@
 273	Philosophie	Philosophie	_	_	_	_	_	_	_
 274	von	von	_	_	_	_	_	_	_
 275	Peirce	Peirce	_	_	_	_	_	_	_
-276	untersuchen,	untersuchen,	_	_	_	_	_	_	_
+276	untersuchen	untersuchen	_	_	_	_	_	_	_
 277	sondern	sondern	_	_	_	_	_	_	_
 278	nur	nur	_	_	_	_	_	_	_
 279	einen	einen	_	_	_	_	_	_	_
@@ -287,7 +287,7 @@
 287	mich	mich	_	_	_	_	_	_	_
 288	auf	auf	_	_	_	_	_	_	_
 289	einen	einen	_	_	_	_	_	_	_
-290	kleinen,	kleinen,	_	_	_	_	_	_	_
+290	kleinen	kleinen	_	_	_	_	_	_	_
 291	wenn	wenn	_	_	_	_	_	_	_
 292	auch	auch	_	_	_	_	_	_	_
 293	zentralen	zentralen	_	_	_	_	_	_	_
@@ -297,21 +297,21 @@
 297	also	also	_	_	_	_	_	_	_
 298	ab	ab	_	_	_	_	_	_	_
 299	1890	1890	_	_	_	_	_	_	_
-300	beschränken,	beschränken,	_	_	_	_	_	_	_
-301	genauer:	genauer:	_	_	_	_	_	_	_
+300	beschränken	beschränken	_	_	_	_	_	_	_
+301	genauer	genauer	_	_	_	_	_	_	_
 302	auf	auf	_	_	_	_	_	_	_
 303	die	die	_	_	_	_	_	_	_
 304	Darstellung	Darstellung	_	_	_	_	_	_	_
 305	der	der	_	_	_	_	_	_	_
 306	impliziten	impliziten	_	_	_	_	_	_	_
-307	Anthropologie,	Anthropologie,	_	_	_	_	_	_	_
+307	Anthropologie	Anthropologie	_	_	_	_	_	_	_
 308	welche	welche	_	_	_	_	_	_	_
 309	dem	dem	_	_	_	_	_	_	_
 310	Konzept	Konzept	_	_	_	_	_	_	_
 311	des	des	_	_	_	_	_	_	_
 312	Wissenserwerbs	Wissenserwerbs	_	_	_	_	_	_	_
 313	oder	oder	_	_	_	_	_	_	_
-314	enger:	enger:	_	_	_	_	_	_	_
+314	enger	enger	_	_	_	_	_	_	_
 315	dem	dem	_	_	_	_	_	_	_
 316	Konzept	Konzept	_	_	_	_	_	_	_
 317	des	des	_	_	_	_	_	_	_
@@ -335,12 +335,12 @@
 335	und	und	_	_	_	_	_	_	_
 336	den	den	_	_	_	_	_	_	_
 337	Ausdruck	Ausdruck	_	_	_	_	_	_	_
-338	'Abduktion'	'Abduktion'	_	_	_	_	_	_	_
+338	Abduktion	Abduktion	_	_	_	_	_	_	_
 339	etwa	etwa	_	_	_	_	_	_	_
 340	seit	seit	_	_	_	_	_	_	_
 341	1898	1898	_	_	_	_	_	_	_
 342	verwendet	verwendet	_	_	_	_	_	_	_
-343	hat,	hat,	_	_	_	_	_	_	_
+343	hat	hat	_	_	_	_	_	_	_
 344	ergibt	ergibt	_	_	_	_	_	_	_
 345	sich	sich	_	_	_	_	_	_	_
 346	die	die	_	_	_	_	_	_	_
@@ -367,7 +367,7 @@
 367	Besonderheit	Besonderheit	_	_	_	_	_	_	_
 368	des	des	_	_	_	_	_	_	_
 369	Peirceschen	Peirceschen	_	_	_	_	_	_	_
-370	Konzepts,	Konzepts,	_	_	_	_	_	_	_
+370	Konzepts	Konzepts	_	_	_	_	_	_	_
 371	welche	welche	_	_	_	_	_	_	_
 372	ich	ich	_	_	_	_	_	_	_
 373	weiter	weiter	_	_	_	_	_	_	_
@@ -379,7 +379,7 @@
 379	jedoch	jedoch	_	_	_	_	_	_	_
 380	versuche	versuche	_	_	_	_	_	_	_
 381	das	das	_	_	_	_	_	_	_
-382	Menschenbild,	Menschenbild,	_	_	_	_	_	_	_
+382	Menschenbild	Menschenbild	_	_	_	_	_	_	_
 383	welches	welches	_	_	_	_	_	_	_
 384	in	in	_	_	_	_	_	_	_
 385	der	der	_	_	_	_	_	_	_
@@ -393,14 +393,14 @@
 393	implizit	implizit	_	_	_	_	_	_	_
 394	zum	zum	_	_	_	_	_	_	_
 395	Ausdruck	Ausdruck	_	_	_	_	_	_	_
-396	kommt,	kommt,	_	_	_	_	_	_	_
+396	kommt	kommt	_	_	_	_	_	_	_
 397	zu	zu	_	_	_	_	_	_	_
-398	rekonstruieren,	rekonstruieren,	_	_	_	_	_	_	_
+398	rekonstruieren	rekonstruieren	_	_	_	_	_	_	_
 399	muß	muß	_	_	_	_	_	_	_
 400	der	der	_	_	_	_	_	_	_
 401	Vordergrund	Vordergrund	_	_	_	_	_	_	_
 402	gezeichnet	gezeichnet	_	_	_	_	_	_	_
-403	werden,	werden,	_	_	_	_	_	_	_
+403	werden	werden	_	_	_	_	_	_	_
 404	muß	muß	_	_	_	_	_	_	_
 405	also	also	_	_	_	_	_	_	_
 406	eine	eine	_	_	_	_	_	_	_
@@ -411,7 +411,7 @@
 411	Erkenntnistheorie	Erkenntnistheorie	_	_	_	_	_	_	_
 412	von	von	_	_	_	_	_	_	_
 413	Peirce	Peirce	_	_	_	_	_	_	_
-414	ange-	ange-	_	_	_	_	_	_	_
+414	ange	ange	_	_	_	_	_	_	_
 415	fertigt	fertigt	_	_	_	_	_	_	_
 416	werden3	werden3	_	_	_	_	_	_	_
 

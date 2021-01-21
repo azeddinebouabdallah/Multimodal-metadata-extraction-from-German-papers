@@ -33,25 +33,25 @@
 33	Institut	Institut	_	_	_	_	_	_	_
 34	in	in	_	_	_	_	_	_	_
 35	Chicago	Chicago	_	_	_	_	_	_	_
-36	rollte,	rollte,	_	_	_	_	_	_	_
+36	rollte	rollte	_	_	_	_	_	_	_
 37	in	in	_	_	_	_	_	_	_
 38	dem	dem	_	_	_	_	_	_	_
 39	ich	ich	_	_	_	_	_	_	_
 40	mein	mein	_	_	_	_	_	_	_
 41	Auslandsstudienjahr	Auslandsstudienjahr	_	_	_	_	_	_	_
 42	verbringen	verbringen	_	_	_	_	_	_	_
-43	sollte,	sollte,	_	_	_	_	_	_	_
+43	sollte	sollte	_	_	_	_	_	_	_
 44	traute	traute	_	_	_	_	_	_	_
 45	ich	ich	_	_	_	_	_	_	_
 46	meinen	meinen	_	_	_	_	_	_	_
 47	Augen	Augen	_	_	_	_	_	_	_
-48	kaum:	kaum:	_	_	_	_	_	_	_
+48	kaum	kaum	_	_	_	_	_	_	_
 49	Abseits	Abseits	_	_	_	_	_	_	_
 50	vom	vom	_	_	_	_	_	_	_
-51	Hauptcampus,	Hauptcampus,	_	_	_	_	_	_	_
+51	Hauptcampus	Hauptcampus	_	_	_	_	_	_	_
 52	in	in	_	_	_	_	_	_	_
 53	einem	einem	_	_	_	_	_	_	_
-54	Gebäude,	Gebäude,	_	_	_	_	_	_	_
+54	Gebäude	Gebäude	_	_	_	_	_	_	_
 55	das	das	_	_	_	_	_	_	_
 56	außen	außen	_	_	_	_	_	_	_
 57	wie	wie	_	_	_	_	_	_	_
@@ -62,7 +62,7 @@
 62	wie	wie	_	_	_	_	_	_	_
 63	ein	ein	_	_	_	_	_	_	_
 64	Krankenhaus	Krankenhaus	_	_	_	_	_	_	_
-65	aussah,	aussah,	_	_	_	_	_	_	_
+65	aussah	aussah	_	_	_	_	_	_	_
 66	versammelte	versammelte	_	_	_	_	_	_	_
 67	sich	sich	_	_	_	_	_	_	_
 68	eine	eine	_	_	_	_	_	_	_
@@ -73,9 +73,9 @@
 73	gemischter	gemischter	_	_	_	_	_	_	_
 74	Leute	Leute	_	_	_	_	_	_	_
 75	unterschiedlichen	unterschiedlichen	_	_	_	_	_	_	_
-76	Alters,	Alters,	_	_	_	_	_	_	_
+76	Alters	Alters	_	_	_	_	_	_	_
 77	einige	einige	_	_	_	_	_	_	_
-78	mit,	mit,	_	_	_	_	_	_	_
+78	mit	mit	_	_	_	_	_	_	_
 79	einige	einige	_	_	_	_	_	_	_
 80	ohne	ohne	_	_	_	_	_	_	_
 81	Behinderung	Behinderung	_	_	_	_	_	_	_
@@ -92,18 +92,18 @@
 92	in	in	_	_	_	_	_	_	_
 93	meinem	meinem	_	_	_	_	_	_	_
 94	Studiengang	Studiengang	_	_	_	_	_	_	_
-95	Psychologie,	Psychologie,	_	_	_	_	_	_	_
-96	>zu	>zu	_	_	_	_	_	_	_
-97	Hause<	Hause<	_	_	_	_	_	_	_
+95	Psychologie	Psychologie	_	_	_	_	_	_	_
+96	zu	zu	_	_	_	_	_	_	_
+97	Hause	Hause	_	_	_	_	_	_	_
 98	an	an	_	_	_	_	_	_	_
 99	der	der	_	_	_	_	_	_	_
 100	Uni	Uni	_	_	_	_	_	_	_
-101	Bremen,	Bremen,	_	_	_	_	_	_	_
+101	Bremen	Bremen	_	_	_	_	_	_	_
 102	ging	ging	_	_	_	_	_	_	_
 103	es	es	_	_	_	_	_	_	_
 104	hier	hier	_	_	_	_	_	_	_
 105	nicht	nicht	_	_	_	_	_	_	_
-106	zu:	zu:	_	_	_	_	_	_	_
+106	zu	zu	_	_	_	_	_	_	_
 107	Statt	Statt	_	_	_	_	_	_	_
 108	mit	mit	_	_	_	_	_	_	_
 109	20	20	_	_	_	_	_	_	_
@@ -130,7 +130,7 @@
 130	nur	nur	_	_	_	_	_	_	_
 131	ein	ein	_	_	_	_	_	_	_
 132	paar	paar	_	_	_	_	_	_	_
-133	Automaten,	Automaten,	_	_	_	_	_	_	_
+133	Automaten	Automaten	_	_	_	_	_	_	_
 134	statt	statt	_	_	_	_	_	_	_
 135	der	der	_	_	_	_	_	_	_
 136	mir	mir	_	_	_	_	_	_	_
@@ -146,7 +146,7 @@
 146	die	die	_	_	_	_	_	_	_
 147	gekachelten	gekachelten	_	_	_	_	_	_	_
 148	Flure	Flure	_	_	_	_	_	_	_
-149	-	-	_	_	_	_	_	_	_
+149			_	_	_	_	_	_	_
 150	denn	denn	_	_	_	_	_	_	_
 151	schließlich	schließlich	_	_	_	_	_	_	_
 152	befand	befand	_	_	_	_	_	_	_
@@ -157,12 +157,12 @@
 157	in	in	_	_	_	_	_	_	_
 158	einem	einem	_	_	_	_	_	_	_
 159	typischen	typischen	_	_	_	_	_	_	_
-160	College,	College,	_	_	_	_	_	_	_
+160	College	College	_	_	_	_	_	_	_
 161	sondern	sondern	_	_	_	_	_	_	_
 162	eher	eher	_	_	_	_	_	_	_
 163	in	in	_	_	_	_	_	_	_
 164	einem	einem	_	_	_	_	_	_	_
-165	Büro-	Büro-	_	_	_	_	_	_	_
+165	Büro	Büro	_	_	_	_	_	_	_
 166	und	und	_	_	_	_	_	_	_
 167	Arbeitsgebäu­	Arbeitsgebäu­	_	_	_	_	_	_	_
 168	de	de	_	_	_	_	_	_	_
@@ -189,15 +189,15 @@
 189	Buch	Buch	_	_	_	_	_	_	_
 190	Pflichtlektüre	Pflichtlektüre	_	_	_	_	_	_	_
 191	als	als	_	_	_	_	_	_	_
-192	,Hausaufgabe<,	,Hausaufgabe<,	_	_	_	_	_	_	_
+192	Hausaufgabe	Hausaufgabe	_	_	_	_	_	_	_
 193	die	die	_	_	_	_	_	_	_
 194	klaglos	klaglos	_	_	_	_	_	_	_
 195	bearbeitet	bearbeitet	_	_	_	_	_	_	_
 196	wurden	wurden	_	_	_	_	_	_	_
-197	-	-	_	_	_	_	_	_	_
+197			_	_	_	_	_	_	_
 198	kein	kein	_	_	_	_	_	_	_
 199	Wun­	Wun­	_	_	_	_	_	_	_
-200	der,	der,	_	_	_	_	_	_	_
+200	der	der	_	_	_	_	_	_	_
 201	nahmen	nahmen	_	_	_	_	_	_	_
 202	doch	doch	_	_	_	_	_	_	_
 203	Dozenten	Dozenten	_	_	_	_	_	_	_
@@ -213,7 +213,7 @@
 213	an	an	_	_	_	_	_	_	_
 214	einem	einem	_	_	_	_	_	_	_
 215	gemeinsamen	gemeinsamen	_	_	_	_	_	_	_
-216	Projekt:	Projekt:	_	_	_	_	_	_	_
+216	Projekt	Projekt	_	_	_	_	_	_	_
 217	das	das	_	_	_	_	_	_	_
 218	traditionelle	traditionelle	_	_	_	_	_	_	_
 219	Verständ­	Verständ­	_	_	_	_	_	_	_
@@ -227,11 +227,11 @@
 227	auf	auf	_	_	_	_	_	_	_
 228	neue	neue	_	_	_	_	_	_	_
 229	Beine	Beine	_	_	_	_	_	_	_
-230	-	-	_	_	_	_	_	_	_
+230			_	_	_	_	_	_	_
 231	bezie­	bezie­	_	_	_	_	_	_	_
 232	hungsweise	hungsweise	_	_	_	_	_	_	_
 233	Räder	Räder	_	_	_	_	_	_	_
-234	-	-	_	_	_	_	_	_	_
+234			_	_	_	_	_	_	_
 235	zu	zu	_	_	_	_	_	_	_
 236	stellen	stellen	_	_	_	_	_	_	_
 237	So	So	_	_	_	_	_	_	_
@@ -260,7 +260,7 @@
 260	und	und	_	_	_	_	_	_	_
 261	neu	neu	_	_	_	_	_	_	_
 262	für	für	_	_	_	_	_	_	_
-263	mich,	mich,	_	_	_	_	_	_	_
+263	mich	mich	_	_	_	_	_	_	_
 264	so	so	_	_	_	_	_	_	_
 265	übertrafen	übertrafen	_	_	_	_	_	_	_
 266	die	die	_	_	_	_	_	_	_
@@ -281,7 +281,7 @@
 281	Studiums	Studiums	_	_	_	_	_	_	_
 282	zu	zu	_	_	_	_	_	_	_
 283	rücken	rücken	_	_	_	_	_	_	_
-284	P&G	P&G	_	_	_	_	_	_	_
-285	1/05	1/05	_	_	_	_	_	_	_
+284	PG	PG	_	_	_	_	_	_	_
+285	105	105	_	_	_	_	_	_	_
 286	127	127	_	_	_	_	_	_	_
 

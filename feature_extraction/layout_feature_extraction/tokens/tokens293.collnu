@@ -1,16 +1,16 @@
 1	Dieter	Dieter	_	_	_	_	_	_	_
-2	Scheib/er	Scheib/er	_	_	_	_	_	_	_
+2	Scheiber	Scheiber	_	_	_	_	_	_	_
 3	»Nicht	»Nicht	_	_	_	_	_	_	_
 4	optimal	optimal	_	_	_	_	_	_	_
 5	gelaufen	gelaufen	_	_	_	_	_	_	_
 6			_	_	_	_	_	_	_
-7	?«	?«	_	_	_	_	_	_	_
+7	«	«	_	_	_	_	_	_	_
 8	Einige	Einige	_	_	_	_	_	_	_
 9	Diskursmuster	Diskursmuster	_	_	_	_	_	_	_
 10	der	der	_	_	_	_	_	_	_
 11	Entpolitisierung	Entpolitisierung	_	_	_	_	_	_	_
 12	beim	beim	_	_	_	_	_	_	_
-13	Sozialabbau'	Sozialabbau'	_	_	_	_	_	_	_
+13	Sozialabbau	Sozialabbau	_	_	_	_	_	_	_
 14	Im	Im	_	_	_	_	_	_	_
 15	Folgenden	Folgenden	_	_	_	_	_	_	_
 16	wird	wird	_	_	_	_	_	_	_
@@ -21,7 +21,7 @@
 21	einer	einer	_	_	_	_	_	_	_
 22	Familienberatungs­	Familienberatungs­	_	_	_	_	_	_	_
 23	stelle	stelle	_	_	_	_	_	_	_
-24	aufgezeigt,	aufgezeigt,	_	_	_	_	_	_	_
+24	aufgezeigt	aufgezeigt	_	_	_	_	_	_	_
 25	wie	wie	_	_	_	_	_	_	_
 26	gesamtgesellschaftliche	gesamtgesellschaftliche	_	_	_	_	_	_	_
 27	Diskursmuster	Diskursmuster	_	_	_	_	_	_	_
@@ -45,7 +45,7 @@
 45	der	der	_	_	_	_	_	_	_
 46	Vorstand	Vorstand	_	_	_	_	_	_	_
 47	des	des	_	_	_	_	_	_	_
-48	XXX2,	XXX2,	_	_	_	_	_	_	_
+48	XXX2	XXX2	_	_	_	_	_	_	_
 49	die	die	_	_	_	_	_	_	_
 50	Familien­	Familien­	_	_	_	_	_	_	_
 51	beratungsstelle	beratungsstelle	_	_	_	_	_	_	_
@@ -73,7 +73,7 @@
 73	über	über	_	_	_	_	_	_	_
 74	die	die	_	_	_	_	_	_	_
 75	Bühne	Bühne	_	_	_	_	_	_	_
-76	gehen,	gehen,	_	_	_	_	_	_	_
+76	gehen	gehen	_	_	_	_	_	_	_
 77	da	da	_	_	_	_	_	_	_
 78	das	das	_	_	_	_	_	_	_
 79	Geschehen	Geschehen	_	_	_	_	_	_	_
@@ -98,7 +98,7 @@
 98	Nach	Nach	_	_	_	_	_	_	_
 99	innen	innen	_	_	_	_	_	_	_
 100	wurde	wurde	_	_	_	_	_	_	_
-101	polarisiert:	polarisiert:	_	_	_	_	_	_	_
+101	polarisiert	polarisiert	_	_	_	_	_	_	_
 102	»Entweder	»Entweder	_	_	_	_	_	_	_
 103	die	die	_	_	_	_	_	_	_
 104	Beratungsstelle	Beratungsstelle	_	_	_	_	_	_	_
@@ -109,11 +109,11 @@
 109	und	und	_	_	_	_	_	_	_
 110	nach	nach	_	_	_	_	_	_	_
 111	außen	außen	_	_	_	_	_	_	_
-112	signalisiert:	signalisiert:	_	_	_	_	_	_	_
+112	signalisiert	signalisiert	_	_	_	_	_	_	_
 113	»Wir	»Wir	_	_	_	_	_	_	_
 114	konnten	konnten	_	_	_	_	_	_	_
 115	nicht	nicht	_	_	_	_	_	_	_
-116	anders,	anders,	_	_	_	_	_	_	_
+116	anders	anders	_	_	_	_	_	_	_
 117	sonst	sonst	_	_	_	_	_	_	_
 118	wäre	wäre	_	_	_	_	_	_	_
 119	das	das	_	_	_	_	_	_	_
@@ -166,7 +166,7 @@
 166	im	im	_	_	_	_	_	_	_
 167	Regen	Regen	_	_	_	_	_	_	_
 168	stehen	stehen	_	_	_	_	_	_	_
-169	Protestbriefe,	Protestbriefe,	_	_	_	_	_	_	_
+169	Protestbriefe	Protestbriefe	_	_	_	_	_	_	_
 170	Unterschriftenaktion	Unterschriftenaktion	_	_	_	_	_	_	_
 171	und	und	_	_	_	_	_	_	_
 172	eine	eine	_	_	_	_	_	_	_
@@ -190,13 +190,13 @@
 190	der	der	_	_	_	_	_	_	_
 191	herrschenden	herrschenden	_	_	_	_	_	_	_
 192	Politik	Politik	_	_	_	_	_	_	_
-193	-	-	_	_	_	_	_	_	_
+193			_	_	_	_	_	_	_
 194	»Es	»Es	_	_	_	_	_	_	_
 195	ist	ist	_	_	_	_	_	_	_
 196	kein	kein	_	_	_	_	_	_	_
 197	Geld	Geld	_	_	_	_	_	_	_
 198	da	da	_	_	_	_	_	_	_
-199	-	-	_	_	_	_	_	_	_
+199			_	_	_	_	_	_	_
 200	wir	wir	_	_	_	_	_	_	_
 201	können	können	_	_	_	_	_	_	_
 202	uns	uns	_	_	_	_	_	_	_
@@ -205,11 +205,11 @@
 205	nicht	nicht	_	_	_	_	_	_	_
 206	mehr	mehr	_	_	_	_	_	_	_
 207	leisten«	leisten«	_	_	_	_	_	_	_
-208	-	-	_	_	_	_	_	_	_
+208			_	_	_	_	_	_	_
 209	entsteht	entsteht	_	_	_	_	_	_	_
 210	Jahr	Jahr	_	_	_	_	_	_	_
 211	für	für	_	_	_	_	_	_	_
-212	P&G	P&G	_	_	_	_	_	_	_
-213	2/05	2/05	_	_	_	_	_	_	_
+212	PG	PG	_	_	_	_	_	_	_
+213	205	205	_	_	_	_	_	_	_
 214	91	91	_	_	_	_	_	_	_
 

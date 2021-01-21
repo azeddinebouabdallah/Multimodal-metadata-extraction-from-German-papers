@@ -1,4 +1,4 @@
-1	Lern-	Lern-	_	_	_	_	_	_	_
+1	Lern	Lern	_	_	_	_	_	_	_
 2	und	und	_	_	_	_	_	_	_
 3	Lehrmotivation	Lehrmotivation	_	_	_	_	_	_	_
 4	Reinhard	Reinhard	_	_	_	_	_	_	_
@@ -51,7 +51,7 @@
 51	unerforschtes	unerforschtes	_	_	_	_	_	_	_
 52	Terrain	Terrain	_	_	_	_	_	_	_
 53	zu	zu	_	_	_	_	_	_	_
-54	sein,	sein,	_	_	_	_	_	_	_
+54	sein	sein	_	_	_	_	_	_	_
 55	auf	auf	_	_	_	_	_	_	_
 56	das	das	_	_	_	_	_	_	_
 57	sich	sich	_	_	_	_	_	_	_
@@ -147,7 +147,7 @@
 147	sein	sein	_	_	_	_	_	_	_
 148	Ein	Ein	_	_	_	_	_	_	_
 149	bestimmtes	bestimmtes	_	_	_	_	_	_	_
-150	Muster,	Muster,	_	_	_	_	_	_	_
+150	Muster	Muster	_	_	_	_	_	_	_
 151	Fragen	Fragen	_	_	_	_	_	_	_
 152	zu	zu	_	_	_	_	_	_	_
 153	stellen	stellen	_	_	_	_	_	_	_
@@ -155,7 +155,7 @@
 155	Antworten	Antworten	_	_	_	_	_	_	_
 156	darauf	darauf	_	_	_	_	_	_	_
 157	zu	zu	_	_	_	_	_	_	_
-158	suchen,	suchen,	_	_	_	_	_	_	_
+158	suchen	suchen	_	_	_	_	_	_	_
 159	das	das	_	_	_	_	_	_	_
 160	mit	mit	_	_	_	_	_	_	_
 161	Ratke	Ratke	_	_	_	_	_	_	_
@@ -168,7 +168,7 @@
 168	vorlaufig	vorlaufig	_	_	_	_	_	_	_
 169	letzten	letzten	_	_	_	_	_	_	_
 170	H6hepunkt	H6hepunkt	_	_	_	_	_	_	_
-171	fand,	fand,	_	_	_	_	_	_	_
+171	fand	fand	_	_	_	_	_	_	_
 172	scheint	scheint	_	_	_	_	_	_	_
 173	ausgereizt	ausgereizt	_	_	_	_	_	_	_
 174	zu	zu	_	_	_	_	_	_	_
@@ -182,7 +182,7 @@
 182	Konzepten	Konzepten	_	_	_	_	_	_	_
 183	der	der	_	_	_	_	_	_	_
 184	Didaktik	Didaktik	_	_	_	_	_	_	_
-185	-	-	_	_	_	_	_	_	_
+185			_	_	_	_	_	_	_
 186	von	von	_	_	_	_	_	_	_
 187	der	der	_	_	_	_	_	_	_
 188	materialen	materialen	_	_	_	_	_	_	_
@@ -192,7 +192,7 @@
 192	zur	zur	_	_	_	_	_	_	_
 193	kategorialen	kategorialen	_	_	_	_	_	_	_
 194	Bildung	Bildung	_	_	_	_	_	_	_
-195	-	-	_	_	_	_	_	_	_
+195			_	_	_	_	_	_	_
 196	ist	ist	_	_	_	_	_	_	_
 197	fUr	fUr	_	_	_	_	_	_	_
 198	Studierende	Studierende	_	_	_	_	_	_	_
@@ -216,7 +216,7 @@
 216	Jank	Jank	_	_	_	_	_	_	_
 217	und	und	_	_	_	_	_	_	_
 218	Meyer	Meyer	_	_	_	_	_	_	_
-219	1991,	1991,	_	_	_	_	_	_	_
+219	1991	1991	_	_	_	_	_	_	_
 220	284	284	_	_	_	_	_	_	_
 221	kommen	kommen	_	_	_	_	_	_	_
 222	nach	nach	_	_	_	_	_	_	_
@@ -224,7 +224,7 @@
 224	grundlichen	grundlichen	_	_	_	_	_	_	_
 225	Vergleich	Vergleich	_	_	_	_	_	_	_
 226	4	4	_	_	_	_	_	_	_
-227	JAHRGANG,	JAHRGANG,	_	_	_	_	_	_	_
+227	JAHRGANG	JAHRGANG	_	_	_	_	_	_	_
 228	HEFT	HEFT	_	_	_	_	_	_	_
 229	2	2	_	_	_	_	_	_	_
 230	der	der	_	_	_	_	_	_	_
@@ -234,13 +234,13 @@
 234	wichtigsten	wichtigsten	_	_	_	_	_	_	_
 235	heutigen	heutigen	_	_	_	_	_	_	_
 236	Di­	Di­	_	_	_	_	_	_	_
-237	daktik-Modelle	daktik-Modelle	_	_	_	_	_	_	_
-238	-	-	_	_	_	_	_	_	_
+237	daktikModelle	daktikModelle	_	_	_	_	_	_	_
+238			_	_	_	_	_	_	_
 239	der	der	_	_	_	_	_	_	_
-240	»Kritisch-konstruktiven	»Kritisch-konstruktiven	_	_	_	_	_	_	_
+240	»Kritischkonstruktiven	»Kritischkonstruktiven	_	_	_	_	_	_	_
 241	Didaktik«	Didaktik«	_	_	_	_	_	_	_
 242	Wolfgang	Wolfgang	_	_	_	_	_	_	_
-243	Klafkis,	Klafkis,	_	_	_	_	_	_	_
+243	Klafkis	Klafkis	_	_	_	_	_	_	_
 244	des	des	_	_	_	_	_	_	_
 245	Hambur­	Hambur­	_	_	_	_	_	_	_
 246	ger	ger	_	_	_	_	_	_	_
@@ -261,15 +261,15 @@
 261	von	von	_	_	_	_	_	_	_
 262	Lothar	Lothar	_	_	_	_	_	_	_
 263	Klingberg	Klingberg	_	_	_	_	_	_	_
-264	-	-	_	_	_	_	_	_	_
+264			_	_	_	_	_	_	_
 265	zu	zu	_	_	_	_	_	_	_
 266	dem	dem	_	_	_	_	_	_	_
-267	SchluB:	SchluB:	_	_	_	_	_	_	_
+267	SchluB	SchluB	_	_	_	_	_	_	_
 268	Die	Die	_	_	_	_	_	_	_
 269	unterrichts­	unterrichts­	_	_	_	_	_	_	_
 270	theoretischen	theoretischen	_	_	_	_	_	_	_
 271	und	und	_	_	_	_	_	_	_
-272	-	-	_	_	_	_	_	_	_
+272			_	_	_	_	_	_	_
 273	praktischen	praktischen	_	_	_	_	_	_	_
 274	Differenzen	Differenzen	_	_	_	_	_	_	_
 275	fUhrender	fUhrender	_	_	_	_	_	_	_
@@ -294,7 +294,7 @@
 294	in	in	_	_	_	_	_	_	_
 295	dem	dem	_	_	_	_	_	_	_
 296	Satz	Satz	_	_	_	_	_	_	_
-297	zusammen:	zusammen:	_	_	_	_	_	_	_
+297	zusammen	zusammen	_	_	_	_	_	_	_
 298	Trotz	Trotz	_	_	_	_	_	_	_
 299	fortbe­	fortbe­	_	_	_	_	_	_	_
 300	stehender	stehender	_	_	_	_	_	_	_
@@ -331,15 +331,15 @@
 331	sind	sind	_	_	_	_	_	_	_
 332	das	das	_	_	_	_	_	_	_
 333	faszinie­	faszinie­	_	_	_	_	_	_	_
-334	rende,	rende,	_	_	_	_	_	_	_
+334	rende	rende	_	_	_	_	_	_	_
 335	aber	aber	_	_	_	_	_	_	_
 336	auch	auch	_	_	_	_	_	_	_
 337	irritierende	irritierende	_	_	_	_	_	_	_
 338	Werke	Werke	_	_	_	_	_	_	_
-339	-	-	_	_	_	_	_	_	_
+339			_	_	_	_	_	_	_
 340	faszi­	faszi­	_	_	_	_	_	_	_
 341	nierend	nierend	_	_	_	_	_	_	_
-342	deshalb,	deshalb,	_	_	_	_	_	_	_
+342	deshalb	deshalb	_	_	_	_	_	_	_
 343	weil	weil	_	_	_	_	_	_	_
 344	keine	keine	_	_	_	_	_	_	_
 345	andere	andere	_	_	_	_	_	_	_
@@ -359,9 +359,9 @@
 359	an	an	_	_	_	_	_	_	_
 360	Reflexionsm6glichkeiten	Reflexionsm6glichkeiten	_	_	_	_	_	_	_
 361	ver­	ver­	_	_	_	_	_	_	_
-362	fUgt,	fUgt,	_	_	_	_	_	_	_
+362	fUgt	fUgt	_	_	_	_	_	_	_
 363	irritierend	irritierend	_	_	_	_	_	_	_
-364	deshalb,	deshalb,	_	_	_	_	_	_	_
+364	deshalb	deshalb	_	_	_	_	_	_	_
 365	weil	weil	_	_	_	_	_	_	_
 366	einerseits	einerseits	_	_	_	_	_	_	_
 367	standig	standig	_	_	_	_	_	_	_
@@ -371,32 +371,32 @@
 371	»Motivation«	»Motivation«	_	_	_	_	_	_	_
 372	die	die	_	_	_	_	_	_	_
 373	Rede	Rede	_	_	_	_	_	_	_
-374	ist,	ist,	_	_	_	_	_	_	_
+374	ist	ist	_	_	_	_	_	_	_
 375	zentralen	zentralen	_	_	_	_	_	_	_
 376	Gebieten	Gebieten	_	_	_	_	_	_	_
 377	der	der	_	_	_	_	_	_	_
 378	Psycholo­	Psycholo­	_	_	_	_	_	_	_
-379	gie,	gie,	_	_	_	_	_	_	_
+379	gie	gie	_	_	_	_	_	_	_
 380	andererseits	andererseits	_	_	_	_	_	_	_
 381	Ergebnisse	Ergebnisse	_	_	_	_	_	_	_
 382	der	der	_	_	_	_	_	_	_
-383	Lern-	Lern-	_	_	_	_	_	_	_
+383	Lern	Lern	_	_	_	_	_	_	_
 384	und	und	_	_	_	_	_	_	_
 385	Motivationspsychologie	Motivationspsychologie	_	_	_	_	_	_	_
-386	-	-	_	_	_	_	_	_	_
+386			_	_	_	_	_	_	_
 387	zumindest	zumindest	_	_	_	_	_	_	_
 388	in	in	_	_	_	_	_	_	_
 389	den	den	_	_	_	_	_	_	_
 390	didaktiktheoretischen	didaktiktheoretischen	_	_	_	_	_	_	_
 391	Begrundungszusam­	Begrundungszusam­	_	_	_	_	_	_	_
 392	menhangen	menhangen	_	_	_	_	_	_	_
-393	-	-	_	_	_	_	_	_	_
+393			_	_	_	_	_	_	_
 394	selten	selten	_	_	_	_	_	_	_
 395	Berucksichtigung	Berucksichtigung	_	_	_	_	_	_	_
 396	fin­	fin­	_	_	_	_	_	_	_
 397	den	den	_	_	_	_	_	_	_
 398	Selbst	Selbst	_	_	_	_	_	_	_
-399	Psychologen,	Psychologen,	_	_	_	_	_	_	_
+399	Psychologen	Psychologen	_	_	_	_	_	_	_
 400	die	die	_	_	_	_	_	_	_
 401	sich	sich	_	_	_	_	_	_	_
 402	als	als	_	_	_	_	_	_	_
@@ -406,10 +406,10 @@
 406	Namen	Namen	_	_	_	_	_	_	_
 407	gemacht	gemacht	_	_	_	_	_	_	_
 408	haben	haben	_	_	_	_	_	_	_
-409	-	-	_	_	_	_	_	_	_
-410	Bruner,	Bruner,	_	_	_	_	_	_	_
-411	Ausubel,	Ausubel,	_	_	_	_	_	_	_
-412	Gagne,	Gagne,	_	_	_	_	_	_	_
+409			_	_	_	_	_	_	_
+410	Bruner	Bruner	_	_	_	_	_	_	_
+411	Ausubel	Ausubel	_	_	_	_	_	_	_
+412	Gagne	Gagne	_	_	_	_	_	_	_
 413	Aebli	Aebli	_	_	_	_	_	_	_
 414	­	­	_	_	_	_	_	_	_
 415	werden	werden	_	_	_	_	_	_	_
@@ -439,11 +439,11 @@
 439	in	in	_	_	_	_	_	_	_
 440	der	der	_	_	_	_	_	_	_
 441	Skinnerschen	Skinnerschen	_	_	_	_	_	_	_
-442	Variante,	Variante,	_	_	_	_	_	_	_
+442	Variante	Variante	_	_	_	_	_	_	_
 443	nicht	nicht	_	_	_	_	_	_	_
 444	nur	nur	_	_	_	_	_	_	_
 445	aile	aile	_	_	_	_	_	_	_
-446	Motivations-	Motivations-	_	_	_	_	_	_	_
+446	Motivations	Motivations	_	_	_	_	_	_	_
 447	und	und	_	_	_	_	_	_	_
 448	Lernprozesse	Lernprozesse	_	_	_	_	_	_	_
 449	in	in	_	_	_	_	_	_	_

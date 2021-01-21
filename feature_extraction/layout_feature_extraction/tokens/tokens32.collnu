@@ -8,7 +8,7 @@
 8	Werkstattbericht	Werkstattbericht	_	_	_	_	_	_	_
 9	aus	aus	_	_	_	_	_	_	_
 10	der	der	_	_	_	_	_	_	_
-11	OM-Arbeit	OM-Arbeit	_	_	_	_	_	_	_
+11	OMArbeit	OMArbeit	_	_	_	_	_	_	_
 12	in	in	_	_	_	_	_	_	_
 13	Behinderteninstitutionen	Behinderteninstitutionen	_	_	_	_	_	_	_
 14	Nicht	Nicht	_	_	_	_	_	_	_
@@ -28,7 +28,7 @@
 28	heutigen	heutigen	_	_	_	_	_	_	_
 29	Menschen	Menschen	_	_	_	_	_	_	_
 30	sind	sind	_	_	_	_	_	_	_
-31	mobil,	mobil,	_	_	_	_	_	_	_
+31	mobil	mobil	_	_	_	_	_	_	_
 32	die	die	_	_	_	_	_	_	_
 33	sozialen	sozialen	_	_	_	_	_	_	_
 34	Verbände	Verbände	_	_	_	_	_	_	_
@@ -52,7 +52,7 @@
 52	erlaubte	erlaubte	_	_	_	_	_	_	_
 53	es	es	_	_	_	_	_	_	_
 54	uns	uns	_	_	_	_	_	_	_
-55	gleichzeitig,	gleichzeitig,	_	_	_	_	_	_	_
+55	gleichzeitig	gleichzeitig	_	_	_	_	_	_	_
 56	für	für	_	_	_	_	_	_	_
 57	die	die	_	_	_	_	_	_	_
 58	Schutzbedürftigen	Schutzbedürftigen	_	_	_	_	_	_	_
@@ -61,7 +61,7 @@
 61	differenzierter	differenzierter	_	_	_	_	_	_	_
 62	Einrichtungen	Einrichtungen	_	_	_	_	_	_	_
 63	zu	zu	_	_	_	_	_	_	_
-64	schaffen,	schaffen,	_	_	_	_	_	_	_
+64	schaffen	schaffen	_	_	_	_	_	_	_
 65	in	in	_	_	_	_	_	_	_
 66	denen	denen	_	_	_	_	_	_	_
 67	sich	sich	_	_	_	_	_	_	_
@@ -87,7 +87,7 @@
 87	Preis	Preis	_	_	_	_	_	_	_
 88	Nun	Nun	_	_	_	_	_	_	_
 89	scheint	scheint	_	_	_	_	_	_	_
-90	es,	es,	_	_	_	_	_	_	_
+90	es	es	_	_	_	_	_	_	_
 91	dass	dass	_	_	_	_	_	_	_
 92	der	der	_	_	_	_	_	_	_
 93	Gesellschaft	Gesellschaft	_	_	_	_	_	_	_
@@ -101,11 +101,11 @@
 101	hoch	hoch	_	_	_	_	_	_	_
 102	wird	wird	_	_	_	_	_	_	_
 103	Die	Die	_	_	_	_	_	_	_
-104	Summen,	Summen,	_	_	_	_	_	_	_
+104	Summen	Summen	_	_	_	_	_	_	_
 105	die	die	_	_	_	_	_	_	_
 106	dafür	dafür	_	_	_	_	_	_	_
 107	aufgewendet	aufgewendet	_	_	_	_	_	_	_
-108	werden,	werden,	_	_	_	_	_	_	_
+108	werden	werden	_	_	_	_	_	_	_
 109	wurden	wurden	_	_	_	_	_	_	_
 110	in	in	_	_	_	_	_	_	_
 111	den	den	_	_	_	_	_	_	_
@@ -130,7 +130,7 @@
 130	heute	heute	_	_	_	_	_	_	_
 131	die	die	_	_	_	_	_	_	_
 132	Überzeugung	Überzeugung	_	_	_	_	_	_	_
-133	durchgesetzt,	durchgesetzt,	_	_	_	_	_	_	_
+133	durchgesetzt	durchgesetzt	_	_	_	_	_	_	_
 134	dass	dass	_	_	_	_	_	_	_
 135	die	die	_	_	_	_	_	_	_
 136	Kostenentwicklung	Kostenentwicklung	_	_	_	_	_	_	_
@@ -152,7 +152,7 @@
 152	sich	sich	_	_	_	_	_	_	_
 153	unter	unter	_	_	_	_	_	_	_
 154	anderem	anderem	_	_	_	_	_	_	_
-155	davon,	davon,	_	_	_	_	_	_	_
+155	davon	davon	_	_	_	_	_	_	_
 156	die	die	_	_	_	_	_	_	_
 157	sozialen	sozialen	_	_	_	_	_	_	_
 158	Dienstleistungen	Dienstleistungen	_	_	_	_	_	_	_
@@ -168,7 +168,7 @@
 168	Behörden	Behörden	_	_	_	_	_	_	_
 169	werden	werden	_	_	_	_	_	_	_
 170	Maßnahmen	Maßnahmen	_	_	_	_	_	_	_
-171	beschlossen,	beschlossen,	_	_	_	_	_	_	_
+171	beschlossen	beschlossen	_	_	_	_	_	_	_
 172	die	die	_	_	_	_	_	_	_
 173	nicht	nicht	_	_	_	_	_	_	_
 174	alle	alle	_	_	_	_	_	_	_
@@ -193,7 +193,7 @@
 193	Reihe	Reihe	_	_	_	_	_	_	_
 194	von	von	_	_	_	_	_	_	_
 195	Regelun­	Regelun­	_	_	_	_	_	_	_
-196	gen,	gen,	_	_	_	_	_	_	_
+196	gen	gen	_	_	_	_	_	_	_
 197	die	die	_	_	_	_	_	_	_
 198	unter	unter	_	_	_	_	_	_	_
 199	dem	dem	_	_	_	_	_	_	_
@@ -212,7 +212,7 @@
 212	für	für	_	_	_	_	_	_	_
 213	Sozialversicher­	Sozialversicher­	_	_	_	_	_	_	_
 214	ungen	ungen	_	_	_	_	_	_	_
-215	BSV,	BSV,	_	_	_	_	_	_	_
+215	BSV	BSV	_	_	_	_	_	_	_
 216	das	das	_	_	_	_	_	_	_
 217	u	u	_	_	_	_	_	_	_
 218	a	a	_	_	_	_	_	_	_
@@ -224,14 +224,14 @@
 224	psychisch	psychisch	_	_	_	_	_	_	_
 225	behinderte	behinderte	_	_	_	_	_	_	_
 226	Menschen	Menschen	_	_	_	_	_	_	_
-227	führt,	führt,	_	_	_	_	_	_	_
+227	führt	führt	_	_	_	_	_	_	_
 228	in	in	_	_	_	_	_	_	_
 229	seinen	seinen	_	_	_	_	_	_	_
 230	Veröffentlichungen	Veröffentlichungen	_	_	_	_	_	_	_
 231	allerdings	allerdings	_	_	_	_	_	_	_
 232	keinen	keinen	_	_	_	_	_	_	_
 233	Hehl	Hehl	_	_	_	_	_	_	_
-234	daraus,	daraus,	_	_	_	_	_	_	_
+234	daraus	daraus	_	_	_	_	_	_	_
 235	dass	dass	_	_	_	_	_	_	_
 236	die	die	_	_	_	_	_	_	_
 237	Qualitätssicherungsmaßnahmen	Qualitätssicherungsmaßnahmen	_	_	_	_	_	_	_
@@ -243,14 +243,14 @@
 243	Verbesserung	Verbesserung	_	_	_	_	_	_	_
 244	des	des	_	_	_	_	_	_	_
 245	Angebotes	Angebotes	_	_	_	_	_	_	_
-246	dienen,	dienen,	_	_	_	_	_	_	_
+246	dienen	dienen	_	_	_	_	_	_	_
 247	sondern	sondern	_	_	_	_	_	_	_
 248	der	der	_	_	_	_	_	_	_
 249	Kostenkontrolle	Kostenkontrolle	_	_	_	_	_	_	_
 250	und	und	_	_	_	_	_	_	_
 251	Kostensenkung	Kostensenkung	_	_	_	_	_	_	_
 252	1	1	_	_	_	_	_	_	_
-253	P&G	P&G	_	_	_	_	_	_	_
-254	1/03	1/03	_	_	_	_	_	_	_
+253	PG	PG	_	_	_	_	_	_	_
+254	103	103	_	_	_	_	_	_	_
 255	57	57	_	_	_	_	_	_	_
 

@@ -7,7 +7,7 @@
 7	ODER	ODER	_	_	_	_	_	_	_
 8	PSYCHOLOGIE	PSYCHOLOGIE	_	_	_	_	_	_	_
 9	DER	DER	_	_	_	_	_	_	_
-10	KRISE?*	KRISE?*	_	_	_	_	_	_	_
+10	KRISE	KRISE	_	_	_	_	_	_	_
 11	Welchen	Welchen	_	_	_	_	_	_	_
 12	Beitrag	Beitrag	_	_	_	_	_	_	_
 13	kann	kann	_	_	_	_	_	_	_
@@ -26,8 +26,8 @@
 26	rungen	rungen	_	_	_	_	_	_	_
 27	der	der	_	_	_	_	_	_	_
 28	gegenwärtigen	gegenwärtigen	_	_	_	_	_	_	_
-29	sozial-ökonomischen	sozial-ökonomischen	_	_	_	_	_	_	_
-30	Krise?	Krise?	_	_	_	_	_	_	_
+29	sozialökonomischen	sozialökonomischen	_	_	_	_	_	_	_
+30	Krise	Krise	_	_	_	_	_	_	_
 31	Zur	Zur	_	_	_	_	_	_	_
 32	Diskussion	Diskussion	_	_	_	_	_	_	_
 33	dieser	dieser	_	_	_	_	_	_	_
@@ -37,22 +37,22 @@
 37	aus	aus	_	_	_	_	_	_	_
 38	von	von	_	_	_	_	_	_	_
 39	einer	einer	_	_	_	_	_	_	_
-40	-	-	_	_	_	_	_	_	_
+40			_	_	_	_	_	_	_
 41	bewußt	bewußt	_	_	_	_	_	_	_
 42	vereinfa­	vereinfa­	_	_	_	_	_	_	_
 43	chenden	chenden	_	_	_	_	_	_	_
-44	-	-	_	_	_	_	_	_	_
+44			_	_	_	_	_	_	_
 45	Gegenüberstellung	Gegenüberstellung	_	_	_	_	_	_	_
 46	zweier	zweier	_	_	_	_	_	_	_
 47	Wissenschaftsauffassungen	Wissenschaftsauffassungen	_	_	_	_	_	_	_
 48	in	in	_	_	_	_	_	_	_
 49	der	der	_	_	_	_	_	_	_
-50	Psychologie:	Psychologie:	_	_	_	_	_	_	_
+50	Psychologie	Psychologie	_	_	_	_	_	_	_
 51	der	der	_	_	_	_	_	_	_
-52	naturwissenschaftlich-nomologischen	naturwissenschaftlich-nomologischen	_	_	_	_	_	_	_
+52	naturwissenschaftlichnomologischen	naturwissenschaftlichnomologischen	_	_	_	_	_	_	_
 53	und	und	_	_	_	_	_	_	_
 54	der	der	_	_	_	_	_	_	_
-55	sozialwissenschaftlich-hermeneutischen	sozialwissenschaftlich-hermeneutischen	_	_	_	_	_	_	_
+55	sozialwissenschaftlichhermeneutischen	sozialwissenschaftlichhermeneutischen	_	_	_	_	_	_	_
 56	s	s	_	_	_	_	_	_	_
 57	Legewie	Legewie	_	_	_	_	_	_	_
 58	1991a	1991a	_	_	_	_	_	_	_
@@ -62,12 +62,12 @@
 62	sich	sich	_	_	_	_	_	_	_
 63	in	in	_	_	_	_	_	_	_
 64	drei	drei	_	_	_	_	_	_	_
-65	Thesen:	Thesen:	_	_	_	_	_	_	_
+65	Thesen	Thesen	_	_	_	_	_	_	_
 66	1	1	_	_	_	_	_	_	_
 67	Die	Die	_	_	_	_	_	_	_
-68	"Krise	"Krise	_	_	_	_	_	_	_
+68	Krise	Krise	_	_	_	_	_	_	_
 69	der	der	_	_	_	_	_	_	_
-70	Psychologie"	Psychologie"	_	_	_	_	_	_	_
+70	Psychologie	Psychologie	_	_	_	_	_	_	_
 71	besteht	besteht	_	_	_	_	_	_	_
 72	in	in	_	_	_	_	_	_	_
 73	der	der	_	_	_	_	_	_	_
@@ -94,7 +94,7 @@
 94	Problemlagen	Problemlagen	_	_	_	_	_	_	_
 95	strukturell	strukturell	_	_	_	_	_	_	_
 96	nur	nur	_	_	_	_	_	_	_
-97	"Anfangerwissen"	"Anfangerwissen"	_	_	_	_	_	_	_
+97	Anfangerwissen	Anfangerwissen	_	_	_	_	_	_	_
 98	beisteuern	beisteuern	_	_	_	_	_	_	_
 99	3	3	_	_	_	_	_	_	_
 100	Aus	Aus	_	_	_	_	_	_	_
@@ -105,14 +105,14 @@
 105	sich	sich	_	_	_	_	_	_	_
 106	demgegenüber	demgegenüber	_	_	_	_	_	_	_
 107	eine	eine	_	_	_	_	_	_	_
-108	"Psychologie	"Psychologie	_	_	_	_	_	_	_
+108	Psychologie	Psychologie	_	_	_	_	_	_	_
 109	der	der	_	_	_	_	_	_	_
-110	Krise"	Krise"	_	_	_	_	_	_	_
+110	Krise	Krise	_	_	_	_	_	_	_
 111	bzw	bzw	_	_	_	_	_	_	_
 112	der	der	_	_	_	_	_	_	_
 113	Krisenbewältigung	Krisenbewältigung	_	_	_	_	_	_	_
 114	entwickeln	entwickeln	_	_	_	_	_	_	_
-115	*	*	_	_	_	_	_	_	_
+115			_	_	_	_	_	_	_
 116	Überarbeitete	Überarbeitete	_	_	_	_	_	_	_
 117	Fassung	Fassung	_	_	_	_	_	_	_
 118	eines	eines	_	_	_	_	_	_	_
@@ -124,7 +124,7 @@
 124	Deutschen	Deutschen	_	_	_	_	_	_	_
 125	Gesellschaft	Gesellschaft	_	_	_	_	_	_	_
 126	für	für	_	_	_	_	_	_	_
-127	Psychologie,	Psychologie,	_	_	_	_	_	_	_
+127	Psychologie	Psychologie	_	_	_	_	_	_	_
 128	Kiel	Kiel	_	_	_	_	_	_	_
 129	1990	1990	_	_	_	_	_	_	_
 

@@ -5,6 +5,7 @@ import xml.etree.ElementTree as ET
 import pickle
 from conllu import TokenList
 from collections import OrderedDict
+import string
 
 from extraction_methods.extraction_methods import *
 
@@ -125,8 +126,7 @@ class FeatureExtractor:
                                                 is_bold = isBold(font_type)
 
                                         # Clean the word
-                                        actual_word = actual_word.replace('(', '').replace(
-                                            '.', '').replace('„', '').replace(')', '').replace('“', '')
+                                        actual_word = actual_word.translate(str.maketrans('', '', string.punctuation))
 
                                         words_list.append(actual_word)
                                         cap_letters = get_count_cap_letters(

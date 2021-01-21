@@ -1,8 +1,8 @@
 1	Sonderforschungsbereich	Sonderforschungsbereich	_	_	_	_	_	_	_
 2	18	18	_	_	_	_	_	_	_
 3	6	6	_	_	_	_	_	_	_
-4	^	^	_	_	_	_	_	_	_
-5	^	^	_	_	_	_	_	_	_
+4			_	_	_	_	_	_	_
+5			_	_	_	_	_	_	_
 6	M	M	_	_	_	_	_	_	_
 7	d	d	_	_	_	_	_	_	_
 8	e	e	_	_	_	_	_	_	_
@@ -19,23 +19,23 @@
 19	A	A	_	_	_	_	_	_	_
 20	Nr	Nr	_	_	_	_	_	_	_
 21	3	3	_	_	_	_	_	_	_
-22	/	/	_	_	_	_	_	_	_
+22			_	_	_	_	_	_	_
 23	A	A	_	_	_	_	_	_	_
 24	p	p	_	_	_	_	_	_	_
 25	r	r	_	_	_	_	_	_	_
 26	i	i	_	_	_	_	_	_	_
 27	l	l	_	_	_	_	_	_	_
-28	'	'	_	_	_	_	_	_	_
+28			_	_	_	_	_	_	_
 29	9	9	_	_	_	_	_	_	_
 30	4	4	_	_	_	_	_	_	_
 31	Der	Der	_	_	_	_	_	_	_
 32	Sonderforschungsbereich	Sonderforschungsbereich	_	_	_	_	_	_	_
 33	186	186	_	_	_	_	_	_	_
-34	"Statuspassagen	"Statuspassagen	_	_	_	_	_	_	_
+34	Statuspassagen	Statuspassagen	_	_	_	_	_	_	_
 35	und	und	_	_	_	_	_	_	_
 36	Risikolagen	Risikolagen	_	_	_	_	_	_	_
 37	im	im	_	_	_	_	_	_	_
-38	Lebensverlauf'	Lebensverlauf'	_	_	_	_	_	_	_
+38	Lebensverlauf	Lebensverlauf	_	_	_	_	_	_	_
 39	der	der	_	_	_	_	_	_	_
 40	Universität	Universität	_	_	_	_	_	_	_
 41	Bremen	Bremen	_	_	_	_	_	_	_
@@ -47,7 +47,7 @@
 47	DFG	DFG	_	_	_	_	_	_	_
 48	gefördert	gefördert	_	_	_	_	_	_	_
 49	Inhalt	Inhalt	_	_	_	_	_	_	_
-50	Zwischenbilanz:	Zwischenbilanz:	_	_	_	_	_	_	_
+50	Zwischenbilanz	Zwischenbilanz	_	_	_	_	_	_	_
 51	der	der	_	_	_	_	_	_	_
 52	Sfb	Sfb	_	_	_	_	_	_	_
 53	186	186	_	_	_	_	_	_	_
@@ -68,7 +68,7 @@
 68	zur	zur	_	_	_	_	_	_	_
 69	Erklärung	Erklärung	_	_	_	_	_	_	_
 70	von	von	_	_	_	_	_	_	_
-71	Armuts-	Armuts-	_	_	_	_	_	_	_
+71	Armuts	Armuts	_	_	_	_	_	_	_
 72	dynamik	dynamik	_	_	_	_	_	_	_
 73	Nachrichten	Nachrichten	_	_	_	_	_	_	_
 74	aus	aus	_	_	_	_	_	_	_
@@ -81,7 +81,7 @@
 81	9	9	_	_	_	_	_	_	_
 82	16	16	_	_	_	_	_	_	_
 83	16	16	_	_	_	_	_	_	_
-84	Zwischenbilanz:	Zwischenbilanz:	_	_	_	_	_	_	_
+84	Zwischenbilanz	Zwischenbilanz	_	_	_	_	_	_	_
 85	der	der	_	_	_	_	_	_	_
 86	Sfb	Sfb	_	_	_	_	_	_	_
 87	186	186	_	_	_	_	_	_	_
@@ -102,7 +102,7 @@
 102	neuer	neuer	_	_	_	_	_	_	_
 103	Entwicklungsab­	Entwicklungsab­	_	_	_	_	_	_	_
 104	schnitt	schnitt	_	_	_	_	_	_	_
-105	begonnen:	begonnen:	_	_	_	_	_	_	_
+105	begonnen	begonnen	_	_	_	_	_	_	_
 106	Drei	Drei	_	_	_	_	_	_	_
 107	weitere	weitere	_	_	_	_	_	_	_
 108	Forschungsjahre	Forschungsjahre	_	_	_	_	_	_	_
@@ -174,7 +174,7 @@
 174	nicht	nicht	_	_	_	_	_	_	_
 175	anders	anders	_	_	_	_	_	_	_
 176	sein	sein	_	_	_	_	_	_	_
-177	kann,	kann,	_	_	_	_	_	_	_
+177	kann	kann	_	_	_	_	_	_	_
 178	waren	waren	_	_	_	_	_	_	_
 179	die	die	_	_	_	_	_	_	_
 180	ersten	ersten	_	_	_	_	_	_	_
@@ -186,7 +186,7 @@
 186	die	die	_	_	_	_	_	_	_
 187	komplexe	komplexe	_	_	_	_	_	_	_
 188	Aufgabe	Aufgabe	_	_	_	_	_	_	_
-189	ausgerichtet,	ausgerichtet,	_	_	_	_	_	_	_
+189	ausgerichtet	ausgerichtet	_	_	_	_	_	_	_
 190	sowohl	sowohl	_	_	_	_	_	_	_
 191	die	die	_	_	_	_	_	_	_
 192	Vorhaben	Vorhaben	_	_	_	_	_	_	_
@@ -230,7 +230,7 @@
 230	waren	waren	_	_	_	_	_	_	_
 231	drei	drei	_	_	_	_	_	_	_
 232	internationale	internationale	_	_	_	_	_	_	_
-233	Symposien,	Symposien,	_	_	_	_	_	_	_
+233	Symposien	Symposien	_	_	_	_	_	_	_
 234	über	über	_	_	_	_	_	_	_
 235	die	die	_	_	_	_	_	_	_
 236	der	der	_	_	_	_	_	_	_
@@ -257,7 +257,7 @@
 257	internationalen	internationalen	_	_	_	_	_	_	_
 258	wissen­	wissen­	_	_	_	_	_	_	_
 259	schaftlichen	schaftlichen	_	_	_	_	_	_	_
-260	Netzwerks,	Netzwerks,	_	_	_	_	_	_	_
+260	Netzwerks	Netzwerks	_	_	_	_	_	_	_
 261	in	in	_	_	_	_	_	_	_
 262	das	das	_	_	_	_	_	_	_
 263	der	der	_	_	_	_	_	_	_
@@ -270,10 +270,10 @@
 270	Konferenzen	Konferenzen	_	_	_	_	_	_	_
 271	und	und	_	_	_	_	_	_	_
 272	Work­	Work­	_	_	_	_	_	_	_
-273	shops,	shops,	_	_	_	_	_	_	_
+273	shops	shops	_	_	_	_	_	_	_
 274	Aufenthalte	Aufenthalte	_	_	_	_	_	_	_
 275	von	von	_	_	_	_	_	_	_
-276	Gastwis-	Gastwis-	_	_	_	_	_	_	_
+276	Gastwis	Gastwis	_	_	_	_	_	_	_
 277	senschaftlerlnnen	senschaftlerlnnen	_	_	_	_	_	_	_
 278	sowie	sowie	_	_	_	_	_	_	_
 279	eigene	eigene	_	_	_	_	_	_	_
@@ -292,14 +292,14 @@
 292	beigetra­	beigetra­	_	_	_	_	_	_	_
 293	gen	gen	_	_	_	_	_	_	_
 294	Die	Die	_	_	_	_	_	_	_
-295	Sfb-Reihe	Sfb-Reihe	_	_	_	_	_	_	_
-296	"Status	"Status	_	_	_	_	_	_	_
-297	Passa-	Passa-	_	_	_	_	_	_	_
+295	SfbReihe	SfbReihe	_	_	_	_	_	_	_
+296	Status	Status	_	_	_	_	_	_	_
+297	Passa	Passa	_	_	_	_	_	_	_
 298	ges	ges	_	_	_	_	_	_	_
 299	and	and	_	_	_	_	_	_	_
 300	the	the	_	_	_	_	_	_	_
 301	Life	Life	_	_	_	_	_	_	_
-302	Course"	Course"	_	_	_	_	_	_	_
+302	Course	Course	_	_	_	_	_	_	_
 303	im	im	_	_	_	_	_	_	_
 304	Deut­	Deut­	_	_	_	_	_	_	_
 305	schen	schen	_	_	_	_	_	_	_
@@ -315,7 +315,7 @@
 315	und	und	_	_	_	_	_	_	_
 316	Beiträge	Beiträge	_	_	_	_	_	_	_
 317	zur	zur	_	_	_	_	_	_	_
-318	Theoriebildung,	Theoriebildung,	_	_	_	_	_	_	_
+318	Theoriebildung	Theoriebildung	_	_	_	_	_	_	_
 319	die	die	_	_	_	_	_	_	_
 320	über	über	_	_	_	_	_	_	_
 321	den	den	_	_	_	_	_	_	_
@@ -344,12 +344,12 @@
 344	Förderung	Förderung	_	_	_	_	_	_	_
 345	des	des	_	_	_	_	_	_	_
 346	wissenschaftlichen	wissenschaftlichen	_	_	_	_	_	_	_
-347	Nachwuchses:	Nachwuchses:	_	_	_	_	_	_	_
+347	Nachwuchses	Nachwuchses	_	_	_	_	_	_	_
 348	Es	Es	_	_	_	_	_	_	_
 349	haben	haben	_	_	_	_	_	_	_
 350	vier	vier	_	_	_	_	_	_	_
 351	junge	junge	_	_	_	_	_	_	_
-352	Wissenschaft-	Wissenschaft-	_	_	_	_	_	_	_
+352	Wissenschaft	Wissenschaft	_	_	_	_	_	_	_
 353	lerlnnen	lerlnnen	_	_	_	_	_	_	_
 354	promoviert	promoviert	_	_	_	_	_	_	_
 355	weitere	weitere	_	_	_	_	_	_	_
@@ -375,11 +375,11 @@
 375	sche	sche	_	_	_	_	_	_	_
 376	Hochschulen	Hochschulen	_	_	_	_	_	_	_
 377	berufen	berufen	_	_	_	_	_	_	_
-378	und,	und,	_	_	_	_	_	_	_
+378	und	und	_	_	_	_	_	_	_
 379	last	last	_	_	_	_	_	_	_
 380	but	but	_	_	_	_	_	_	_
 381	not	not	_	_	_	_	_	_	_
-382	least,	least,	_	_	_	_	_	_	_
+382	least	least	_	_	_	_	_	_	_
 383	unter	unter	_	_	_	_	_	_	_
 384	den	den	_	_	_	_	_	_	_
 385	Nach­	Nach­	_	_	_	_	_	_	_
@@ -412,21 +412,21 @@
 412	getragenen	getragenen	_	_	_	_	_	_	_
 413	Graduier­	Graduier­	_	_	_	_	_	_	_
 414	tenkolleg	tenkolleg	_	_	_	_	_	_	_
-415	"Lebenslauf	"Lebenslauf	_	_	_	_	_	_	_
+415	Lebenslauf	Lebenslauf	_	_	_	_	_	_	_
 416	und	und	_	_	_	_	_	_	_
 417	Sozial­	Sozial­	_	_	_	_	_	_	_
-418	politik"	politik"	_	_	_	_	_	_	_
+418	politik	politik	_	_	_	_	_	_	_
 419	Ausblick	Ausblick	_	_	_	_	_	_	_
 420	Die	Die	_	_	_	_	_	_	_
 421	Drittmittel	Drittmittel	_	_	_	_	_	_	_
 422	der	der	_	_	_	_	_	_	_
-423	DFG,	DFG,	_	_	_	_	_	_	_
+423	DFG	DFG	_	_	_	_	_	_	_
 424	durch	durch	_	_	_	_	_	_	_
 425	die	die	_	_	_	_	_	_	_
 426	der	der	_	_	_	_	_	_	_
 427	Sfb	Sfb	_	_	_	_	_	_	_
 428	gefördert	gefördert	_	_	_	_	_	_	_
-429	wird,	wird,	_	_	_	_	_	_	_
+429	wird	wird	_	_	_	_	_	_	_
 430	haben	haben	_	_	_	_	_	_	_
 431	sich	sich	_	_	_	_	_	_	_
 432	aufgrund	aufgrund	_	_	_	_	_	_	_

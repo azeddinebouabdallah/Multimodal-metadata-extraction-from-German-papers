@@ -9,10 +9,10 @@
 9	VON	VON	_	_	_	_	_	_	_
 10	WISSENSPSYCHOLOGIE	WISSENSPSYCHOLOGIE	_	_	_	_	_	_	_
 11	O	O	_	_	_	_	_	_	_
-12	Problemstellung:	Problemstellung:	_	_	_	_	_	_	_
+12	Problemstellung	Problemstellung	_	_	_	_	_	_	_
 13	Als	Als	_	_	_	_	_	_	_
 14	gemeinsamer	gemeinsamer	_	_	_	_	_	_	_
-15	Ausgangs-	Ausgangs-	_	_	_	_	_	_	_
+15	Ausgangs	Ausgangs	_	_	_	_	_	_	_
 16	und	und	_	_	_	_	_	_	_
 17	Bezugspunkt	Bezugspunkt	_	_	_	_	_	_	_
 18	der	der	_	_	_	_	_	_	_
@@ -23,23 +23,23 @@
 23	gestellten	gestellten	_	_	_	_	_	_	_
 24	Arbeiten	Arbeiten	_	_	_	_	_	_	_
 25	von	von	_	_	_	_	_	_	_
-26	Giinther,	Giinther,	_	_	_	_	_	_	_
-27	Sowarka,	Sowarka,	_	_	_	_	_	_	_
+26	Giinther	Giinther	_	_	_	_	_	_	_
+27	Sowarka	Sowarka	_	_	_	_	_	_	_
 28	Sommer	Sommer	_	_	_	_	_	_	_
-29	&	&	_	_	_	_	_	_	_
+29			_	_	_	_	_	_	_
 30	Vorderer	Vorderer	_	_	_	_	_	_	_
 31	sowie	sowie	_	_	_	_	_	_	_
 32	Mar­	Mar­	_	_	_	_	_	_	_
 33	lange	lange	_	_	_	_	_	_	_
-34	&	&	_	_	_	_	_	_	_
+34			_	_	_	_	_	_	_
 35	Vorderer	Vorderer	_	_	_	_	_	_	_
 36	dienten	dienten	_	_	_	_	_	_	_
 37	die	die	_	_	_	_	_	_	_
 38	drei	drei	_	_	_	_	_	_	_
 39	Begriffe	Begriffe	_	_	_	_	_	_	_
-40	Text-	Text-	_	_	_	_	_	_	_
+40	Text	Text	_	_	_	_	_	_	_
 41	bzw	bzw	_	_	_	_	_	_	_
-42	Inhaltsanalyse,	Inhaltsanalyse,	_	_	_	_	_	_	_
+42	Inhaltsanalyse	Inhaltsanalyse	_	_	_	_	_	_	_
 43	Ideolo­	Ideolo­	_	_	_	_	_	_	_
 44	giekritik	giekritik	_	_	_	_	_	_	_
 45	und	und	_	_	_	_	_	_	_
@@ -85,7 +85,7 @@
 85	gemeinten	gemeinten	_	_	_	_	_	_	_
 86	Konzepte	Konzepte	_	_	_	_	_	_	_
 87	aufgegriffen	aufgegriffen	_	_	_	_	_	_	_
-88	werden,	werden,	_	_	_	_	_	_	_
+88	werden	werden	_	_	_	_	_	_	_
 89	um	um	_	_	_	_	_	_	_
 90	sie	sie	_	_	_	_	_	_	_
 91	auch	auch	_	_	_	_	_	_	_
@@ -110,7 +110,7 @@
 110	den	den	_	_	_	_	_	_	_
 111	genannten	genannten	_	_	_	_	_	_	_
 112	Konzepten	Konzepten	_	_	_	_	_	_	_
-113	ableiten,	ableiten,	_	_	_	_	_	_	_
+113	ableiten	ableiten	_	_	_	_	_	_	_
 114	die	die	_	_	_	_	_	_	_
 115	ich	ich	_	_	_	_	_	_	_
 116	als	als	_	_	_	_	_	_	_
@@ -120,7 +120,7 @@
 120	eine	eine	_	_	_	_	_	_	_
 121	derartige	derartige	_	_	_	_	_	_	_
 122	Wissenspsychologie	Wissenspsychologie	_	_	_	_	_	_	_
-123	ansetze:	ansetze:	_	_	_	_	_	_	_
+123	ansetze	ansetze	_	_	_	_	_	_	_
 124	1	1	_	_	_	_	_	_	_
 125	Den	Den	_	_	_	_	_	_	_
 126	sich	sich	_	_	_	_	_	_	_
@@ -131,7 +131,7 @@
 131	Textanalysen	Textanalysen	_	_	_	_	_	_	_
 132	ergebenden	ergebenden	_	_	_	_	_	_	_
 133	Inhalts­	Inhalts­	_	_	_	_	_	_	_
-134	aspekt,	aspekt,	_	_	_	_	_	_	_
+134	aspekt	aspekt	_	_	_	_	_	_	_
 135	dh	dh	_	_	_	_	_	_	_
 136	die	die	_	_	_	_	_	_	_
 137	Frage	Frage	_	_	_	_	_	_	_
@@ -149,7 +149,7 @@
 149	mit	mit	_	_	_	_	_	_	_
 150	diesem	diesem	_	_	_	_	_	_	_
 151	Gegenstand	Gegenstand	_	_	_	_	_	_	_
-152	Wissen,	Wissen,	_	_	_	_	_	_	_
+152	Wissen	Wissen	_	_	_	_	_	_	_
 153	Kognitionen	Kognitionen	_	_	_	_	_	_	_
 154	stehende	stehende	_	_	_	_	_	_	_
 155	Frage	Frage	_	_	_	_	_	_	_
@@ -157,10 +157,10 @@
 157	dessen	dessen	_	_	_	_	_	_	_
 158	Bedingtheit	Bedingtheit	_	_	_	_	_	_	_
 159	und	und	_	_	_	_	_	_	_
-160	Folgen,	Folgen,	_	_	_	_	_	_	_
+160	Folgen	Folgen	_	_	_	_	_	_	_
 161	dll	dll	_	_	_	_	_	_	_
 162	dem	dem	_	_	_	_	_	_	_
-163	Genese-	Genese-	_	_	_	_	_	_	_
+163	Genese	Genese	_	_	_	_	_	_	_
 164	und	und	_	_	_	_	_	_	_
 165	Wirkungsaspekt	Wirkungsaspekt	_	_	_	_	_	_	_
 166	Und	Und	_	_	_	_	_	_	_
@@ -173,7 +173,7 @@
 173	von	von	_	_	_	_	_	_	_
 174	Ideologiekritik	Ideologiekritik	_	_	_	_	_	_	_
 175	resultierenden	resultierenden	_	_	_	_	_	_	_
-176	Bewertungsaspekt,	Bewertungsaspekt,	_	_	_	_	_	_	_
+176	Bewertungsaspekt	Bewertungsaspekt	_	_	_	_	_	_	_
 177	dll	dll	_	_	_	_	_	_	_
 178	die	die	_	_	_	_	_	_	_
 179	Möglichkeit	Möglichkeit	_	_	_	_	_	_	_
@@ -191,7 +191,7 @@
 191	an	an	_	_	_	_	_	_	_
 192	den	den	_	_	_	_	_	_	_
 193	Aspekten	Aspekten	_	_	_	_	_	_	_
-194	Inhalt,	Inhalt,	_	_	_	_	_	_	_
+194	Inhalt	Inhalt	_	_	_	_	_	_	_
 195	Genese	Genese	_	_	_	_	_	_	_
 196	und	und	_	_	_	_	_	_	_
 197	Wirkung	Wirkung	_	_	_	_	_	_	_
@@ -211,11 +211,11 @@
 211	Konzeption	Konzeption	_	_	_	_	_	_	_
 212	von	von	_	_	_	_	_	_	_
 213	Wissenspsychologie	Wissenspsychologie	_	_	_	_	_	_	_
-214	gegenüberstellen,	gegenüberstellen,	_	_	_	_	_	_	_
+214	gegenüberstellen	gegenüberstellen	_	_	_	_	_	_	_
 215	die	die	_	_	_	_	_	_	_
 216	ich	ich	_	_	_	_	_	_	_
 217	als	als	_	_	_	_	_	_	_
-218	formalistisch,	formalistisch,	_	_	_	_	_	_	_
+218	formalistisch	formalistisch	_	_	_	_	_	_	_
 219	funktiona­	funktiona­	_	_	_	_	_	_	_
 220	listisch	listisch	_	_	_	_	_	_	_
 221	und	und	_	_	_	_	_	_	_
@@ -235,7 +235,7 @@
 235	senspsychologischer	senspsychologischer	_	_	_	_	_	_	_
 236	Forschungsschwerpunkte	Forschungsschwerpunkte	_	_	_	_	_	_	_
 237	an	an	_	_	_	_	_	_	_
-238	1,	1,	_	_	_	_	_	_	_
+238	1	1	_	_	_	_	_	_	_
 239	die	die	_	_	_	_	_	_	_
 240	dem	dem	_	_	_	_	_	_	_
 241	thesenhaften	thesenhaften	_	_	_	_	_	_	_
@@ -272,7 +272,7 @@
 272	bedingt	bedingt	_	_	_	_	_	_	_
 273	eine	eine	_	_	_	_	_	_	_
 274	Vorbildfunktion	Vorbildfunktion	_	_	_	_	_	_	_
-275	erfüllen,	erfüllen,	_	_	_	_	_	_	_
+275	erfüllen	erfüllen	_	_	_	_	_	_	_
 276	weshalb	weshalb	_	_	_	_	_	_	_
 277	unter	unter	_	_	_	_	_	_	_
 278	2	2	_	_	_	_	_	_	_

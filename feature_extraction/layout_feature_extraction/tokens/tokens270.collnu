@@ -7,7 +7,7 @@
 7	Sozialwissenschaft	Sozialwissenschaft	_	_	_	_	_	_	_
 8	Bernd	Bernd	_	_	_	_	_	_	_
 9	Vaassen	Vaassen	_	_	_	_	_	_	_
-10	Zusammenfassung:	Zusammenfassung:	_	_	_	_	_	_	_
+10	Zusammenfassung	Zusammenfassung	_	_	_	_	_	_	_
 11	In	In	_	_	_	_	_	_	_
 12	neuerer	neuerer	_	_	_	_	_	_	_
 13	Zeit	Zeit	_	_	_	_	_	_	_
@@ -49,9 +49,9 @@
 49	wissenschaftlicher	wissenschaftlicher	_	_	_	_	_	_	_
 50	Analyse	Analyse	_	_	_	_	_	_	_
 51	unterwer­	unterwer­	_	_	_	_	_	_	_
-52	fen,	fen,	_	_	_	_	_	_	_
+52	fen	fen	_	_	_	_	_	_	_
 53	die	die	_	_	_	_	_	_	_
-54	nicht-narratives	nicht-narratives	_	_	_	_	_	_	_
+54	nichtnarratives	nichtnarratives	_	_	_	_	_	_	_
 55	Wissen	Wissen	_	_	_	_	_	_	_
 56	hervorbringt	hervorbringt	_	_	_	_	_	_	_
 57	Die	Die	_	_	_	_	_	_	_
@@ -77,12 +77,12 @@
 77	begreift	begreift	_	_	_	_	_	_	_
 78	jegliches	jegliches	_	_	_	_	_	_	_
 79	Wissen	Wissen	_	_	_	_	_	_	_
-80	-	-	_	_	_	_	_	_	_
+80			_	_	_	_	_	_	_
 81	also	also	_	_	_	_	_	_	_
 82	auch	auch	_	_	_	_	_	_	_
 83	ihr	ihr	_	_	_	_	_	_	_
 84	eigenes	eigenes	_	_	_	_	_	_	_
-85	-	-	_	_	_	_	_	_	_
+85			_	_	_	_	_	_	_
 86	als	als	_	_	_	_	_	_	_
 87	fundamental	fundamental	_	_	_	_	_	_	_
 88	und	und	_	_	_	_	_	_	_
@@ -91,14 +91,14 @@
 91	eine	eine	_	_	_	_	_	_	_
 92	postmo­	postmo­	_	_	_	_	_	_	_
 93	dern	dern	_	_	_	_	_	_	_
-94	orientierte,	orientierte,	_	_	_	_	_	_	_
+94	orientierte	orientierte	_	_	_	_	_	_	_
 95	narrative	narrative	_	_	_	_	_	_	_
 96	Sozialwissenschaft	Sozialwissenschaft	_	_	_	_	_	_	_
 97	wird	wird	_	_	_	_	_	_	_
 98	hier	hier	_	_	_	_	_	_	_
 99	eine	eine	_	_	_	_	_	_	_
-100	alternative,	alternative,	_	_	_	_	_	_	_
-101	sprachlich-kulturell	sprachlich-kulturell	_	_	_	_	_	_	_
+100	alternative	alternative	_	_	_	_	_	_	_
+101	sprachlichkulturell	sprachlichkulturell	_	_	_	_	_	_	_
 102	basierte	basierte	_	_	_	_	_	_	_
 103	Epistemologie	Epistemologie	_	_	_	_	_	_	_
 104	vorgeschlagen	vorgeschlagen	_	_	_	_	_	_	_
@@ -111,9 +111,9 @@
 111	parallele	parallele	_	_	_	_	_	_	_
 112	Wandel	Wandel	_	_	_	_	_	_	_
 113	vom	vom	_	_	_	_	_	_	_
-114	kritisch-analytischen	kritisch-analytischen	_	_	_	_	_	_	_
+114	kritischanalytischen	kritischanalytischen	_	_	_	_	_	_	_
 115	zum	zum	_	_	_	_	_	_	_
-116	de-kon­	de-kon­	_	_	_	_	_	_	_
+116	dekon­	dekon­	_	_	_	_	_	_	_
 117	struierenden	struierenden	_	_	_	_	_	_	_
 118	Denken	Denken	_	_	_	_	_	_	_
 119	verlIndert	verlIndert	_	_	_	_	_	_	_
@@ -143,7 +143,7 @@
 143	den	den	_	_	_	_	_	_	_
 144	Sozial­	Sozial­	_	_	_	_	_	_	_
 145	wissenschaften	wissenschaften	_	_	_	_	_	_	_
-146	Konjunktur,	Konjunktur,	_	_	_	_	_	_	_
+146	Konjunktur	Konjunktur	_	_	_	_	_	_	_
 147	wie	wie	_	_	_	_	_	_	_
 148	der	der	_	_	_	_	_	_	_
 149	kontinu­	kontinu­	_	_	_	_	_	_	_
@@ -163,13 +163,13 @@
 163	z	z	_	_	_	_	_	_	_
 164	B	B	_	_	_	_	_	_	_
 165	Polkinghorne	Polkinghorne	_	_	_	_	_	_	_
-166	1988,	1988,	_	_	_	_	_	_	_
+166	1988	1988	_	_	_	_	_	_	_
 167	den	den	_	_	_	_	_	_	_
 168	Kommunikationswissenschaften	Kommunikationswissenschaften	_	_	_	_	_	_	_
 169	z	z	_	_	_	_	_	_	_
 170	B	B	_	_	_	_	_	_	_
 171	Fisher	Fisher	_	_	_	_	_	_	_
-172	1985;	1985;	_	_	_	_	_	_	_
+172	1985	1985	_	_	_	_	_	_	_
 173	1987	1987	_	_	_	_	_	_	_
 174	und	und	_	_	_	_	_	_	_
 175	der	der	_	_	_	_	_	_	_
@@ -177,9 +177,9 @@
 177	Semiotik	Semiotik	_	_	_	_	_	_	_
 178	zB	zB	_	_	_	_	_	_	_
 179	Hodge	Hodge	_	_	_	_	_	_	_
-180	&	&	_	_	_	_	_	_	_
+180			_	_	_	_	_	_	_
 181	Kress	Kress	_	_	_	_	_	_	_
-182	1988,	1988,	_	_	_	_	_	_	_
+182	1988	1988	_	_	_	_	_	_	_
 183	aufgenommen	aufgenommen	_	_	_	_	_	_	_
 184	von	von	_	_	_	_	_	_	_
 185	ei­	ei­	_	_	_	_	_	_	_
@@ -189,12 +189,12 @@
 189	Psychologie	Psychologie	_	_	_	_	_	_	_
 190	vgl	vgl	_	_	_	_	_	_	_
 191	Gergen	Gergen	_	_	_	_	_	_	_
-192	&	&	_	_	_	_	_	_	_
+192			_	_	_	_	_	_	_
 193	Gergen	Gergen	_	_	_	_	_	_	_
-194	1983;	1983;	_	_	_	_	_	_	_
-195	1986;	1986;	_	_	_	_	_	_	_
+194	1983	1983	_	_	_	_	_	_	_
+195	1986	1986	_	_	_	_	_	_	_
 196	Sarbin	Sarbin	_	_	_	_	_	_	_
-197	1986,	1986,	_	_	_	_	_	_	_
+197	1986	1986	_	_	_	_	_	_	_
 198	beflügelt	beflügelt	_	_	_	_	_	_	_
 199	vom	vom	_	_	_	_	_	_	_
 200	postmodernen	postmodernen	_	_	_	_	_	_	_
@@ -218,7 +218,7 @@
 218	sozialwissenschaftlichen	sozialwissenschaftlichen	_	_	_	_	_	_	_
 219	Diskussion	Diskussion	_	_	_	_	_	_	_
 220	Sarbin	Sarbin	_	_	_	_	_	_	_
-221	1986,	1986,	_	_	_	_	_	_	_
+221	1986	1986	_	_	_	_	_	_	_
 222	8	8	_	_	_	_	_	_	_
 223	schlug	schlug	_	_	_	_	_	_	_
 224	als	als	_	_	_	_	_	_	_
@@ -231,12 +231,12 @@
 231	narratory	narratory	_	_	_	_	_	_	_
 232	princi­	princi­	_	_	_	_	_	_	_
 233	pIe	pIe	_	_	_	_	_	_	_
-234	vor:	vor:	_	_	_	_	_	_	_
-235	"that	"that	_	_	_	_	_	_	_
+234	vor	vor	_	_	_	_	_	_	_
+235	that	that	_	_	_	_	_	_	_
 236	human	human	_	_	_	_	_	_	_
 237	beings	beings	_	_	_	_	_	_	_
-238	think,	think,	_	_	_	_	_	_	_
-239	perceive,	perceive,	_	_	_	_	_	_	_
+238	think	think	_	_	_	_	_	_	_
+239	perceive	perceive	_	_	_	_	_	_	_
 240	imagine	imagine	_	_	_	_	_	_	_
 241	and	and	_	_	_	_	_	_	_
 242	make	make	_	_	_	_	_	_	_
@@ -245,7 +245,7 @@
 245	according	according	_	_	_	_	_	_	_
 246	to	to	_	_	_	_	_	_	_
 247	narrative	narrative	_	_	_	_	_	_	_
-248	structUres"	structUres"	_	_	_	_	_	_	_
+248	structUres	structUres	_	_	_	_	_	_	_
 249	Sarbin	Sarbin	_	_	_	_	_	_	_
 250	versteht	versteht	_	_	_	_	_	_	_
 251	Nar­	Nar­	_	_	_	_	_	_	_
@@ -272,7 +272,7 @@
 272	Absage	Absage	_	_	_	_	_	_	_
 273	an	an	_	_	_	_	_	_	_
 274	elementaristische	elementaristische	_	_	_	_	_	_	_
-275	Vorstellungen:	Vorstellungen:	_	_	_	_	_	_	_
+275	Vorstellungen	Vorstellungen	_	_	_	_	_	_	_
 276	daß	daß	_	_	_	_	_	_	_
 277	der	der	_	_	_	_	_	_	_
 278	Mensch	Mensch	_	_	_	_	_	_	_
@@ -281,7 +281,7 @@
 281	um	um	_	_	_	_	_	_	_
 282	die	die	_	_	_	_	_	_	_
 283	Wirklichkeit	Wirklichkeit	_	_	_	_	_	_	_
-284	erkennt,	erkennt,	_	_	_	_	_	_	_
+284	erkennt	erkennt	_	_	_	_	_	_	_
 285	indem	indem	_	_	_	_	_	_	_
 286	er	er	_	_	_	_	_	_	_
 287	sie	sie	_	_	_	_	_	_	_
@@ -298,12 +298,12 @@
 298	in	in	_	_	_	_	_	_	_
 299	einer	einer	_	_	_	_	_	_	_
 300	Bedeutungsstruktur	Bedeutungsstruktur	_	_	_	_	_	_	_
-301	statt,	statt,	_	_	_	_	_	_	_
+301	statt	statt	_	_	_	_	_	_	_
 302	die	die	_	_	_	_	_	_	_
 303	nicht	nicht	_	_	_	_	_	_	_
 304	zer­	zer­	_	_	_	_	_	_	_
 305	legbar	legbar	_	_	_	_	_	_	_
-306	ist,	ist,	_	_	_	_	_	_	_
+306	ist	ist	_	_	_	_	_	_	_
 307	ohne	ohne	_	_	_	_	_	_	_
 308	daß	daß	_	_	_	_	_	_	_
 309	sich	sich	_	_	_	_	_	_	_
@@ -346,7 +346,7 @@
 346	und	und	_	_	_	_	_	_	_
 347	Besitz	Besitz	_	_	_	_	_	_	_
 348	einer	einer	_	_	_	_	_	_	_
-349	Gemeinschaft;	Gemeinschaft;	_	_	_	_	_	_	_
+349	Gemeinschaft	Gemeinschaft	_	_	_	_	_	_	_
 350	die	die	_	_	_	_	_	_	_
 351	Vorstel­	Vorstel­	_	_	_	_	_	_	_
 352	lung	lung	_	_	_	_	_	_	_
@@ -397,13 +397,13 @@
 397	der	der	_	_	_	_	_	_	_
 398	sog	sog	_	_	_	_	_	_	_
 399	Text­	Text­	_	_	_	_	_	_	_
-400	wissenschaften,	wissenschaften,	_	_	_	_	_	_	_
+400	wissenschaften	wissenschaften	_	_	_	_	_	_	_
 401	deren	deren	_	_	_	_	_	_	_
 402	zentrales	zentrales	_	_	_	_	_	_	_
 403	Problem	Problem	_	_	_	_	_	_	_
 404	es	es	_	_	_	_	_	_	_
-405	ist,	ist,	_	_	_	_	_	_	_
-406	festzustellen,	festzustellen,	_	_	_	_	_	_	_
+405	ist	ist	_	_	_	_	_	_	_
+406	festzustellen	festzustellen	_	_	_	_	_	_	_
 407	was	was	_	_	_	_	_	_	_
 408	ein	ein	_	_	_	_	_	_	_
 409	Text	Text	_	_	_	_	_	_	_
@@ -413,7 +413,7 @@
 413	Regel	Regel	_	_	_	_	_	_	_
 414	wird	wird	_	_	_	_	_	_	_
 415	davon	davon	_	_	_	_	_	_	_
-416	ausgegangen,	ausgegangen,	_	_	_	_	_	_	_
+416	ausgegangen	ausgegangen	_	_	_	_	_	_	_
 417	daß	daß	_	_	_	_	_	_	_
 418	eine	eine	_	_	_	_	_	_	_
 419	Beziehung	Beziehung	_	_	_	_	_	_	_
@@ -434,7 +434,7 @@
 434	in	in	_	_	_	_	_	_	_
 435	diesem	diesem	_	_	_	_	_	_	_
 436	Rahmen	Rahmen	_	_	_	_	_	_	_
-437	darin,	darin,	_	_	_	_	_	_	_
+437	darin	darin	_	_	_	_	_	_	_
 438	daß	daß	_	_	_	_	_	_	_
 439	der	der	_	_	_	_	_	_	_
 440	Text	Text	_	_	_	_	_	_	_
@@ -442,7 +442,7 @@
 442	Wirklich­	Wirklich­	_	_	_	_	_	_	_
 443	keitsausschnitt	keitsausschnitt	_	_	_	_	_	_	_
 444	symbolisch	symbolisch	_	_	_	_	_	_	_
-445	repräsentiert,	repräsentiert,	_	_	_	_	_	_	_
+445	repräsentiert	repräsentiert	_	_	_	_	_	_	_
 446	wie	wie	_	_	_	_	_	_	_
 447	auch	auch	_	_	_	_	_	_	_
 448	immer	immer	_	_	_	_	_	_	_
@@ -459,7 +459,7 @@
 459	werden	werden	_	_	_	_	_	_	_
 460	vgl	vgl	_	_	_	_	_	_	_
 461	Hejl	Hejl	_	_	_	_	_	_	_
-462	1991,	1991,	_	_	_	_	_	_	_
+462	1991	1991	_	_	_	_	_	_	_
 463	101	101	_	_	_	_	_	_	_
 464	Auch	Auch	_	_	_	_	_	_	_
 465	in	in	_	_	_	_	_	_	_
@@ -472,15 +472,15 @@
 472	diesem	diesem	_	_	_	_	_	_	_
 473	symbolischen	symbolischen	_	_	_	_	_	_	_
 474	Sinne	Sinne	_	_	_	_	_	_	_
-475	verwendet:	verwendet:	_	_	_	_	_	_	_
+475	verwendet	verwendet	_	_	_	_	_	_	_
 476	Narrative	Narrative	_	_	_	_	_	_	_
 477	Wissensstruktu­	Wissensstruktu­	_	_	_	_	_	_	_
-478	ren,	ren,	_	_	_	_	_	_	_
+478	ren	ren	_	_	_	_	_	_	_
 479	die	die	_	_	_	_	_	_	_
 480	spezifische	spezifische	_	_	_	_	_	_	_
 481	Wirklichkeitsausschnitte	Wirklichkeitsausschnitte	_	_	_	_	_	_	_
 482	symbolisch	symbolisch	_	_	_	_	_	_	_
-483	repräsentieren,	repräsentieren,	_	_	_	_	_	_	_
+483	repräsentieren	repräsentieren	_	_	_	_	_	_	_
 484	werden	werden	_	_	_	_	_	_	_
 485	zum	zum	_	_	_	_	_	_	_
 486	Ge­	Ge­	_	_	_	_	_	_	_
@@ -509,7 +509,7 @@
 509	und	und	_	_	_	_	_	_	_
 510	Erhaltung	Erhaltung	_	_	_	_	_	_	_
 511	sozialer	sozialer	_	_	_	_	_	_	_
-512	Einheiten:	Einheiten:	_	_	_	_	_	_	_
+512	Einheiten	Einheiten	_	_	_	_	_	_	_
 513	Welche	Welche	_	_	_	_	_	_	_
 514	Funktion	Funktion	_	_	_	_	_	_	_
 515	besitzen	besitzen	_	_	_	_	_	_	_
@@ -523,7 +523,7 @@
 523	Konstitution	Konstitution	_	_	_	_	_	_	_
 524	sozialer	sozialer	_	_	_	_	_	_	_
 525	Realitä­	Realitä­	_	_	_	_	_	_	_
-526	ten,	ten,	_	_	_	_	_	_	_
+526	ten	ten	_	_	_	_	_	_	_
 527	wobei	wobei	_	_	_	_	_	_	_
 528	insbesondere	insbesondere	_	_	_	_	_	_	_
 529	die	die	_	_	_	_	_	_	_
@@ -536,7 +536,7 @@
 536	Macht	Macht	_	_	_	_	_	_	_
 537	häufig	häufig	_	_	_	_	_	_	_
 538	im	im	_	_	_	_	_	_	_
-539	Mit-	Mit-	_	_	_	_	_	_	_
+539	Mit	Mit	_	_	_	_	_	_	_
 540	Journal	Journal	_	_	_	_	_	_	_
 541	filr	filr	_	_	_	_	_	_	_
 542	Psychologie	Psychologie	_	_	_	_	_	_	_

@@ -1,9 +1,9 @@
 1	Buchbesprechungen	Buchbesprechungen	_	_	_	_	_	_	_
 2	Jürgen	Jürgen	_	_	_	_	_	_	_
-3	Straub:	Straub:	_	_	_	_	_	_	_
-4	Historisch-psychologische	Historisch-psychologische	_	_	_	_	_	_	_
-5	Biographieforschung:	Biographieforschung:	_	_	_	_	_	_	_
-6	theoretische,	theoretische,	_	_	_	_	_	_	_
+3	Straub	Straub	_	_	_	_	_	_	_
+4	Historischpsychologische	Historischpsychologische	_	_	_	_	_	_	_
+5	Biographieforschung	Biographieforschung	_	_	_	_	_	_	_
+6	theoretische	theoretische	_	_	_	_	_	_	_
 7	methodologische	methodologische	_	_	_	_	_	_	_
 8	und	und	_	_	_	_	_	_	_
 9	methodische	methodische	_	_	_	_	_	_	_
@@ -18,7 +18,7 @@
 18	Heiner	Heiner	_	_	_	_	_	_	_
 19	Legewie	Legewie	_	_	_	_	_	_	_
 20	Heidelberg	Heidelberg	_	_	_	_	_	_	_
-21	1989,	1989,	_	_	_	_	_	_	_
+21	1989	1989	_	_	_	_	_	_	_
 22	Asanger	Asanger	_	_	_	_	_	_	_
 23	Biographieforschung	Biographieforschung	_	_	_	_	_	_	_
 24	ist	ist	_	_	_	_	_	_	_
@@ -73,7 +73,7 @@
 73	sicher	sicher	_	_	_	_	_	_	_
 74	mit	mit	_	_	_	_	_	_	_
 75	zu	zu	_	_	_	_	_	_	_
-76	verdanken,	verdanken,	_	_	_	_	_	_	_
+76	verdanken	verdanken	_	_	_	_	_	_	_
 77	daß	daß	_	_	_	_	_	_	_
 78	die	die	_	_	_	_	_	_	_
 79	Biogra­	Biogra­	_	_	_	_	_	_	_
@@ -84,10 +84,10 @@
 84	stets	stets	_	_	_	_	_	_	_
 85	ihren	ihren	_	_	_	_	_	_	_
 86	Platz	Platz	_	_	_	_	_	_	_
-87	hatte,	hatte,	_	_	_	_	_	_	_
+87	hatte	hatte	_	_	_	_	_	_	_
 88	auch	auch	_	_	_	_	_	_	_
 89	zu	zu	_	_	_	_	_	_	_
-90	Zeiten,	Zeiten,	_	_	_	_	_	_	_
+90	Zeiten	Zeiten	_	_	_	_	_	_	_
 91	in	in	_	_	_	_	_	_	_
 92	denen	denen	_	_	_	_	_	_	_
 93	das	das	_	_	_	_	_	_	_
@@ -101,7 +101,7 @@
 101	hätte	hätte	_	_	_	_	_	_	_
 102	zulassen	zulassen	_	_	_	_	_	_	_
 103	dürfen	dürfen	_	_	_	_	_	_	_
-104	Allerdings,	Allerdings,	_	_	_	_	_	_	_
+104	Allerdings	Allerdings	_	_	_	_	_	_	_
 105	und	und	_	_	_	_	_	_	_
 106	dies	dies	_	_	_	_	_	_	_
 107	aufgezeigt	aufgezeigt	_	_	_	_	_	_	_
@@ -118,7 +118,7 @@
 118	Buches	Buches	_	_	_	_	_	_	_
 119	von	von	_	_	_	_	_	_	_
 120	Jürgen	Jürgen	_	_	_	_	_	_	_
-121	Straub,	Straub,	_	_	_	_	_	_	_
+121	Straub	Straub	_	_	_	_	_	_	_
 122	konnte	konnte	_	_	_	_	_	_	_
 123	sich	sich	_	_	_	_	_	_	_
 124	auch	auch	_	_	_	_	_	_	_
@@ -150,7 +150,7 @@
 150	Seite	Seite	_	_	_	_	_	_	_
 151	und	und	_	_	_	_	_	_	_
 152	seinen	seinen	_	_	_	_	_	_	_
-153	methodologisch-methodi­	methodologisch-methodi­	_	_	_	_	_	_	_
+153	methodologischmethodi­	methodologischmethodi­	_	_	_	_	_	_	_
 154	schen	schen	_	_	_	_	_	_	_
 155	Überlegungen	Überlegungen	_	_	_	_	_	_	_
 156	und	und	_	_	_	_	_	_	_
@@ -185,7 +185,7 @@
 185	Weise	Weise	_	_	_	_	_	_	_
 186	wird	wird	_	_	_	_	_	_	_
 187	sogleich	sogleich	_	_	_	_	_	_	_
-188	deutlich,	deutlich,	_	_	_	_	_	_	_
+188	deutlich	deutlich	_	_	_	_	_	_	_
 189	wie	wie	_	_	_	_	_	_	_
 190	sehr	sehr	_	_	_	_	_	_	_
 191	die	die	_	_	_	_	_	_	_
@@ -239,13 +239,13 @@
 239	Biographieforschung	Biographieforschung	_	_	_	_	_	_	_
 240	ver­	ver­	_	_	_	_	_	_	_
 241	nachlässigte	nachlässigte	_	_	_	_	_	_	_
-242	Dimensionen:	Dimensionen:	_	_	_	_	_	_	_
+242	Dimensionen	Dimensionen	_	_	_	_	_	_	_
 243	die	die	_	_	_	_	_	_	_
 244	Dialektik	Dialektik	_	_	_	_	_	_	_
 245	von	von	_	_	_	_	_	_	_
 246	Sozialisation	Sozialisation	_	_	_	_	_	_	_
 247	und	und	_	_	_	_	_	_	_
-248	Individuierung,	Individuierung,	_	_	_	_	_	_	_
+248	Individuierung	Individuierung	_	_	_	_	_	_	_
 249	Zeitlichkeit	Zeitlichkeit	_	_	_	_	_	_	_
 250	Geschichtlichkeit	Geschichtlichkeit	_	_	_	_	_	_	_
 251	als	als	_	_	_	_	_	_	_
@@ -294,7 +294,7 @@
 294	nur	nur	_	_	_	_	_	_	_
 295	unzu­	unzu­	_	_	_	_	_	_	_
 296	reichend	reichend	_	_	_	_	_	_	_
-297	di~~utiert	di~~utiert	_	_	_	_	_	_	_
+297	diutiert	diutiert	_	_	_	_	_	_	_
 298	Die	Die	_	_	_	_	_	_	_
 299	wenigen	wenigen	_	_	_	_	_	_	_
 300	metatheo­	metatheo­	_	_	_	_	_	_	_
@@ -363,7 +363,7 @@
 363	Straub	Straub	_	_	_	_	_	_	_
 364	die	die	_	_	_	_	_	_	_
 365	temporal	temporal	_	_	_	_	_	_	_
-366	verfaßte,	verfaßte,	_	_	_	_	_	_	_
+366	verfaßte	verfaßte	_	_	_	_	_	_	_
 367	geschichtliche	geschichtliche	_	_	_	_	_	_	_
 368	Konstitution	Konstitution	_	_	_	_	_	_	_
 369	des	des	_	_	_	_	_	_	_
@@ -393,7 +393,7 @@
 393	je	je	_	_	_	_	_	_	_
 394	eigene	eigene	_	_	_	_	_	_	_
 395	Biographie	Biographie	_	_	_	_	_	_	_
-396	erscheint,	erscheint,	_	_	_	_	_	_	_
+396	erscheint	erscheint	_	_	_	_	_	_	_
 397	ist	ist	_	_	_	_	_	_	_
 398	abhängig	abhängig	_	_	_	_	_	_	_
 399	von	von	_	_	_	_	_	_	_
@@ -425,7 +425,7 @@
 425	ins	ins	_	_	_	_	_	_	_
 426	Gedächtnis	Gedächtnis	_	_	_	_	_	_	_
 427	ge­	ge­	_	_	_	_	_	_	_
-428	rufen,	rufen,	_	_	_	_	_	_	_
+428	rufen	rufen	_	_	_	_	_	_	_
 429	sondern	sondern	_	_	_	_	_	_	_
 430	kann	kann	_	_	_	_	_	_	_
 431	nur	nur	_	_	_	_	_	_	_
@@ -447,7 +447,7 @@
 447	Vergangenheit	Vergangenheit	_	_	_	_	_	_	_
 448	ist	ist	_	_	_	_	_	_	_
 449	ein	ein	_	_	_	_	_	_	_
-450	gedankli-	gedankli-	_	_	_	_	_	_	_
+450	gedankli	gedankli	_	_	_	_	_	_	_
 451	Journal	Journal	_	_	_	_	_	_	_
 452	für	für	_	_	_	_	_	_	_
 453	Psychologie	Psychologie	_	_	_	_	_	_	_

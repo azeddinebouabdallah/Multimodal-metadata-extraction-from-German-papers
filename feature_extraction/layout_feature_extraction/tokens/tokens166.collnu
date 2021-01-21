@@ -2,30 +2,30 @@
 2	Kühner	Kühner	_	_	_	_	_	_	_
 3	Ich	Ich	_	_	_	_	_	_	_
 4	Judith	Judith	_	_	_	_	_	_	_
-5	-	-	_	_	_	_	_	_	_
+5			_	_	_	_	_	_	_
 6	Du	Du	_	_	_	_	_	_	_
-7	Jane?	Jane?	_	_	_	_	_	_	_
+7	Jane	Jane	_	_	_	_	_	_	_
 8	Im	Im	_	_	_	_	_	_	_
 9	Dschungel	Dschungel	_	_	_	_	_	_	_
 10	der	der	_	_	_	_	_	_	_
 11	Diskurse	Diskurse	_	_	_	_	_	_	_
 12	Wie	Wie	_	_	_	_	_	_	_
-13	gut,	gut,	_	_	_	_	_	_	_
+13	gut	gut	_	_	_	_	_	_	_
 14	daß	daß	_	_	_	_	_	_	_
 15	es	es	_	_	_	_	_	_	_
 16	Foucault	Foucault	_	_	_	_	_	_	_
-17	gibt!	gibt!	_	_	_	_	_	_	_
+17	gibt	gibt	_	_	_	_	_	_	_
 18	Oder	Oder	_	_	_	_	_	_	_
-19	besser:	besser:	_	_	_	_	_	_	_
+19	besser	besser	_	_	_	_	_	_	_
 20	Wie	Wie	_	_	_	_	_	_	_
-21	gut,	gut,	_	_	_	_	_	_	_
+21	gut	gut	_	_	_	_	_	_	_
 22	daß	daß	_	_	_	_	_	_	_
 23	es	es	_	_	_	_	_	_	_
 24	jene	jene	_	_	_	_	_	_	_
 25	Diskursexplosion	Diskursexplosion	_	_	_	_	_	_	_
 26	vgI	vgI	_	_	_	_	_	_	_
-27	Fink-Eitel,	Fink-Eitel,	_	_	_	_	_	_	_
-28	1990,	1990,	_	_	_	_	_	_	_
+27	FinkEitel	FinkEitel	_	_	_	_	_	_	_
+28	1990	1990	_	_	_	_	_	_	_
 29	S	S	_	_	_	_	_	_	_
 30	8	8	_	_	_	_	_	_	_
 31	an	an	_	_	_	_	_	_	_
@@ -33,7 +33,7 @@
 33	Werk	Werk	_	_	_	_	_	_	_
 34	gege­	gege­	_	_	_	_	_	_	_
 35	ben	ben	_	_	_	_	_	_	_
-36	hat,	hat,	_	_	_	_	_	_	_
+36	hat	hat	_	_	_	_	_	_	_
 37	dessen	dessen	_	_	_	_	_	_	_
 38	Druckwelle	Druckwelle	_	_	_	_	_	_	_
 39	auch	auch	_	_	_	_	_	_	_
@@ -49,7 +49,7 @@
 49	massiv	massiv	_	_	_	_	_	_	_
 50	erreichen	erreichen	_	_	_	_	_	_	_
 51	konnte	konnte	_	_	_	_	_	_	_
-52	-	-	_	_	_	_	_	_	_
+52			_	_	_	_	_	_	_
 53	mit	mit	_	_	_	_	_	_	_
 54	dem	dem	_	_	_	_	_	_	_
 55	sicheren	sicheren	_	_	_	_	_	_	_
@@ -64,10 +64,10 @@
 64	berufen	berufen	_	_	_	_	_	_	_
 65	darf	darf	_	_	_	_	_	_	_
 66	Dank	Dank	_	_	_	_	_	_	_
-67	Foucault,	Foucault,	_	_	_	_	_	_	_
+67	Foucault	Foucault	_	_	_	_	_	_	_
 68	dank	dank	_	_	_	_	_	_	_
 69	jener	jener	_	_	_	_	_	_	_
-70	Explosion,	Explosion,	_	_	_	_	_	_	_
+70	Explosion	Explosion	_	_	_	_	_	_	_
 71	muß	muß	_	_	_	_	_	_	_
 72	ich	ich	_	_	_	_	_	_	_
 73	mich	mich	_	_	_	_	_	_	_
@@ -80,7 +80,7 @@
 80	dieses	dieses	_	_	_	_	_	_	_
 81	Artikels	Artikels	_	_	_	_	_	_	_
 82	weder	weder	_	_	_	_	_	_	_
-83	schämen,	schämen,	_	_	_	_	_	_	_
+83	schämen	schämen	_	_	_	_	_	_	_
 84	noch	noch	_	_	_	_	_	_	_
 85	mich	mich	_	_	_	_	_	_	_
 86	mit	mit	_	_	_	_	_	_	_
@@ -101,7 +101,7 @@
 101	sowieso	sowieso	_	_	_	_	_	_	_
 102	keine	keine	_	_	_	_	_	_	_
 103	Lust	Lust	_	_	_	_	_	_	_
-104	mehr,	mehr,	_	_	_	_	_	_	_
+104	mehr	mehr	_	_	_	_	_	_	_
 105	vor	vor	_	_	_	_	_	_	_
 106	jede	jede	_	_	_	_	_	_	_
 107	feministische	feministische	_	_	_	_	_	_	_
@@ -117,13 +117,13 @@
 117	eigenes	eigenes	_	_	_	_	_	_	_
 118	femini­	femini­	_	_	_	_	_	_	_
 119	stisches	stisches	_	_	_	_	_	_	_
-120	Theorie-Kapitel	Theorie-Kapitel	_	_	_	_	_	_	_
+120	TheorieKapitel	TheorieKapitel	_	_	_	_	_	_	_
 121	zu	zu	_	_	_	_	_	_	_
-122	setzen:	setzen:	_	_	_	_	_	_	_
+122	setzen	setzen	_	_	_	_	_	_	_
 123	Wie	Wie	_	_	_	_	_	_	_
 124	schon	schon	_	_	_	_	_	_	_
 125	Beauvoir	Beauvoir	_	_	_	_	_	_	_
-126	sagte,	sagte,	_	_	_	_	_	_	_
+126	sagte	sagte	_	_	_	_	_	_	_
 127	die	die	_	_	_	_	_	_	_
 128	leider	leider	_	_	_	_	_	_	_
 129	in	in	_	_	_	_	_	_	_
@@ -133,7 +133,7 @@
 133			_	_	_	_	_	_	_
 134	und	und	_	_	_	_	_	_	_
 135	später	später	_	_	_	_	_	_	_
-136	Haug,	Haug,	_	_	_	_	_	_	_
+136	Haug	Haug	_	_	_	_	_	_	_
 137	inspi­	inspi­	_	_	_	_	_	_	_
 138	riert	riert	_	_	_	_	_	_	_
 139	durch	durch	_	_	_	_	_	_	_
@@ -176,7 +176,7 @@
 176	nicht	nicht	_	_	_	_	_	_	_
 177	seit	seit	_	_	_	_	_	_	_
 178	Jahren	Jahren	_	_	_	_	_	_	_
-179	Feministin,	Feministin,	_	_	_	_	_	_	_
+179	Feministin	Feministin	_	_	_	_	_	_	_
 180	zer­	zer­	_	_	_	_	_	_	_
 181	mürbende	mürbende	_	_	_	_	_	_	_
 182	Methodendiskussionen	Methodendiskussionen	_	_	_	_	_	_	_
@@ -202,7 +202,7 @@
 202	deshalb	deshalb	_	_	_	_	_	_	_
 203	fast	fast	_	_	_	_	_	_	_
 204	überheblich	überheblich	_	_	_	_	_	_	_
-205	distanzieren,	distanzieren,	_	_	_	_	_	_	_
+205	distanzieren	distanzieren	_	_	_	_	_	_	_
 206	weil	weil	_	_	_	_	_	_	_
 207	eben	eben	_	_	_	_	_	_	_
 208	jene	jene	_	_	_	_	_	_	_
@@ -215,7 +215,7 @@
 215	Woher	Woher	_	_	_	_	_	_	_
 216	also	also	_	_	_	_	_	_	_
 217	dieses	dieses	_	_	_	_	_	_	_
-218	»mehr«?	»mehr«?	_	_	_	_	_	_	_
+218	»mehr«	»mehr«	_	_	_	_	_	_	_
 219	Offenbar	Offenbar	_	_	_	_	_	_	_
 220	führte	führte	_	_	_	_	_	_	_
 221	mich	mich	_	_	_	_	_	_	_
@@ -227,7 +227,7 @@
 227	auch	auch	_	_	_	_	_	_	_
 228	zu	zu	_	_	_	_	_	_	_
 229	der	der	_	_	_	_	_	_	_
-230	Annahme,	Annahme,	_	_	_	_	_	_	_
+230	Annahme	Annahme	_	_	_	_	_	_	_
 231	ich	ich	_	_	_	_	_	_	_
 232	könne	könne	_	_	_	_	_	_	_
 233	nun	nun	_	_	_	_	_	_	_
@@ -243,7 +243,7 @@
 243	junge	junge	_	_	_	_	_	_	_
 244	Feministin	Feministin	_	_	_	_	_	_	_
 245	zu	zu	_	_	_	_	_	_	_
-246	dem,	dem,	_	_	_	_	_	_	_
+246	dem	dem	_	_	_	_	_	_	_
 247	was	was	_	_	_	_	_	_	_
 248	ganz	ganz	_	_	_	_	_	_	_
 249	verschie­	verschie­	_	_	_	_	_	_	_
@@ -252,7 +252,7 @@
 252	gesagt	gesagt	_	_	_	_	_	_	_
 253	und	und	_	_	_	_	_	_	_
 254	getan	getan	_	_	_	_	_	_	_
-255	haben?	haben?	_	_	_	_	_	_	_
+255	haben	haben	_	_	_	_	_	_	_
 256	Was	Was	_	_	_	_	_	_	_
 257	ist	ist	_	_	_	_	_	_	_
 258	los	los	_	_	_	_	_	_	_
@@ -260,7 +260,7 @@
 260	der	der	_	_	_	_	_	_	_
 261	femi­	femi­	_	_	_	_	_	_	_
 262	nistischen	nistischen	_	_	_	_	_	_	_
-263	Debatte?	Debatte?	_	_	_	_	_	_	_
+263	Debatte	Debatte	_	_	_	_	_	_	_
 264	Warum	Warum	_	_	_	_	_	_	_
 265	entzündet	entzündet	_	_	_	_	_	_	_
 266	sich	sich	_	_	_	_	_	_	_
@@ -272,7 +272,7 @@
 272	Diskussion	Diskussion	_	_	_	_	_	_	_
 273	beispielsweise	beispielsweise	_	_	_	_	_	_	_
 274	an	an	_	_	_	_	_	_	_
-275	Schnittpunkten,	Schnittpunkten,	_	_	_	_	_	_	_
+275	Schnittpunkten	Schnittpunkten	_	_	_	_	_	_	_
 276	an	an	_	_	_	_	_	_	_
 277	denen	denen	_	_	_	_	_	_	_
 278	sich	sich	_	_	_	_	_	_	_
@@ -282,7 +282,7 @@
 282	»postmoderner«	»postmoderner«	_	_	_	_	_	_	_
 283	Philosophie	Philosophie	_	_	_	_	_	_	_
 284	verbindet	verbindet	_	_	_	_	_	_	_
-285	P&G	P&G	_	_	_	_	_	_	_
-286	3-4/97	3-4/97	_	_	_	_	_	_	_
+285	PG	PG	_	_	_	_	_	_	_
+286	3497	3497	_	_	_	_	_	_	_
 287	87	87	_	_	_	_	_	_	_
 

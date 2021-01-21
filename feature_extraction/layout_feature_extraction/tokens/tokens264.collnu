@@ -25,7 +25,7 @@
 25	Beschuldigter	Beschuldigter	_	_	_	_	_	_	_
 26	Norbert	Norbert	_	_	_	_	_	_	_
 27	Schröer	Schröer	_	_	_	_	_	_	_
-28	Zusammenfassung:	Zusammenfassung:	_	_	_	_	_	_	_
+28	Zusammenfassung	Zusammenfassung	_	_	_	_	_	_	_
 29	Die	Die	_	_	_	_	_	_	_
 30	Kommunikation	Kommunikation	_	_	_	_	_	_	_
 31	zwischen	zwischen	_	_	_	_	_	_	_
@@ -42,7 +42,7 @@
 42	kaum	kaum	_	_	_	_	_	_	_
 43	noch	noch	_	_	_	_	_	_	_
 44	von	von	_	_	_	_	_	_	_
-45	Sprachproblemen,	Sprachproblemen,	_	_	_	_	_	_	_
+45	Sprachproblemen	Sprachproblemen	_	_	_	_	_	_	_
 46	dafür	dafür	_	_	_	_	_	_	_
 47	aber	aber	_	_	_	_	_	_	_
 48	um	um	_	_	_	_	_	_	_
@@ -56,7 +56,7 @@
 56	Mißverständnissen	Mißverständnissen	_	_	_	_	_	_	_
 57	geprägt	geprägt	_	_	_	_	_	_	_
 58	Das	Das	_	_	_	_	_	_	_
-59	bedeutet:	bedeutet:	_	_	_	_	_	_	_
+59	bedeutet	bedeutet	_	_	_	_	_	_	_
 60	die	die	_	_	_	_	_	_	_
 61	Handlungskoordinierung	Handlungskoordinierung	_	_	_	_	_	_	_
 62	von	von	_	_	_	_	_	_	_
@@ -73,7 +73,7 @@
 73	erheblich	erheblich	_	_	_	_	_	_	_
 74	divergierender	divergierender	_	_	_	_	_	_	_
 75	kulturspezifischer	kulturspezifischer	_	_	_	_	_	_	_
-76	Deutungsmuster,	Deutungsmuster,	_	_	_	_	_	_	_
+76	Deutungsmuster	Deutungsmuster	_	_	_	_	_	_	_
 77	so	so	_	_	_	_	_	_	_
 78	daß	daß	_	_	_	_	_	_	_
 79	sich	sich	_	_	_	_	_	_	_
@@ -183,7 +183,7 @@
 183	ein	ein	_	_	_	_	_	_	_
 184	interkultureller	interkultureller	_	_	_	_	_	_	_
 185	Kommunikationskonflikt	Kommunikationskonflikt	_	_	_	_	_	_	_
-186	nachweisen?	nachweisen?	_	_	_	_	_	_	_
+186	nachweisen	nachweisen	_	_	_	_	_	_	_
 187	Der	Der	_	_	_	_	_	_	_
 188	Anlaß	Anlaß	_	_	_	_	_	_	_
 189	für	für	_	_	_	_	_	_	_
@@ -202,7 +202,7 @@
 202	statistisch	statistisch	_	_	_	_	_	_	_
 203	mehrfach	mehrfach	_	_	_	_	_	_	_
 204	belegter	belegter	_	_	_	_	_	_	_
-205	Sachverhalt,	Sachverhalt,	_	_	_	_	_	_	_
+205	Sachverhalt	Sachverhalt	_	_	_	_	_	_	_
 206	demzufolge	demzufolge	_	_	_	_	_	_	_
 207	in	in	_	_	_	_	_	_	_
 208	der	der	_	_	_	_	_	_	_
@@ -222,12 +222,12 @@
 222	deutschen	deutschen	_	_	_	_	_	_	_
 223	Beschuldigten	Beschuldigten	_	_	_	_	_	_	_
 224	Mansel	Mansel	_	_	_	_	_	_	_
-225	1989,	1989,	_	_	_	_	_	_	_
-226	Pfeiffer/Schöckel	Pfeiffer/Schöckel	_	_	_	_	_	_	_
-227	1990,	1990,	_	_	_	_	_	_	_
-228	Geißler/Marißen	Geißler/Marißen	_	_	_	_	_	_	_
-229	1990,	1990,	_	_	_	_	_	_	_
-230	Reichertz/Schröer	Reichertz/Schröer	_	_	_	_	_	_	_
+225	1989	1989	_	_	_	_	_	_	_
+226	PfeifferSchöckel	PfeifferSchöckel	_	_	_	_	_	_	_
+227	1990	1990	_	_	_	_	_	_	_
+228	GeißlerMarißen	GeißlerMarißen	_	_	_	_	_	_	_
+229	1990	1990	_	_	_	_	_	_	_
+230	ReichertzSchröer	ReichertzSchröer	_	_	_	_	_	_	_
 231	1993	1993	_	_	_	_	_	_	_
 232	Bei	Bei	_	_	_	_	_	_	_
 233	der	der	_	_	_	_	_	_	_
@@ -240,7 +240,7 @@
 240	die	die	_	_	_	_	_	_	_
 241	polizeiliche	polizeiliche	_	_	_	_	_	_	_
 242	Ermittlungspraxis	Ermittlungspraxis	_	_	_	_	_	_	_
-243	-	-	_	_	_	_	_	_	_
+243			_	_	_	_	_	_	_
 244	wohl	wohl	_	_	_	_	_	_	_
 245	nicht	nicht	_	_	_	_	_	_	_
 246	zuletzt	zuletzt	_	_	_	_	_	_	_
@@ -248,10 +248,10 @@
 248	des	des	_	_	_	_	_	_	_
 249	fehlenden	fehlenden	_	_	_	_	_	_	_
 250	Feldzugangs	Feldzugangs	_	_	_	_	_	_	_
-251	-	-	_	_	_	_	_	_	_
+251			_	_	_	_	_	_	_
 252	unberücksichtigt	unberücksichtigt	_	_	_	_	_	_	_
-253	Reichertz/Schröer	Reichertz/Schröer	_	_	_	_	_	_	_
-254	1993:	1993:	_	_	_	_	_	_	_
+253	ReichertzSchröer	ReichertzSchröer	_	_	_	_	_	_	_
+254	1993	1993	_	_	_	_	_	_	_
 255	761ff	761ff	_	_	_	_	_	_	_
 256	Unsere	Unsere	_	_	_	_	_	_	_
 257	Strukturanalysen	Strukturanalysen	_	_	_	_	_	_	_
@@ -261,7 +261,7 @@
 261	deutschen	deutschen	_	_	_	_	_	_	_
 262	Beschuldigten	Beschuldigten	_	_	_	_	_	_	_
 263	hatten	hatten	_	_	_	_	_	_	_
-264	ergeben,	ergeben,	_	_	_	_	_	_	_
+264	ergeben	ergeben	_	_	_	_	_	_	_
 265	daß	daß	_	_	_	_	_	_	_
 266	die	die	_	_	_	_	_	_	_
 267	gelingende	gelingende	_	_	_	_	_	_	_
@@ -273,11 +273,11 @@
 273	dem	dem	_	_	_	_	_	_	_
 274	Beschuldigten	Beschuldigten	_	_	_	_	_	_	_
 275	alltagsweltlich	alltagsweltlich	_	_	_	_	_	_	_
-276	vertrauten,	vertrauten,	_	_	_	_	_	_	_
+276	vertrauten	vertrauten	_	_	_	_	_	_	_
 277	für	für	_	_	_	_	_	_	_
 278	den	den	_	_	_	_	_	_	_
 279	Beschuldigten	Beschuldigten	_	_	_	_	_	_	_
-280	ver-	ver-	_	_	_	_	_	_	_
+280	ver	ver	_	_	_	_	_	_	_
 281	pflichtenden	pflichtenden	_	_	_	_	_	_	_
 282	kommunikativen	kommunikativen	_	_	_	_	_	_	_
 283	Beziehungswirklichkeit	Beziehungswirklichkeit	_	_	_	_	_	_	_

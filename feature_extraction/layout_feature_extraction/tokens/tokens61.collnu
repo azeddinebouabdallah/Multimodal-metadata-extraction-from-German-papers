@@ -6,7 +6,7 @@
 6	RÜCKKEHR	RÜCKKEHR	_	_	_	_	_	_	_
 7	IN	IN	_	_	_	_	_	_	_
 8	DIE	DIE	_	_	_	_	_	_	_
-9	PSYCHOLOGIE!	PSYCHOLOGIE!	_	_	_	_	_	_	_
+9	PSYCHOLOGIE	PSYCHOLOGIE	_	_	_	_	_	_	_
 10	DER	DER	_	_	_	_	_	_	_
 11	PSYCHOANALYSE	PSYCHOANALYSE	_	_	_	_	_	_	_
 12	Die	Die	_	_	_	_	_	_	_
@@ -24,7 +24,7 @@
 24	Verhältnis	Verhältnis	_	_	_	_	_	_	_
 25	zur	zur	_	_	_	_	_	_	_
 26	Psychologie	Psychologie	_	_	_	_	_	_	_
-27	zurückblicken:	zurückblicken:	_	_	_	_	_	_	_
+27	zurückblicken	zurückblicken	_	_	_	_	_	_	_
 28	Gab	Gab	_	_	_	_	_	_	_
 29	es	es	_	_	_	_	_	_	_
 30	anfangs	anfangs	_	_	_	_	_	_	_
@@ -36,7 +36,7 @@
 36	B	B	_	_	_	_	_	_	_
 37	mit	mit	_	_	_	_	_	_	_
 38	Jean	Jean	_	_	_	_	_	_	_
-39	Piaget,	Piaget,	_	_	_	_	_	_	_
+39	Piaget	Piaget	_	_	_	_	_	_	_
 40	der	der	_	_	_	_	_	_	_
 41	eine	eine	_	_	_	_	_	_	_
 42	zeit­	zeit­	_	_	_	_	_	_	_
@@ -51,12 +51,12 @@
 51	B	B	_	_	_	_	_	_	_
 52	durch	durch	_	_	_	_	_	_	_
 53	Wilhelm	Wilhelm	_	_	_	_	_	_	_
-54	Wundt,	Wundt,	_	_	_	_	_	_	_
+54	Wundt	Wundt	_	_	_	_	_	_	_
 55	Fechner	Fechner	_	_	_	_	_	_	_
 56	und	und	_	_	_	_	_	_	_
 57	vor	vor	_	_	_	_	_	_	_
 58	allem	allem	_	_	_	_	_	_	_
-59	Heimholtz,	Heimholtz,	_	_	_	_	_	_	_
+59	Heimholtz	Heimholtz	_	_	_	_	_	_	_
 60	die	die	_	_	_	_	_	_	_
 61	Freuds	Freuds	_	_	_	_	_	_	_
 62	Denken	Denken	_	_	_	_	_	_	_
@@ -65,7 +65,7 @@
 65	Zeugnis	Zeugnis	_	_	_	_	_	_	_
 66	nachhaltig	nachhaltig	_	_	_	_	_	_	_
 67	beeinflußten	beeinflußten	_	_	_	_	_	_	_
-68	1,	1,	_	_	_	_	_	_	_
+68	1	1	_	_	_	_	_	_	_
 69	kam	kam	_	_	_	_	_	_	_
 70	in	in	_	_	_	_	_	_	_
 71	den	den	_	_	_	_	_	_	_
@@ -81,16 +81,16 @@
 81	Stern	Stern	_	_	_	_	_	_	_
 82	z	z	_	_	_	_	_	_	_
 83	B	B	_	_	_	_	_	_	_
-84	"entfachte"	"entfachte"	_	_	_	_	_	_	_
+84	entfachte	entfachte	_	_	_	_	_	_	_
 85	so	so	_	_	_	_	_	_	_
-86	Nitzschke,	Nitzschke,	_	_	_	_	_	_	_
+86	Nitzschke	Nitzschke	_	_	_	_	_	_	_
 87	1990	1990	_	_	_	_	_	_	_
 88	wü­	wü­	_	_	_	_	_	_	_
 89	tende	tende	_	_	_	_	_	_	_
 90	Angriffe	Angriffe	_	_	_	_	_	_	_
 91	gegen	gegen	_	_	_	_	_	_	_
 92	die	die	_	_	_	_	_	_	_
-93	Psychoanalyse,	Psychoanalyse,	_	_	_	_	_	_	_
+93	Psychoanalyse	Psychoanalyse	_	_	_	_	_	_	_
 94	welche	welche	_	_	_	_	_	_	_
 95	ihrerseits	ihrerseits	_	_	_	_	_	_	_
 96	auf	auf	_	_	_	_	_	_	_
@@ -104,7 +104,7 @@
 104	suchte	suchte	_	_	_	_	_	_	_
 105	Interessant	Interessant	_	_	_	_	_	_	_
 106	ist	ist	_	_	_	_	_	_	_
-107	es,	es,	_	_	_	_	_	_	_
+107	es	es	_	_	_	_	_	_	_
 108	daß	daß	_	_	_	_	_	_	_
 109	nicht	nicht	_	_	_	_	_	_	_
 110	die	die	_	_	_	_	_	_	_
@@ -117,9 +117,9 @@
 117	Mittelpunkt	Mittelpunkt	_	_	_	_	_	_	_
 118	der	der	_	_	_	_	_	_	_
 119	Auseinandersetzungen	Auseinandersetzungen	_	_	_	_	_	_	_
-120	stand;	stand;	_	_	_	_	_	_	_
+120	stand	stand	_	_	_	_	_	_	_
 121	im	im	_	_	_	_	_	_	_
-122	Gegenteil:	Gegenteil:	_	_	_	_	_	_	_
+122	Gegenteil	Gegenteil	_	_	_	_	_	_	_
 123	Freud	Freud	_	_	_	_	_	_	_
 124	selbst	selbst	_	_	_	_	_	_	_
 125	war	war	_	_	_	_	_	_	_
@@ -133,10 +133,10 @@
 133	naturwissen­	naturwissen­	_	_	_	_	_	_	_
 134	schaftlich	schaftlich	_	_	_	_	_	_	_
 135	orientierter	orientierter	_	_	_	_	_	_	_
-136	Psychologie;	Psychologie;	_	_	_	_	_	_	_
+136	Psychologie	Psychologie	_	_	_	_	_	_	_
 137	er	er	_	_	_	_	_	_	_
 138	hatte	hatte	_	_	_	_	_	_	_
-139	geplant,	geplant,	_	_	_	_	_	_	_
+139	geplant	geplant	_	_	_	_	_	_	_
 140	bei	bei	_	_	_	_	_	_	_
 141	Helmholtz	Helmholtz	_	_	_	_	_	_	_
 142	in	in	_	_	_	_	_	_	_
@@ -163,14 +163,14 @@
 163	terte	terte	_	_	_	_	_	_	_
 164	mit	mit	_	_	_	_	_	_	_
 165	seiner	seiner	_	_	_	_	_	_	_
-166	Absicht,	Absicht,	_	_	_	_	_	_	_
+166	Absicht	Absicht	_	_	_	_	_	_	_
 167	in	in	_	_	_	_	_	_	_
 168	Wien	Wien	_	_	_	_	_	_	_
 169	ein	ein	_	_	_	_	_	_	_
 170	experimentalpsychologisches	experimentalpsychologisches	_	_	_	_	_	_	_
 171	La­	La­	_	_	_	_	_	_	_
 172	bor	bor	_	_	_	_	_	_	_
-173	einzurichten;	einzurichten;	_	_	_	_	_	_	_
+173	einzurichten	einzurichten	_	_	_	_	_	_	_
 174	das	das	_	_	_	_	_	_	_
 175	blieb	blieb	_	_	_	_	_	_	_
 176	Wilhelm	Wilhelm	_	_	_	_	_	_	_
@@ -181,7 +181,7 @@
 181	vor­	vor­	_	_	_	_	_	_	_
 182	behalten	behalten	_	_	_	_	_	_	_
 183	Beide	Beide	_	_	_	_	_	_	_
-184	Wissenschaften,	Wissenschaften,	_	_	_	_	_	_	_
+184	Wissenschaften	Wissenschaften	_	_	_	_	_	_	_
 185	die	die	_	_	_	_	_	_	_
 186	klinische	klinische	_	_	_	_	_	_	_
 187	Psychoanalyse	Psychoanalyse	_	_	_	_	_	_	_
@@ -189,11 +189,11 @@
 189	die	die	_	_	_	_	_	_	_
 190	experi­	experi­	_	_	_	_	_	_	_
 191	mentelle	mentelle	_	_	_	_	_	_	_
-192	Psychologie,	Psychologie,	_	_	_	_	_	_	_
+192	Psychologie	Psychologie	_	_	_	_	_	_	_
 193	hatten	hatten	_	_	_	_	_	_	_
 194	es	es	_	_	_	_	_	_	_
 195	zu	zu	_	_	_	_	_	_	_
-196	ertragen,	ertragen,	_	_	_	_	_	_	_
+196	ertragen	ertragen	_	_	_	_	_	_	_
 197	daß	daß	_	_	_	_	_	_	_
 198	sie	sie	_	_	_	_	_	_	_
 199	als	als	_	_	_	_	_	_	_
@@ -224,7 +224,7 @@
 224	wenigen	wenigen	_	_	_	_	_	_	_
 225	akademischen	akademischen	_	_	_	_	_	_	_
 226	psychiatrischen	psychiatrischen	_	_	_	_	_	_	_
-227	Ein-	Ein-	_	_	_	_	_	_	_
+227	Ein	Ein	_	_	_	_	_	_	_
 228	1	1	_	_	_	_	_	_	_
 229	Die	Die	_	_	_	_	_	_	_
 230	Assoziationsexperimente	Assoziationsexperimente	_	_	_	_	_	_	_
@@ -232,10 +232,10 @@
 232	CG	CG	_	_	_	_	_	_	_
 233	Jung	Jung	_	_	_	_	_	_	_
 234	stellen	stellen	_	_	_	_	_	_	_
-235	-	-	_	_	_	_	_	_	_
+235			_	_	_	_	_	_	_
 236	so	so	_	_	_	_	_	_	_
 237	Nitzschke	Nitzschke	_	_	_	_	_	_	_
-238	-	-	_	_	_	_	_	_	_
+238			_	_	_	_	_	_	_
 239	einen	einen	_	_	_	_	_	_	_
 240	Brücken­	Brücken­	_	_	_	_	_	_	_
 241	schlag	schlag	_	_	_	_	_	_	_

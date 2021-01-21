@@ -5,7 +5,7 @@
 5	K	K	_	_	_	_	_	_	_
 6	A	A	_	_	_	_	_	_	_
 7	S	S	_	_	_	_	_	_	_
-8	/	/	_	_	_	_	_	_	_
+8			_	_	_	_	_	_	_
 9	C	C	_	_	_	_	_	_	_
 10	O	O	_	_	_	_	_	_	_
 11	D	D	_	_	_	_	_	_	_
@@ -16,7 +16,7 @@
 16	11	11	_	_	_	_	_	_	_
 17	1988	1988	_	_	_	_	_	_	_
 18	■No	■No	_	_	_	_	_	_	_
-19	3/4	3/4	_	_	_	_	_	_	_
+19	34	34	_	_	_	_	_	_	_
 20	Gunter	Gunter	_	_	_	_	_	_	_
 21	Narr	Narr	_	_	_	_	_	_	_
 22	Verlag	Verlag	_	_	_	_	_	_	_
@@ -40,7 +40,7 @@
 40	Hammett	Hammett	_	_	_	_	_	_	_
 41	Jo	Jo	_	_	_	_	_	_	_
 42	Reichertz	Reichertz	_	_	_	_	_	_	_
-43	Ja,	Ja,	_	_	_	_	_	_	_
+43	Ja	Ja	_	_	_	_	_	_	_
 44	die	die	_	_	_	_	_	_	_
 45	E	E	_	_	_	_	_	_	_
 46	rde	rde	_	_	_	_	_	_	_
@@ -51,13 +51,13 @@
 51	nne	nne	_	_	_	_	_	_	_
 52	K	K	_	_	_	_	_	_	_
 53	ru	ru	_	_	_	_	_	_	_
-54	ste,	ste,	_	_	_	_	_	_	_
+54	ste	ste	_	_	_	_	_	_	_
 55	ich	ich	_	_	_	_	_	_	_
 56	m	m	_	_	_	_	_	_	_
 57	eine	eine	_	_	_	_	_	_	_
 58	im	im	_	_	_	_	_	_	_
 59	m	m	_	_	_	_	_	_	_
-60	er,	er,	_	_	_	_	_	_	_
+60	er	er	_	_	_	_	_	_	_
 61	ich	ich	_	_	_	_	_	_	_
 62	k	k	_	_	_	_	_	_	_
 63	ö	ö	_	_	_	_	_	_	_
@@ -67,7 +67,7 @@
 67	du	du	_	_	_	_	_	_	_
 68	rch	rch	_	_	_	_	_	_	_
 69	fallen	fallen	_	_	_	_	_	_	_
-70	,	,	_	_	_	_	_	_	_
+70			_	_	_	_	_	_	_
 71	w	w	_	_	_	_	_	_	_
 72	o	o	_	_	_	_	_	_	_
 73	ein	ein	_	_	_	_	_	_	_
@@ -89,7 +89,7 @@
 89	ftre	ftre	_	_	_	_	_	_	_
 90	te	te	_	_	_	_	_	_	_
 91	n	n	_	_	_	_	_	_	_
-92	,	,	_	_	_	_	_	_	_
+92			_	_	_	_	_	_	_
 93	m	m	_	_	_	_	_	_	_
 94	an	an	_	_	_	_	_	_	_
 95	k	k	_	_	_	_	_	_	_
@@ -122,14 +122,14 @@
 122	Die	Die	_	_	_	_	_	_	_
 123	Geschichte	Geschichte	_	_	_	_	_	_	_
 124	Flitcrafts	Flitcrafts	_	_	_	_	_	_	_
-125	-	-	_	_	_	_	_	_	_
-126	Subjektivus,	Subjektivus,	_	_	_	_	_	_	_
+125			_	_	_	_	_	_	_
+126	Subjektivus	Subjektivus	_	_	_	_	_	_	_
 127	Objektivus	Objektivus	_	_	_	_	_	_	_
 128	oder	oder	_	_	_	_	_	_	_
 129	doch	doch	_	_	_	_	_	_	_
 130	etwas	etwas	_	_	_	_	_	_	_
-131	anderes?	anderes?	_	_	_	_	_	_	_
-132	Ein	Ein	_	_	_	_	_	_	_
+131	anderes	anderes	_	_	_	_	_	_	_
+132	“Ein	“Ein	_	_	_	_	_	_	_
 133	Grundstücksmakler	Grundstücksmakler	_	_	_	_	_	_	_
 134	namens	namens	_	_	_	_	_	_	_
 135	Flitcraft	Flitcraft	_	_	_	_	_	_	_
@@ -140,19 +140,19 @@
 140	Büro	Büro	_	_	_	_	_	_	_
 141	in	in	_	_	_	_	_	_	_
 142	Tacoma	Tacoma	_	_	_	_	_	_	_
-143	verlassen,	verlassen,	_	_	_	_	_	_	_
+143	verlassen	verlassen	_	_	_	_	_	_	_
 144	um	um	_	_	_	_	_	_	_
 145	zum	zum	_	_	_	_	_	_	_
 146	Lunch	Lunch	_	_	_	_	_	_	_
 147	zu	zu	_	_	_	_	_	_	_
-148	gehen,	gehen,	_	_	_	_	_	_	_
+148	gehen	gehen	_	_	_	_	_	_	_
 149	und	und	_	_	_	_	_	_	_
 150	war	war	_	_	_	_	_	_	_
 151	nicht	nicht	_	_	_	_	_	_	_
 152	mehr	mehr	_	_	_	_	_	_	_
 153	zurückgekommen”	zurückgekommen”	_	_	_	_	_	_	_
 154	Hammett	Hammett	_	_	_	_	_	_	_
-155	1974,	1974,	_	_	_	_	_	_	_
+155	1974	1974	_	_	_	_	_	_	_
 156	S	S	_	_	_	_	_	_	_
 157	68	68	_	_	_	_	_	_	_
 158	Mit	Mit	_	_	_	_	_	_	_
@@ -162,7 +162,7 @@
 162	Sam	Sam	_	_	_	_	_	_	_
 163	Spade	Spade	_	_	_	_	_	_	_
 164	eine	eine	_	_	_	_	_	_	_
-165	Geschichte,	Geschichte,	_	_	_	_	_	_	_
+165	Geschichte	Geschichte	_	_	_	_	_	_	_
 166	die	die	_	_	_	_	_	_	_
 167	er	er	_	_	_	_	_	_	_
 168	seiner	seiner	_	_	_	_	_	_	_
@@ -217,13 +217,13 @@
 217	Die	Die	_	_	_	_	_	_	_
 218	nette	nette	_	_	_	_	_	_	_
 219	Bezeichnung	Bezeichnung	_	_	_	_	_	_	_
-220	‘Kriminalmagazin’'weist	‘Kriminalmagazin’'weist	_	_	_	_	_	_	_
+220	‘Kriminalmagazin’weist	‘Kriminalmagazin’weist	_	_	_	_	_	_	_
 221	allerdings	allerdings	_	_	_	_	_	_	_
 222	in	in	_	_	_	_	_	_	_
 223	die	die	_	_	_	_	_	_	_
 224	falsche	falsche	_	_	_	_	_	_	_
 225	Richtung	Richtung	_	_	_	_	_	_	_
-226	-	-	_	_	_	_	_	_	_
+226			_	_	_	_	_	_	_
 227	‘Rauhes	‘Rauhes	_	_	_	_	_	_	_
 228	Groschenheft’	Groschenheft’	_	_	_	_	_	_	_
 229	ist	ist	_	_	_	_	_	_	_
@@ -232,7 +232,7 @@
 232	treffenderer	treffenderer	_	_	_	_	_	_	_
 233	Name	Name	_	_	_	_	_	_	_
 234	Die	Die	_	_	_	_	_	_	_
-235	Flitcraft-Geschichte	Flitcraft-Geschichte	_	_	_	_	_	_	_
+235	FlitcraftGeschichte	FlitcraftGeschichte	_	_	_	_	_	_	_
 236	erstreckt	erstreckt	_	_	_	_	_	_	_
 237	sich	sich	_	_	_	_	_	_	_
 238	fast	fast	_	_	_	_	_	_	_
@@ -258,9 +258,9 @@
 258	dieser	dieser	_	_	_	_	_	_	_
 259	Geschichte	Geschichte	_	_	_	_	_	_	_
 260	Johnson	Johnson	_	_	_	_	_	_	_
-261	1985,	1985,	_	_	_	_	_	_	_
+261	1985	1985	_	_	_	_	_	_	_
 262	Nolan	Nolan	_	_	_	_	_	_	_
-263	1985;	1985;	_	_	_	_	_	_	_
+263	1985	1985	_	_	_	_	_	_	_
 264	wer	wer	_	_	_	_	_	_	_
 265	in	in	_	_	_	_	_	_	_
 266	der	der	_	_	_	_	_	_	_
@@ -273,7 +273,7 @@
 273	allerdings	allerdings	_	_	_	_	_	_	_
 274	nach	nach	_	_	_	_	_	_	_
 275	ihr	ihr	_	_	_	_	_	_	_
-276	sucht,	sucht,	_	_	_	_	_	_	_
+276	sucht	sucht	_	_	_	_	_	_	_
 277	tu	tu	_	_	_	_	_	_	_
 278	t	t	_	_	_	_	_	_	_
 279	dies	dies	_	_	_	_	_	_	_
@@ -283,26 +283,26 @@
 283	Interpreta­	Interpreta­	_	_	_	_	_	_	_
 284	tion	tion	_	_	_	_	_	_	_
 285	der	der	_	_	_	_	_	_	_
-286	Flitcraft-Episode,	Flitcraft-Episode,	_	_	_	_	_	_	_
+286	FlitcraftEpisode	FlitcraftEpisode	_	_	_	_	_	_	_
 287	die	die	_	_	_	_	_	_	_
 288	ich	ich	_	_	_	_	_	_	_
 289	hier	hier	_	_	_	_	_	_	_
 290	aufgreifen	aufgreifen	_	_	_	_	_	_	_
 291	und	und	_	_	_	_	_	_	_
 292	ausbauen	ausbauen	_	_	_	_	_	_	_
-293	möchte,	möchte,	_	_	_	_	_	_	_
+293	möchte	möchte	_	_	_	_	_	_	_
 294	findet	findet	_	_	_	_	_	_	_
 295	sich	sich	_	_	_	_	_	_	_
 296	in	in	_	_	_	_	_	_	_
 297	einem	einem	_	_	_	_	_	_	_
-298	Nachwort,	Nachwort,	_	_	_	_	_	_	_
+298	Nachwort	Nachwort	_	_	_	_	_	_	_
 299	das	das	_	_	_	_	_	_	_
 300	Steven	Steven	_	_	_	_	_	_	_
 301	Marcus	Marcus	_	_	_	_	_	_	_
 302	für	für	_	_	_	_	_	_	_
 303	den	den	_	_	_	_	_	_	_
 304	Band	Band	_	_	_	_	_	_	_
-305	Das	Das	_	_	_	_	_	_	_
+305	“Das	“Das	_	_	_	_	_	_	_
 306	Dingsbums	Dingsbums	_	_	_	_	_	_	_
 307	Küken”	Küken”	_	_	_	_	_	_	_
 308	geschrieben	geschrieben	_	_	_	_	_	_	_
@@ -313,16 +313,16 @@
 313	ist	ist	_	_	_	_	_	_	_
 314	dieser	dieser	_	_	_	_	_	_	_
 315	Band	Band	_	_	_	_	_	_	_
-316	-	-	_	_	_	_	_	_	_
+316			_	_	_	_	_	_	_
 317	wie	wie	_	_	_	_	_	_	_
 318	alle	alle	_	_	_	_	_	_	_
 319	hier	hier	_	_	_	_	_	_	_
 320	zitierten	zitierten	_	_	_	_	_	_	_
 321	Arbeiten	Arbeiten	_	_	_	_	_	_	_
-322	Hammetts,	Hammetts,	_	_	_	_	_	_	_
+322	Hammetts	Hammetts	_	_	_	_	_	_	_
 323	in	in	_	_	_	_	_	_	_
 324	dem	dem	_	_	_	_	_	_	_
-325	Verlag,	Verlag,	_	_	_	_	_	_	_
+325	Verlag	Verlag	_	_	_	_	_	_	_
 326	der	der	_	_	_	_	_	_	_
 327	—wie	—wie	_	_	_	_	_	_	_
 328	es	es	_	_	_	_	_	_	_
@@ -336,13 +336,13 @@
 336	zurück	zurück	_	_	_	_	_	_	_
 337	zu	zu	_	_	_	_	_	_	_
 338	der	der	_	_	_	_	_	_	_
-339	Geschichte,	Geschichte,	_	_	_	_	_	_	_
+339	Geschichte	Geschichte	_	_	_	_	_	_	_
 340	die	die	_	_	_	_	_	_	_
 341	Sam	Sam	_	_	_	_	_	_	_
 342	Spade	Spade	_	_	_	_	_	_	_
 343	seiner	seiner	_	_	_	_	_	_	_
 344	Besucherin	Besucherin	_	_	_	_	_	_	_
-345	erzählt:	erzählt:	_	_	_	_	_	_	_
+345	erzählt	erzählt	_	_	_	_	_	_	_
 346	Der	Der	_	_	_	_	_	_	_
 347	Grund­	Grund­	_	_	_	_	_	_	_
 348	stücksmakler	stücksmakler	_	_	_	_	_	_	_
@@ -373,7 +373,7 @@
 373	zwei	zwei	_	_	_	_	_	_	_
 374	Kna­	Kna­	_	_	_	_	_	_	_
 375	ben	ben	_	_	_	_	_	_	_
-376	-	-	_	_	_	_	_	_	_
+376			_	_	_	_	_	_	_
 377	diese	diese	_	_	_	_	_	_	_
 378	liebten	liebten	_	_	_	_	_	_	_
 379	ihn	ihn	_	_	_	_	_	_	_
@@ -428,7 +428,7 @@
 428	zum	zum	_	_	_	_	_	_	_
 429	Zeitpunkt	Zeitpunkt	_	_	_	_	_	_	_
 430	seines	seines	_	_	_	_	_	_	_
-431	Verschwindens:	Verschwindens:	_	_	_	_	_	_	_
+431	Verschwindens	Verschwindens	_	_	_	_	_	_	_
 432	nicht	nicht	_	_	_	_	_	_	_
 433	mehr	mehr	_	_	_	_	_	_	_
 434	als	als	_	_	_	_	_	_	_
@@ -436,21 +436,21 @@
 436	oder	oder	_	_	_	_	_	_	_
 437	sechzig	sechzig	_	_	_	_	_	_	_
 438	Dollar	Dollar	_	_	_	_	_	_	_
-439	Er	Er	_	_	_	_	_	_	_
+439	“Er	“Er	_	_	_	_	_	_	_
 440	verschwand	verschwand	_	_	_	_	_	_	_
-441	einfach,	einfach,	_	_	_	_	_	_	_
+441	einfach	einfach	_	_	_	_	_	_	_
 442	sagte	sagte	_	_	_	_	_	_	_
-443	Spade,	Spade,	_	_	_	_	_	_	_
+443	Spade	Spade	_	_	_	_	_	_	_
 444	wie	wie	_	_	_	_	_	_	_
 445	eine	eine	_	_	_	_	_	_	_
-446	Faust,	Faust,	_	_	_	_	_	_	_
+446	Faust	Faust	_	_	_	_	_	_	_
 447	wenn	wenn	_	_	_	_	_	_	_
 448	man	man	_	_	_	_	_	_	_
 449	die	die	_	_	_	_	_	_	_
 450	Hand	Hand	_	_	_	_	_	_	_
 451	aufmacht”	aufmacht”	_	_	_	_	_	_	_
 452	Hammett	Hammett	_	_	_	_	_	_	_
-453	1974,	1974,	_	_	_	_	_	_	_
+453	1974	1974	_	_	_	_	_	_	_
 454	S	S	_	_	_	_	_	_	_
 455	69	69	_	_	_	_	_	_	_
 

@@ -12,7 +12,7 @@
 12	schlagen	schlagen	_	_	_	_	_	_	_
 13	im	im	_	_	_	_	_	_	_
 14	folgenden	folgenden	_	_	_	_	_	_	_
-15	vor,	vor,	_	_	_	_	_	_	_
+15	vor	vor	_	_	_	_	_	_	_
 16	das	das	_	_	_	_	_	_	_
 17	Fremde	Fremde	_	_	_	_	_	_	_
 18	und	und	_	_	_	_	_	_	_
@@ -23,7 +23,7 @@
 23	lichen	lichen	_	_	_	_	_	_	_
 24	Perspektive	Perspektive	_	_	_	_	_	_	_
 25	zu	zu	_	_	_	_	_	_	_
-26	betrachten,	betrachten,	_	_	_	_	_	_	_
+26	betrachten	betrachten	_	_	_	_	_	_	_
 27	um	um	_	_	_	_	_	_	_
 28	einige	einige	_	_	_	_	_	_	_
 29	ihrer	ihrer	_	_	_	_	_	_	_
@@ -42,7 +42,7 @@
 42	Architektur	Architektur	_	_	_	_	_	_	_
 43	über	über	_	_	_	_	_	_	_
 44	die	die	_	_	_	_	_	_	_
-45	Leere!	Leere!	_	_	_	_	_	_	_
+45	Leere	Leere	_	_	_	_	_	_	_
 46	wollen	wollen	_	_	_	_	_	_	_
 47	wir	wir	_	_	_	_	_	_	_
 48	hier	hier	_	_	_	_	_	_	_
@@ -56,7 +56,7 @@
 56	lichen	lichen	_	_	_	_	_	_	_
 57	Leere	Leere	_	_	_	_	_	_	_
 58	nutzbar	nutzbar	_	_	_	_	_	_	_
-59	machen,	machen,	_	_	_	_	_	_	_
+59	machen	machen	_	_	_	_	_	_	_
 60	um	um	_	_	_	_	_	_	_
 61	auf	auf	_	_	_	_	_	_	_
 62	diesem	diesem	_	_	_	_	_	_	_
@@ -81,9 +81,9 @@
 81	Raum	Raum	_	_	_	_	_	_	_
 82	ist	ist	_	_	_	_	_	_	_
 83	zunächst	zunächst	_	_	_	_	_	_	_
-84	fremd,	fremd,	_	_	_	_	_	_	_
+84	fremd	fremd	_	_	_	_	_	_	_
 85	nicht	nicht	_	_	_	_	_	_	_
-86	identisch,	identisch,	_	_	_	_	_	_	_
+86	identisch	identisch	_	_	_	_	_	_	_
 87	ungewohnt	ungewohnt	_	_	_	_	_	_	_
 88	Diese	Diese	_	_	_	_	_	_	_
 89	Leere	Leere	_	_	_	_	_	_	_
@@ -113,7 +113,7 @@
 113	beschreibt	beschreibt	_	_	_	_	_	_	_
 114	Shusterman	Shusterman	_	_	_	_	_	_	_
 115	die	die	_	_	_	_	_	_	_
-116	Tatsache,	Tatsache,	_	_	_	_	_	_	_
+116	Tatsache	Tatsache	_	_	_	_	_	_	_
 117	dass	dass	_	_	_	_	_	_	_
 118	Leere	Leere	_	_	_	_	_	_	_
 119	ja	ja	_	_	_	_	_	_	_
@@ -126,19 +126,19 @@
 126	die	die	_	_	_	_	_	_	_
 127	Anwesenheit	Anwesenheit	_	_	_	_	_	_	_
 128	von	von	_	_	_	_	_	_	_
-129	Anderem,	Anderem,	_	_	_	_	_	_	_
+129	Anderem	Anderem	_	_	_	_	_	_	_
 130	Fremdem	Fremdem	_	_	_	_	_	_	_
 131	und	und	_	_	_	_	_	_	_
 132	die	die	_	_	_	_	_	_	_
 133	Abwesenheit	Abwesenheit	_	_	_	_	_	_	_
 134	von	von	_	_	_	_	_	_	_
-135	Bekanntem,	Bekanntem,	_	_	_	_	_	_	_
+135	Bekanntem	Bekanntem	_	_	_	_	_	_	_
 136	Identischem	Identischem	_	_	_	_	_	_	_
 137	Es	Es	_	_	_	_	_	_	_
 138	ist	ist	_	_	_	_	_	_	_
 139	also	also	_	_	_	_	_	_	_
 140	etwas	etwas	_	_	_	_	_	_	_
-141	da,	da,	_	_	_	_	_	_	_
+141	da	da	_	_	_	_	_	_	_
 142	aber	aber	_	_	_	_	_	_	_
 143	es	es	_	_	_	_	_	_	_
 144	ist	ist	_	_	_	_	_	_	_
@@ -146,7 +146,7 @@
 146	ver­	ver­	_	_	_	_	_	_	_
 147	traut	traut	_	_	_	_	_	_	_
 148	Dieses	Dieses	_	_	_	_	_	_	_
-149	Nicht-Vertraute	Nicht-Vertraute	_	_	_	_	_	_	_
+149	NichtVertraute	NichtVertraute	_	_	_	_	_	_	_
 150	kann	kann	_	_	_	_	_	_	_
 151	ein	ein	_	_	_	_	_	_	_
 152	Objekt	Objekt	_	_	_	_	_	_	_
@@ -221,14 +221,14 @@
 221	nicht	nicht	_	_	_	_	_	_	_
 222	geduldet	geduldet	_	_	_	_	_	_	_
 223	Zwei	Zwei	_	_	_	_	_	_	_
-224	Beispiele:	Beispiele:	_	_	_	_	_	_	_
+224	Beispiele	Beispiele	_	_	_	_	_	_	_
 225	Raum	Raum	_	_	_	_	_	_	_
 226	wird	wird	_	_	_	_	_	_	_
 227	im­	im­	_	_	_	_	_	_	_
 228	merzu	merzu	_	_	_	_	_	_	_
-229	gefüllt,	gefüllt,	_	_	_	_	_	_	_
-230	bebaut,	bebaut,	_	_	_	_	_	_	_
-231	dekoriert,	dekoriert,	_	_	_	_	_	_	_
+229	gefüllt	gefüllt	_	_	_	_	_	_	_
+230	bebaut	bebaut	_	_	_	_	_	_	_
+231	dekoriert	dekoriert	_	_	_	_	_	_	_
 232	muss	muss	_	_	_	_	_	_	_
 233	effizient	effizient	_	_	_	_	_	_	_
 234	genutzt	genutzt	_	_	_	_	_	_	_
@@ -249,7 +249,7 @@
 249	Leere	Leere	_	_	_	_	_	_	_
 250	höchstens	höchstens	_	_	_	_	_	_	_
 251	als	als	_	_	_	_	_	_	_
-252	P&G	P&G	_	_	_	_	_	_	_
-253	2/01	2/01	_	_	_	_	_	_	_
+252	PG	PG	_	_	_	_	_	_	_
+253	201	201	_	_	_	_	_	_	_
 254	143	143	_	_	_	_	_	_	_
 

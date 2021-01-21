@@ -1,9 +1,9 @@
-1	Über	Über	_	_	_	_	_	_	_
+1	„Über	„Über	_	_	_	_	_	_	_
 2	sieben	sieben	_	_	_	_	_	_	_
 3	Brücken	Brücken	_	_	_	_	_	_	_
 4	mußt	mußt	_	_	_	_	_	_	_
 5	Du	Du	_	_	_	_	_	_	_
-6	gehen:	gehen:	_	_	_	_	_	_	_
+6	gehen“	gehen“	_	_	_	_	_	_	_
 7	Lifeworlds	Lifeworlds	_	_	_	_	_	_	_
 8	as	as	_	_	_	_	_	_	_
 9	Places	Places	_	_	_	_	_	_	_
@@ -31,12 +31,12 @@
 31	problem	problem	_	_	_	_	_	_	_
 32	The	The	_	_	_	_	_	_	_
 33	song	song	_	_	_	_	_	_	_
-34	Über	Über	_	_	_	_	_	_	_
+34	“Über	“Über	_	_	_	_	_	_	_
 35	sieben	sieben	_	_	_	_	_	_	_
 36	Brücken	Brücken	_	_	_	_	_	_	_
 37	musst	musst	_	_	_	_	_	_	_
 38	Du	Du	_	_	_	_	_	_	_
-39	gehen	gehen	_	_	_	_	_	_	_
+39	gehen“	gehen“	_	_	_	_	_	_	_
 40	Over	Over	_	_	_	_	_	_	_
 41	Seven	Seven	_	_	_	_	_	_	_
 42	Bridges	Bridges	_	_	_	_	_	_	_
@@ -49,7 +49,7 @@
 49	German	German	_	_	_	_	_	_	_
 50	rock	rock	_	_	_	_	_	_	_
 51	group	group	_	_	_	_	_	_	_
-52	Karat”	Karat”	_	_	_	_	_	_	_
+52	“Karat”	“Karat”	_	_	_	_	_	_	_
 53	has	has	_	_	_	_	_	_	_
 54	enjoyed	enjoyed	_	_	_	_	_	_	_
 55	great	great	_	_	_	_	_	_	_
@@ -59,15 +59,15 @@
 59	end	end	_	_	_	_	_	_	_
 60	of	of	_	_	_	_	_	_	_
 61	the	the	_	_	_	_	_	_	_
-62	seventies,	seventies,	_	_	_	_	_	_	_
+62	seventies	seventies	_	_	_	_	_	_	_
 63	including	including	_	_	_	_	_	_	_
 64	the	the	_	_	_	_	_	_	_
-65	later,	later,	_	_	_	_	_	_	_
+65	later	later	_	_	_	_	_	_	_
 66	West	West	_	_	_	_	_	_	_
-67	German,	German,	_	_	_	_	_	_	_
+67	German	German	_	_	_	_	_	_	_
 68	version	version	_	_	_	_	_	_	_
 69	of	of	_	_	_	_	_	_	_
-70	it,	it,	_	_	_	_	_	_	_
+70	it	it	_	_	_	_	_	_	_
 71	sung	sung	_	_	_	_	_	_	_
 72	by	by	_	_	_	_	_	_	_
 73	Peter	Peter	_	_	_	_	_	_	_
@@ -87,6 +87,6 @@
 87	daily	daily	_	_	_	_	_	_	_
 88	struggles	struggles	_	_	_	_	_	_	_
 89	in	in	_	_	_	_	_	_	_
-90	life,	life,	_	_	_	_	_	_	_
+90	life	life	_	_	_	_	_	_	_
 91	about	about	_	_	_	_	_	_	_
 

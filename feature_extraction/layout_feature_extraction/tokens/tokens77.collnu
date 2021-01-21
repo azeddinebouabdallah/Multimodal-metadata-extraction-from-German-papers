@@ -17,7 +17,7 @@
 17	scheint	scheint	_	_	_	_	_	_	_
 18	darin	darin	_	_	_	_	_	_	_
 19	zu	zu	_	_	_	_	_	_	_
-20	bestehen,	bestehen,	_	_	_	_	_	_	_
+20	bestehen	bestehen	_	_	_	_	_	_	_
 21	daß	daß	_	_	_	_	_	_	_
 22	die	die	_	_	_	_	_	_	_
 23	Leute	Leute	_	_	_	_	_	_	_
@@ -31,7 +31,7 @@
 31	denken	denken	_	_	_	_	_	_	_
 32	können«	können«	_	_	_	_	_	_	_
 33	Judith	Judith	_	_	_	_	_	_	_
-34	Butler,	Butler,	_	_	_	_	_	_	_
+34	Butler	Butler	_	_	_	_	_	_	_
 35	1996	1996	_	_	_	_	_	_	_
 36	Judith	Judith	_	_	_	_	_	_	_
 37	Butler	Butler	_	_	_	_	_	_	_
@@ -45,7 +45,7 @@
 45	Geschlechterverhältnis	Geschlechterverhältnis	_	_	_	_	_	_	_
 46	mit	mit	_	_	_	_	_	_	_
 47	ihrer	ihrer	_	_	_	_	_	_	_
-48	These,	These,	_	_	_	_	_	_	_
+48	These	These	_	_	_	_	_	_	_
 49	daß	daß	_	_	_	_	_	_	_
 50	selbst	selbst	_	_	_	_	_	_	_
 51	der	der	_	_	_	_	_	_	_
@@ -61,12 +61,12 @@
 61	das	das	_	_	_	_	_	_	_
 62	bisher	bisher	_	_	_	_	_	_	_
 63	angenommene	angenommene	_	_	_	_	_	_	_
-64	Ursache-Wirkungs-Verhältnis	Ursache-Wirkungs-Verhältnis	_	_	_	_	_	_	_
+64	UrsacheWirkungsVerhältnis	UrsacheWirkungsVerhältnis	_	_	_	_	_	_	_
 65	einfach	einfach	_	_	_	_	_	_	_
 66	um	um	_	_	_	_	_	_	_
 67	Ohne	Ohne	_	_	_	_	_	_	_
 68	zu	zu	_	_	_	_	_	_	_
-69	wissen,	wissen,	_	_	_	_	_	_	_
+69	wissen	wissen	_	_	_	_	_	_	_
 70	ob	ob	_	_	_	_	_	_	_
 71	sich	sich	_	_	_	_	_	_	_
 72	Butler	Butler	_	_	_	_	_	_	_
@@ -78,7 +78,7 @@
 78	verstan­	verstan­	_	_	_	_	_	_	_
 79	den	den	_	_	_	_	_	_	_
 80	wissen	wissen	_	_	_	_	_	_	_
-81	will,	will,	_	_	_	_	_	_	_
+81	will	will	_	_	_	_	_	_	_
 82	findet	findet	_	_	_	_	_	_	_
 83	die	die	_	_	_	_	_	_	_
 84	Butlersche	Butlersche	_	_	_	_	_	_	_
@@ -94,7 +94,7 @@
 94	französischen	französischen	_	_	_	_	_	_	_
 95	Soziologen	Soziologen	_	_	_	_	_	_	_
 96	Pierre	Pierre	_	_	_	_	_	_	_
-97	Bourdieus,	Bourdieus,	_	_	_	_	_	_	_
+97	Bourdieus	Bourdieus	_	_	_	_	_	_	_
 98	weil	weil	_	_	_	_	_	_	_
 99	in	in	_	_	_	_	_	_	_
 100	seiner	seiner	_	_	_	_	_	_	_
@@ -121,24 +121,24 @@
 121	der	der	_	_	_	_	_	_	_
 122	Vergangen­	Vergangen­	_	_	_	_	_	_	_
 123	heit	heit	_	_	_	_	_	_	_
-124	-	-	_	_	_	_	_	_	_
+124			_	_	_	_	_	_	_
 125	wie	wie	_	_	_	_	_	_	_
 126	ich	ich	_	_	_	_	_	_	_
 127	meine	meine	_	_	_	_	_	_	_
 128	zu	zu	_	_	_	_	_	_	_
 129	Unrecht	Unrecht	_	_	_	_	_	_	_
-130	-	-	_	_	_	_	_	_	_
+130			_	_	_	_	_	_	_
 131	darauf	darauf	_	_	_	_	_	_	_
 132	reduziert	reduziert	_	_	_	_	_	_	_
-133	worden,	worden,	_	_	_	_	_	_	_
+133	worden	worden	_	_	_	_	_	_	_
 134	mit	mit	_	_	_	_	_	_	_
 135	den	den	_	_	_	_	_	_	_
 136	Ideen	Ideen	_	_	_	_	_	_	_
 137	der	der	_	_	_	_	_	_	_
-138	"Performance«	"Performance«	_	_	_	_	_	_	_
+138	Performance«	Performance«	_	_	_	_	_	_	_
 139	und	und	_	_	_	_	_	_	_
 140	der	der	_	_	_	_	_	_	_
-141	"Maskerade«	"Maskerade«	_	_	_	_	_	_	_
+141	Maskerade«	Maskerade«	_	_	_	_	_	_	_
 142	die	die	_	_	_	_	_	_	_
 143	freie	freie	_	_	_	_	_	_	_
 144	Wählbarkeit	Wählbarkeit	_	_	_	_	_	_	_
@@ -160,10 +160,10 @@
 160	nur	nur	_	_	_	_	_	_	_
 161	wenig	wenig	_	_	_	_	_	_	_
 162	bezug	bezug	_	_	_	_	_	_	_
-163	nahm,	nahm,	_	_	_	_	_	_	_
+163	nahm	nahm	_	_	_	_	_	_	_
 164	liegt	liegt	_	_	_	_	_	_	_
 165	möglicherweise	möglicherweise	_	_	_	_	_	_	_
-166	daran,	daran,	_	_	_	_	_	_	_
+166	daran	daran	_	_	_	_	_	_	_
 167	daß	daß	_	_	_	_	_	_	_
 168	Butler	Butler	_	_	_	_	_	_	_
 169	das	das	_	_	_	_	_	_	_
@@ -184,7 +184,7 @@
 184	und	und	_	_	_	_	_	_	_
 185	die	die	_	_	_	_	_	_	_
 186	normierende	normierende	_	_	_	_	_	_	_
-187	Macht,	Macht,	_	_	_	_	_	_	_
+187	Macht	Macht	_	_	_	_	_	_	_
 188	die	die	_	_	_	_	_	_	_
 189	von	von	_	_	_	_	_	_	_
 190	der	der	_	_	_	_	_	_	_
@@ -193,7 +193,7 @@
 193	xis	xis	_	_	_	_	_	_	_
 194	der	der	_	_	_	_	_	_	_
 195	Subjekte	Subjekte	_	_	_	_	_	_	_
-196	ausgeht,	ausgeht,	_	_	_	_	_	_	_
+196	ausgeht	ausgeht	_	_	_	_	_	_	_
 197	nicht	nicht	_	_	_	_	_	_	_
 198	ausführlich	ausführlich	_	_	_	_	_	_	_
 199	genug	genug	_	_	_	_	_	_	_
@@ -213,17 +213,17 @@
 213	an	an	_	_	_	_	_	_	_
 214	den	den	_	_	_	_	_	_	_
 215	Begriffen	Begriffen	_	_	_	_	_	_	_
-216	"Performance«	"Performance«	_	_	_	_	_	_	_
+216	Performance«	Performance«	_	_	_	_	_	_	_
 217	und	und	_	_	_	_	_	_	_
-218	"Maskerade«,	"Maskerade«,	_	_	_	_	_	_	_
+218	Maskerade«	Maskerade«	_	_	_	_	_	_	_
 219	die	die	_	_	_	_	_	_	_
 220	für	für	_	_	_	_	_	_	_
 221	die	die	_	_	_	_	_	_	_
 222	Wandelbarkeit	Wandelbarkeit	_	_	_	_	_	_	_
 223	von	von	_	_	_	_	_	_	_
 224	Identitäten	Identitäten	_	_	_	_	_	_	_
-225	stehen,	stehen,	_	_	_	_	_	_	_
-226	gedacht,	gedacht,	_	_	_	_	_	_	_
+225	stehen	stehen	_	_	_	_	_	_	_
+226	gedacht	gedacht	_	_	_	_	_	_	_
 227	sondern	sondern	_	_	_	_	_	_	_
 228	als	als	_	_	_	_	_	_	_
 229	sorgfälti­	sorgfälti­	_	_	_	_	_	_	_
@@ -231,10 +231,10 @@
 231	theoretische	theoretische	_	_	_	_	_	_	_
 232	Durchdringung	Durchdringung	_	_	_	_	_	_	_
 233	sozialer	sozialer	_	_	_	_	_	_	_
-234	Konstruktionen,	Konstruktionen,	_	_	_	_	_	_	_
+234	Konstruktionen	Konstruktionen	_	_	_	_	_	_	_
 235	die	die	_	_	_	_	_	_	_
-236	traditio-	traditio-	_	_	_	_	_	_	_
-237	P&G	P&G	_	_	_	_	_	_	_
-238	3-4/97	3-4/97	_	_	_	_	_	_	_
+236	traditio	traditio	_	_	_	_	_	_	_
+237	PG	PG	_	_	_	_	_	_	_
+238	3497	3497	_	_	_	_	_	_	_
 239	53	53	_	_	_	_	_	_	_
 
