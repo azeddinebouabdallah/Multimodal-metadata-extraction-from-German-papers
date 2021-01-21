@@ -3,6 +3,8 @@ import numpy as np
 import os
 import xml.etree.ElementTree as ET
 import pickle
+from conllu import TokenList
+from collections import OrderedDict
 
 from extraction_methods.extraction_methods import *
 
@@ -18,7 +20,8 @@ class FeatureExtractor:
         total_blocks = 40
         percentage = (document_number * 100) / 301
         num_blocks = int((percentage * total_blocks) / 100)
-        print('Feature extraction - Document : {0}| Percentage: {1}{2}> : {3}%'.format(document_number, "#"*num_blocks, "="*(total_blocks-num_blocks), int(percentage)))
+        print('Feature extraction - Document : {0}| Percentage: {1}{2}> : {3}%'.format(
+            document_number, "#"*num_blocks, "="*(total_blocks-num_blocks), int(percentage)))
         words_list = []
 
         file = ET.parse(document_location)
@@ -150,13 +153,16 @@ class FeatureExtractor:
 
                                         document_vector.append(word_vector)
 
+                # Save feature vectors as pickle files
                 self.save_feature_vector(document_vector,
                                          'feature_vectors/document'+str(document_number)+'.pickle')
 
+                # Create dataframe and save csv file
                 df = pd.DataFrame(document_vector, columns=['Cap letters', 'Starts cap', 'Line number', 'Len Word', 'Count num', 'Count slash', 'Count com',
                                                             'Is Alt', 'Is email', 'Is link', 'Is Year', 'Is date', 'Font size', 'Horizontal space', 'Vertical space', 'Is Italic', 'Is Bold'])
                 df.insert(0, 'Word', words_list, True)
-                df.to_csv('./feature_vectors/document'+str(1)+'vectors.csv')
+                df.to_csv('./feature_vectors/document' +
+                          str(document_number)+'vectors.csv')
 
                 self.create_dataframe(document_vector,
                                       words_list,
@@ -165,6 +171,26 @@ class FeatureExtractor:
                                       './feature_vectors/document' +
                                       str(document_number)+'vectors.csv'
                                       )
+
+                # Create CoNLL-U format file
+                collnu_words_list = []
+                for word in words_list:
+                    collnu_words_list.append([word])
+
+                collnu_list = list()
+                for i, token_data in enumerate(collnu_words_list):
+                    token_id = i + 1
+                    token = token_data[0]
+                    lemma = token_data[0]
+                    compiled_token = OrderedDict({'id': token_id, 'form': token, 'lemma': lemma, 'upostag': None,
+                                                'xpostag': None, 'feats': None, 'head': None, 'deprel': None, 'deps': None, 'misc': None})
+                    collnu_list.append(compiled_token)
+                
+                collnu_list = TokenList(collnu_list).serialize()
+                with open('./tokens/tokens.collnu', 'w') as file:
+                    file.write(collnu_list)
+                    file.close()
+                
 
     def save_feature_vector(self, vector: list, save_location: str):
         with open(save_location, 'wb') as handle:
