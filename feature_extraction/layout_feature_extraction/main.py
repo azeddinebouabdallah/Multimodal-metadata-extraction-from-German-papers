@@ -126,7 +126,7 @@ class FeatureExtractor:
                                                 is_bold = isBold(font_type)
 
                                         # Clean the word
-                                        actual_word = actual_word.translate(str.maketrans('', '', string.punctuation))
+                                        #actual_word = actual_word.translate(str.maketrans('', '', string.punctuation))
 
                                         words_list.append(actual_word)
                                         cap_letters = get_count_cap_letters(
@@ -177,13 +177,13 @@ class FeatureExtractor:
                 collnu_words_list = []
                 for word in words_list:
                     collnu_words_list.append([word])
-
+                
                 collnu_list = list()
                 for i, token_data in enumerate(collnu_words_list):
                     token_id = i + 1
                     token = token_data[0]
                     lemma = token_data[0]
-                    compiled_token = OrderedDict({'id': token_id, 'form': token, 'lemma': lemma, 'upostag': None,
+                    compiled_token = ({'id': token_id, 'form': token, 'lemma': lemma, 'upostag': None,
                                                 'xpostag': None, 'feats': None, 'head': None, 'deprel': None, 'deps': None, 'misc': None})
                     collnu_list.append(compiled_token)
 

@@ -27,7 +27,7 @@ class BLSTM():
         # batch_first = True causes the input/output to be of shape (batch_dim, seq_dim, feature_dim)
         self.lstm1 = nn.LSTM(input_dim, hidden_dim, layer_dim, batch_first=True, bidirectional=True)
 
-
+    
     
     def forward(self, x):
         # Initialize hidden state with zeros

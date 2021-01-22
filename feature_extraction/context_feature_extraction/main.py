@@ -19,6 +19,10 @@ class ContextFeatureExtractor:
 
         feature_vectors = embedder.sents2elmo(words_list)
 
+        feature_vectors = np.array(feature_vectors)
+        print(feature_vectors[0])
+        print(feature_vectors[0].shape)
+
         with open(output_location, 'w') as f:
             for item in feature_vectors:
                 f.write("%s\n" % item)
@@ -27,4 +31,4 @@ class ContextFeatureExtractor:
 
 if __name__ == "__main__":
     contextExtractor = ContextFeatureExtractor()
-    contextExtractor.word_embedding('document0.pickle', 'document_vector.txt')
+    contextExtractor.word_embedding('document1.pickle', 'document_vector.txt')
