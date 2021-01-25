@@ -8,20 +8,20 @@
 8	1989	1989	_	_	_	_	_	_	_
 9	Working	Working	_	_	_	_	_	_	_
 10	Paper	Paper	_	_	_	_	_	_	_
-11	72008	72008	_	_	_	_	_	_	_
+11	7/2008	7/2008	_	_	_	_	_	_	_
 12	ISSN	ISSN	_	_	_	_	_	_	_
-13	18672833	18672833	_	_	_	_	_	_	_
+13	1867-2833	1867-2833	_	_	_	_	_	_	_
 14	The	The	_	_	_	_	_	_	_
 15	“Goodbye	“Goodbye	_	_	_	_	_	_	_
 16	Petrovka”	Petrovka”	_	_	_	_	_	_	_
-17	Plan	Plan	_	_	_	_	_	_	_
+17	Plan:	Plan:	_	_	_	_	_	_	_
 18	Moral	Moral	_	_	_	_	_	_	_
 19	Economy	Economy	_	_	_	_	_	_	_
 20	of	of	_	_	_	_	_	_	_
 21	File	File	_	_	_	_	_	_	_
 22	Sharing	Sharing	_	_	_	_	_	_	_
 23	in	in	_	_	_	_	_	_	_
-24	PostSoviet	PostSoviet	_	_	_	_	_	_	_
+24	Post-Soviet	Post-Soviet	_	_	_	_	_	_	_
 25	Ukraine1	Ukraine1	_	_	_	_	_	_	_
 26	Maria	Maria	_	_	_	_	_	_	_
 27	Haigh	Haigh	_	_	_	_	_	_	_
@@ -33,10 +33,10 @@
 33	Studies	Studies	_	_	_	_	_	_	_
 34	University	University	_	_	_	_	_	_	_
 35	of	of	_	_	_	_	_	_	_
-36	WisconsinMilwaukee	WisconsinMilwaukee	_	_	_	_	_	_	_
-37	mhaighuwmedu	mhaighuwmedu	_	_	_	_	_	_	_
+36	Wisconsin-Milwaukee	Wisconsin-Milwaukee	_	_	_	_	_	_	_
+37	mhaigh@uwm.edu	mhaigh@uwm.edu	_	_	_	_	_	_	_
 38	Abstract	Abstract	_	_	_	_	_	_	_
-39	Ukraine	Ukraine	_	_	_	_	_	_	_
+39	Ukraine,	Ukraine,	_	_	_	_	_	_	_
 40	the	the	_	_	_	_	_	_	_
 41	second	second	_	_	_	_	_	_	_
 42	most	most	_	_	_	_	_	_	_
@@ -45,7 +45,7 @@
 45	the	the	_	_	_	_	_	_	_
 46	former	former	_	_	_	_	_	_	_
 47	Soviet	Soviet	_	_	_	_	_	_	_
-48	republics	republics	_	_	_	_	_	_	_
+48	republics,	republics,	_	_	_	_	_	_	_
 49	had	had	_	_	_	_	_	_	_
 50	been	been	_	_	_	_	_	_	_
 51	named	named	_	_	_	_	_	_	_
@@ -59,9 +59,9 @@
 59	with	with	_	_	_	_	_	_	_
 60	“unacceptable	“unacceptable	_	_	_	_	_	_	_
 61	piracy	piracy	_	_	_	_	_	_	_
-62	rates”	rates”	_	_	_	_	_	_	_
+62	rates.”	rates.”	_	_	_	_	_	_	_
 63	Kiev’s	Kiev’s	_	_	_	_	_	_	_
-64	openair	openair	_	_	_	_	_	_	_
+64	open-air	open-air	_	_	_	_	_	_	_
 65	Petrovka	Petrovka	_	_	_	_	_	_	_
 66	Market	Market	_	_	_	_	_	_	_
 67	has	has	_	_	_	_	_	_	_
@@ -74,11 +74,11 @@
 74	distribution	distribution	_	_	_	_	_	_	_
 75	of	of	_	_	_	_	_	_	_
 76	pirated	pirated	_	_	_	_	_	_	_
-77	books	books	_	_	_	_	_	_	_
-78	films	films	_	_	_	_	_	_	_
-79	music	music	_	_	_	_	_	_	_
+77	books,	books,	_	_	_	_	_	_	_
+78	films,	films,	_	_	_	_	_	_	_
+79	music,	music,	_	_	_	_	_	_	_
 80	and	and	_	_	_	_	_	_	_
-81	software	software	_	_	_	_	_	_	_
+81	software.	software.	_	_	_	_	_	_	_
 82	As	As	_	_	_	_	_	_	_
 83	living	living	_	_	_	_	_	_	_
 84	standards	standards	_	_	_	_	_	_	_
@@ -90,7 +90,7 @@
 90	dramatically	dramatically	_	_	_	_	_	_	_
 91	in	in	_	_	_	_	_	_	_
 92	recent	recent	_	_	_	_	_	_	_
-93	years	years	_	_	_	_	_	_	_
+93	years,	years,	_	_	_	_	_	_	_
 94	Ukrainians	Ukrainians	_	_	_	_	_	_	_
 95	are	are	_	_	_	_	_	_	_
 96	turning	turning	_	_	_	_	_	_	_
@@ -100,7 +100,7 @@
 100	Internet	Internet	_	_	_	_	_	_	_
 101	and	and	_	_	_	_	_	_	_
 102	to	to	_	_	_	_	_	_	_
-103	newlyavailable	newlyavailable	_	_	_	_	_	_	_
+103	newly-available	newly-available	_	_	_	_	_	_	_
 104	high	high	_	_	_	_	_	_	_
 105	bandwidth	bandwidth	_	_	_	_	_	_	_
 106	networks	networks	_	_	_	_	_	_	_
@@ -112,11 +112,11 @@
 112	the	the	_	_	_	_	_	_	_
 113	exchange	exchange	_	_	_	_	_	_	_
 114	of	of	_	_	_	_	_	_	_
-115	music	music	_	_	_	_	_	_	_
-116	films	films	_	_	_	_	_	_	_
+115	music,	music,	_	_	_	_	_	_	_
+116	films,	films,	_	_	_	_	_	_	_
 117	and	and	_	_	_	_	_	_	_
 118	computer	computer	_	_	_	_	_	_	_
-119	software	software	_	_	_	_	_	_	_
+119	software.	software.	_	_	_	_	_	_	_
 120	Drawing	Drawing	_	_	_	_	_	_	_
 121	upon	upon	_	_	_	_	_	_	_
 122	the	the	_	_	_	_	_	_	_
@@ -124,10 +124,10 @@
 124	resources	resources	_	_	_	_	_	_	_
 125	of	of	_	_	_	_	_	_	_
 126	science	science	_	_	_	_	_	_	_
-127	studies	studies	_	_	_	_	_	_	_
+127	studies,	studies,	_	_	_	_	_	_	_
 128	particularly	particularly	_	_	_	_	_	_	_
 129	the	the	_	_	_	_	_	_	_
-130	wellestablished	wellestablished	_	_	_	_	_	_	_
+130	well-established	well-established	_	_	_	_	_	_	_
 131	literature	literature	_	_	_	_	_	_	_
 132	on	on	_	_	_	_	_	_	_
 133	the	the	_	_	_	_	_	_	_
@@ -135,7 +135,7 @@
 135	construction	construction	_	_	_	_	_	_	_
 136	of	of	_	_	_	_	_	_	_
 137	technological	technological	_	_	_	_	_	_	_
-138	systems	systems	_	_	_	_	_	_	_
+138	systems,	systems,	_	_	_	_	_	_	_
 139	the	the	_	_	_	_	_	_	_
 140	author	author	_	_	_	_	_	_	_
 141	argues	argues	_	_	_	_	_	_	_
@@ -154,7 +154,7 @@
 154	with	with	_	_	_	_	_	_	_
 155	their	their	_	_	_	_	_	_	_
 156	own	own	_	_	_	_	_	_	_
-157	culture	culture	_	_	_	_	_	_	_
+157	culture.	culture.	_	_	_	_	_	_	_
 158	To	To	_	_	_	_	_	_	_
 159	explain	explain	_	_	_	_	_	_	_
 160	this	this	_	_	_	_	_	_	_
@@ -167,11 +167,11 @@
 167	the	the	_	_	_	_	_	_	_
 168	interaction	interaction	_	_	_	_	_	_	_
 169	of	of	_	_	_	_	_	_	_
-170	technologies	technologies	_	_	_	_	_	_	_
-171	users	users	_	_	_	_	_	_	_
+170	technologies,	technologies,	_	_	_	_	_	_	_
+171	users,	users,	_	_	_	_	_	_	_
 172	and	and	_	_	_	_	_	_	_
 173	regulatory	regulatory	_	_	_	_	_	_	_
-174	regimes	regimes	_	_	_	_	_	_	_
+174	regimes.	regimes.	_	_	_	_	_	_	_
 175	These	These	_	_	_	_	_	_	_
 176	have	have	_	_	_	_	_	_	_
 177	shaped	shaped	_	_	_	_	_	_	_
@@ -183,10 +183,10 @@
 183	Internet	Internet	_	_	_	_	_	_	_
 184	users	users	_	_	_	_	_	_	_
 185	toward	toward	_	_	_	_	_	_	_
-186	what	what	_	_	_	_	_	_	_
+186	what,	what,	_	_	_	_	_	_	_
 187	following	following	_	_	_	_	_	_	_
-188	EP	EP	_	_	_	_	_	_	_
-189	Thompson	Thompson	_	_	_	_	_	_	_
+188	E.P.	E.P.	_	_	_	_	_	_	_
+189	Thompson,	Thompson,	_	_	_	_	_	_	_
 190	the	the	_	_	_	_	_	_	_
 191	author	author	_	_	_	_	_	_	_
 192	calls	calls	_	_	_	_	_	_	_
@@ -197,7 +197,7 @@
 197	copyright	copyright	_	_	_	_	_	_	_
 198	and	and	_	_	_	_	_	_	_
 199	file	file	_	_	_	_	_	_	_
-200	sharing	sharing	_	_	_	_	_	_	_
+200	sharing.	sharing.	_	_	_	_	_	_	_
 201	I	I	_	_	_	_	_	_	_
 202	probe	probe	_	_	_	_	_	_	_
 203	these	these	_	_	_	_	_	_	_
@@ -217,18 +217,18 @@
 217	of	of	_	_	_	_	_	_	_
 218	Ukrainian	Ukrainian	_	_	_	_	_	_	_
 219	internet	internet	_	_	_	_	_	_	_
-220	users	users	_	_	_	_	_	_	_
+220	users.	users.	_	_	_	_	_	_	_
 221	Keywords	Keywords	_	_	_	_	_	_	_
 222	Intellectual	Intellectual	_	_	_	_	_	_	_
-223	property	property	_	_	_	_	_	_	_
-224	Ukraine	Ukraine	_	_	_	_	_	_	_
+223	property,	property,	_	_	_	_	_	_	_
+224	Ukraine,	Ukraine,	_	_	_	_	_	_	_
 225	file	file	_	_	_	_	_	_	_
-226	sharing	sharing	_	_	_	_	_	_	_
+226	sharing,	sharing,	_	_	_	_	_	_	_
 227	downloading	downloading	_	_	_	_	_	_	_
 228	 	 	_	_	_	_	_	_	_
 229	                                                           	                                                           	_	_	_	_	_	_	_
-230	1   The research described in this paper was undertaken in Ukraine with the support of the Fulbright grant program 	1   The research described in this paper was undertaken in Ukraine with the support of the Fulbright grant program 	_	_	_	_	_	_	_
-231	Good Bye Petrovka Plan working paper 	Good Bye Petrovka Plan working paper 	_	_	_	_	_	_	_
+230	1   The research described in this paper was undertaken in Ukraine with the support of the Fulbright grant program. 	1   The research described in this paper was undertaken in Ukraine with the support of the Fulbright grant program. 	_	_	_	_	_	_	_
+231	Good Bye Petrovka Plan (working paper) 	Good Bye Petrovka Plan (working paper) 	_	_	_	_	_	_	_
 232	Maria Haigh 	Maria Haigh 	_	_	_	_	_	_	_
 233	1 	1 	_	_	_	_	_	_	_
 

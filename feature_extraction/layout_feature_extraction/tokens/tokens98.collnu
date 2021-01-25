@@ -3,7 +3,7 @@
 3	Brücken	Brücken	_	_	_	_	_	_	_
 4	mußt	mußt	_	_	_	_	_	_	_
 5	Du	Du	_	_	_	_	_	_	_
-6	gehen“	gehen“	_	_	_	_	_	_	_
+6	gehen...“:	gehen...“:	_	_	_	_	_	_	_
 7	Lifeworlds	Lifeworlds	_	_	_	_	_	_	_
 8	as	as	_	_	_	_	_	_	_
 9	Places	Places	_	_	_	_	_	_	_
@@ -37,12 +37,12 @@
 37	musst	musst	_	_	_	_	_	_	_
 38	Du	Du	_	_	_	_	_	_	_
 39	gehen“	gehen“	_	_	_	_	_	_	_
-40	Over	Over	_	_	_	_	_	_	_
+40	(Over	(Over	_	_	_	_	_	_	_
 41	Seven	Seven	_	_	_	_	_	_	_
 42	Bridges	Bridges	_	_	_	_	_	_	_
 43	You	You	_	_	_	_	_	_	_
 44	Must	Must	_	_	_	_	_	_	_
-45	Go	Go	_	_	_	_	_	_	_
+45	Go)	Go)	_	_	_	_	_	_	_
 46	by	by	_	_	_	_	_	_	_
 47	the	the	_	_	_	_	_	_	_
 48	East	East	_	_	_	_	_	_	_
@@ -59,19 +59,19 @@
 59	end	end	_	_	_	_	_	_	_
 60	of	of	_	_	_	_	_	_	_
 61	the	the	_	_	_	_	_	_	_
-62	seventies	seventies	_	_	_	_	_	_	_
+62	seventies,	seventies,	_	_	_	_	_	_	_
 63	including	including	_	_	_	_	_	_	_
 64	the	the	_	_	_	_	_	_	_
-65	later	later	_	_	_	_	_	_	_
+65	later,	later,	_	_	_	_	_	_	_
 66	West	West	_	_	_	_	_	_	_
-67	German	German	_	_	_	_	_	_	_
+67	German,	German,	_	_	_	_	_	_	_
 68	version	version	_	_	_	_	_	_	_
 69	of	of	_	_	_	_	_	_	_
-70	it	it	_	_	_	_	_	_	_
+70	it,	it,	_	_	_	_	_	_	_
 71	sung	sung	_	_	_	_	_	_	_
 72	by	by	_	_	_	_	_	_	_
 73	Peter	Peter	_	_	_	_	_	_	_
-74	Maffay	Maffay	_	_	_	_	_	_	_
+74	Maffay.	Maffay.	_	_	_	_	_	_	_
 75	It	It	_	_	_	_	_	_	_
 76	conveyed	conveyed	_	_	_	_	_	_	_
 77	a	a	_	_	_	_	_	_	_
@@ -87,6 +87,6 @@
 87	daily	daily	_	_	_	_	_	_	_
 88	struggles	struggles	_	_	_	_	_	_	_
 89	in	in	_	_	_	_	_	_	_
-90	life	life	_	_	_	_	_	_	_
+90	life,	life,	_	_	_	_	_	_	_
 91	about	about	_	_	_	_	_	_	_
 

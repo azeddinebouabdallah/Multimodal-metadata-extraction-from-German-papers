@@ -22,10 +22,10 @@
 22	Anpassung	Anpassung	_	_	_	_	_	_	_
 23	an	an	_	_	_	_	_	_	_
 24	die	die	_	_	_	_	_	_	_
-25	Normen	Normen	_	_	_	_	_	_	_
+25	Normen:	Normen:	_	_	_	_	_	_	_
 26	sie	sie	_	_	_	_	_	_	_
 27	wollen	wollen	_	_	_	_	_	_	_
-28	sich	sich	_	_	_	_	_	_	_
+28	sich,	sich,	_	_	_	_	_	_	_
 29	folgen	folgen	_	_	_	_	_	_	_
 30	sie	sie	_	_	_	_	_	_	_
 31	der	der	_	_	_	_	_	_	_
@@ -33,12 +33,12 @@
 33	schen	schen	_	_	_	_	_	_	_
 34	Definition	Definition	_	_	_	_	_	_	_
 35	ihres	ihres	_	_	_	_	_	_	_
-36	Zustandes	Zustandes	_	_	_	_	_	_	_
+36	Zustandes,	Zustandes,	_	_	_	_	_	_	_
 37	einer	einer	_	_	_	_	_	_	_
 38	geschlechtsangkichenden	geschlechtsangkichenden	_	_	_	_	_	_	_
 39	Ope­	Ope­	_	_	_	_	_	_	_
 40	ration	ration	_	_	_	_	_	_	_
-41	unterziehen	unterziehen	_	_	_	_	_	_	_
+41	unterziehen.	unterziehen.	_	_	_	_	_	_	_
 42	Die	Die	_	_	_	_	_	_	_
 43	normativen	normativen	_	_	_	_	_	_	_
 44	Vorgaben	Vorgaben	_	_	_	_	_	_	_
@@ -52,16 +52,16 @@
 52	Wurzeln	Wurzeln	_	_	_	_	_	_	_
 53	in	in	_	_	_	_	_	_	_
 54	der	der	_	_	_	_	_	_	_
-55	Gesellschaft	Gesellschaft	_	_	_	_	_	_	_
+55	Gesellschaft,	Gesellschaft,	_	_	_	_	_	_	_
 56	die	die	_	_	_	_	_	_	_
 57	auch	auch	_	_	_	_	_	_	_
 58	die	die	_	_	_	_	_	_	_
 59	Transsexuellen	Transsexuellen	_	_	_	_	_	_	_
 60	hervorbringt	hervorbringt	_	_	_	_	_	_	_
-61			_	_	_	_	_	_	_
+61	-	-	_	_	_	_	_	_	_
 62	und	und	_	_	_	_	_	_	_
 63	die	die	_	_	_	_	_	_	_
-64	Möglichkeit	Möglichkeit	_	_	_	_	_	_	_
+64	Möglichkeit,	Möglichkeit,	_	_	_	_	_	_	_
 65	in	in	_	_	_	_	_	_	_
 66	einer	einer	_	_	_	_	_	_	_
 67	chir­	chir­	_	_	_	_	_	_	_
@@ -82,7 +82,7 @@
 82	Abwei­	Abwei­	_	_	_	_	_	_	_
 83	chung	chung	_	_	_	_	_	_	_
 84	zu	zu	_	_	_	_	_	_	_
-85	sehen	sehen	_	_	_	_	_	_	_
+85	sehen,	sehen,	_	_	_	_	_	_	_
 86	bedeutet	bedeutet	_	_	_	_	_	_	_
 87	für	für	_	_	_	_	_	_	_
 88	viele	viele	_	_	_	_	_	_	_
@@ -90,8 +90,8 @@
 90	eine	eine	_	_	_	_	_	_	_
 91	heilende	heilende	_	_	_	_	_	_	_
 92	Ret­	Ret­	_	_	_	_	_	_	_
-93	tung	tung	_	_	_	_	_	_	_
-94	Die	Die	_	_	_	_	_	_	_
+93	tung.	tung.	_	_	_	_	_	_	_
+94	Die:	Die:	_	_	_	_	_	_	_
 95	dabei	dabei	_	_	_	_	_	_	_
 96	unweigerlich	unweigerlich	_	_	_	_	_	_	_
 97	auftauchende	auftauchende	_	_	_	_	_	_	_
@@ -102,7 +102,7 @@
 102	eines	eines	_	_	_	_	_	_	_
 103	erst	erst	_	_	_	_	_	_	_
 104	postoperativ	postoperativ	_	_	_	_	_	_	_
-105	LebenKönnens	LebenKönnens	_	_	_	_	_	_	_
+105	Leben-Könnens	Leben-Könnens	_	_	_	_	_	_	_
 106	und	und	_	_	_	_	_	_	_
 107	eines	eines	_	_	_	_	_	_	_
 108	Operations­	Operations­	_	_	_	_	_	_	_
@@ -129,7 +129,7 @@
 129	und	und	_	_	_	_	_	_	_
 130	somit	somit	_	_	_	_	_	_	_
 131	unsichtbar	unsichtbar	_	_	_	_	_	_	_
-132	aufgebürdet	aufgebürdet	_	_	_	_	_	_	_
+132	aufgebürdet.	aufgebürdet.	_	_	_	_	_	_	_
 133	Nonnale	Nonnale	_	_	_	_	_	_	_
 134	Nichttransse­	Nichttransse­	_	_	_	_	_	_	_
 135	xuelle	xuelle	_	_	_	_	_	_	_
@@ -148,23 +148,23 @@
 148	bedrohliches	bedrohliches	_	_	_	_	_	_	_
 149	Symptom	Symptom	_	_	_	_	_	_	_
 150	derselben	derselben	_	_	_	_	_	_	_
-151			_	_	_	_	_	_	_
+151	-	-	_	_	_	_	_	_	_
 152	das	das	_	_	_	_	_	_	_
 153	noch	noch	_	_	_	_	_	_	_
 154	nicht	nicht	_	_	_	_	_	_	_
 155	angepaßte	angepaßte	_	_	_	_	_	_	_
 156	transsexuelle	transsexuelle	_	_	_	_	_	_	_
 157	Ungeschlecht	Ungeschlecht	_	_	_	_	_	_	_
-158			_	_	_	_	_	_	_
+158	-	-	_	_	_	_	_	_	_
 159	zurechtschnei­	zurechtschnei­	_	_	_	_	_	_	_
-160	den	den	_	_	_	_	_	_	_
+160	den,	den,	_	_	_	_	_	_	_
 161	scheinbar	scheinbar	_	_	_	_	_	_	_
 162	ganz	ganz	_	_	_	_	_	_	_
 163	im	im	_	_	_	_	_	_	_
 164	Einverständnis	Einverständnis	_	_	_	_	_	_	_
 165	mit	mit	_	_	_	_	_	_	_
 166	den	den	_	_	_	_	_	_	_
-167	Transsexuellen	Transsexuellen	_	_	_	_	_	_	_
+167	Transsexuellen.	Transsexuellen.	_	_	_	_	_	_	_
 168	Auf	Auf	_	_	_	_	_	_	_
 169	diesem	diesem	_	_	_	_	_	_	_
 170	Hintergrund	Hintergrund	_	_	_	_	_	_	_
@@ -173,9 +173,9 @@
 173	Bewegungsrichtung	Bewegungsrichtung	_	_	_	_	_	_	_
 174	der	der	_	_	_	_	_	_	_
 175	Transsexuellen	Transsexuellen	_	_	_	_	_	_	_
-176			_	_	_	_	_	_	_
+176	-	-	_	_	_	_	_	_	_
 177	vom	vom	_	_	_	_	_	_	_
-178	Transsexuellen	Transsexuellen	_	_	_	_	_	_	_
+178	Transsexuellen,	Transsexuellen,	_	_	_	_	_	_	_
 179	Transsozialen	Transsozialen	_	_	_	_	_	_	_
 180	über	über	_	_	_	_	_	_	_
 181	das	das	_	_	_	_	_	_	_
@@ -183,11 +183,11 @@
 183	zum	zum	_	_	_	_	_	_	_
 184	ganz	ganz	_	_	_	_	_	_	_
 185	Normalen	Normalen	_	_	_	_	_	_	_
-186			_	_	_	_	_	_	_
+186	-	-	_	_	_	_	_	_	_
 187	also	also	_	_	_	_	_	_	_
 188	vom	vom	_	_	_	_	_	_	_
 189	klinisch	klinisch	_	_	_	_	_	_	_
-190	definierenden	definierenden	_	_	_	_	_	_	_
+190	definierenden,	definierenden,	_	_	_	_	_	_	_
 191	sozial	sozial	_	_	_	_	_	_	_
 192	auffälligen	auffälligen	_	_	_	_	_	_	_
 193	An­	An­	_	_	_	_	_	_	_
@@ -205,17 +205,17 @@
 205	Ideal	Ideal	_	_	_	_	_	_	_
 206	der	der	_	_	_	_	_	_	_
 207	völligen	völligen	_	_	_	_	_	_	_
-208	Unkenntlichkeit	Unkenntlichkeit	_	_	_	_	_	_	_
+208	Unkenntlichkeit,	Unkenntlichkeit,	_	_	_	_	_	_	_
 209	dem	dem	_	_	_	_	_	_	_
 210	unsichtbaren	unsichtbaren	_	_	_	_	_	_	_
 211	Verschwinden	Verschwinden	_	_	_	_	_	_	_
 212	im	im	_	_	_	_	_	_	_
-213	Wunschgeschlecht	Wunschgeschlecht	_	_	_	_	_	_	_
-214	verständlich	verständlich	_	_	_	_	_	_	_
+213	Wunschgeschlecht,	Wunschgeschlecht,	_	_	_	_	_	_	_
+214	verständlich.	verständlich.	_	_	_	_	_	_	_
 215	Für	Für	_	_	_	_	_	_	_
 216	die	die	_	_	_	_	_	_	_
 217	Möglich­	Möglich­	_	_	_	_	_	_	_
-218	keit	keit	_	_	_	_	_	_	_
+218	keit,	keit,	_	_	_	_	_	_	_
 219	nichtchirurgische	nichtchirurgische	_	_	_	_	_	_	_
 220	und	und	_	_	_	_	_	_	_
 221	damit	damit	_	_	_	_	_	_	_
@@ -234,18 +234,18 @@
 234	ganz	ganz	_	_	_	_	_	_	_
 235	nonnalen	nonnalen	_	_	_	_	_	_	_
 236	Unsichtbarkeit	Unsichtbarkeit	_	_	_	_	_	_	_
-237	fatal	fatal	_	_	_	_	_	_	_
+237	fatal,	fatal,	_	_	_	_	_	_	_
 238	weil	weil	_	_	_	_	_	_	_
 239	sie	sie	_	_	_	_	_	_	_
 240	vermeiden	vermeiden	_	_	_	_	_	_	_
-241	hilft	hilft	_	_	_	_	_	_	_
+241	hilft,	hilft,	_	_	_	_	_	_	_
 242	daß	daß	_	_	_	_	_	_	_
 243	eine	eine	_	_	_	_	_	_	_
 244	spezifisch	spezifisch	_	_	_	_	_	_	_
 245	transsexuelle	transsexuelle	_	_	_	_	_	_	_
 246	Identität	Identität	_	_	_	_	_	_	_
 247	entstehen	entstehen	_	_	_	_	_	_	_
-248	kann	kann	_	_	_	_	_	_	_
+248	kann.	kann.	_	_	_	_	_	_	_
 249	Und	Und	_	_	_	_	_	_	_
 250	ohne	ohne	_	_	_	_	_	_	_
 251	sie	sie	_	_	_	_	_	_	_
@@ -262,7 +262,7 @@
 262	damit	damit	_	_	_	_	_	_	_
 263	auch	auch	_	_	_	_	_	_	_
 264	deren	deren	_	_	_	_	_	_	_
-265	PG	PG	_	_	_	_	_	_	_
-266	3497	3497	_	_	_	_	_	_	_
+265	P&G	P&G	_	_	_	_	_	_	_
+266	3-4/97	3-4/97	_	_	_	_	_	_	_
 267	151	151	_	_	_	_	_	_	_
 

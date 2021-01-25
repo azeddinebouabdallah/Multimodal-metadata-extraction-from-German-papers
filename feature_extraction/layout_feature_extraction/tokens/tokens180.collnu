@@ -1,7 +1,7 @@
-1	Published	Published	_	_	_	_	_	_	_
+1	"Published	"Published	_	_	_	_	_	_	_
 2	as	as	_	_	_	_	_	_	_
 3	‘Exhibiting	‘Exhibiting	_	_	_	_	_	_	_
-4	Interaction	Interaction	_	_	_	_	_	_	_
+4	Interaction:	Interaction:	_	_	_	_	_	_	_
 5	Conduct	Conduct	_	_	_	_	_	_	_
 6	and	and	_	_	_	_	_	_	_
 7	Collaboration	Collaboration	_	_	_	_	_	_	_
@@ -18,17 +18,17 @@
 18	the	the	_	_	_	_	_	_	_
 19	University	University	_	_	_	_	_	_	_
 20	of	of	_	_	_	_	_	_	_
-21	CaliforniaSociety	CaliforniaSociety	_	_	_	_	_	_	_
+21	California/Society	California/Society	_	_	_	_	_	_	_
 22	for	for	_	_	_	_	_	_	_
 23	the	the	_	_	_	_	_	_	_
 24	Study	Study	_	_	_	_	_	_	_
 25	of	of	_	_	_	_	_	_	_
 26	Symbolic	Symbolic	_	_	_	_	_	_	_
-27	Interaction	Interaction	_	_	_	_	_	_	_
+27	Interaction.	Interaction.	_	_	_	_	_	_	_
 28	Copying	Copying	_	_	_	_	_	_	_
 29	and	and	_	_	_	_	_	_	_
 30	permissions	permissions	_	_	_	_	_	_	_
-31	notice	notice	_	_	_	_	_	_	_
+31	notice:	notice:	_	_	_	_	_	_	_
 32	Authorization	Authorization	_	_	_	_	_	_	_
 33	to	to	_	_	_	_	_	_	_
 34	copy	copy	_	_	_	_	_	_	_
@@ -37,7 +37,7 @@
 37	beyond	beyond	_	_	_	_	_	_	_
 38	fair	fair	_	_	_	_	_	_	_
 39	use	use	_	_	_	_	_	_	_
-40	as	as	_	_	_	_	_	_	_
+40	(as	(as	_	_	_	_	_	_	_
 41	specified	specified	_	_	_	_	_	_	_
 42	in	in	_	_	_	_	_	_	_
 43	Sections	Sections	_	_	_	_	_	_	_
@@ -46,15 +46,15 @@
 46	108	108	_	_	_	_	_	_	_
 47	of	of	_	_	_	_	_	_	_
 48	the	the	_	_	_	_	_	_	_
-49	U	U	_	_	_	_	_	_	_
-50	S	S	_	_	_	_	_	_	_
+49	U.	U.	_	_	_	_	_	_	_
+50	S.	S.	_	_	_	_	_	_	_
 51	Copyright	Copyright	_	_	_	_	_	_	_
-52	Law	Law	_	_	_	_	_	_	_
+52	Law)	Law)	_	_	_	_	_	_	_
 53	for	for	_	_	_	_	_	_	_
 54	internal	internal	_	_	_	_	_	_	_
 55	or	or	_	_	_	_	_	_	_
 56	personal	personal	_	_	_	_	_	_	_
-57	use	use	_	_	_	_	_	_	_
+57	use,	use,	_	_	_	_	_	_	_
 58	or	or	_	_	_	_	_	_	_
 59	the	the	_	_	_	_	_	_	_
 60	internal	internal	_	_	_	_	_	_	_
@@ -63,7 +63,7 @@
 63	use	use	_	_	_	_	_	_	_
 64	of	of	_	_	_	_	_	_	_
 65	specific	specific	_	_	_	_	_	_	_
-66	clients	clients	_	_	_	_	_	_	_
+66	clients,	clients,	_	_	_	_	_	_	_
 67	is	is	_	_	_	_	_	_	_
 68	granted	granted	_	_	_	_	_	_	_
 69	by	by	_	_	_	_	_	_	_
@@ -73,7 +73,7 @@
 73	the	the	_	_	_	_	_	_	_
 74	University	University	_	_	_	_	_	_	_
 75	of	of	_	_	_	_	_	_	_
-76	Californiaon	Californiaon	_	_	_	_	_	_	_
+76	California/on	California/on	_	_	_	_	_	_	_
 77	behalf	behalf	_	_	_	_	_	_	_
 78	of	of	_	_	_	_	_	_	_
 79	the	the	_	_	_	_	_	_	_
@@ -88,7 +88,7 @@
 88	libraries	libraries	_	_	_	_	_	_	_
 89	and	and	_	_	_	_	_	_	_
 90	other	other	_	_	_	_	_	_	_
-91	users	users	_	_	_	_	_	_	_
+91	users,	users,	_	_	_	_	_	_	_
 92	provided	provided	_	_	_	_	_	_	_
 93	that	that	_	_	_	_	_	_	_
 94	they	they	_	_	_	_	_	_	_
@@ -104,14 +104,14 @@
 104	Rightslink®	Rightslink®	_	_	_	_	_	_	_
 105	on	on	_	_	_	_	_	_	_
 106	Caliber	Caliber	_	_	_	_	_	_	_
-107	httpcaliberucpressnet	httpcaliberucpressnet	_	_	_	_	_	_	_
-108			_	_	_	_	_	_	_
+107	http://caliber.ucpress.net/	http://caliber.ucpress.net/	_	_	_	_	_	_	_
+108	)	)	_	_	_	_	_	_	_
 109	or	or	_	_	_	_	_	_	_
 110	directly	directly	_	_	_	_	_	_	_
 111	with	with	_	_	_	_	_	_	_
 112	the	the	_	_	_	_	_	_	_
 113	Copyright	Copyright	_	_	_	_	_	_	_
 114	Clearance	Clearance	_	_	_	_	_	_	_
-115	Center	Center	_	_	_	_	_	_	_
-116	httpwwwcopyrightcom	httpwwwcopyrightcom	_	_	_	_	_	_	_
+115	Center,	Center,	_	_	_	_	_	_	_
+116	http://www.copyright.com."	http://www.copyright.com."	_	_	_	_	_	_	_
 

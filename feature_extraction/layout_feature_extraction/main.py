@@ -188,7 +188,7 @@ class FeatureExtractor:
                     collnu_list.append(compiled_token)
 
                 # Save words lists as pickle files
-                self.save_feature_vector(collnu_list,
+                self.save_feature_vector(collnu_words_list,
                                          'word_lists/document'+str(document_number)+'.pickle')
                 
                 collnu_list = TokenList(collnu_list).serialize()

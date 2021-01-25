@@ -11,7 +11,7 @@
 11	der	der	_	_	_	_	_	_	_
 12	Pluralisierung	Pluralisierung	_	_	_	_	_	_	_
 13	der	der	_	_	_	_	_	_	_
-14	Gesellschaft	Gesellschaft	_	_	_	_	_	_	_
+14	Gesellschaft,	Gesellschaft,	_	_	_	_	_	_	_
 15	gesteigerter	gesteigerter	_	_	_	_	_	_	_
 16	Mobilität	Mobilität	_	_	_	_	_	_	_
 17	und	und	_	_	_	_	_	_	_
@@ -25,7 +25,7 @@
 25	häufiger	häufiger	_	_	_	_	_	_	_
 26	menschliche	menschliche	_	_	_	_	_	_	_
 27	Begegnungen	Begegnungen	_	_	_	_	_	_	_
-28	bestimmen	bestimmen	_	_	_	_	_	_	_
+28	bestimmen.	bestimmen.	_	_	_	_	_	_	_
 29	Diese	Diese	_	_	_	_	_	_	_
 30	Unterschiede	Unterschiede	_	_	_	_	_	_	_
 31	werden	werden	_	_	_	_	_	_	_
@@ -39,19 +39,19 @@
 39	po­	po­	_	_	_	_	_	_	_
 40	litische	litische	_	_	_	_	_	_	_
 41	Interessen	Interessen	_	_	_	_	_	_	_
-42	instrumentalisiert	instrumentalisiert	_	_	_	_	_	_	_
+42	instrumentalisiert.	instrumentalisiert.	_	_	_	_	_	_	_
 43	Das	Das	_	_	_	_	_	_	_
 44	geplante	geplante	_	_	_	_	_	_	_
 45	Einwanderungsgesetz	Einwanderungsgesetz	_	_	_	_	_	_	_
 46	in	in	_	_	_	_	_	_	_
 47	Deutschland	Deutschland	_	_	_	_	_	_	_
 48	unterscheidet	unterscheidet	_	_	_	_	_	_	_
-49	nützliche	nützliche	_	_	_	_	_	_	_
+49	nützliche,	nützliche,	_	_	_	_	_	_	_
 50	willkommene	willkommene	_	_	_	_	_	_	_
 51	Angehörige	Angehörige	_	_	_	_	_	_	_
 52	fremder	fremder	_	_	_	_	_	_	_
 53	Kulturen	Kulturen	_	_	_	_	_	_	_
-54			_	_	_	_	_	_	_
+54	-	-	_	_	_	_	_	_	_
 55	gut	gut	_	_	_	_	_	_	_
 56	ausgebildete	ausgebildete	_	_	_	_	_	_	_
 57	Fachkräfte	Fachkräfte	_	_	_	_	_	_	_
@@ -63,12 +63,12 @@
 63	unerwünschten	unerwünschten	_	_	_	_	_	_	_
 64	oder	oder	_	_	_	_	_	_	_
 65	gar	gar	_	_	_	_	_	_	_
-66	bedrohlichen	bedrohlichen	_	_	_	_	_	_	_
+66	bedrohlichen,	bedrohlichen,	_	_	_	_	_	_	_
 67	weil	weil	_	_	_	_	_	_	_
 68	mittellosen	mittellosen	_	_	_	_	_	_	_
 69	Flüchtlingen	Flüchtlingen	_	_	_	_	_	_	_
 70	und	und	_	_	_	_	_	_	_
-71	AsylbewerberInnen	AsylbewerberInnen	_	_	_	_	_	_	_
+71	AsylbewerberInnen.	AsylbewerberInnen.	_	_	_	_	_	_	_
 72	In	In	_	_	_	_	_	_	_
 73	der	der	_	_	_	_	_	_	_
 74	Konstruktion	Konstruktion	_	_	_	_	_	_	_
@@ -90,7 +90,7 @@
 90	Schuldgefühlen	Schuldgefühlen	_	_	_	_	_	_	_
 91	zu	zu	_	_	_	_	_	_	_
 92	einem	einem	_	_	_	_	_	_	_
-93	Bild	Bild	_	_	_	_	_	_	_
+93	Bild,	Bild,	_	_	_	_	_	_	_
 94	welches	welches	_	_	_	_	_	_	_
 95	jedoch	jedoch	_	_	_	_	_	_	_
 96	nicht	nicht	_	_	_	_	_	_	_
@@ -98,7 +98,7 @@
 98	Spiegel­	Spiegel­	_	_	_	_	_	_	_
 99	bild	bild	_	_	_	_	_	_	_
 100	der	der	_	_	_	_	_	_	_
-101	eigenen	eigenen	_	_	_	_	_	_	_
+101	eigenen,	eigenen,	_	_	_	_	_	_	_
 102	sondern	sondern	_	_	_	_	_	_	_
 103	als	als	_	_	_	_	_	_	_
 104	Eigenschaft	Eigenschaft	_	_	_	_	_	_	_
@@ -106,7 +106,7 @@
 106	fremden	fremden	_	_	_	_	_	_	_
 107	Kultur	Kultur	_	_	_	_	_	_	_
 108	gesehen	gesehen	_	_	_	_	_	_	_
-109	wird	wird	_	_	_	_	_	_	_
+109	wird.	wird.	_	_	_	_	_	_	_
 110	Durch	Durch	_	_	_	_	_	_	_
 111	diese	diese	_	_	_	_	_	_	_
 112	Projektionen	Projektionen	_	_	_	_	_	_	_
@@ -117,7 +117,7 @@
 117	eigener	eigener	_	_	_	_	_	_	_
 118	Wünsche	Wünsche	_	_	_	_	_	_	_
 119	und	und	_	_	_	_	_	_	_
-120	Ängste	Ängste	_	_	_	_	_	_	_
+120	Ängste,	Ängste,	_	_	_	_	_	_	_
 121	ihre	ihre	_	_	_	_	_	_	_
 122	Andersartigkeit	Andersartigkeit	_	_	_	_	_	_	_
 123	verschwindet	verschwindet	_	_	_	_	_	_	_
@@ -127,7 +127,7 @@
 127	der	der	_	_	_	_	_	_	_
 128	ei­	ei­	_	_	_	_	_	_	_
 129	genen	genen	_	_	_	_	_	_	_
-130	Kultur	Kultur	_	_	_	_	_	_	_
+130	Kultur.	Kultur.	_	_	_	_	_	_	_
 131	Aktuelles	Aktuelles	_	_	_	_	_	_	_
 132	Beispiel	Beispiel	_	_	_	_	_	_	_
 133	sind	sind	_	_	_	_	_	_	_
@@ -142,7 +142,7 @@
 142	das	das	_	_	_	_	_	_	_
 143	World	World	_	_	_	_	_	_	_
 144	Trade	Trade	_	_	_	_	_	_	_
-145	Center	Center	_	_	_	_	_	_	_
+145	Center.	Center.	_	_	_	_	_	_	_
 146	Repressionen	Repressionen	_	_	_	_	_	_	_
 147	gegen	gegen	_	_	_	_	_	_	_
 148	arabische	arabische	_	_	_	_	_	_	_
@@ -158,9 +158,9 @@
 158	durch	durch	_	_	_	_	_	_	_
 159	Erdöl	Erdöl	_	_	_	_	_	_	_
 160	sicherzu­	sicherzu­	_	_	_	_	_	_	_
-161	stellen	stellen	_	_	_	_	_	_	_
+161	stellen,	stellen,	_	_	_	_	_	_	_
 162	werden	werden	_	_	_	_	_	_	_
-163	»vergessen«	»vergessen«	_	_	_	_	_	_	_
+163	»vergessen«,	»vergessen«,	_	_	_	_	_	_	_
 164	die	die	_	_	_	_	_	_	_
 165	Wut	Wut	_	_	_	_	_	_	_
 166	vieler	vieler	_	_	_	_	_	_	_
@@ -172,7 +172,7 @@
 172	einem	einem	_	_	_	_	_	_	_
 173	religiösen	religiösen	_	_	_	_	_	_	_
 174	Fundamentalismus	Fundamentalismus	_	_	_	_	_	_	_
-175	zugeschrieben	zugeschrieben	_	_	_	_	_	_	_
+175	zugeschrieben,	zugeschrieben,	_	_	_	_	_	_	_
 176	politische	politische	_	_	_	_	_	_	_
 177	und	und	_	_	_	_	_	_	_
 178	ökonomische	ökonomische	_	_	_	_	_	_	_
@@ -184,7 +184,7 @@
 184	Krieg	Krieg	_	_	_	_	_	_	_
 185	der	der	_	_	_	_	_	_	_
 186	Kulturen	Kulturen	_	_	_	_	_	_	_
-187	stilisiert	stilisiert	_	_	_	_	_	_	_
+187	stilisiert.	stilisiert.	_	_	_	_	_	_	_
 188	Das	Das	_	_	_	_	_	_	_
 189	kollektive	kollektive	_	_	_	_	_	_	_
 190	Bedrohtheitsgefühl	Bedrohtheitsgefühl	_	_	_	_	_	_	_
@@ -202,7 +202,7 @@
 202	damit	damit	_	_	_	_	_	_	_
 203	verbundener	verbundener	_	_	_	_	_	_	_
 204	Angst	Angst	_	_	_	_	_	_	_
-205	schließen	schließen	_	_	_	_	_	_	_
+205	schließen,	schließen,	_	_	_	_	_	_	_
 206	dass	dass	_	_	_	_	_	_	_
 207	sich	sich	_	_	_	_	_	_	_
 208	die	die	_	_	_	_	_	_	_
@@ -216,7 +216,7 @@
 216	lichen	lichen	_	_	_	_	_	_	_
 217	Wohlstands	Wohlstands	_	_	_	_	_	_	_
 218	rächen	rächen	_	_	_	_	_	_	_
-219	wird	wird	_	_	_	_	_	_	_
+219	wird.	wird.	_	_	_	_	_	_	_
 220	Diese	Diese	_	_	_	_	_	_	_
 221	Konflikte	Konflikte	_	_	_	_	_	_	_
 222	auf	auf	_	_	_	_	_	_	_
@@ -232,16 +232,16 @@
 232	und	und	_	_	_	_	_	_	_
 233	Diskriminierung	Diskriminierung	_	_	_	_	_	_	_
 234	von	von	_	_	_	_	_	_	_
-235	MigrantInnen	MigrantInnen	_	_	_	_	_	_	_
+235	MigrantInnen,	MigrantInnen,	_	_	_	_	_	_	_
 236	in	in	_	_	_	_	_	_	_
 237	Form	Form	_	_	_	_	_	_	_
 238	rechtsradikaler	rechtsradikaler	_	_	_	_	_	_	_
-239	Übergriffe	Übergriffe	_	_	_	_	_	_	_
+239	Übergriffe,	Übergriffe,	_	_	_	_	_	_	_
 240	oder	oder	_	_	_	_	_	_	_
 241	behördlicher	behördlicher	_	_	_	_	_	_	_
-242	Schikane	Schikane	_	_	_	_	_	_	_
-243	Beschreibungen	Beschreibungen	_	_	_	_	_	_	_
-244	PG	PG	_	_	_	_	_	_	_
-245	201	201	_	_	_	_	_	_	_
+242	Schikane.	Schikane.	_	_	_	_	_	_	_
+243	Beschreibungen,	Beschreibungen,	_	_	_	_	_	_	_
+244	P&G	P&G	_	_	_	_	_	_	_
+245	2/01	2/01	_	_	_	_	_	_	_
 246	53	53	_	_	_	_	_	_	_
 
