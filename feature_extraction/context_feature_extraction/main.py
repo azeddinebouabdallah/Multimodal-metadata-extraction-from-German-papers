@@ -46,4 +46,4 @@ class ContextFeatureExtractor:
 
 if __name__ == "__main__":
     contextExtractor = ContextFeatureExtractor()
-    contextExtractor.word_embedding('document0.pickle', 'document_vector.pickle')
+    contextExtractor.word_embedding('document0.pickle', 'document0vector.pickle')
