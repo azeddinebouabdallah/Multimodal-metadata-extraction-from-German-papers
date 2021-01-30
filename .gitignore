@@ -1,3 +1,8 @@
 .vscode
 feature_extraction/context_feature_extraction/de.model/*.pkl
 /feature_extraction/context_feature_extraction/de.model/*.pkl
+vision_model/pubmex_model.pth
+pubmex/__pycache__/forward_hook.cpython-36.pyc
+pubmex/__pycache__/paper.cpython-36.pyc
+pubmex/__pycache__/predictor.cpython-36.pyc
+pubmex/__pycache__/pubmexinference.cpython-36.pyc
