@@ -1,6 +1,9 @@
 from PyPDF2 import PdfFileWriter, PdfFileReader
 import os
 
+from layout_feature_extraction.main import FeatureExtractor
+from context_feature_extraction.main import ContextFeatureExtractor
+
 
 class DataExtractor:
 
@@ -25,6 +28,12 @@ class DataExtractor:
                 self.num_files += 1
 
 if __name__ == '__main__':
-    print('run')
-    dataExtractor = DataExtractor()
-    dataExtractor.extract_data()
+
+    # Extract layout features
+    layoutFeatureExtractor = FeatureExtractor('../../ssoar_dataset')
+    layoutFeatureExtractor.get_dataset_features()
+
+    contextFeatureExtractor = ContextFeatureExtractor("./layout_feature_extraction/word_lists/", "features/")
+    contextFeatureExtractor.get_features()
+
+    

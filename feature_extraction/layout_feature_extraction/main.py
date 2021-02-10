@@ -30,10 +30,10 @@ class FeatureExtractor:
         root = file.getroot()
 
         for element in root:
+            # Feature vector for the doc
+            document_vector = []
+            
             if (element.tag == 'Page'):
-                # Feature vector for the doc
-                document_vector = []
-
                 for zone in element:
                     if zone.tag == 'Zone':
 
