@@ -40,9 +40,9 @@ class ContextFeatureExtractor:
         feature_vectors = np.concatenate((layout_features, feature_vectors.reshape(feature_vectors.shape[0], -1)), axis=1)
 
         df = pd.DataFrame(data=feature_vectors)
-        df.to_csv('{0}/{1}.csv'.format(self.output_direction, file_name))
+        df.to_csv('{0}{1}.csv'.format(self.output_direction, file_name))
 
-        with open('{0}/{1}.pickle'.format(self.output_direction, file_name), 'wb') as handle:
+        with open('{0}{1}.pickle'.format(self.output_direction, file_name), 'wb') as handle:
             pickle.dump(feature_vectors, handle, protocol=pickle.HIGHEST_PROTOCOL)
             handle.close()
             
@@ -54,6 +54,6 @@ class ContextFeatureExtractor:
 
 
 if __name__ == "__main__":
-    contextExtractor = ContextFeatureExtractor("../layout_feature_extraction/word_lists/", "features/")
+    contextExtractor = ContextFeatureExtractor("../layout_feature_extraction/word_lists/", "../features/")
 
     contextExtractor.get_features()

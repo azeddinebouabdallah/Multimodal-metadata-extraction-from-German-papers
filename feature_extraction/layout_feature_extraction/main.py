@@ -15,7 +15,7 @@ class FeatureExtractor:
     def __init__(self, dataset_folder: str):
         self.dataset_folder = dataset_folder
 
-    def get_feature_vector(self, document_location: str, document_number: int):
+    def get_feature_vector(self, document_location: str, document_number: int, file_name: str):
 
         # This part of code just for console progress display
         total_blocks = 40
@@ -156,21 +156,19 @@ class FeatureExtractor:
 
                 # Save feature vectors as pickle files
                 self.save_feature_vector(document_vector,
-                                         'feature_vectors/document'+str(document_number)+'.pickle')
+                                         'feature_vectors/{0}.pickle'.format(file_name.split('.')[0]))
 
                 # Create dataframe and save csv file
                 df = pd.DataFrame(document_vector, columns=['Cap letters', 'Starts cap', 'Line number', 'Len Word', 'Count num', 'Count slash', 'Count com',
                                                             'Is Alt', 'Is email', 'Is link', 'Is Year', 'Is date', 'Font size', 'Horizontal space', 'Vertical space', 'Is Italic', 'Is Bold'])
                 df.insert(0, 'Word', words_list, True)
-                df.to_csv('./feature_vectors/document' +
-                          str(document_number)+'vectors.csv')
+                df.to_csv('./feature_vectors/{0}vectors.csv'.format(file_name.split('.')[0]))
 
                 self.create_dataframe(document_vector,
                                       words_list,
                                       ['Cap letters', 'Starts cap', 'Line number', 'Len Word', 'Count num', 'Count slash', 'Count com', 'Is Alt', 'Is email',
                                           'Is link', 'Is Year', 'Is date', 'Font size', 'Horizontal space', 'Vertical space', 'Is Italic', 'Is Bold'],
-                                      './feature_vectors/document' +
-                                      str(document_number)+'vectors.csv'
+                                      './feature_vectors/{0}vectors.csv'.format(file_name.split('.')[0])
                                       )
 
                 # Create CoNLL-U format file
@@ -189,7 +187,7 @@ class FeatureExtractor:
 
                 # Save words lists as pickle files
                 self.save_feature_vector(collnu_words_list,
-                                         'word_lists/document'+str(document_number)+'.pickle')
+                                         'word_lists/{0}.pickle'.format(file_name.split('.')[0]))
                 
                 collnu_list = TokenList(collnu_list).serialize()
                 with open('./tokens/tokens{0}.collnu'.format(document_number), 'w') as file:
@@ -214,7 +212,7 @@ class FeatureExtractor:
         document_number = 0
         for file in os.scandir(self.dataset_folder):
             if file.path.endswith('.cermstr'):
-                self.get_feature_vector(file.path, document_number)
+                self.get_feature_vector(file.path, document_number, file.name)
                 document_number += 1
 
 
