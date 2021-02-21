@@ -51,7 +51,7 @@ class PubMexInference:
             scale=1,
             instance_mode=ColorMode.IMAGE_BW # remove the colors of unsegmented pixels
             )
-        outputs, self.roi_input = self.predictor(img)
+        outputs, self.hidden_layer_output = self.predictor(img)
         v = v.draw_instance_predictions(outputs["instances"].to("cpu"))
 
         # get the text corresponding to the tensors predicted by the model from the PDF
@@ -63,7 +63,7 @@ class PubMexInference:
 
         paper.post_process_metadata()
 
-        return v, paper.metadata, self.roi_input
+        return v, paper.metadata, self.hidden_layer_output
 
     def visualize_output(self, visualizer_instance):
         '''
