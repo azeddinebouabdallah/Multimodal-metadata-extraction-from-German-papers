@@ -11,14 +11,15 @@ def main():
 	use_cuda=False,
     )
 
-    _, metadata, hidden_layer_output = pubmex.predict("../../ssoar_downloads/niehaus_et_al-gestandnismotivierung_in_beschuldigtenvernehmungen-ocr.pdf")
+    ## Get score for each instance
+    predict = pubmex.alt_predict("../../ssoar_downloads/niehaus_et_al-gestandnismotivierung_in_beschuldigtenvernehmungen-ocr.pdf")
 
-    ## I'm not sure, which tensor we should use. But I think we should use the latest output which came from the predictor layer 
-    ##  I store it in hidden_layer_output['pre_out']
+    ## Original pubmex
+    # v, metadata = pubmex.predict("../../ssoar_downloads/niehaus_et_al-gestandnismotivierung_in_beschuldigtenvernehmungen-ocr.pdf")
 
-
-    # print(hidden_layer_output) 
+    print(predict)
     # pdb.set_trace()
+
 
 if __name__ == '__main__':
     main()

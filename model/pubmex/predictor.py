@@ -57,20 +57,20 @@ def pairwise_iou(boxes1: Boxes, boxes2: Boxes) -> torch.Tensor:
     return iou
 
     
-def get_last_deconv_relu_output(self, input, output):
-    global relu_output
+# def get_last_deconv_relu_output(self, input, output):
+#     global relu_output
 
-    relu_output = output
+#     relu_output = output
 
-def get_predictor_input(self, input):
-    global predictor_input
+# def get_predictor_input(self, input):
+#     global predictor_input
 
-    predictor_input = input
+#     predictor_input = input
 
-def get_predictor_output(self, input, output):
-    global predictor_output
+# def get_predictor_output(self, input, output):
+#     global predictor_output
 
-    predictor_output = output
+#     predictor_output = output
 
 
 class Predictor:
@@ -108,9 +108,9 @@ class Predictor:
             [cfg.INPUT.MIN_SIZE_TEST, cfg.INPUT.MIN_SIZE_TEST], cfg.INPUT.MAX_SIZE_TEST
         )
         self.input_format = cfg.INPUT.FORMAT
-        self.model.roi_heads.mask_head.deconv_relu.register_forward_hook(get_last_deconv_relu_output)
-        self.model.roi_heads.mask_head.predictor.register_forward_pre_hook(get_predictor_input)
-        self.model.roi_heads.mask_head.predictor.register_forward_hook(get_predictor_output)
+        # self.model.roi_heads.mask_head.deconv_relu.register_forward_hook(get_last_deconv_relu_output)
+        # self.model.roi_heads.mask_head.predictor.register_forward_pre_hook(get_predictor_input)
+        # self.model.roi_heads.mask_head.predictor.register_forward_hook(get_predictor_output)
         # pdb.set_trace()
         assert self.input_format in ["RGB", "BGR"], self.input_format
 
@@ -132,10 +132,10 @@ class Predictor:
 
             inputs = {"image": image, "height": height, "width": width}
             predictions = self.model([inputs])[0]
-            hidden_layer_in_out = {}
-            hidden_layer_in_out['relu'] = relu_output
-            hidden_layer_in_out['pre_in'] = predictor_input
-            hidden_layer_in_out['pre_out'] = predictor_output
+            # hidden_layer_in_out = {}
+            # hidden_layer_in_out['relu'] = relu_output
+            # hidden_layer_in_out['pre_in'] = predictor_input
+            # hidden_layer_in_out['pre_out'] = predictor_output
             
-            return predictions, hidden_layer_in_out
+            return predictions
 

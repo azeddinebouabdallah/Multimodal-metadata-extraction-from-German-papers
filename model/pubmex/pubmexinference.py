@@ -1,5 +1,7 @@
-from predictor import *
+from modPredictor import *
+from modPaper import *
 
+from predictor import *
 from paper import *
 
 import numpy as np
@@ -32,6 +34,7 @@ class PubMexInference:
         self.cfg.MODEL.DEVICE = 'cuda' if use_cuda else 'cpu'
 
         self.predictor = Predictor(self.cfg)
+        self.mod_predictor = ModPredictor(self.cfg)
 
     def predict(self, pdf_file, page=0, margin=1, use_fitz=False):
         '''
@@ -51,7 +54,7 @@ class PubMexInference:
             scale=1,
             instance_mode=ColorMode.IMAGE_BW # remove the colors of unsegmented pixels
             )
-        outputs, self.hidden_layer_output = self.predictor(img)
+        outputs = self.predictor(img)
         v = v.draw_instance_predictions(outputs["instances"].to("cpu"))
 
         # get the text corresponding to the tensors predicted by the model from the PDF
@@ -63,7 +66,24 @@ class PubMexInference:
 
         paper.post_process_metadata()
 
-        return v, paper.metadata, self.hidden_layer_output
+        return v, paper.metadata
+
+    def alt_predict(self, pdf_file, page=0, margin=1, use_fitz=False):
+
+        paper = ModPaper(pdf_file, {}, metadata_page=page)
+        paper.resize_image() 
+
+        img = np.asarray(paper.image)[:, :, ::-1].copy()
+        
+        predict = self.mod_predictor(img)
+        
+        text = []
+        for i, value in enumerate(predict):
+            text.append(paper.get_text_from_bbox(predict[i][0][0], predict[i][0][1], predict[i][0][2], predict[i][0][3]))
+        result = list(zip(text, predict))  
+
+        return result
+    
 
     def visualize_output(self, visualizer_instance):
         '''
