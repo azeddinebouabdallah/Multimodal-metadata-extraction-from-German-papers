@@ -36,7 +36,6 @@ class ContextFeatureExtractor:
 
         layout_features = np.array(layout_features_csv)
 
-
         feature_vectors = np.concatenate((layout_features, feature_vectors.reshape(feature_vectors.shape[0], -1)), axis=1)
 
         df = pd.DataFrame(data=feature_vectors)
