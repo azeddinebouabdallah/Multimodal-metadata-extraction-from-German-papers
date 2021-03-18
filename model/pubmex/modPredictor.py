@@ -25,8 +25,17 @@ class ModPredictor(Predictor):
             box_features = self.model.roi_heads.box_pooler(features_, [x.proposal_boxes for x in proposals])
             box_features = self.model.roi_heads.box_head(box_features)  # features of all 1k candidates
             predictions = self.model.roi_heads.box_predictor(box_features)
+
+            ## To get the score for each class we need "pred_inds" and "score", 
+            ## but the pred_inds is unused in the normal inference (using self.model([inputs]))
+            ## so we need to execute step by step
+    
             pred_instances, pred_inds = self.model.roi_heads.box_predictor.inference(predictions, proposals)
             score = self.model.roi_heads.box_predictor.predict_probs(predictions, proposals)
+
+            ## The pred_instances is not the last output for the model yet, and currently I'm not sure the entier step
+            ## so this need to be fixed in the future code
+            ## ( pred_instances and output is the same object )
             output = self.model([inputs])[0]
 
             instance_bounding_box = output['instances']._fields['pred_boxes'].tensor

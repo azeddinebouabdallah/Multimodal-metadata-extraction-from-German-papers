@@ -1,6 +1,9 @@
 from paper import *
 
 class ModPaper(Paper):
+    """
+    Similar to Paper class but get_text_from_bbox do not need class
+    """
 
     def __init__(self, filename, metadata_dict, metadata_page = 0):
         super().__init__(filename, metadata_dict, metadata_page = 0)
@@ -11,7 +14,6 @@ class ModPaper(Paper):
         :param y_upper_left: Y coordinate of the bounding box's upper left corner
         :param x_lower_right: X coordinate of the bounding box's lower right corner
         :param y_lower_right: Y coordinate of the bounding box's lower right corner
-        :param class_name: specifies the class name of the given bounding box (e.g., title)
         :param conversion: specifies whether the coordinates of the bounding box have to be converted to match the PDF document's size
         :param margin: specifies whether a margin should be added to the bounding box when extracting the text
         :param use_fitz: specifies whether the method uses the fitz-library to extract the text. If set to False, the method uses pdfplumber

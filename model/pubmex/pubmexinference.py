@@ -69,6 +69,15 @@ class PubMexInference:
         return v, paper.metadata
 
     def alt_predict(self, pdf_file, page=0, margin=1, use_fitz=False):
+        """
+        Same parameter as predict
+        output : list of list, each list contain text, coordinate and score for each class
+                eg. [ [text, score, coordinate],[] ]
+
+                    text        ('Geständnismotivierung inBeschuldigtenvernehmungen: zur hermeneutischenund diskursanalytischen Rekonstruktion vonWissen', 
+                    coordinate  (tensor([ 55.2479, 188.3373, 501.5481, 282.2487]),
+                    score       tensor([2.0727e-04, 1.5972e-04, 2.3315e-04, 6.9249e-04, 1.9704e-04, 8.5286e-05,8.2874e-05, 5.5666e-04, 9.9734e-01, 4.4707e-04])))
+        """
 
         paper = ModPaper(pdf_file, {}, metadata_page=page)
         paper.resize_image() 
