@@ -7,7 +7,7 @@ from conllu import TokenList
 from collections import OrderedDict
 import string
 
-from extraction_methods.extraction_methods import *
+from .extraction_methods.extraction_methods import *
 
 
 class FeatureExtractor:
@@ -196,6 +196,11 @@ class FeatureExtractor:
                 
 
     def save_feature_vector(self, vector: list, save_location: str):
+        ## Create directory to avoid error
+        os.makedirs('feature_vectors', exist_ok=True)
+        os.makedirs('word_lists', exist_ok=True)
+        os.makedirs('tokens', exist_ok=True)
+
         with open(save_location, 'wb') as handle:
             pickle.dump(vector, handle, protocol=pickle.HIGHEST_PROTOCOL)
             handle.close()

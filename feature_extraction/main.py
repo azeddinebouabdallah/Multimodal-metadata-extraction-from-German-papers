@@ -30,10 +30,10 @@ class DataExtractor:
 if __name__ == '__main__':
 
     # Extract layout features
-    layoutFeatureExtractor = FeatureExtractor('../../ssoar_dataset')
+    layoutFeatureExtractor = FeatureExtractor('testpdfs')
     layoutFeatureExtractor.get_dataset_features()
 
-    contextFeatureExtractor = ContextFeatureExtractor("./layout_feature_extraction/word_lists/", "features/")
+    contextFeatureExtractor = ContextFeatureExtractor("word_lists/", "features/")
     contextFeatureExtractor.get_features()
 
     
