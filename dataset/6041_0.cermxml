@@ -1,0 +1,84 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <title-group>
+        <article-title>DARWIN: On the Incremental Migration of Legacy Information Systems</article-title>
+      </title-group>
+      <abstract>
+        <p>befragungen von mitarbeitern der verwaltung haben in den städten gegenwärtig konjunktur. seit etwa fünf jahren nutzen zahlreiche personal- und organisationsämter dieses instrument der informationsgewinnung. motor dieser befragungswelle ist die breite bewegung der kommunalen verwaltungsmodernisierung. aus diesem kontext ergeben sich einige besonderheiten dieses befragungstyps, die durch eine am deutschen institut für urbanistik unternommene auswertung von 3o praxisbeispielen kommunaler mitarbeiterbefragungen untersucht worden sind. analyseinstrument hierbei war die demos-datenbank des difu, die für den nachweis kommunaler umfragen eingerichtet worden ist. zu den besonderen merkmalen von mitarbeiterbefragungen gehören eine besondere sensibilität der befragten im hinblick auf den datenschutz, rücklaufquoten, die hinter den erwartungen zurückbleiben sowie ein besonders enger zusammenhang zur umsetzung der befragungsergebnisse im reformprozeß. zusätzliche auswertungsmöglichkeiten werden gewonnen, wenn mitarbeiterbefragungen mit komplementären befragungen (befragungen von verwaltungsbesuchern, von nutzern kommunaler einrichtungen oder bürgerbefragungen) verbunden werden. hierzu wird am institut gegenwärtig an einer vergleichenden analyse solcher kundenbefragungen gearbeitet.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>1. Einleitung</p>
+      <p>Bereits seit den 1980er Jahren problematisieren
+sozialwissenschaftliche Geschlechter-forscherinnen
+und Gleichstellungspolitikerinnen Teilzeitarbeit als
+hoch ambivalente Strategie für Frauen zur
+Vereinbarkeit von Familie und Beruf: Kritisiert werden
+mangelnde Existenzsicherung, fehlendes Prestige und
+die geschlechterhierarchisierende vertikale und
+horizontale Arbeitsmarktsegregation (Jurczyk/ Kudera
+1991; Kurz-Scherf 1993, 1995; Floßmann/Hauder
+1998; Altendorfer 1999; Tálos 1999). In
+wohlfahrtsstaatlichen Arbeiten wird kritisch
+hervorgehoben, dass Ideologie und Praxis von
+Teilzeitarbeit, die als „Zuverdienst“ von Ehefrauen und
+Müttern zum männlichen Familieneinkommen
+konstruiert werden, das male- breadwinner-Modell
+(Sainsbury 1999) selbst dann noch stützen, wenn dieses
+angesichts hoher struktureller Erwerbslosigkeit und der
+Flexibilisierung der Arbeitsverhältnisse bereits erodiert
+ist. Als frauenpolitisch intendiertes Instrument wird
+schließlich Teilzeitarbeit als verkürzte
+„Bedürfnisinterpretation“ (Fraser 1994) identifiziert:
+Die Arbeitszeitreduktion von Frauen wird als
+Vereinbarung von Familie und Beruf, nicht aber von
+Familie und Karriere gedacht und realisiert.</p>
+      <p>Aus der Sicht von PolitikerInnen, Führungskräften
+und SozialwissenschafterInnen verlangen
+hochqualifizierte Funktionen und leitende Positionen,
+d.h. Arbeitsplätze, die mit Macht, Geld und
+gesellschaftlichem Ansehen ausgestattet sind,
+dfdf
+ungeteilten Einsatz, Anwesenheit und Loyalität.
+Leitbilder von Führung enthalten die Prämisse der
+„Rund-um-die-Uhr-Verfügbarkeit“ im Sinne eines weit
+über die Normalarbeitszeit hinausgehenden zeitlichen
+Engage-ments (Burla et al. 1994; Kieser et al. 1995).</p>
+      <p>Demgegenüber gibt es aber empirische Evidenzen
+dafür, dass Leitungsfunktionen im Rahmen verkürzter
+Arbeitszeit wahrgenommen werden können. Ein
+Beispiel sind öffentlich Bedienstete, die in Österreich
+zur Ausübung eines politischen Demgegenüber gibt es
+aber empirische Evidenzen dafür, dass
+Leitungsfunktionen im Rahmen verkürzter Arbeitszeit
+wahrgenommen werden können. Ein Beispiel sind
+öffentlich Bedienstete, die in Österreich zur Ausübung
+eines politischen Man1997s (Nationalrat, Bundesrat,
+Landtag) ihre Arbeitszeit reduzieren und ihre berufliche
+Ttigkeit, selbst in leitenden Positionen, weiter ausüben.
+Die entsprechenden gesetzlichen Regelungen, die
+Beanspruchungspraxis und die politische Rede über
+Zeit- und Tätigkeitsstrukturen dieser Gruppe belegen,
+entgegen den oben skizzierten Positionen, dass Beruf
+und Beruf bzw. Beruf und Karriere vereinbar sind.
+Diese Form der Arbeitszeitreduktion bei öffentlich
+Bediensteten mit politischem Mandat wird jedoch
+weder als Teilzeitbeschäftigung diskutiert, noch ist sie
+unter diesem Begriff gesetzlich geregelt. Der
+Gesetzgeber verwendet hierfür vielmehr den Begriff
+der Dienstfreistellung. Die Debatte zur reduzierten
+Arbeitszeit (Teilzeit) wird mit äußerst
+unterschiedlichen Argumenten geführt und hängt vor
+allem damit zusammen, ob geschlechtsspezifisch</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list />
+  </back>
+</article>
