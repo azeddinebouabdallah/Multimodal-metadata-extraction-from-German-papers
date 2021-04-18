@@ -24,7 +24,7 @@ class ContextFeatureExtractor:
             words_list = pickle.load(file)
             file.close()
 
-        embedder = Embedder('./de.model')
+        embedder = Embedder('context_feature_extraction/de.model')
 
         feature_vectors = embedder.sents2elmo(words_list)
 
@@ -32,7 +32,7 @@ class ContextFeatureExtractor:
 
         # concatinate layout features and context 
 
-        layout_features_csv = pd.read_csv('../layout_feature_extraction/feature_vectors/{0}vectors.csv'.format(file_name))
+        layout_features_csv = pd.read_csv('feature_vectors/{0}vectors.csv'.format(file_name))
 
         layout_features = np.array(layout_features_csv)
 

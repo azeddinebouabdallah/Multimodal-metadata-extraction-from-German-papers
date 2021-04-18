@@ -56,6 +56,8 @@ def isDate(word: str) -> int:
         return 1
     except ValueError:
         return 0
+    except:
+        return 0
 
 def get_horizontal_space(previous_right: float, current_left: float) -> int:
     # Int because we are not interested in the exact measures.
