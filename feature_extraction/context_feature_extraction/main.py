@@ -24,7 +24,7 @@ class ContextFeatureExtractor:
             words_list = pickle.load(file)
             file.close()
 
-        embedder = Embedder('context_feature_extraction/de.model')
+        embedder = Embedder('./de.model')
 
         feature_vectors = embedder.sents2elmo(words_list)
 
@@ -32,7 +32,7 @@ class ContextFeatureExtractor:
 
         # concatinate layout features and context 
 
-        layout_features_csv = pd.read_csv('feature_vectors/{0}vectors.csv'.format(file_name))
+        layout_features_csv = pd.read_csv('../layout_feature_extraction/feature_vectors/{0}vectors.csv'.format(file_name))
 
         layout_features = np.array(layout_features_csv)
 
@@ -48,11 +48,14 @@ class ContextFeatureExtractor:
     def get_features(self):
         # Loop through the folder of the word lists extracted by cermine.
         for file in os.scandir(self.folder_direction):
+            
             if file.name.endswith('pickle'):
-                self.word_embedding(file.path, file.name.split('.')[0])
+                if not os.path.exists('../layout_feature_extraction/word_lists/'+file.name.split('.')[0]+'csv'):
+                    print('exists')
+                    self.word_embedding(file.path, file.name.split('.')[0])
+                    print('end')
 
 
 if __name__ == "__main__":
     contextExtractor = ContextFeatureExtractor("../layout_feature_extraction/word_lists/", "../features/")
-
     contextExtractor.get_features()
