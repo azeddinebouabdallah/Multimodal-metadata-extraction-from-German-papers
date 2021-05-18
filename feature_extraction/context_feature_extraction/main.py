@@ -48,7 +48,8 @@ class ContextFeatureExtractor:
     def get_features(self):
         # Loop through the folder of the word lists extracted by cermine.
         for file in os.scandir(self.folder_direction):
-            
+            if not os.path.exists('../layout_feature_extraction/feature_vectors/{0}vectors.csv'.format(file.name.split('.')[0])):
+                continue
             if file.name.endswith('pickle'):
                 if not os.path.exists('../layout_feature_extraction/word_lists/'+file.name.split('.')[0]+'csv'):
                     print('exists')
