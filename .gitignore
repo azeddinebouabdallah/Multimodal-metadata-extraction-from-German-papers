@@ -9,4 +9,12 @@ pubmex/__pycache__/pubmexinference.cpython-36.pyc
 model/pubmex/__pycache__/*.pyc
 model/pubmex/.ipynb_checkpoints/
 model/pubmex/vision_model/
-generated_dataset/*
+generated_dataset/*./.git/objects/9a/161edd91a41c568a04747878a8dfb2dcef8128
+./.git/objects/pack/pack-1b39b6fdf37ce8b298fb15c776dea70b953b3077.pack
+./model/bi_lstm_submodel/vectors.pickle
+./.git/objects/10/2be738e5f79238649fabf8ee3b8bcf5ed12e70
+./.git/objects/9a/161edd91a41c568a04747878a8dfb2dcef8128
+./.git/objects/pack/pack-1b39b6fdf37ce8b298fb15c776dea70b953b3077.pack
+./model/bi_lstm_submodel/vectors.pickle
+./model/bi_lstm_submodel/labels.pickle
+
