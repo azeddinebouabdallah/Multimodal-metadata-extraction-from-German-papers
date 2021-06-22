@@ -1,0 +1,2900 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Document SYSTEM "Trueviz.dtd">
+<Document>
+    <DocID Value=""/>
+    <DocTitle Value=""/>
+    <DocPubName Value=""/>
+    <DocVolNum Value=""/>
+    <DocIssueNum Value=""/>
+    <DocMargins Value=""/>
+    <DocDate Value=""/>
+    <DocPages Value=""/>
+    <DocImage>
+        <Name Value=""/>
+        <Format Value=""/>
+        <Depth Value=""/>
+        <Compression Value=""/>
+        <Capture Value=""/>
+        <Quality Value=""/>
+    </DocImage>
+    <Language Codeset="" Script="" Type=""/>
+    <Font Size="" Spacing="" Style="" Type=""/>
+    <ReadingDir Value=""/>
+    <CharOrient Value=""/>
+    <Classification>
+        <Category Value=""/>
+        <Type Value=""/>
+    </Classification>
+    <GT_Text Value=""/>
+    <Page>
+        <PageID Value="0"/>
+        <PageType Value=""/>
+        <PageNumber Value=""/>
+        <PageColumns Value=""/>
+        <PageNext Value="-1"/>
+        <PageZones Value=""/>
+        <Zone>
+            <ZoneID Value="0"/>
+            <ZoneCorners>
+                <Vertex x="29.400" y="37.760"/>
+                <Vertex x="328.152" y="37.760"/>
+                <Vertex x="328.152" y="61.760"/>
+                <Vertex x="29.400" y="61.760"/>
+            </ZoneCorners>
+            <ZoneNext Value="1"/>
+            <ZoneInsets Bottom="" Left="" Right="" Top=""/>
+            <ZoneLines Value=""/>
+            <Classification>
+                <Category Value="BIB_INFO"/>
+                <Type Value=""/>
+            </Classification>
+            <Line>
+                <LineID Value="0"/>
+                <LineCorners>
+                    <Vertex x="29.400" y="37.760"/>
+                    <Vertex x="328.152" y="37.760"/>
+                    <Vertex x="328.152" y="61.760"/>
+                    <Vertex x="29.400" y="61.760"/>
+                </LineCorners>
+                <LineNext Value="1"/>
+                <LineNumChars Value=""/>
+                <Word>
+                    <WordID Value="0"/>
+                    <WordCorners>
+                        <Vertex x="29.400" y="37.760"/>
+                        <Vertex x="108.000" y="37.760"/>
+                        <Vertex x="108.000" y="61.760"/>
+                        <Vertex x="29.400" y="61.760"/>
+                    </WordCorners>
+                    <WordNext Value="1"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="0"/>
+                        <CharacterCorners>
+                            <Vertex x="29.400" y="37.760"/>
+                            <Vertex x="46.728" y="37.760"/>
+                            <Vertex x="46.728" y="61.760"/>
+                            <Vertex x="29.400" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="1"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="R"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="1"/>
+                        <CharacterCorners>
+                            <Vertex x="46.728" y="37.760"/>
+                            <Vertex x="60.072" y="37.760"/>
+                            <Vertex x="60.072" y="61.760"/>
+                            <Vertex x="46.728" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="2"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="e"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="2"/>
+                        <CharacterCorners>
+                            <Vertex x="60.000" y="37.760"/>
+                            <Vertex x="72.000" y="37.760"/>
+                            <Vertex x="72.000" y="61.760"/>
+                            <Vertex x="60.000" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="3"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="v"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="3"/>
+                        <CharacterCorners>
+                            <Vertex x="72.000" y="37.760"/>
+                            <Vertex x="77.328" y="37.760"/>
+                            <Vertex x="77.328" y="61.760"/>
+                            <Vertex x="72.000" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="4"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="4"/>
+                        <CharacterCorners>
+                            <Vertex x="77.328" y="37.760"/>
+                            <Vertex x="90.672" y="37.760"/>
+                            <Vertex x="90.672" y="61.760"/>
+                            <Vertex x="77.328" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="5"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="e"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="5"/>
+                        <CharacterCorners>
+                            <Vertex x="90.672" y="37.760"/>
+                            <Vertex x="108.000" y="37.760"/>
+                            <Vertex x="108.000" y="61.760"/>
+                            <Vertex x="90.672" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="6"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="w"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="1"/>
+                    <WordCorners>
+                        <Vertex x="114.672" y="37.760"/>
+                        <Vertex x="134.688" y="37.760"/>
+                        <Vertex x="134.688" y="61.760"/>
+                        <Vertex x="114.672" y="61.760"/>
+                    </WordCorners>
+                    <WordNext Value="2"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="6"/>
+                        <CharacterCorners>
+                            <Vertex x="114.672" y="37.760"/>
+                            <Vertex x="128.016" y="37.760"/>
+                            <Vertex x="128.016" y="61.760"/>
+                            <Vertex x="114.672" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="7"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="7"/>
+                        <CharacterCorners>
+                            <Vertex x="128.016" y="37.760"/>
+                            <Vertex x="134.688" y="37.760"/>
+                            <Vertex x="134.688" y="61.760"/>
+                            <Vertex x="128.016" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="8"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="f"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="2"/>
+                    <WordCorners>
+                        <Vertex x="141.408" y="37.760"/>
+                        <Vertex x="204.120" y="37.760"/>
+                        <Vertex x="204.120" y="61.760"/>
+                        <Vertex x="141.408" y="61.760"/>
+                    </WordCorners>
+                    <WordNext Value="3"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="8"/>
+                        <CharacterCorners>
+                            <Vertex x="141.408" y="37.760"/>
+                            <Vertex x="164.064" y="37.760"/>
+                            <Vertex x="164.064" y="61.760"/>
+                            <Vertex x="141.408" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="9"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="W"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="9"/>
+                        <CharacterCorners>
+                            <Vertex x="164.112" y="37.760"/>
+                            <Vertex x="177.456" y="37.760"/>
+                            <Vertex x="177.456" y="61.760"/>
+                            <Vertex x="164.112" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="10"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="10"/>
+                        <CharacterCorners>
+                            <Vertex x="177.456" y="37.760"/>
+                            <Vertex x="185.448" y="37.760"/>
+                            <Vertex x="185.448" y="61.760"/>
+                            <Vertex x="177.456" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="11"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="r"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="11"/>
+                        <CharacterCorners>
+                            <Vertex x="185.448" y="37.760"/>
+                            <Vertex x="190.776" y="37.760"/>
+                            <Vertex x="190.776" y="61.760"/>
+                            <Vertex x="185.448" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="12"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="l"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="12"/>
+                        <CharacterCorners>
+                            <Vertex x="190.776" y="37.760"/>
+                            <Vertex x="204.120" y="37.760"/>
+                            <Vertex x="204.120" y="61.760"/>
+                            <Vertex x="190.776" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="13"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="d"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="3"/>
+                    <WordCorners>
+                        <Vertex x="210.792" y="37.760"/>
+                        <Vertex x="328.152" y="37.760"/>
+                        <Vertex x="328.152" y="61.760"/>
+                        <Vertex x="210.792" y="61.760"/>
+                    </WordCorners>
+                    <WordNext Value="4"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="13"/>
+                        <CharacterCorners>
+                            <Vertex x="210.792" y="37.760"/>
+                            <Vertex x="226.800" y="37.760"/>
+                            <Vertex x="226.800" y="61.760"/>
+                            <Vertex x="210.792" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="14"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="E"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="14"/>
+                        <CharacterCorners>
+                            <Vertex x="226.800" y="37.760"/>
+                            <Vertex x="238.800" y="37.760"/>
+                            <Vertex x="238.800" y="61.760"/>
+                            <Vertex x="226.800" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="15"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="c"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="15"/>
+                        <CharacterCorners>
+                            <Vertex x="238.800" y="37.760"/>
+                            <Vertex x="252.144" y="37.760"/>
+                            <Vertex x="252.144" y="61.760"/>
+                            <Vertex x="238.800" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="16"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="16"/>
+                        <CharacterCorners>
+                            <Vertex x="252.144" y="37.760"/>
+                            <Vertex x="265.488" y="37.760"/>
+                            <Vertex x="265.488" y="61.760"/>
+                            <Vertex x="252.144" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="17"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="n"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="17"/>
+                        <CharacterCorners>
+                            <Vertex x="265.488" y="37.760"/>
+                            <Vertex x="278.832" y="37.760"/>
+                            <Vertex x="278.832" y="61.760"/>
+                            <Vertex x="265.488" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="18"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="18"/>
+                        <CharacterCorners>
+                            <Vertex x="278.832" y="37.760"/>
+                            <Vertex x="298.824" y="37.760"/>
+                            <Vertex x="298.824" y="61.760"/>
+                            <Vertex x="278.832" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="19"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="m"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="19"/>
+                        <CharacterCorners>
+                            <Vertex x="298.824" y="37.760"/>
+                            <Vertex x="304.152" y="37.760"/>
+                            <Vertex x="304.152" y="61.760"/>
+                            <Vertex x="298.824" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="20"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="20"/>
+                        <CharacterCorners>
+                            <Vertex x="304.152" y="37.760"/>
+                            <Vertex x="316.152" y="37.760"/>
+                            <Vertex x="316.152" y="61.760"/>
+                            <Vertex x="304.152" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="21"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="c"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="21"/>
+                        <CharacterCorners>
+                            <Vertex x="316.152" y="37.760"/>
+                            <Vertex x="328.152" y="37.760"/>
+                            <Vertex x="328.152" y="61.760"/>
+                            <Vertex x="316.152" y="61.760"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="22"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="s"/>
+                    </Character>
+                </Word>
+            </Line>
+        </Zone>
+        <Zone>
+            <ZoneID Value="1"/>
+            <ZoneCorners>
+                <Vertex x="106.460" y="534.850"/>
+                <Vertex x="511.546" y="534.850"/>
+                <Vertex x="511.546" y="594.250"/>
+                <Vertex x="106.460" y="594.250"/>
+            </ZoneCorners>
+            <ZoneNext Value="2"/>
+            <ZoneInsets Bottom="" Left="" Right="" Top=""/>
+            <ZoneLines Value=""/>
+            <Classification>
+                <Category Value="COPYRIGHT"/>
+                <Type Value=""/>
+            </Classification>
+            <Line>
+                <LineID Value="1"/>
+                <LineCorners>
+                    <Vertex x="106.460" y="534.850"/>
+                    <Vertex x="511.546" y="534.850"/>
+                    <Vertex x="511.546" y="552.850"/>
+                    <Vertex x="106.460" y="552.850"/>
+                </LineCorners>
+                <LineNext Value="2"/>
+                <LineNumChars Value=""/>
+                <Word>
+                    <WordID Value="4"/>
+                    <WordCorners>
+                        <Vertex x="106.460" y="534.850"/>
+                        <Vertex x="119.456" y="534.850"/>
+                        <Vertex x="119.456" y="552.850"/>
+                        <Vertex x="106.460" y="552.850"/>
+                    </WordCorners>
+                    <WordNext Value="5"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="22"/>
+                        <CharacterCorners>
+                            <Vertex x="106.460" y="534.850"/>
+                            <Vertex x="119.456" y="534.850"/>
+                            <Vertex x="119.456" y="552.850"/>
+                            <Vertex x="106.460" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="23"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="A"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="5"/>
+                    <WordCorners>
+                        <Vertex x="124.460" y="534.850"/>
+                        <Vertex x="230.444" y="534.850"/>
+                        <Vertex x="230.444" y="552.850"/>
+                        <Vertex x="124.460" y="552.850"/>
+                    </WordCorners>
+                    <WordNext Value="6"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="23"/>
+                        <CharacterCorners>
+                            <Vertex x="124.460" y="534.850"/>
+                            <Vertex x="134.468" y="534.850"/>
+                            <Vertex x="134.468" y="552.850"/>
+                            <Vertex x="124.460" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="24"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="c"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="24"/>
+                        <CharacterCorners>
+                            <Vertex x="134.468" y="534.850"/>
+                            <Vertex x="145.466" y="534.850"/>
+                            <Vertex x="145.466" y="552.850"/>
+                            <Vertex x="134.468" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="25"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="25"/>
+                        <CharacterCorners>
+                            <Vertex x="145.466" y="534.850"/>
+                            <Vertex x="161.468" y="534.850"/>
+                            <Vertex x="161.468" y="552.850"/>
+                            <Vertex x="145.466" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="26"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="m"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="26"/>
+                        <CharacterCorners>
+                            <Vertex x="161.468" y="534.850"/>
+                            <Vertex x="172.466" y="534.850"/>
+                            <Vertex x="172.466" y="552.850"/>
+                            <Vertex x="161.468" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="27"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="p"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="27"/>
+                        <CharacterCorners>
+                            <Vertex x="172.466" y="534.850"/>
+                            <Vertex x="182.474" y="534.850"/>
+                            <Vertex x="182.474" y="552.850"/>
+                            <Vertex x="172.466" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="28"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="a"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="28"/>
+                        <CharacterCorners>
+                            <Vertex x="182.420" y="534.850"/>
+                            <Vertex x="189.422" y="534.850"/>
+                            <Vertex x="189.422" y="552.850"/>
+                            <Vertex x="182.420" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="29"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="r"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="29"/>
+                        <CharacterCorners>
+                            <Vertex x="189.422" y="534.850"/>
+                            <Vertex x="199.430" y="534.850"/>
+                            <Vertex x="199.430" y="552.850"/>
+                            <Vertex x="189.422" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="30"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="a"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="30"/>
+                        <CharacterCorners>
+                            <Vertex x="199.340" y="534.850"/>
+                            <Vertex x="205.334" y="534.850"/>
+                            <Vertex x="205.334" y="552.850"/>
+                            <Vertex x="199.340" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="31"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="t"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="31"/>
+                        <CharacterCorners>
+                            <Vertex x="205.334" y="534.850"/>
+                            <Vertex x="210.338" y="534.850"/>
+                            <Vertex x="210.338" y="552.850"/>
+                            <Vertex x="205.334" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="32"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="32"/>
+                        <CharacterCorners>
+                            <Vertex x="210.338" y="534.850"/>
+                            <Vertex x="220.346" y="534.850"/>
+                            <Vertex x="220.346" y="552.850"/>
+                            <Vertex x="210.338" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="33"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="v"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="33"/>
+                        <CharacterCorners>
+                            <Vertex x="220.436" y="534.850"/>
+                            <Vertex x="230.444" y="534.850"/>
+                            <Vertex x="230.444" y="552.850"/>
+                            <Vertex x="220.436" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="34"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="e"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="6"/>
+                    <WordCorners>
+                        <Vertex x="235.448" y="534.850"/>
+                        <Vertex x="283.472" y="534.850"/>
+                        <Vertex x="283.472" y="552.850"/>
+                        <Vertex x="235.448" y="552.850"/>
+                    </WordCorners>
+                    <WordNext Value="7"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="34"/>
+                        <CharacterCorners>
+                            <Vertex x="235.448" y="534.850"/>
+                            <Vertex x="245.456" y="534.850"/>
+                            <Vertex x="245.456" y="552.850"/>
+                            <Vertex x="235.448" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="35"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="s"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="35"/>
+                        <CharacterCorners>
+                            <Vertex x="245.402" y="534.850"/>
+                            <Vertex x="251.396" y="534.850"/>
+                            <Vertex x="251.396" y="552.850"/>
+                            <Vertex x="245.402" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="36"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="t"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="36"/>
+                        <CharacterCorners>
+                            <Vertex x="251.396" y="534.850"/>
+                            <Vertex x="262.394" y="534.850"/>
+                            <Vertex x="262.394" y="552.850"/>
+                            <Vertex x="251.396" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="37"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="u"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="37"/>
+                        <CharacterCorners>
+                            <Vertex x="262.394" y="534.850"/>
+                            <Vertex x="273.392" y="534.850"/>
+                            <Vertex x="273.392" y="552.850"/>
+                            <Vertex x="262.394" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="38"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="d"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="38"/>
+                        <CharacterCorners>
+                            <Vertex x="273.464" y="534.850"/>
+                            <Vertex x="283.472" y="534.850"/>
+                            <Vertex x="283.472" y="552.850"/>
+                            <Vertex x="273.464" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="39"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="y"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="7"/>
+                    <WordCorners>
+                        <Vertex x="288.476" y="534.850"/>
+                        <Vertex x="305.468" y="534.850"/>
+                        <Vertex x="305.468" y="552.850"/>
+                        <Vertex x="288.476" y="552.850"/>
+                    </WordCorners>
+                    <WordNext Value="8"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="39"/>
+                        <CharacterCorners>
+                            <Vertex x="288.476" y="534.850"/>
+                            <Vertex x="299.474" y="534.850"/>
+                            <Vertex x="299.474" y="552.850"/>
+                            <Vertex x="288.476" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="40"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="40"/>
+                        <CharacterCorners>
+                            <Vertex x="299.474" y="534.850"/>
+                            <Vertex x="305.468" y="534.850"/>
+                            <Vertex x="305.468" y="552.850"/>
+                            <Vertex x="299.474" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="41"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="f"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="8"/>
+                    <WordCorners>
+                        <Vertex x="310.526" y="534.850"/>
+                        <Vertex x="382.292" y="534.850"/>
+                        <Vertex x="382.292" y="552.850"/>
+                        <Vertex x="310.526" y="552.850"/>
+                    </WordCorners>
+                    <WordNext Value="9"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="41"/>
+                        <CharacterCorners>
+                            <Vertex x="310.526" y="534.850"/>
+                            <Vertex x="321.524" y="534.850"/>
+                            <Vertex x="321.524" y="552.850"/>
+                            <Vertex x="310.526" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="42"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="d"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="42"/>
+                        <CharacterCorners>
+                            <Vertex x="321.452" y="534.850"/>
+                            <Vertex x="326.456" y="534.850"/>
+                            <Vertex x="326.456" y="552.850"/>
+                            <Vertex x="321.452" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="43"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="43"/>
+                        <CharacterCorners>
+                            <Vertex x="326.456" y="534.850"/>
+                            <Vertex x="332.450" y="534.850"/>
+                            <Vertex x="332.450" y="552.850"/>
+                            <Vertex x="326.456" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="44"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="f"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="44"/>
+                        <CharacterCorners>
+                            <Vertex x="332.450" y="534.850"/>
+                            <Vertex x="338.444" y="534.850"/>
+                            <Vertex x="338.444" y="552.850"/>
+                            <Vertex x="332.450" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="45"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="f"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="45"/>
+                        <CharacterCorners>
+                            <Vertex x="338.372" y="534.850"/>
+                            <Vertex x="348.380" y="534.850"/>
+                            <Vertex x="348.380" y="552.850"/>
+                            <Vertex x="338.372" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="46"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="e"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="46"/>
+                        <CharacterCorners>
+                            <Vertex x="348.380" y="534.850"/>
+                            <Vertex x="355.382" y="534.850"/>
+                            <Vertex x="355.382" y="552.850"/>
+                            <Vertex x="348.380" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="47"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="r"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="47"/>
+                        <CharacterCorners>
+                            <Vertex x="355.292" y="534.850"/>
+                            <Vertex x="365.300" y="534.850"/>
+                            <Vertex x="365.300" y="552.850"/>
+                            <Vertex x="355.292" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="48"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="e"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="48"/>
+                        <CharacterCorners>
+                            <Vertex x="365.300" y="534.850"/>
+                            <Vertex x="376.298" y="534.850"/>
+                            <Vertex x="376.298" y="552.850"/>
+                            <Vertex x="365.300" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="49"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="n"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="49"/>
+                        <CharacterCorners>
+                            <Vertex x="376.298" y="534.850"/>
+                            <Vertex x="382.292" y="534.850"/>
+                            <Vertex x="382.292" y="552.850"/>
+                            <Vertex x="376.298" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="50"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="t"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="9"/>
+                    <WordCorners>
+                        <Vertex x="387.296" y="534.850"/>
+                        <Vertex x="482.530" y="534.850"/>
+                        <Vertex x="482.530" y="552.850"/>
+                        <Vertex x="387.296" y="552.850"/>
+                    </WordCorners>
+                    <WordNext Value="10"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="50"/>
+                        <CharacterCorners>
+                            <Vertex x="387.296" y="534.850"/>
+                            <Vertex x="400.292" y="534.850"/>
+                            <Vertex x="400.292" y="552.850"/>
+                            <Vertex x="387.296" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="51"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="C"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="51"/>
+                        <CharacterCorners>
+                            <Vertex x="400.292" y="534.850"/>
+                            <Vertex x="411.290" y="534.850"/>
+                            <Vertex x="411.290" y="552.850"/>
+                            <Vertex x="400.292" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="52"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="F"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="52"/>
+                        <CharacterCorners>
+                            <Vertex x="411.290" y="534.850"/>
+                            <Vertex x="424.286" y="534.850"/>
+                            <Vertex x="424.286" y="552.850"/>
+                            <Vertex x="411.290" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="53"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="D"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="53"/>
+                        <CharacterCorners>
+                            <Vertex x="424.420" y="534.850"/>
+                            <Vertex x="430.414" y="534.850"/>
+                            <Vertex x="430.414" y="552.850"/>
+                            <Vertex x="424.420" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="54"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="-"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="54"/>
+                        <CharacterCorners>
+                            <Vertex x="430.420" y="534.850"/>
+                            <Vertex x="440.428" y="534.850"/>
+                            <Vertex x="440.428" y="552.850"/>
+                            <Vertex x="430.420" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="55"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="c"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="55"/>
+                        <CharacterCorners>
+                            <Vertex x="440.428" y="534.850"/>
+                            <Vertex x="451.426" y="534.850"/>
+                            <Vertex x="451.426" y="552.850"/>
+                            <Vertex x="440.428" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="56"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="56"/>
+                        <CharacterCorners>
+                            <Vertex x="451.516" y="534.850"/>
+                            <Vertex x="462.514" y="534.850"/>
+                            <Vertex x="462.514" y="552.850"/>
+                            <Vertex x="451.516" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="57"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="d"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="57"/>
+                        <CharacterCorners>
+                            <Vertex x="462.514" y="534.850"/>
+                            <Vertex x="472.522" y="534.850"/>
+                            <Vertex x="472.522" y="552.850"/>
+                            <Vertex x="462.514" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="58"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="e"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="58"/>
+                        <CharacterCorners>
+                            <Vertex x="472.522" y="534.850"/>
+                            <Vertex x="482.530" y="534.850"/>
+                            <Vertex x="482.530" y="552.850"/>
+                            <Vertex x="472.522" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="59"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="s"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="10"/>
+                    <WordCorners>
+                        <Vertex x="487.480" y="534.850"/>
+                        <Vertex x="511.546" y="534.850"/>
+                        <Vertex x="511.546" y="552.850"/>
+                        <Vertex x="487.480" y="552.850"/>
+                    </WordCorners>
+                    <WordNext Value="11"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="59"/>
+                        <CharacterCorners>
+                            <Vertex x="487.480" y="534.850"/>
+                            <Vertex x="493.474" y="534.850"/>
+                            <Vertex x="493.474" y="552.850"/>
+                            <Vertex x="487.480" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="60"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="f"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="60"/>
+                        <CharacterCorners>
+                            <Vertex x="493.474" y="534.850"/>
+                            <Vertex x="504.472" y="534.850"/>
+                            <Vertex x="504.472" y="552.850"/>
+                            <Vertex x="493.474" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="61"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="61"/>
+                        <CharacterCorners>
+                            <Vertex x="504.544" y="534.850"/>
+                            <Vertex x="511.546" y="534.850"/>
+                            <Vertex x="511.546" y="552.850"/>
+                            <Vertex x="504.544" y="552.850"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="62"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="r"/>
+                    </Character>
+                </Word>
+            </Line>
+            <Line>
+                <LineID Value="2"/>
+                <LineCorners>
+                    <Vertex x="110.300" y="555.490"/>
+                    <Vertex x="511.372" y="555.490"/>
+                    <Vertex x="511.372" y="573.490"/>
+                    <Vertex x="110.300" y="573.490"/>
+                </LineCorners>
+                <LineNext Value="3"/>
+                <LineNumChars Value=""/>
+                <Word>
+                    <WordID Value="11"/>
+                    <WordCorners>
+                        <Vertex x="110.300" y="555.490"/>
+                        <Vertex x="195.260" y="555.490"/>
+                        <Vertex x="195.260" y="573.490"/>
+                        <Vertex x="110.300" y="573.490"/>
+                    </WordCorners>
+                    <WordNext Value="12"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="62"/>
+                        <CharacterCorners>
+                            <Vertex x="110.300" y="555.490"/>
+                            <Vertex x="121.298" y="555.490"/>
+                            <Vertex x="121.298" y="573.490"/>
+                            <Vertex x="110.300" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="63"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="n"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="63"/>
+                        <CharacterCorners>
+                            <Vertex x="121.298" y="555.490"/>
+                            <Vertex x="132.296" y="555.490"/>
+                            <Vertex x="132.296" y="573.490"/>
+                            <Vertex x="121.298" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="64"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="u"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="64"/>
+                        <CharacterCorners>
+                            <Vertex x="132.368" y="555.490"/>
+                            <Vertex x="148.370" y="555.490"/>
+                            <Vertex x="148.370" y="573.490"/>
+                            <Vertex x="132.368" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="65"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="m"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="65"/>
+                        <CharacterCorners>
+                            <Vertex x="148.370" y="555.490"/>
+                            <Vertex x="158.378" y="555.490"/>
+                            <Vertex x="158.378" y="573.490"/>
+                            <Vertex x="148.370" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="66"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="e"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="66"/>
+                        <CharacterCorners>
+                            <Vertex x="158.288" y="555.490"/>
+                            <Vertex x="165.290" y="555.490"/>
+                            <Vertex x="165.290" y="573.490"/>
+                            <Vertex x="158.288" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="67"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="r"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="67"/>
+                        <CharacterCorners>
+                            <Vertex x="165.290" y="555.490"/>
+                            <Vertex x="170.294" y="555.490"/>
+                            <Vertex x="170.294" y="573.490"/>
+                            <Vertex x="165.290" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="68"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="68"/>
+                        <CharacterCorners>
+                            <Vertex x="170.294" y="555.490"/>
+                            <Vertex x="180.302" y="555.490"/>
+                            <Vertex x="180.302" y="573.490"/>
+                            <Vertex x="170.294" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="69"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="c"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="69"/>
+                        <CharacterCorners>
+                            <Vertex x="180.248" y="555.490"/>
+                            <Vertex x="190.256" y="555.490"/>
+                            <Vertex x="190.256" y="573.490"/>
+                            <Vertex x="180.248" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="70"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="a"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="70"/>
+                        <CharacterCorners>
+                            <Vertex x="190.256" y="555.490"/>
+                            <Vertex x="195.260" y="555.490"/>
+                            <Vertex x="195.260" y="573.490"/>
+                            <Vertex x="190.256" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="71"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="l"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="12"/>
+                    <WordCorners>
+                        <Vertex x="200.264" y="555.490"/>
+                        <Vertex x="290.408" y="555.490"/>
+                        <Vertex x="290.408" y="573.490"/>
+                        <Vertex x="200.264" y="573.490"/>
+                    </WordCorners>
+                    <WordNext Value="13"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="71"/>
+                        <CharacterCorners>
+                            <Vertex x="200.264" y="555.490"/>
+                            <Vertex x="210.272" y="555.490"/>
+                            <Vertex x="210.272" y="573.490"/>
+                            <Vertex x="200.264" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="72"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="s"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="72"/>
+                        <CharacterCorners>
+                            <Vertex x="210.272" y="555.490"/>
+                            <Vertex x="215.276" y="555.490"/>
+                            <Vertex x="215.276" y="573.490"/>
+                            <Vertex x="210.272" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="73"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="73"/>
+                        <CharacterCorners>
+                            <Vertex x="215.276" y="555.490"/>
+                            <Vertex x="231.278" y="555.490"/>
+                            <Vertex x="231.278" y="573.490"/>
+                            <Vertex x="215.276" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="74"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="m"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="74"/>
+                        <CharacterCorners>
+                            <Vertex x="231.350" y="555.490"/>
+                            <Vertex x="242.348" y="555.490"/>
+                            <Vertex x="242.348" y="573.490"/>
+                            <Vertex x="231.350" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="75"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="u"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="75"/>
+                        <CharacterCorners>
+                            <Vertex x="242.348" y="555.490"/>
+                            <Vertex x="247.352" y="555.490"/>
+                            <Vertex x="247.352" y="573.490"/>
+                            <Vertex x="242.348" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="76"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="l"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="76"/>
+                        <CharacterCorners>
+                            <Vertex x="247.406" y="555.490"/>
+                            <Vertex x="257.414" y="555.490"/>
+                            <Vertex x="257.414" y="573.490"/>
+                            <Vertex x="247.406" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="77"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="a"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="77"/>
+                        <CharacterCorners>
+                            <Vertex x="257.414" y="555.490"/>
+                            <Vertex x="263.408" y="555.490"/>
+                            <Vertex x="263.408" y="573.490"/>
+                            <Vertex x="257.414" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="78"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="t"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="78"/>
+                        <CharacterCorners>
+                            <Vertex x="263.408" y="555.490"/>
+                            <Vertex x="268.412" y="555.490"/>
+                            <Vertex x="268.412" y="573.490"/>
+                            <Vertex x="263.408" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="79"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="79"/>
+                        <CharacterCorners>
+                            <Vertex x="268.412" y="555.490"/>
+                            <Vertex x="279.410" y="555.490"/>
+                            <Vertex x="279.410" y="573.490"/>
+                            <Vertex x="268.412" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="80"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="80"/>
+                        <CharacterCorners>
+                            <Vertex x="279.410" y="555.490"/>
+                            <Vertex x="290.408" y="555.490"/>
+                            <Vertex x="290.408" y="573.490"/>
+                            <Vertex x="279.410" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="81"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="n"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="13"/>
+                    <WordCorners>
+                        <Vertex x="295.412" y="555.490"/>
+                        <Vertex x="312.404" y="555.490"/>
+                        <Vertex x="312.404" y="573.490"/>
+                        <Vertex x="295.412" y="573.490"/>
+                    </WordCorners>
+                    <WordNext Value="14"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="81"/>
+                        <CharacterCorners>
+                            <Vertex x="295.412" y="555.490"/>
+                            <Vertex x="306.410" y="555.490"/>
+                            <Vertex x="306.410" y="573.490"/>
+                            <Vertex x="295.412" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="82"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="82"/>
+                        <CharacterCorners>
+                            <Vertex x="306.410" y="555.490"/>
+                            <Vertex x="312.404" y="555.490"/>
+                            <Vertex x="312.404" y="573.490"/>
+                            <Vertex x="306.410" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="83"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="f"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="14"/>
+                    <WordCorners>
+                        <Vertex x="317.408" y="555.490"/>
+                        <Vertex x="396.496" y="555.490"/>
+                        <Vertex x="396.496" y="573.490"/>
+                        <Vertex x="317.408" y="573.490"/>
+                    </WordCorners>
+                    <WordNext Value="15"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="83"/>
+                        <CharacterCorners>
+                            <Vertex x="317.408" y="555.490"/>
+                            <Vertex x="328.406" y="555.490"/>
+                            <Vertex x="328.406" y="573.490"/>
+                            <Vertex x="317.408" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="84"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="g"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="84"/>
+                        <CharacterCorners>
+                            <Vertex x="328.406" y="555.490"/>
+                            <Vertex x="338.414" y="555.490"/>
+                            <Vertex x="338.414" y="573.490"/>
+                            <Vertex x="328.406" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="85"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="a"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="85"/>
+                        <CharacterCorners>
+                            <Vertex x="338.414" y="555.490"/>
+                            <Vertex x="348.422" y="555.490"/>
+                            <Vertex x="348.422" y="573.490"/>
+                            <Vertex x="338.414" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="86"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="s"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="86"/>
+                        <CharacterCorners>
+                            <Vertex x="348.430" y="555.490"/>
+                            <Vertex x="354.424" y="555.490"/>
+                            <Vertex x="354.424" y="573.490"/>
+                            <Vertex x="348.430" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="87"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="-"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="87"/>
+                        <CharacterCorners>
+                            <Vertex x="354.430" y="555.490"/>
+                            <Vertex x="364.438" y="555.490"/>
+                            <Vertex x="364.438" y="573.490"/>
+                            <Vertex x="354.430" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="88"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="s"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="88"/>
+                        <CharacterCorners>
+                            <Vertex x="364.438" y="555.490"/>
+                            <Vertex x="375.436" y="555.490"/>
+                            <Vertex x="375.436" y="573.490"/>
+                            <Vertex x="364.438" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="89"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="89"/>
+                        <CharacterCorners>
+                            <Vertex x="375.436" y="555.490"/>
+                            <Vertex x="380.440" y="555.490"/>
+                            <Vertex x="380.440" y="573.490"/>
+                            <Vertex x="375.436" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="90"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="l"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="90"/>
+                        <CharacterCorners>
+                            <Vertex x="380.440" y="555.490"/>
+                            <Vertex x="385.444" y="555.490"/>
+                            <Vertex x="385.444" y="573.490"/>
+                            <Vertex x="380.440" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="91"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="91"/>
+                        <CharacterCorners>
+                            <Vertex x="385.498" y="555.490"/>
+                            <Vertex x="396.496" y="555.490"/>
+                            <Vertex x="396.496" y="573.490"/>
+                            <Vertex x="385.498" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="92"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="d"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="15"/>
+                    <WordCorners>
+                        <Vertex x="401.554" y="555.490"/>
+                        <Vertex x="474.310" y="555.490"/>
+                        <Vertex x="474.310" y="573.490"/>
+                        <Vertex x="401.554" y="573.490"/>
+                    </WordCorners>
+                    <WordNext Value="16"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="92"/>
+                        <CharacterCorners>
+                            <Vertex x="401.554" y="555.490"/>
+                            <Vertex x="407.548" y="555.490"/>
+                            <Vertex x="407.548" y="573.490"/>
+                            <Vertex x="401.554" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="93"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="f"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="93"/>
+                        <CharacterCorners>
+                            <Vertex x="407.440" y="555.490"/>
+                            <Vertex x="412.444" y="555.490"/>
+                            <Vertex x="412.444" y="573.490"/>
+                            <Vertex x="407.440" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="94"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="l"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="94"/>
+                        <CharacterCorners>
+                            <Vertex x="412.444" y="555.490"/>
+                            <Vertex x="423.442" y="555.490"/>
+                            <Vertex x="423.442" y="573.490"/>
+                            <Vertex x="412.444" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="95"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="u"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="95"/>
+                        <CharacterCorners>
+                            <Vertex x="423.496" y="555.490"/>
+                            <Vertex x="428.500" y="555.490"/>
+                            <Vertex x="428.500" y="573.490"/>
+                            <Vertex x="423.496" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="96"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="96"/>
+                        <CharacterCorners>
+                            <Vertex x="428.410" y="555.490"/>
+                            <Vertex x="439.408" y="555.490"/>
+                            <Vertex x="439.408" y="573.490"/>
+                            <Vertex x="428.410" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="97"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="d"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="97"/>
+                        <CharacterCorners>
+                            <Vertex x="439.408" y="555.490"/>
+                            <Vertex x="444.412" y="555.490"/>
+                            <Vertex x="444.412" y="573.490"/>
+                            <Vertex x="439.408" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="98"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="98"/>
+                        <CharacterCorners>
+                            <Vertex x="444.466" y="555.490"/>
+                            <Vertex x="453.466" y="555.490"/>
+                            <Vertex x="453.466" y="573.490"/>
+                            <Vertex x="444.466" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="99"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="z"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="99"/>
+                        <CharacterCorners>
+                            <Vertex x="453.466" y="555.490"/>
+                            <Vertex x="463.474" y="555.490"/>
+                            <Vertex x="463.474" y="573.490"/>
+                            <Vertex x="453.466" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="100"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="e"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="100"/>
+                        <CharacterCorners>
+                            <Vertex x="463.312" y="555.490"/>
+                            <Vertex x="474.310" y="555.490"/>
+                            <Vertex x="474.310" y="573.490"/>
+                            <Vertex x="463.312" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="101"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="d"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="16"/>
+                    <WordCorners>
+                        <Vertex x="479.368" y="555.490"/>
+                        <Vertex x="511.372" y="555.490"/>
+                        <Vertex x="511.372" y="573.490"/>
+                        <Vertex x="479.368" y="573.490"/>
+                    </WordCorners>
+                    <WordNext Value="17"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="101"/>
+                        <CharacterCorners>
+                            <Vertex x="479.368" y="555.490"/>
+                            <Vertex x="490.366" y="555.490"/>
+                            <Vertex x="490.366" y="573.490"/>
+                            <Vertex x="479.368" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="102"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="b"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="102"/>
+                        <CharacterCorners>
+                            <Vertex x="490.366" y="555.490"/>
+                            <Vertex x="500.374" y="555.490"/>
+                            <Vertex x="500.374" y="573.490"/>
+                            <Vertex x="490.366" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="103"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="e"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="103"/>
+                        <CharacterCorners>
+                            <Vertex x="500.374" y="555.490"/>
+                            <Vertex x="511.372" y="555.490"/>
+                            <Vertex x="511.372" y="573.490"/>
+                            <Vertex x="500.374" y="573.490"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="104"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="d"/>
+                    </Character>
+                </Word>
+            </Line>
+            <Line>
+                <LineID Value="3"/>
+                <LineCorners>
+                    <Vertex x="373.390" y="576.250"/>
+                    <Vertex x="511.378" y="576.250"/>
+                    <Vertex x="511.378" y="594.250"/>
+                    <Vertex x="373.390" y="594.250"/>
+                </LineCorners>
+                <LineNext Value="4"/>
+                <LineNumChars Value=""/>
+                <Word>
+                    <WordID Value="17"/>
+                    <WordCorners>
+                        <Vertex x="373.390" y="576.250"/>
+                        <Vertex x="511.378" y="576.250"/>
+                        <Vertex x="511.378" y="594.250"/>
+                        <Vertex x="373.390" y="594.250"/>
+                    </WordCorners>
+                    <WordNext Value="18"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="104"/>
+                        <CharacterCorners>
+                            <Vertex x="373.390" y="576.250"/>
+                            <Vertex x="384.388" y="576.250"/>
+                            <Vertex x="384.388" y="594.250"/>
+                            <Vertex x="373.390" y="594.250"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="105"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="h"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="105"/>
+                        <CharacterCorners>
+                            <Vertex x="384.388" y="576.250"/>
+                            <Vertex x="394.396" y="576.250"/>
+                            <Vertex x="394.396" y="594.250"/>
+                            <Vertex x="384.388" y="594.250"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="106"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="y"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="106"/>
+                        <CharacterCorners>
+                            <Vertex x="394.396" y="576.250"/>
+                            <Vertex x="405.394" y="576.250"/>
+                            <Vertex x="405.394" y="594.250"/>
+                            <Vertex x="394.396" y="594.250"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="107"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="d"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="107"/>
+                        <CharacterCorners>
+                            <Vertex x="405.394" y="576.250"/>
+                            <Vertex x="412.396" y="576.250"/>
+                            <Vertex x="412.396" y="594.250"/>
+                            <Vertex x="405.394" y="594.250"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="108"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="r"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="108"/>
+                        <CharacterCorners>
+                            <Vertex x="412.396" y="576.250"/>
+                            <Vertex x="423.394" y="576.250"/>
+                            <Vertex x="423.394" y="594.250"/>
+                            <Vertex x="412.396" y="594.250"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="109"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="109"/>
+                        <CharacterCorners>
+                            <Vertex x="423.394" y="576.250"/>
+                            <Vertex x="434.392" y="576.250"/>
+                            <Vertex x="434.392" y="594.250"/>
+                            <Vertex x="423.394" y="594.250"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="110"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="d"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="110"/>
+                        <CharacterCorners>
+                            <Vertex x="434.446" y="576.250"/>
+                            <Vertex x="444.454" y="576.250"/>
+                            <Vertex x="444.454" y="594.250"/>
+                            <Vertex x="434.446" y="594.250"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="111"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="y"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="111"/>
+                        <CharacterCorners>
+                            <Vertex x="444.454" y="576.250"/>
+                            <Vertex x="455.452" y="576.250"/>
+                            <Vertex x="455.452" y="594.250"/>
+                            <Vertex x="444.454" y="594.250"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="112"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="n"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="112"/>
+                        <CharacterCorners>
+                            <Vertex x="455.452" y="576.250"/>
+                            <Vertex x="465.460" y="576.250"/>
+                            <Vertex x="465.460" y="594.250"/>
+                            <Vertex x="455.452" y="594.250"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="113"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="a"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="113"/>
+                        <CharacterCorners>
+                            <Vertex x="465.406" y="576.250"/>
+                            <Vertex x="481.408" y="576.250"/>
+                            <Vertex x="481.408" y="594.250"/>
+                            <Vertex x="465.406" y="594.250"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="114"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="m"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="114"/>
+                        <CharacterCorners>
+                            <Vertex x="481.408" y="576.250"/>
+                            <Vertex x="486.412" y="576.250"/>
+                            <Vertex x="486.412" y="594.250"/>
+                            <Vertex x="481.408" y="594.250"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="115"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="115"/>
+                        <CharacterCorners>
+                            <Vertex x="486.412" y="576.250"/>
+                            <Vertex x="496.420" y="576.250"/>
+                            <Vertex x="496.420" y="594.250"/>
+                            <Vertex x="486.412" y="594.250"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="116"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="c"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="116"/>
+                        <CharacterCorners>
+                            <Vertex x="496.366" y="576.250"/>
+                            <Vertex x="506.374" y="576.250"/>
+                            <Vertex x="506.374" y="594.250"/>
+                            <Vertex x="496.366" y="594.250"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="117"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="s"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="117"/>
+                        <CharacterCorners>
+                            <Vertex x="506.374" y="576.250"/>
+                            <Vertex x="511.378" y="576.250"/>
+                            <Vertex x="511.378" y="594.250"/>
+                            <Vertex x="506.374" y="594.250"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="118"/>
+                        <Font Size="" Spacing="" Style="" Type="Arial-BoldMT"/>
+                        <GT_Text Value="."/>
+                    </Character>
+                </Word>
+            </Line>
+        </Zone>
+        <Zone>
+            <ZoneID Value="2"/>
+            <ZoneCorners>
+                <Vertex x="76.704" y="607.786"/>
+                <Vertex x="511.418" y="607.786"/>
+                <Vertex x="511.418" y="642.106"/>
+                <Vertex x="76.704" y="642.106"/>
+            </ZoneCorners>
+            <ZoneNext Value="3"/>
+            <ZoneInsets Bottom="" Left="" Right="" Top=""/>
+            <ZoneLines Value=""/>
+            <Classification>
+                <Category Value="AUTHOR"/>
+                <Type Value=""/>
+            </Classification>
+            <Line>
+                <LineID Value="4"/>
+                <LineCorners>
+                    <Vertex x="76.704" y="607.786"/>
+                    <Vertex x="511.183" y="607.786"/>
+                    <Vertex x="511.183" y="623.746"/>
+                    <Vertex x="76.704" y="623.746"/>
+                </LineCorners>
+                <LineNext Value="5"/>
+                <LineNumChars Value=""/>
+                <Word>
+                    <WordID Value="18"/>
+                    <WordCorners>
+                        <Vertex x="76.704" y="607.786"/>
+                        <Vertex x="134.479" y="607.786"/>
+                        <Vertex x="134.479" y="623.746"/>
+                        <Vertex x="76.704" y="623.746"/>
+                    </WordCorners>
+                    <WordNext Value="19"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="118"/>
+                        <CharacterCorners>
+                            <Vertex x="76.704" y="607.786"/>
+                            <Vertex x="88.227" y="607.786"/>
+                            <Vertex x="88.227" y="623.746"/>
+                            <Vertex x="76.704" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="119"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="N"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="119"/>
+                        <CharacterCorners>
+                            <Vertex x="88.227" y="607.786"/>
+                            <Vertex x="91.770" y="607.786"/>
+                            <Vertex x="91.770" y="623.746"/>
+                            <Vertex x="88.227" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="120"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="120"/>
+                        <CharacterCorners>
+                            <Vertex x="91.802" y="607.786"/>
+                            <Vertex x="99.782" y="607.786"/>
+                            <Vertex x="99.782" y="623.746"/>
+                            <Vertex x="91.802" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="121"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="c"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="121"/>
+                        <CharacterCorners>
+                            <Vertex x="99.830" y="607.786"/>
+                            <Vertex x="108.704" y="607.786"/>
+                            <Vertex x="108.704" y="623.746"/>
+                            <Vertex x="99.830" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="122"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="122"/>
+                        <CharacterCorners>
+                            <Vertex x="108.704" y="607.786"/>
+                            <Vertex x="112.247" y="607.786"/>
+                            <Vertex x="112.247" y="623.746"/>
+                            <Vertex x="108.704" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="123"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="l"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="123"/>
+                        <CharacterCorners>
+                            <Vertex x="112.295" y="607.786"/>
+                            <Vertex x="121.169" y="607.786"/>
+                            <Vertex x="121.169" y="623.746"/>
+                            <Vertex x="112.295" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="124"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="e"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="124"/>
+                        <CharacterCorners>
+                            <Vertex x="121.169" y="607.786"/>
+                            <Vertex x="125.605" y="607.786"/>
+                            <Vertex x="125.605" y="623.746"/>
+                            <Vertex x="121.169" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="125"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="t"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="125"/>
+                        <CharacterCorners>
+                            <Vertex x="125.605" y="607.786"/>
+                            <Vertex x="134.479" y="607.786"/>
+                            <Vertex x="134.479" y="623.746"/>
+                            <Vertex x="125.605" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="126"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="a"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="19"/>
+                    <WordCorners>
+                        <Vertex x="138.916" y="607.786"/>
+                        <Vertex x="194.824" y="607.786"/>
+                        <Vertex x="194.824" y="623.746"/>
+                        <Vertex x="138.916" y="623.746"/>
+                    </WordCorners>
+                    <WordNext Value="20"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="126"/>
+                        <CharacterCorners>
+                            <Vertex x="138.916" y="607.786"/>
+                            <Vertex x="150.439" y="607.786"/>
+                            <Vertex x="150.439" y="623.746"/>
+                            <Vertex x="138.916" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="127"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="H"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="127"/>
+                        <CharacterCorners>
+                            <Vertex x="150.439" y="607.786"/>
+                            <Vertex x="159.313" y="607.786"/>
+                            <Vertex x="159.313" y="623.746"/>
+                            <Vertex x="150.439" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="128"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="e"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="128"/>
+                        <CharacterCorners>
+                            <Vertex x="159.313" y="607.786"/>
+                            <Vertex x="164.628" y="607.786"/>
+                            <Vertex x="164.628" y="623.746"/>
+                            <Vertex x="159.313" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="129"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="r"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="129"/>
+                        <CharacterCorners>
+                            <Vertex x="164.628" y="607.786"/>
+                            <Vertex x="172.608" y="607.786"/>
+                            <Vertex x="172.608" y="623.746"/>
+                            <Vertex x="164.628" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="130"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="z"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="130"/>
+                        <CharacterCorners>
+                            <Vertex x="172.608" y="607.786"/>
+                            <Vertex x="181.481" y="607.786"/>
+                            <Vertex x="181.481" y="623.746"/>
+                            <Vertex x="172.608" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="131"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="131"/>
+                        <CharacterCorners>
+                            <Vertex x="181.513" y="607.786"/>
+                            <Vertex x="190.387" y="607.786"/>
+                            <Vertex x="190.387" y="623.746"/>
+                            <Vertex x="181.513" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="132"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="g"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="132"/>
+                        <CharacterCorners>
+                            <Vertex x="190.387" y="607.786"/>
+                            <Vertex x="194.824" y="607.786"/>
+                            <Vertex x="194.824" y="623.746"/>
+                            <Vertex x="190.387" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="133"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value=","/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="20"/>
+                    <WordCorners>
+                        <Vertex x="199.373" y="607.786"/>
+                        <Vertex x="259.765" y="607.786"/>
+                        <Vertex x="259.765" y="623.746"/>
+                        <Vertex x="199.373" y="623.746"/>
+                    </WordCorners>
+                    <WordNext Value="21"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="133"/>
+                        <CharacterCorners>
+                            <Vertex x="199.373" y="607.786"/>
+                            <Vertex x="212.667" y="607.786"/>
+                            <Vertex x="212.667" y="623.746"/>
+                            <Vertex x="199.373" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="134"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="M"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="134"/>
+                        <CharacterCorners>
+                            <Vertex x="212.667" y="607.786"/>
+                            <Vertex x="221.541" y="607.786"/>
+                            <Vertex x="221.541" y="623.746"/>
+                            <Vertex x="212.667" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="135"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="a"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="135"/>
+                        <CharacterCorners>
+                            <Vertex x="221.541" y="607.786"/>
+                            <Vertex x="225.978" y="607.786"/>
+                            <Vertex x="225.978" y="623.746"/>
+                            <Vertex x="221.541" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="136"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="t"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="136"/>
+                        <CharacterCorners>
+                            <Vertex x="225.978" y="607.786"/>
+                            <Vertex x="230.415" y="607.786"/>
+                            <Vertex x="230.415" y="623.746"/>
+                            <Vertex x="225.978" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="137"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="t"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="137"/>
+                        <CharacterCorners>
+                            <Vertex x="230.415" y="607.786"/>
+                            <Vertex x="239.289" y="607.786"/>
+                            <Vertex x="239.289" y="623.746"/>
+                            <Vertex x="230.415" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="138"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="h"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="138"/>
+                        <CharacterCorners>
+                            <Vertex x="239.289" y="607.786"/>
+                            <Vertex x="242.832" y="607.786"/>
+                            <Vertex x="242.832" y="623.746"/>
+                            <Vertex x="239.289" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="139"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="139"/>
+                        <CharacterCorners>
+                            <Vertex x="242.911" y="607.786"/>
+                            <Vertex x="251.785" y="607.786"/>
+                            <Vertex x="251.785" y="623.746"/>
+                            <Vertex x="242.911" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="140"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="a"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="140"/>
+                        <CharacterCorners>
+                            <Vertex x="251.785" y="607.786"/>
+                            <Vertex x="259.765" y="607.786"/>
+                            <Vertex x="259.765" y="623.746"/>
+                            <Vertex x="251.785" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="141"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="s"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="21"/>
+                    <WordCorners>
+                        <Vertex x="264.250" y="607.786"/>
+                        <Vertex x="337.060" y="607.786"/>
+                        <Vertex x="337.060" y="623.746"/>
+                        <Vertex x="264.250" y="623.746"/>
+                    </WordCorners>
+                    <WordNext Value="22"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="141"/>
+                        <CharacterCorners>
+                            <Vertex x="264.250" y="607.786"/>
+                            <Vertex x="274.895" y="607.786"/>
+                            <Vertex x="274.895" y="623.746"/>
+                            <Vertex x="264.250" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="142"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="S"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="142"/>
+                        <CharacterCorners>
+                            <Vertex x="274.895" y="607.786"/>
+                            <Vertex x="282.875" y="607.786"/>
+                            <Vertex x="282.875" y="623.746"/>
+                            <Vertex x="274.895" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="143"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="c"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="143"/>
+                        <CharacterCorners>
+                            <Vertex x="282.955" y="607.786"/>
+                            <Vertex x="291.829" y="607.786"/>
+                            <Vertex x="291.829" y="623.746"/>
+                            <Vertex x="282.955" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="144"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="h"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="144"/>
+                        <CharacterCorners>
+                            <Vertex x="291.829" y="607.786"/>
+                            <Vertex x="297.144" y="607.786"/>
+                            <Vertex x="297.144" y="623.746"/>
+                            <Vertex x="291.829" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="145"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="r"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="145"/>
+                        <CharacterCorners>
+                            <Vertex x="297.144" y="607.786"/>
+                            <Vertex x="306.017" y="607.786"/>
+                            <Vertex x="306.017" y="623.746"/>
+                            <Vertex x="297.144" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="146"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="e"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="146"/>
+                        <CharacterCorners>
+                            <Vertex x="306.017" y="607.786"/>
+                            <Vertex x="309.560" y="607.786"/>
+                            <Vertex x="309.560" y="623.746"/>
+                            <Vertex x="306.017" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="147"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="147"/>
+                        <CharacterCorners>
+                            <Vertex x="309.560" y="607.786"/>
+                            <Vertex x="318.434" y="607.786"/>
+                            <Vertex x="318.434" y="623.746"/>
+                            <Vertex x="309.560" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="148"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="b"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="148"/>
+                        <CharacterCorners>
+                            <Vertex x="318.434" y="607.786"/>
+                            <Vertex x="327.308" y="607.786"/>
+                            <Vertex x="327.308" y="623.746"/>
+                            <Vertex x="318.434" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="149"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="e"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="149"/>
+                        <CharacterCorners>
+                            <Vertex x="327.308" y="607.786"/>
+                            <Vertex x="332.623" y="607.786"/>
+                            <Vertex x="332.623" y="623.746"/>
+                            <Vertex x="327.308" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="150"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="r"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="150"/>
+                        <CharacterCorners>
+                            <Vertex x="332.623" y="607.786"/>
+                            <Vertex x="337.060" y="607.786"/>
+                            <Vertex x="337.060" y="623.746"/>
+                            <Vertex x="332.623" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="151"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value=","/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="22"/>
+                    <WordCorners>
+                        <Vertex x="341.496" y="607.786"/>
+                        <Vertex x="409.981" y="607.786"/>
+                        <Vertex x="409.981" y="623.746"/>
+                        <Vertex x="341.496" y="623.746"/>
+                    </WordCorners>
+                    <WordNext Value="23"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="151"/>
+                        <CharacterCorners>
+                            <Vertex x="341.496" y="607.786"/>
+                            <Vertex x="353.020" y="607.786"/>
+                            <Vertex x="353.020" y="623.746"/>
+                            <Vertex x="341.496" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="152"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="C"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="152"/>
+                        <CharacterCorners>
+                            <Vertex x="353.020" y="607.786"/>
+                            <Vertex x="361.893" y="607.786"/>
+                            <Vertex x="361.893" y="623.746"/>
+                            <Vertex x="353.020" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="153"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="h"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="153"/>
+                        <CharacterCorners>
+                            <Vertex x="362.021" y="607.786"/>
+                            <Vertex x="367.336" y="607.786"/>
+                            <Vertex x="367.336" y="623.746"/>
+                            <Vertex x="362.021" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="154"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="r"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="154"/>
+                        <CharacterCorners>
+                            <Vertex x="367.336" y="607.786"/>
+                            <Vertex x="370.879" y="607.786"/>
+                            <Vertex x="370.879" y="623.746"/>
+                            <Vertex x="367.336" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="155"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="155"/>
+                        <CharacterCorners>
+                            <Vertex x="370.879" y="607.786"/>
+                            <Vertex x="378.859" y="607.786"/>
+                            <Vertex x="378.859" y="623.746"/>
+                            <Vertex x="370.879" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="156"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="s"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="156"/>
+                        <CharacterCorners>
+                            <Vertex x="378.923" y="607.786"/>
+                            <Vertex x="383.359" y="607.786"/>
+                            <Vertex x="383.359" y="623.746"/>
+                            <Vertex x="378.923" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="157"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="t"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="157"/>
+                        <CharacterCorners>
+                            <Vertex x="383.359" y="607.786"/>
+                            <Vertex x="392.233" y="607.786"/>
+                            <Vertex x="392.233" y="623.746"/>
+                            <Vertex x="383.359" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="158"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="158"/>
+                        <CharacterCorners>
+                            <Vertex x="392.233" y="607.786"/>
+                            <Vertex x="401.107" y="607.786"/>
+                            <Vertex x="401.107" y="623.746"/>
+                            <Vertex x="392.233" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="159"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="p"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="159"/>
+                        <CharacterCorners>
+                            <Vertex x="401.107" y="607.786"/>
+                            <Vertex x="409.981" y="607.786"/>
+                            <Vertex x="409.981" y="623.746"/>
+                            <Vertex x="401.107" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="160"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="h"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="23"/>
+                    <WordCorners>
+                        <Vertex x="414.418" y="607.786"/>
+                        <Vertex x="469.464" y="607.786"/>
+                        <Vertex x="469.464" y="623.746"/>
+                        <Vertex x="414.418" y="623.746"/>
+                    </WordCorners>
+                    <WordNext Value="24"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="160"/>
+                        <CharacterCorners>
+                            <Vertex x="414.418" y="607.786"/>
+                            <Vertex x="425.063" y="607.786"/>
+                            <Vertex x="425.063" y="623.746"/>
+                            <Vertex x="414.418" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="161"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="E"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="161"/>
+                        <CharacterCorners>
+                            <Vertex x="425.111" y="607.786"/>
+                            <Vertex x="433.985" y="607.786"/>
+                            <Vertex x="433.985" y="623.746"/>
+                            <Vertex x="425.111" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="162"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="g"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="162"/>
+                        <CharacterCorners>
+                            <Vertex x="433.985" y="607.786"/>
+                            <Vertex x="442.858" y="607.786"/>
+                            <Vertex x="442.858" y="623.746"/>
+                            <Vertex x="433.985" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="163"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="b"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="163"/>
+                        <CharacterCorners>
+                            <Vertex x="442.858" y="607.786"/>
+                            <Vertex x="451.732" y="607.786"/>
+                            <Vertex x="451.732" y="623.746"/>
+                            <Vertex x="442.858" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="164"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="e"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="164"/>
+                        <CharacterCorners>
+                            <Vertex x="451.732" y="607.786"/>
+                            <Vertex x="457.047" y="607.786"/>
+                            <Vertex x="457.047" y="623.746"/>
+                            <Vertex x="451.732" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="165"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="r"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="165"/>
+                        <CharacterCorners>
+                            <Vertex x="457.047" y="607.786"/>
+                            <Vertex x="465.027" y="607.786"/>
+                            <Vertex x="465.027" y="623.746"/>
+                            <Vertex x="457.047" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="166"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="s"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="166"/>
+                        <CharacterCorners>
+                            <Vertex x="465.027" y="607.786"/>
+                            <Vertex x="469.464" y="607.786"/>
+                            <Vertex x="469.464" y="623.746"/>
+                            <Vertex x="465.027" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="167"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value=","/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="24"/>
+                    <WordCorners>
+                        <Vertex x="473.932" y="607.786"/>
+                        <Vertex x="511.183" y="607.786"/>
+                        <Vertex x="511.183" y="623.746"/>
+                        <Vertex x="473.932" y="623.746"/>
+                    </WordCorners>
+                    <WordNext Value="25"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="167"/>
+                        <CharacterCorners>
+                            <Vertex x="473.932" y="607.786"/>
+                            <Vertex x="485.456" y="607.786"/>
+                            <Vertex x="485.456" y="623.746"/>
+                            <Vertex x="473.932" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="168"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="H"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="168"/>
+                        <CharacterCorners>
+                            <Vertex x="485.456" y="607.786"/>
+                            <Vertex x="494.329" y="607.786"/>
+                            <Vertex x="494.329" y="623.746"/>
+                            <Vertex x="485.456" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="169"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="a"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="169"/>
+                        <CharacterCorners>
+                            <Vertex x="494.329" y="607.786"/>
+                            <Vertex x="503.203" y="607.786"/>
+                            <Vertex x="503.203" y="623.746"/>
+                            <Vertex x="494.329" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="170"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="n"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="170"/>
+                        <CharacterCorners>
+                            <Vertex x="503.203" y="607.786"/>
+                            <Vertex x="511.183" y="607.786"/>
+                            <Vertex x="511.183" y="623.746"/>
+                            <Vertex x="503.203" y="623.746"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="171"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="s"/>
+                    </Character>
+                </Word>
+            </Line>
+            <Line>
+                <LineID Value="5"/>
+                <LineCorners>
+                    <Vertex x="401.230" y="626.146"/>
+                    <Vertex x="511.418" y="626.146"/>
+                    <Vertex x="511.418" y="642.106"/>
+                    <Vertex x="401.230" y="642.106"/>
+                </LineCorners>
+                <LineNext Value="6"/>
+                <LineNumChars Value=""/>
+                <Word>
+                    <WordID Value="25"/>
+                    <WordCorners>
+                        <Vertex x="401.230" y="626.146"/>
+                        <Vertex x="460.809" y="626.146"/>
+                        <Vertex x="460.809" y="642.106"/>
+                        <Vertex x="401.230" y="642.106"/>
+                    </WordCorners>
+                    <WordNext Value="26"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="171"/>
+                        <CharacterCorners>
+                            <Vertex x="401.230" y="626.146"/>
+                            <Vertex x="409.210" y="626.146"/>
+                            <Vertex x="409.210" y="642.106"/>
+                            <Vertex x="401.230" y="642.106"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="172"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="J"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="172"/>
+                        <CharacterCorners>
+                            <Vertex x="409.258" y="626.146"/>
+                            <Vertex x="418.132" y="626.146"/>
+                            <Vertex x="418.132" y="642.106"/>
+                            <Vertex x="409.258" y="642.106"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="173"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="173"/>
+                        <CharacterCorners>
+                            <Vertex x="418.132" y="626.146"/>
+                            <Vertex x="427.005" y="626.146"/>
+                            <Vertex x="427.005" y="642.106"/>
+                            <Vertex x="418.132" y="642.106"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="174"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="a"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="174"/>
+                        <CharacterCorners>
+                            <Vertex x="427.005" y="626.146"/>
+                            <Vertex x="434.985" y="626.146"/>
+                            <Vertex x="434.985" y="642.106"/>
+                            <Vertex x="427.005" y="642.106"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="175"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="c"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="175"/>
+                        <CharacterCorners>
+                            <Vertex x="435.049" y="626.146"/>
+                            <Vertex x="443.923" y="626.146"/>
+                            <Vertex x="443.923" y="642.106"/>
+                            <Vertex x="435.049" y="642.106"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="176"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="h"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="176"/>
+                        <CharacterCorners>
+                            <Vertex x="443.923" y="626.146"/>
+                            <Vertex x="447.466" y="626.146"/>
+                            <Vertex x="447.466" y="642.106"/>
+                            <Vertex x="443.923" y="642.106"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="177"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="177"/>
+                        <CharacterCorners>
+                            <Vertex x="447.514" y="626.146"/>
+                            <Vertex x="460.809" y="626.146"/>
+                            <Vertex x="460.809" y="642.106"/>
+                            <Vertex x="447.514" y="642.106"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="178"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="m"/>
+                    </Character>
+                </Word>
+                <Word>
+                    <WordID Value="26"/>
+                    <WordCorners>
+                        <Vertex x="465.246" y="626.146"/>
+                        <Vertex x="511.418" y="626.146"/>
+                        <Vertex x="511.418" y="642.106"/>
+                        <Vertex x="465.246" y="642.106"/>
+                    </WordCorners>
+                    <WordNext Value="27"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="178"/>
+                        <CharacterCorners>
+                            <Vertex x="465.246" y="626.146"/>
+                            <Vertex x="475.891" y="626.146"/>
+                            <Vertex x="475.891" y="642.106"/>
+                            <Vertex x="465.246" y="642.106"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="179"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="K"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="179"/>
+                        <CharacterCorners>
+                            <Vertex x="475.939" y="626.146"/>
+                            <Vertex x="481.253" y="626.146"/>
+                            <Vertex x="481.253" y="642.106"/>
+                            <Vertex x="475.939" y="642.106"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="180"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="r"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="180"/>
+                        <CharacterCorners>
+                            <Vertex x="481.253" y="626.146"/>
+                            <Vertex x="490.127" y="626.146"/>
+                            <Vertex x="490.127" y="642.106"/>
+                            <Vertex x="481.253" y="642.106"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="181"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="a"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="181"/>
+                        <CharacterCorners>
+                            <Vertex x="490.127" y="626.146"/>
+                            <Vertex x="499.001" y="626.146"/>
+                            <Vertex x="499.001" y="642.106"/>
+                            <Vertex x="490.127" y="642.106"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="182"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="u"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="182"/>
+                        <CharacterCorners>
+                            <Vertex x="499.001" y="626.146"/>
+                            <Vertex x="503.438" y="626.146"/>
+                            <Vertex x="503.438" y="642.106"/>
+                            <Vertex x="499.001" y="642.106"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="183"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="t"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="183"/>
+                        <CharacterCorners>
+                            <Vertex x="503.438" y="626.146"/>
+                            <Vertex x="511.418" y="626.146"/>
+                            <Vertex x="511.418" y="642.106"/>
+                            <Vertex x="503.438" y="642.106"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="184"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="z"/>
+                    </Character>
+                </Word>
+            </Line>
+        </Zone>
+        <Zone>
+            <ZoneID Value="3"/>
+            <ZoneCorners>
+                <Vertex x="451.540" y="505.876"/>
+                <Vertex x="511.119" y="505.876"/>
+                <Vertex x="511.119" y="521.836"/>
+                <Vertex x="451.540" y="521.836"/>
+            </ZoneCorners>
+            <ZoneNext Value="4"/>
+            <ZoneInsets Bottom="" Left="" Right="" Top=""/>
+            <ZoneLines Value=""/>
+            <Classification>
+                <Category Value="UNKNOWN"/>
+                <Type Value=""/>
+            </Classification>
+            <Line>
+                <LineID Value="6"/>
+                <LineCorners>
+                    <Vertex x="451.540" y="505.876"/>
+                    <Vertex x="511.119" y="505.876"/>
+                    <Vertex x="511.119" y="521.836"/>
+                    <Vertex x="451.540" y="521.836"/>
+                </LineCorners>
+                <LineNext Value="7"/>
+                <LineNumChars Value=""/>
+                <Word>
+                    <WordID Value="27"/>
+                    <WordCorners>
+                        <Vertex x="451.540" y="505.876"/>
+                        <Vertex x="511.119" y="505.876"/>
+                        <Vertex x="511.119" y="521.836"/>
+                        <Vertex x="451.540" y="521.836"/>
+                    </WordCorners>
+                    <WordNext Value="28"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="184"/>
+                        <CharacterCorners>
+                            <Vertex x="451.540" y="505.876"/>
+                            <Vertex x="460.414" y="505.876"/>
+                            <Vertex x="460.414" y="521.836"/>
+                            <Vertex x="451.540" y="521.836"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="185"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="a"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="185"/>
+                        <CharacterCorners>
+                            <Vertex x="460.414" y="505.876"/>
+                            <Vertex x="464.851" y="505.876"/>
+                            <Vertex x="464.851" y="521.836"/>
+                            <Vertex x="460.414" y="521.836"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="186"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="f"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="186"/>
+                        <CharacterCorners>
+                            <Vertex x="464.851" y="505.876"/>
+                            <Vertex x="469.288" y="505.876"/>
+                            <Vertex x="469.288" y="521.836"/>
+                            <Vertex x="464.851" y="521.836"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="187"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="f"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="187"/>
+                        <CharacterCorners>
+                            <Vertex x="469.288" y="505.876"/>
+                            <Vertex x="472.831" y="505.876"/>
+                            <Vertex x="472.831" y="521.836"/>
+                            <Vertex x="469.288" y="521.836"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="188"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="188"/>
+                        <CharacterCorners>
+                            <Vertex x="472.879" y="505.876"/>
+                            <Vertex x="476.422" y="505.876"/>
+                            <Vertex x="476.422" y="521.836"/>
+                            <Vertex x="472.879" y="521.836"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="189"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="l"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="189"/>
+                        <CharacterCorners>
+                            <Vertex x="476.470" y="505.876"/>
+                            <Vertex x="485.343" y="505.876"/>
+                            <Vertex x="485.343" y="521.836"/>
+                            <Vertex x="476.470" y="521.836"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="190"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="a"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="190"/>
+                        <CharacterCorners>
+                            <Vertex x="485.343" y="505.876"/>
+                            <Vertex x="489.780" y="505.876"/>
+                            <Vertex x="489.780" y="521.836"/>
+                            <Vertex x="485.343" y="521.836"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="191"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="t"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="191"/>
+                        <CharacterCorners>
+                            <Vertex x="489.780" y="505.876"/>
+                            <Vertex x="493.323" y="505.876"/>
+                            <Vertex x="493.323" y="521.836"/>
+                            <Vertex x="489.780" y="521.836"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="192"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="i"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="192"/>
+                        <CharacterCorners>
+                            <Vertex x="493.371" y="505.876"/>
+                            <Vertex x="502.245" y="505.876"/>
+                            <Vertex x="502.245" y="521.836"/>
+                            <Vertex x="493.371" y="521.836"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="193"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="o"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="193"/>
+                        <CharacterCorners>
+                            <Vertex x="502.245" y="505.876"/>
+                            <Vertex x="511.119" y="505.876"/>
+                            <Vertex x="511.119" y="521.836"/>
+                            <Vertex x="502.245" y="521.836"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="194"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="n"/>
+                    </Character>
+                </Word>
+            </Line>
+        </Zone>
+        <Zone>
+            <ZoneID Value="4"/>
+            <ZoneCorners>
+                <Vertex x="475.900" y="662.986"/>
+                <Vertex x="511.414" y="662.986"/>
+                <Vertex x="511.414" y="678.946"/>
+                <Vertex x="475.900" y="678.946"/>
+            </ZoneCorners>
+            <ZoneNext Value="-1"/>
+            <ZoneInsets Bottom="" Left="" Right="" Top=""/>
+            <ZoneLines Value=""/>
+            <Classification>
+                <Category Value="UNKNOWN"/>
+                <Type Value=""/>
+            </Classification>
+            <Line>
+                <LineID Value="7"/>
+                <LineCorners>
+                    <Vertex x="475.900" y="662.986"/>
+                    <Vertex x="511.414" y="662.986"/>
+                    <Vertex x="511.414" y="678.946"/>
+                    <Vertex x="475.900" y="678.946"/>
+                </LineCorners>
+                <LineNext Value="-1"/>
+                <LineNumChars Value=""/>
+                <Word>
+                    <WordID Value="28"/>
+                    <WordCorners>
+                        <Vertex x="475.900" y="662.986"/>
+                        <Vertex x="511.414" y="662.986"/>
+                        <Vertex x="511.414" y="678.946"/>
+                        <Vertex x="475.900" y="678.946"/>
+                    </WordCorners>
+                    <WordNext Value="-1"/>
+                    <WordNumChars Value=""/>
+                    <Character>
+                        <CharacterID Value="194"/>
+                        <CharacterCorners>
+                            <Vertex x="475.900" y="662.986"/>
+                            <Vertex x="484.774" y="662.986"/>
+                            <Vertex x="484.774" y="678.946"/>
+                            <Vertex x="475.900" y="678.946"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="195"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="2"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="195"/>
+                        <CharacterCorners>
+                            <Vertex x="484.780" y="662.986"/>
+                            <Vertex x="493.654" y="662.986"/>
+                            <Vertex x="493.654" y="678.946"/>
+                            <Vertex x="484.780" y="678.946"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="196"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="0"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="196"/>
+                        <CharacterCorners>
+                            <Vertex x="493.660" y="662.986"/>
+                            <Vertex x="502.534" y="662.986"/>
+                            <Vertex x="502.534" y="678.946"/>
+                            <Vertex x="493.660" y="678.946"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="197"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="1"/>
+                    </Character>
+                    <Character>
+                        <CharacterID Value="197"/>
+                        <CharacterCorners>
+                            <Vertex x="502.540" y="662.986"/>
+                            <Vertex x="511.414" y="662.986"/>
+                            <Vertex x="511.414" y="678.946"/>
+                            <Vertex x="502.540" y="678.946"/>
+                        </CharacterCorners>
+                        <CharacterNext Value="-1"/>
+                        <Font Size="" Spacing="" Style="" Type="ArialMT"/>
+                        <GT_Text Value="0"/>
+                    </Character>
+                </Word>
+            </Line>
+        </Zone>
+    </Page>
+</Document>
