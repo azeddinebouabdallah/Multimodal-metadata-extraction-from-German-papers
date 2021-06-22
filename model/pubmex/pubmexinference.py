@@ -89,7 +89,7 @@ class PubMexInference:
         text = []
         for i, value in enumerate(predict):
             text.append(paper.get_text_from_bbox(predict[i][0][0], predict[i][0][1], predict[i][0][2], predict[i][0][3]))
-        result = list(zip(text, predict))  
+        result = list(zip(text, [score for _, score in predict]))  
 
         return result
     
