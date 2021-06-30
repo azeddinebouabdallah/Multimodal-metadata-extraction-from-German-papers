@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import os
 import pickle
+import math
 
 def manualAnnotated():
     i = 0 
@@ -19,8 +20,9 @@ def manualAnnotated():
             output.columns = ["word", "label"]
 
             new_vectors = np.array([])
-
             for index, row in output.iterrows():
+                if math.isnan(row['label']):
+                     continue
                 v = np.zeros(10)
                 v[int(row['label']) - 1] = 1
 

@@ -12,4 +12,8 @@ model/pubmex/vision_model/
 generated_dataset/*./.git/objects/9a/161edd91a41c568a04747878a8dfb2dcef8128
 model/bi_lstm_submodel/vectors.pickle
 model/bi_lstm_submodel/labels.pickle
-/feature_extraction/features/*
+model/input
+model/nlp_output/
+model/vision_output/
+model/processed_vision_output/
+feature_extraction/features/
