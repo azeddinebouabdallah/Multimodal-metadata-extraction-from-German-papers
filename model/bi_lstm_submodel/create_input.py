@@ -15,9 +15,12 @@ import os
 
 # Reading the features NOTE: Do not run this it is already saved under vectors.pickle
 i = 0
+<<<<<<< HEAD
 batch_size=128
 batch_i = 1
 
+=======
+>>>>>>> refs/remotes/origin/master
 vectors = np.array([])
 labels = np.array([])
 for file in os.scandir('../../feature_extraction/features/'):
@@ -35,6 +38,7 @@ for file in os.scandir('../../feature_extraction/features/'):
             vectors = np.concatenate((vectors, vector.to_numpy()))
         i+=1
         print(i, end="\r")
+<<<<<<< HEAD
         
         
         if i % batch_size == 0: 
@@ -44,3 +48,7 @@ for file in os.scandir('../../feature_extraction/features/'):
             vectors = np.array([])
             i = 0
             batch_i += 1
+=======
+with open("./vectors.pickle", "wb") as f:
+    pickle.dump(vectors, f)
+>>>>>>> refs/remotes/origin/master
