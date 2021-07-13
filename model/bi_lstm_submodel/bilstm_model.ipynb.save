@@ -1,0 +1,994 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import torch\n",
+    "import torch.nn as nn\n",
+    "import torch.nn.functional as F\n",
+    "import torch.optim as optim\n",
+    "from sklearn.model_selection import train_test_split\n",
+    "from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence\n",
+    "from torch.utils.data import Dataset, DataLoader\n",
+    "\n",
+    "import numpy as np\n",
+    "import pandas as pd\n",
+    "import pickle\n",
+    "import random\n",
+    "import os\n",
+    "\n",
+    "torch.manual_seed(10)\n",
+    "#device = 'cuda' if torch.cuda.is_available() else 'cpu'\n",
+    "\n",
+    "device = 'cpu'"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "class BiLSTM(nn.Module): \n",
+    "    # This NLP part Will consist of two bidirectional lstm layers and it's output is \n",
+    "    # determined by the LSTM's last hidden states or output vectors.\n",
+    "\n",
+    "    # This will take as an input a sequence of words and output the last hidden layer\n",
+    "    # the last hidden states of 2-layer bidirectional LSTM will be the input of the last multimodel network \n",
+    "\n",
+    "    def __init__(self, input_size, hidden_dim = 256, layer_dim =2, output_dim = 10):\n",
+    "        super(BiLSTM, self).__init__()\n",
+    "        \n",
+    "        \n",
+    "        #self.device = 'cuda' if torch.cuda.is_available() else 'cpu'\n",
+    "        self.device = 'cpu'\n",
+    "        self.input_size = input_size\n",
+    "        \n",
+    "        #Hidden dimensions\n",
+    "        self.hidden_dim = hidden_dim # maybe set this to 256\n",
+    "\n",
+    "        # Number of hidden layers\n",
+    "        self.layer_dim = layer_dim\n",
+    "\n",
+    "        # Building the LSTM \n",
+    "        # batch_first = True causes the input/output to be of shape 3D (batch_dim, seq_dim, feature_dim) \n",
+    "        # output will be the same dim as the hidden dim\n",
+    "        self.lstm1 = nn.LSTM(input_size, hidden_dim, layer_dim, batch_first=True, bidirectional=True)\n",
+    "        \n",
+    "        self.dropout = nn.Dropout2d(p=0.2)\n",
+    "        \n",
+    "        self.fc = nn.Linear(hidden_dim * 2, output_dim)\n",
+    "        \n",
+    "\n",
+    "    def forward(self, x):\n",
+    "        \n",
+    "        # Initialize hidden state with zeros\n",
+    "        # self.layer_dim * 2. because we have one going forwards and another going backwards\n",
+    "        h0 = torch.randn(self.layer_dim * 2, x.size(0), self.hidden_dim, device=self.device)\n",
+    "        \n",
+    "        \n",
+    "        \n",
+    "        # Initialize cell state\n",
+    "        c0 =  torch.randn(self.layer_dim * 2, x.size(0), self.hidden_dim, device=self.device)\n",
+    "        \n",
+    "        # We suppose we are conducting a 28 time steps In case of using \n",
+    "        # We need to detach as we are doing truncated backpropagation through time (BPTT)\n",
+    "        # If we don't, we'll backprop all the way to the start even after going through another batch\n",
+    "        out, (hn, cn) = self.lstm1(x, (h0, c0))\n",
+    "\n",
+    "        #out = self.fc(out.view(out.size(0), -1))\n",
+    "          \n",
+    "        # Without the activation function, out will contain the last hidden layer.\n",
+    "        # This could be obtianed from hn[-1] as well.\n",
+    "        out = out[:, -1, :]\n",
+    "        \n",
+    "        out = self.dropout(self.fc(out))\n",
+    "                \n",
+    "        return out\n",
+    "        \n",
+    "        # Index hidden state of last time step\n",
+    "        # out.size() --> 256, 100, 256 if we have (input dim = 100 and hidden dim = 100)\n",
+    "        # out[:, -1, :] => 256, 256 --> because we just want the last time step hidden states\n",
+    "        #out = out[:, -1, :] # without an activation function\n",
+    "\n",
+    "        # now our: out.size() --> 256, 10 (if output dimension is equal to 10)\n",
+    "        #return out"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# 1041 embedding size\n",
+    "model = BiLSTM(1041)\n",
+    "model.to(device)\n",
+    "#model = BiLSTM(17)\n",
+    "\n",
+    "\n",
+    "# Class weights (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)\n",
+    "weights = torch.tensor([0.69,2.95,0.08,0.02,0.77,0.017,18.59,0 ,0.007,76.83], dtype=torch.float32)\n",
+    "weights = weights / weights.sum()\n",
+    "weights = 1.0 / weights\n",
+    "weights = weights / weights.sum()\n",
+    "\n",
+    "\n",
+    "#loss_function = nn.NLLLoss()\n",
+    "loss_function = nn.CrossEntropyLoss(weight=weights.to(device))\n",
+    "#loss_function = nn.BCEWithLogitsLoss(reduction='sum')\n",
+    "optimizer = optim.Adam(model.parameters(), lr = 0.003)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# A common headache in this competition is the lack of determinism in the results due to cudnn, the following solves the issue\n",
+    "def seed_everything(seed=10):\n",
+    "    random.seed(seed)\n",
+    "    os.environ['PYTHONHASHSEED'] = str(seed)\n",
+    "    np.random.seed(seed)\n",
+    "    torch.manual_seed(seed)\n",
+    "    torch.cuda.manual_seed(seed)\n",
+    "    torch.backends.cudnn.deterministic = True\n",
+    "seed_everything()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Here i have to get the ELMO vector in a form, in a format of numpy array.\n",
+    "with open('document_vector.pickle', 'rb') as file:\n",
+    "    vectors = pickle.load(file)\n",
+    "    file.close()\n",
+    "\n",
+    "vectors = np.delete(vectors, 1, 1)\n",
+    "vectors = np.delete(vectors, 0, 1)\n",
+    "\n",
+    "vectors = torch.from_numpy(np.array(vectors, dtype=np.float64)).view(521, 1, -1).float()\n",
+    "vectors.size()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "vectors = np.array([])\n",
+    "labels = np.array([])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "179\r"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "/usr/local/lib/python3.8/dist-packages/IPython/core/interactiveshell.py:3165: DtypeWarning: Columns (3) have mixed types.Specify dtype option on import or set low_memory=False.\n",
+      "  has_raised = await self.run_ast_nodes(code_ast.body, cell_name,\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+<<<<
+     ]
+    }
+   ],
+   "source": [
+    "# Reading the features NOTE: Do not run this it is already saved under vectors.pickle\n",
+    "i = 0\n",
+    "vectors = np.array([])\n",
+    "labels = np.array([])\n",
+    "for file in os.scandir('../../feature_extraction/features/'):\n",
+    "    if file.name.endswith('csv'):\n",
+    "        try:\n",
+    "            vector = pd.read_csv(file)\n",
+    "            if (vector.shape[1] == 1044 or vector.shape[1] == 1047):\n",
+    "                # Some files have issues\n",
+    "                continue\n",
+    "            elif (vector.shape[1] == 1046):\n",
+    "                # Some files have an unnecessary column\n",
+    "                vector.drop([vector.columns[0]], axis=1, inplace=True)\n",
+    "            if i == 0:\n",
+    "                vectors = vector.to_numpy()\n",
+    "            else: \n",
+    "                vectors = np.concatenate((vectors, vector.to_numpy()))\n",
+    "            i+=1\n",
+    "            print(i, end=\"\\r\")\n",
+    "        except:\n",
+    "            continue"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "with open(\"./vectors.pickle\", \"wb\") as f:\n",
+    "    pickle.dump(vectors, f)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 36,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "(30361, 1045)\n",
+      "[0.1 1 0 ... -0.0967035889625549 0.0602333582937717 0.1984460353851318]\n",
+      "(30361, 1045)\n",
+      "(30361, 2)\n",
+      "(30361, 1)\n"
+     ]
+    }
+   ],
+   "source": [
+    "with open(\"./model_inputs/batch1.pickle\", 'rb') as f:\n",
+    "    vectors = pickle.load(f)\n",
+    "t = np.array(vectors)\n",
+    "print(t.shape)\n",
+    "rm_indexes = np.isnan(t[:, -1].astype(np.float))\n",
+    "vectors = np.delete(t, rm_indexes, 0)[:, 3:-1]\n",
+    "\n",
+    "print(vectors[1])\n",
+    "print(t.shape)\n",
+    "\n",
+    "labels_list = t[:, [2, -1]]\n",
+    "\n",
+    "labels = labels_list[:, -1].reshape(-1, 1).astype(np.float)\n",
+    "\n",
+    "print(labels_list.shape)\n",
+    "print(labels.shape)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 29,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "{1.0: 993,\n",
+       " 2.0: 1210,\n",
+       " 3.0: 255,\n",
+       " 4.0: 32,\n",
+       " 5.0: 297,\n",
+       " 6.0: 77,\n",
+       " 7.0: 10695,\n",
+       " 8.0: 9,\n",
+       " 9.0: 11,\n",
+       " 10.0: 10397}"
+      ]
+     },
+     "execution_count": 29,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "unique, counts = np.unique(labels, return_counts=True)\n",
+    "dict(zip(unique, counts))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 30,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "(30361, 1045)\n",
+      "(23976, 1)\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(vectors.shape)\n",
+    "print(labels.shape)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 144,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Split the data\n",
+    "x_train, x_test, y_train, y_test = train_test_split(vectors, labels[:, 1], test_size=0.2, random_state=42,stratify=labels[:, 1])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 145,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "(45400, 1041)"
+      ]
+     },
+     "execution_count": 145,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "x_train.shape"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 146,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "(11350, 1041)"
+      ]
+     },
+     "execution_count": 146,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "x_test.shape"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 147,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "(45400,)"
+      ]
+     },
+     "execution_count": 147,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "y_train.shape"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 148,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "torch.Size([45400])\n",
+      "torch.Size([45400, 1, 1041])\n"
+     ]
+    }
+   ],
+   "source": [
+    "labels = torch.from_numpy(np.array(y_train, dtype=np.int64)).to(device)\n",
+    "labels = labels -1\n",
+    "print(labels.size())\n",
+    "v = torch.from_numpy(np.array(x_train, dtype=np.float64)).view(-1, 1, 1041).float().to(device)\n",
+    "print(v.size())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 149,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Normalize the vectors\n",
+    "train_mean = v.mean(dim=0, keepdim=True)\n",
+    "train_std = v.std(dim=0, keepdim=True)\n",
+    "normalized_v = (v - train_mean)/train_std"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 150,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "torch.Size([45400, 1, 1041])\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(normalized_v.size())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 151,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.2070,  0.4090, -0.3843]],\n",
+       "\n",
+       "        [[ 0.0000,  0.0000,  0.0000,  ..., -0.3165,  0.2743, -0.3129]],\n",
+       "\n",
+       "        [[ 0.0000,  0.0000,  0.0000,  ...,  0.2249, -0.2426,  0.0372]],\n",
+       "\n",
+       "        ...,\n",
+       "\n",
+       "        [[ 0.0000,  0.0000,  0.0000,  ...,  0.2406,  0.4763, -0.3737]],\n",
+       "\n",
+       "        [[ 0.1111,  1.0000,  0.0000,  ..., -0.3673,  0.2978,  0.4063]],\n",
+       "\n",
+       "        [[ 0.0000,  0.0000,  0.0000,  ...,  0.1202, -0.2013, -0.4923]]],\n",
+       "       device='cuda:0')"
+      ]
+     },
+     "execution_count": 151,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "v"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 152,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "tensor([[[-0.4821, -0.6600,  0.0000,  ..., -0.5969,  0.8625, -0.4642]],\n",
+       "\n",
+       "        [[-0.4821, -0.6600,  0.0000,  ..., -1.0098,  0.4134, -0.2578]],\n",
+       "\n",
+       "        [[-0.4821, -0.6600,  0.0000,  ...,  1.0317, -1.3095,  0.7541]],\n",
+       "\n",
+       "        ...,\n",
+       "\n",
+       "        [[-0.4821, -0.6600,  0.0000,  ...,  1.0907,  1.0867, -0.4334]],\n",
+       "\n",
+       "        [[ 0.4985,  1.5152,  0.0000,  ..., -1.2013,  0.4918,  1.8211]],\n",
+       "\n",
+       "        [[-0.4821, -0.6600,  0.0000,  ...,  0.6366, -1.1721, -0.7764]]],\n",
+       "       device='cuda:0')"
+      ]
+     },
+     "execution_count": 152,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "normalized_v[torch.isnan(normalized_v)] = 0\n",
+    "normalized_v"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 153,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "tensor([[[ 0.0546,  0.3034,  0.0000,  ..., -0.0487,  0.1503, -0.2237]]],\n",
+      "       device='cuda:0')\n",
+      "tensor([[[0.1133, 0.4597, 0.0000,  ..., 0.2652, 0.3000, 0.3460]]],\n",
+      "       device='cuda:0')\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(train_mean)\n",
+    "print(train_std)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 154,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "class MyDataset(Dataset):\n",
+    "    def __init__(self,dataset):\n",
+    "        self.dataset = dataset\n",
+    "    def __getitem__(self,index):\n",
+    "        data,target = self.dataset[index]\n",
+    "        return data,target,index\n",
+    "    def __len__(self):\n",
+    "        return len(self.dataset)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 157,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "final labels tensor([[0.5270, 0.5245, 0.4911,  ..., 0.4545, 0.4762, 0.4647],\n",
+      "        [0.4740, 0.4916, 0.4676,  ..., 0.5395, 0.5126, 0.5546],\n",
+      "        [0.5182, 0.4850, 0.5051,  ..., 0.4847, 0.4712, 0.4703],\n",
+      "        ...,\n",
+      "        [0.4596, 0.4886, 0.4478,  ..., 0.4557, 0.4793, 0.4751],\n",
+      "        [0.5041, 0.5313, 0.4236,  ..., 0.5362, 0.5381, 0.5311],\n",
+      "        [0.4775, 0.5152, 0.4824,  ..., 0.4538, 0.4766, 0.5107]],\n",
+      "       device='cuda:0', grad_fn=<SigmoidBackward>)\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Training the model\n",
+    "batch_loss = 0\n",
+    "batch_size = 1041\n",
+    "epochs = 300\n",
+    "\n",
+    "train = MyDataset(torch.utils.data.TensorDataset(normalized_v, labels))\n",
+    "train_loader = torch.utils.data.DataLoader(train, batch_size = batch_size, shuffle=True)\n",
+    "\n",
+    "avg_loss = 0\n",
+    "\n",
+    "for epoch in range(epochs):\n",
+    "    \n",
+    "    running_loss = 0.0\n",
+    "    model.train()\n",
+    "    # Clear for the gradients.\n",
+    "    model.zero_grad()\n",
+    "    \n",
+    "    for i, (x_batch, y_batch, index) in enumerate(train_loader):\n",
+    "        label_scores = model(x_batch)\n",
+    "        # Calculate loss, backpropagate, and update weights/parameters by calling opt.step()\n",
+    "        loss = loss_function(label_scores, y_batch)\n",
+    "        # TODO: check this line\n",
+    "        #optimizer.zero_grad()\n",
+    "        loss.backward()\n",
+    "        optimizer.step()\n",
+    "        \n",
+    "        avg_loss += loss.item()/len(train_loader)\n",
+    "            \n",
+    "        print(\"Epoch: {0}/{3}. Loss: {2:.2f} Progress: {1}%\".format(epoch, int((epoch * 100)/300), avg_loss / (epoch+1), epochs) , end=\"\\r\")\n",
+    "        \n",
+    "print(\"Bi-LSTM model training is done!                           \", end='\\r')\n",
+    "print(\"final labels {0}\".format(label_scores))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 161,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "torch.Size([637, 10])"
+      ]
+     },
+     "execution_count": 161,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "label_scores.size()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 162,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "torch.save(model, \"NLPModelV2\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "sigmoid = nn.Sigmoid()\n",
+    "testing = sigmoid(label_scores)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 163,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def accuracy(labels, predicted):\n",
+    "    total_accuracy = 0\n",
+    "    n = len(predicted)\n",
+    "    for y, p in zip(labels, predicted):\n",
+    "        if (y == p):\n",
+    "            total_accuracy +=1\n",
+    "    return total_accuracy/n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Model v1 = Feature vector standarized and without class weights\n",
+    "\n",
+    "Model v2 = Feature vector standarized and with class weights"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 164,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "BiLSTM(\n",
+       "  (lstm1): LSTM(1041, 256, num_layers=2, batch_first=True, bidirectional=True)\n",
+       "  (fc): Linear(in_features=512, out_features=10, bias=True)\n",
+       "  (Sigmoid): Sigmoid()\n",
+       ")"
+      ]
+     },
+     "execution_count": 164,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "model.eval()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 165,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "v_test = torch.from_numpy(np.array(x_test, dtype=np.float64)).view(-1, 1, 1041).float().to(device)\n",
+    "\n",
+    "words_labels = model(v_test) "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 168,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "tensor([[0.4900, 0.4985, 0.5334,  ..., 0.5728, 0.4702, 0.5405],\n",
+       "        [0.5072, 0.4691, 0.5011,  ..., 0.5110, 0.5229, 0.5445],\n",
+       "        [0.4387, 0.5019, 0.4730,  ..., 0.4885, 0.4629, 0.5447],\n",
+       "        ...,\n",
+       "        [0.5095, 0.4933, 0.4889,  ..., 0.5466, 0.5255, 0.4523],\n",
+       "        [0.5278, 0.4745, 0.4873,  ..., 0.5408, 0.5146, 0.5460],\n",
+       "        [0.5235, 0.4721, 0.5073,  ..., 0.5313, 0.4698, 0.5294]],\n",
+       "       device='cuda:0', grad_fn=<SigmoidBackward>)"
+      ]
+     },
+     "execution_count": 168,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "words_labels"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 125,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "torch.Size([11350, 10])"
+      ]
+     },
+     "execution_count": 125,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "words_labels.size()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 169,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "y = []\n",
+    "\n",
+    "for p in words_labels:\n",
+    "    i = 0\n",
+    "    m = 0\n",
+    "    for index, e in enumerate(p):\n",
+    "        if float(e) > m:\n",
+    "            i = index\n",
+    "            m = e\n",
+    "    y.append(i+1)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 170,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}"
+      ]
+     },
+     "execution_count": 170,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "set(y)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 183,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[ 8 10 10 ...  8 10  8]\n",
+      "[10 7 7 ... 10 7 10]\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(np.array(y))\n",
+    "print(y_test)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 172,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "{1, 2, 3, 4, 5, 6, 7, 9, 10}"
+      ]
+     },
+     "execution_count": 172,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "set(y_test)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "y = []\n",
+    "\n",
+    "for p in words_labels:\n",
+    "    i = 0\n",
+    "    m = 0\n",
+    "    for index, e in enumerate(p):\n",
+    "        if float(e) > m:\n",
+    "            i = index\n",
+    "            m = e\n",
+    "    y.append(i)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 173,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0.12140969162995595"
+      ]
+     },
+     "execution_count": 173,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "accuracy(y_test, y)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 174,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def precision_of(labels, y, of):\n",
+    "    n = 0\n",
+    "    precision = 0\n",
+    "    c = 0\n",
+    "    for label, p in zip(labels, y):\n",
+    "        if (label == p) and (p == of):\n",
+    "            c += 1\n",
+    "        if (p == of):\n",
+    "            n+=1\n",
+    "            \n",
+    "    precision = 0 if n==0 else c / n\n",
+    "    return precision"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 175,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "p0 = precision_of(y_test, y, 0)\n",
+    "p1 = precision_of(y_test, y, 1)\n",
+    "p2 = precision_of(y_test, y, 2)\n",
+    "p3 = precision_of(y_test, y, 3)\n",
+    "p4 = precision_of(y_test, y, 4)\n",
+    "p5 = precision_of(y_test, y, 5)\n",
+    "p6 = precision_of(y_test, y, 6)\n",
+    "p7 = precision_of(y_test, y, 7)\n",
+    "p8 = precision_of(y_test, y, 8)\n",
+    "p9 = precision_of(y_test, y, 9)\n",
+    "p10 = precision_of(y_test, y, 10)\n",
+    "\n",
+    "precision = (p0+p1+p2+p3+p4+p5+p6+p8+p9+p7+p10) / 10"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 176,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "0.09914015347161295\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(precision)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 177,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def recall_of(labels, y, of):\n",
+    "    n = 0\n",
+    "    recall = 0\n",
+    "    c = 0\n",
+    "    for label, p in zip(labels, y):\n",
+    "        if (label == p) and (p == of):\n",
+    "            c += 1\n",
+    "        if (label == of):\n",
+    "            n+=1\n",
+    "            \n",
+    "    recall = 0 if n==0 else c / n\n",
+    "    return recall"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 178,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "p0 = recall_of(y_test, y, 0)\n",
+    "p1 = recall_of(y_test, y, 1)\n",
+    "p2 = recall_of(y_test, y, 2)\n",
+    "p3 = recall_of(y_test, y, 3)\n",
+    "p4 = recall_of(y_test, y, 4)\n",
+    "p5 = recall_of(y_test, y, 5)\n",
+    "p6 = recall_of(y_test, y, 6)\n",
+    "p7 = recall_of(y_test, y, 7)\n",
+    "p8 = recall_of(y_test, y, 8)\n",
+    "p9 = recall_of(y_test, y, 9)\n",
+    "p10 = recall_of(y_test, y, 10)\n",
+    "\n",
+    "recall = (p0+p1+p2+p3+p4+p5+p6+p8+p9+p7+p10) / 10"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 179,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0.05875414636642144"
+      ]
+     },
+     "execution_count": 179,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "recall"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.10"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
