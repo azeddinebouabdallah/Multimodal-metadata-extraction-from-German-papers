@@ -18,3 +18,8 @@ model/nlp_output/
 model/vision_output/
 model/processed_vision_output/
 feature_extraction/features/
+./.git/objects/pack/pack-0cc6fadc1811f9beabcf13f771b6754b88b257b6.pack
+./.git/objects/pack/pack-4811c3487482918e15d4f3d7d57258028a7d395a.pack
+./.git/objects/pack/pack-de552003ca5266420332b810e6a3dc9b78943d72.pack
+./.git/objects/pack/pack-1b39b6fdf37ce8b298fb15c776dea70b953b3077.pack
+./model/bi_lstm_submodel/vectors.pickle

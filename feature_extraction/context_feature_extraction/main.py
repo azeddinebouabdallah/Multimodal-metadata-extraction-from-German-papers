@@ -24,6 +24,7 @@ class ContextFeatureExtractor:
             words_list = pickle.load(file)
             file.close()
 
+        print(pickle_file)
         embedder = Embedder('./de.model')
 
         feature_vectors = embedder.sents2elmo(words_list)
