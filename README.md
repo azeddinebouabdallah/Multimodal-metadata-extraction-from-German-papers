@@ -16,7 +16,7 @@ pip3 install -r requirements.txt
 ```
 4. Install [ELMoForManyLangs](https://github.com/HIT-SCIR/ELMoForManyLangs)
 ```
-mv feature_extraction/context_feature_extraction/de.model/ELMoForManyLangs-master   # move into ELMO folder
+cd feature_extraction/context_feature_extraction/de.model/ELMoForManyLangs-master   # move into ELMO folder
 python setup.py install
 ```
 
