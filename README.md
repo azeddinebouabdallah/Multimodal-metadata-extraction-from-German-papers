@@ -19,6 +19,3 @@ pip3 install -r requirements.txt
 cd feature_extraction/context_feature_extraction/de.model/ELMoForManyLangs-master   # move into ELMO folder
 python setup.py install
 ```
-
-## Web Demo
-Currently, the sample of our model have been deploy on https://metadata-extraction-web.herokuapp.com/. Which can be use to upload and extract metadata from the first page of pdf
