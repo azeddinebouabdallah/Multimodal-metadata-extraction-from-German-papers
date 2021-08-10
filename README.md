@@ -12,7 +12,10 @@ Linux or MacOS
 ``` 
 git clone git@github.com:azeddinebouabdallah/research-lab-ml.git
 cd research-lab-ml
-pip3 install -r requirements.txt
+pip install -r requirements.txt
+pip install torch==1.7.1+cpu torchvision==0.8.2+cpu -f https://download.pytorch.org/whl/torch_stable.html
+python -m pip install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.7/index.html
+pip install -U 'git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI'
 ```
 2. Download [the model](https://drive.google.com/file/d/1Ie1SeTKoqzPH86DN2xPBgEz-3qq6DLoE/view?usp=sharing) and move it into "model/pubmex/vision_model/" (Create new folder if not exist)
 3. Download [ELMO model](http://vectors.nlpl.eu/repository/11/142.zip) and extract it into "feature_extraction/context_feature_extraction/de.model/"
