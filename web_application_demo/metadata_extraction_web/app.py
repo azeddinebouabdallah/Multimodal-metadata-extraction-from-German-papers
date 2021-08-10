@@ -260,7 +260,7 @@ def extract_metadata(pdffile_path):
     processed_out = processed_out
 
 
-    words = words[1:]
+    #words = words[1:]
     #nlp_out = np.reshape(nlp_out.numpy(), (int(nlp_out.shape[0]/2), -1))
     combined_out = []
     clone_nlp_out = np.copy(nlp_out.detach().numpy())
