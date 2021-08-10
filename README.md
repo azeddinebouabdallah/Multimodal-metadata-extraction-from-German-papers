@@ -25,3 +25,5 @@ pip install -U 'git+https://github.com/cocodataset/cocoapi.git#subdirectory=Pyth
 cd feature_extraction/context_feature_extraction/de.model/ELMoForManyLangs-master   # move into ELMO folder
 python setup.py install
 ```
+## Web Application
+For running the simple web application, please follow the instruction on [this page](https://github.com/azeddinebouabdallah/Multimodal-metadata-extraction-from-German-papers/tree/master/web_application_demo/metadata_extraction_web)
