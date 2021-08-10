@@ -4,9 +4,9 @@ literatures using multimodal approach. By combination of vision and text model
 
 In this project we using [MEXPUB](https://github.com/nbeili/Metadata-extraction-from-German-scientific-papers) for vision model and Bi-LSTM submodel before feed into another Bi-LSTM model.
 This model can extract the following meta data : Title, Author, Journal, Abstract, Affiliation, Email, Address, DOI, Date.
-## Requirement
+## Requirements
 Python >= 3.6  
-Linux or MaxOS
+Linux or MaCOS
 ## Installation
 1. Clone the repository and install required library
 ``` 
