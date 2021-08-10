@@ -1,0 +1,109 @@
+<document>
+  <zone label="MET_TITLE">Multimodal deep networks for text and image-based document classification</zone>
+  <zone label="MET_AUTHOR">Nicolas Audebert</zone>
+  <zone label="MET_BIB_INFO">Catherine Herold
+Kuider Slimani</zone>
+  <zone label="MET_AUTHOR">Cédric Vidal</zone>
+  <zone label="MET_AFFILIATION">Quicksign, 38 rue du Sentier, 75002 Paris</zone>
+  <zone label="MET_TITLE">{nicolas.audebert,catherine.herold,kuider.slimani,cedric.vidal}@quicksign.com</zone>
+  <zone label="MET_AUTHOR">Résumé</zone>
+  <zone label="BODY_CONTENT">La classification automatique de documents numérisés est importante
+pour la dématérialisation de documents historiques
+comme de procédures administratives. De premières approches
+9 ont été suggérées en appliquant des réseaux convolutifs aux
+1 images de documents en exploitant leur aspect visuel. Toutefois,
+0 la précision des classes demandée dans un contexte réel dépend
+2 souvent de l'information réellement contenue dans le texte, et
+l pas seulement dans l'image. Nous introduisons un réseau de
+Ju neurones multimodal capable d'apprendre à partir d'un plongement
+lexical du texte extrait par reconnaissance de caractères
+5
+1 et des caractéristiques visuelles de l'image. Nous démontrons
+la pertinence de cette approche sur Tobacco3482 et RVL-CDIP,
+] augmentés de notre jeu de données textuel QS-OCR1, sur
+Vlesquels nous améliorons les performances d'un modèle image
+Cde 3% grâce à l'information sémantique textuelle.
+.
+s
+c
+[
+Mots-clés
+Classification de documents, apprentissage multimodal, fusion
+1 de données.
+v
+0 Abstract
+7
+3 Classification of document images is a critical step for archival
+6 of old manuscripts, online subscription and administrative
+.0 procedures. Computer vision and deep learning have been
+7 suggested as a first solution to classify documents based on
+0 their visual appearance. However, achieving the fine-grained
+9 classification that is required in real-world setting cannot be
+1
+: achieved by visual analysis alone. Often, the relevant informaiv
+tion is in the actual text content of the document. We design
+Xa multimodal neural network that is able to learn from word
+r embeddings, computed on text extracted by OCR, and from the
+a image. We show that this approach boosts pure image accuracy
+by 3% on Tobacco3482 and RVL-CDIP augmented by our new
+QS-OCR text dataset1, even without clean text information.</zone>
+  <zone label="MET_KEYWORDS">Keywords</zone>
+  <zone label="BODY_CONTENT">Document classification, multimodal learning, data fusion.
+1 Introduction</zone>
+  <zone label="MET_ABSTRACT">1https://github.com/Quicksign/
+ocrized-text-dataset</zone>
+  <zone label="BODY_CONTENT">Image</zone>
+  <zone label="MET_AUTHOR">Conv2D Bottleneck</zone>
+  <zone label="BODY_CONTENT">384
+912
+921</zone>
+  <zone label="MET_DATES">3 384 32 19216 192 384</zone>
+  <zone label="MET_AUTHOR">Tesseract OCR FastText</zone>
+  <zone label="BODY_CONTENT">384
+256 256
+256
+Pool
+Conv2D
+256
+256
+Embeddings
+Conv1D+pool
+500 250
+1 300 512
+128
+256
+Pool 128 Fusion
+1 300
+16
+Figure 1: Multimodal classifier for hybrid text/image
+classification. Training is performed end-to-end on both textual
+and visual features.
+The ubiquity of computers and smartphones has incentivized
+governments and companies alike to digitize most of their
+processes. Onboarding new clients, paying taxes and proving
+one's identity is more and more done through a computer,
+as the rise of online banking has shown in the last few years.
+Industrial and public archives are also ongoing serious efforts
+to digitize their content in an effort for preservation, e.g.
+for old manuscripts, maps and documents with a historical
+value. This means that previously physical records, such
+as forms and identity documents, are now digitized and
+transferred electronically. In some cases, those records are
+produced and consumed by fully automated systems that rely
+on machine-readable formats, such as XML or PDF with text
+layers. However, most of these digital copies are generated
+by end-users using whatever mean they have access to, i.e.
+scanners and cameras, especially from smartphones. For this
+reason, human operators have remained needed to proofread
+the documents, extract selected fields, check the records'
+consistency and ensure that the appropriate files have been
+submitted. Automation through expert systems and machine
+learning can help accelerate this process to assist and alleviate
+the burden of this fastidious work for human workers.
+A common task involved in data filing processes is document
+recognition, on which depends the class-specific rules that
+command each file. For example, a user might be asked to
+upload several documents such as a filled subscription form,
+an ID and a proof-of-residence. In this work, we tackle the
+document classification task to check that all required files</zone>
+</document>

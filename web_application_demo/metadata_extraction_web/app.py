@@ -7,6 +7,7 @@ from cermine.main import CermineTextExtractor
 from pandas.core.algorithms import value_counts
 from feature_extraction.layout_feature_extraction.main import FeatureExtractor
 from feature_extraction.context_feature_extraction.main import ContextFeatureExtractor
+from PyPDF2 import PdfFileReader, PdfFileWriter
 
 from model.bi_lstm_submodel.Model1 import BiLSTM
 from model.Model2 import BiLSTM2
@@ -60,7 +61,22 @@ def index():
 
 @app.route('/', methods=["POST"])
 def upload_file():
+
+    filelist = glob.glob('./tokens/*')
+    for f in filelist:
+        os.remove(f)
+    filelist = glob.glob('./features/*')
+    for f in filelist:
+        os.remove(f)
+
+    filelist = glob.glob('./feature_vectors/*')
+    for f in filelist:
+        os.remove(f)
     
+    filelist = glob.glob('./word_lists/*')
+    for f in filelist:
+        os.remove(f)
+
     if request.method == 'POST':
     
         # check if the post request has the file part
@@ -85,6 +101,17 @@ def upload_file():
             filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename) 
             file.save(filepath)
             
+            pdf = PdfFileReader(filepath)
+            pages = [0] # page 1, 3, 5
+            pdfWriter = PdfFileWriter()
+
+            for page_num in pages:
+                pdfWriter.addPage(pdf.getPage(page_num))
+
+            with open('./uploads/{0}'.format(filename), 'wb') as f:
+                pdfWriter.write(f)
+                f.close()
+
             imagepath = os.path.splitext(filepath)[0]+".jpg"
             
             pages = convert_from_path(filepath, single_file=True, size=(400, None))
@@ -262,19 +289,6 @@ def extract_metadata(pdffile_path):
     v = torch.from_numpy(np.array(n_vectors, dtype=np.float64)).view(-1, 1, 20).float().to("cpu")
     extracted = step5(v, i_l)
 
-    filelist = glob.glob('./tokens/*')
-    for f in filelist:
-        os.remove(f)
-    filelist = glob.glob('./features/*')
-    for f in filelist:
-        os.remove(f)
-
-    filelist = glob.glob('./feature_vectors/*')
-    for f in filelist:
-        os.remove(f)
     
-    filelist = glob.glob('./word_lists/*')
-    for f in filelist:
-        os.remove(f)
 
     return extracted
