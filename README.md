@@ -6,7 +6,7 @@ In this project we using [MEXPUB](https://github.com/nbeili/Metadata-extraction-
 This model can extract the following meta data : Title, Author, Journal, Abstract, Affiliation, Email, Address, DOI, Date.
 ## Requirements
 Python >= 3.6  
-Linux or MaCOS
+Linux or MacOS
 ## Installation
 1. Clone the repository and install required library
 ``` 
