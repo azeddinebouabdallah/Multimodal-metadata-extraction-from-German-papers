@@ -260,13 +260,13 @@ def extract_metadata(pdffile_path):
     processed_out = processed_out
 
     try:
-        #words = words[1:]
+        words = words[1:]
         #nlp_out = np.reshape(nlp_out.numpy(), (int(nlp_out.shape[0]/2), -1))
         combined_out = []
         clone_nlp_out = np.copy(nlp_out.detach().numpy())
         clone_nlp_out = np.append(words.to_numpy().reshape(-1, 1), clone_nlp_out, axis=1)
     except:
-        words = words[1:]
+        #words = words[1:]
         #nlp_out = np.reshape(nlp_out.numpy(), (int(nlp_out.shape[0]/2), -1))
         combined_out = []
         clone_nlp_out = np.copy(nlp_out.detach().numpy())
