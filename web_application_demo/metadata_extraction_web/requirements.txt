@@ -12,10 +12,8 @@ attrs==19.2.0
 autopep8==1.4.4
 Babel==2.7.0
 backcall==0.1.0
-backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
 backports.os==0.1.1
 backports.shutil-get-terminal-size==1.0.0
-backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
 backports.weakref==1.0.post1
 beautifulsoup4==4.8.1
 bitarray==1.0.1
@@ -23,8 +21,6 @@ bkcharts==0.2
 bleach==3.1.0
 bokeh==1.3.4
 boto==2.49.0
-boto3 @ file:///tmp/build/80754af9/boto3_1610128984381/work
-botocore @ file:///tmp/build/80754af9/botocore_1610129741423/work
 Bottleneck==1.2.1
 bz2file==0.98
 certifi==2019.9.11
@@ -38,11 +34,9 @@ colorama==0.4.1
 colorlog==4.8.0
 conda==4.10.1
 conda-build==3.18.9
-conda-package-handling @ file:///tmp/build/80754af9/conda-package-handling_1618262151086/work
 conda-verify==3.4.2
 configobj==5.0.6
 configparser==5.0.2
-conllu @ file:///home/conda/feedstock_root/build_artifacts/conllu_1610837829400/work
 contextlib2==0.6.0
 cryptography==2.7
 cycler==0.10.0
@@ -68,7 +62,6 @@ fitz==0.0.1.dev2
 Flask==2.0.1
 fsspec==0.5.2
 future==0.18.2
-fvcore @ file:///home/conda/feedstock_root/build_artifacts/fvcore_1623673481876/work
 gensim==3.8.0
 gevent==1.4.0
 glob2==0.7
@@ -97,7 +90,6 @@ jdcal==1.4.1
 jedi==0.15.1
 jeepney==0.4.1
 Jinja2==3.0.1
-jmespath @ file:///tmp/build/80754af9/jmespath_1594304593830/work
 joblib==0.13.2
 json5==0.8.5
 jsonlog==4.0.0
@@ -118,9 +110,7 @@ llvmlite==0.29.0
 locket==0.2.0
 lpthw.web==1.1
 lxml==4.4.1
-Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1614595805172/work
 MarkupSafe==2.0.1
-matplotlib @ file:///tmp/build/80754af9/matplotlib-base_1592406090020/work
 mccabe==0.6.1
 mistune==0.8.4
 mkl-fft==1.0.14
@@ -171,10 +161,8 @@ pexpect==4.7.0
 pickleshare==0.7.5
 Pillow==8.0.1
 pkginfo==1.5.0.1
-plotly @ file:///Users/nicolas/miniconda2/conda-bld/plotly_1624288630094/work/packages/python/plotly/dist/plotly-5.0.0.tar.gz
 pluggy==0.13.0
 ply==3.11
-portalocker @ file:///home/conda/feedstock_root/build_artifacts/portalocker_1610360236278/work
 prometheus-client==0.7.1
 prompt-toolkit==2.0.10
 protobuf==3.13.0
@@ -183,7 +171,6 @@ psutil==5.6.3
 ptyprocess==0.6.0
 py==1.8.0
 py4j==0.10.7
-pycocotools @ git+https://github.com/cocodataset/cocoapi.git@8c9bcc3cf640524c4c20a9c40e89cb6a2f2fa0e9#subdirectory=PythonAPI
 pycodestyle==2.5.0
 pycosat==0.6.3
 pycparser==2.19
@@ -229,7 +216,6 @@ requests==2.25.1
 requests-oauthlib==1.3.0
 rope==0.14.0
 ruamel-yaml==0.15.46
-s3transfer @ file:///tmp/build/80754af9/s3transfer_1616183147336/work
 scikit-image==0.15.0
 scikit-learn==0.21.3
 scipy==1.3.1
@@ -261,9 +247,7 @@ SQLAlchemy==1.3.9
 statsmodels==0.10.1
 sympy==1.4
 tables==3.5.2
-tabulate @ file:///home/conda/feedstock_root/build_artifacts/tabulate_1614001031686/work
 tblib==1.4.0
-tenacity @ file:///tmp/build/80754af9/tenacity_1614799393172/work
 tensorboard==1.14.0
 termcolor==1.1.0
 terminado==0.8.2
@@ -279,7 +263,6 @@ traits==6.2.0
 tweepy==3.10.0
 tweet-parser==1.13.2
 typed-ast==1.4.0
-typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1622748266870/work
 tzlocal==2.1
 unicodecsv==0.14.1
 urllib3==1.26.6
